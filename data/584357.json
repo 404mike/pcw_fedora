@@ -1,0 +1,85 @@
+{
+    "id": 584357,
+    "title": {
+        "en": "Merched y Wawr Whitland Branch,1988-89  Programme",
+        "cy": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen 1988-89  S"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584357",
+    "created": 1499870946,
+    "updated": 1499870946,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen Tymor 1988-89  Swyddogion, Gweithgareddau Medi \u2013 Mehefin",
+        "cy": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen Tymor 1988-89  Swyddogion, Gweithgareddau Medi \u2013 Mehefin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hendygwyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819657000000",
+            "lon": "-4.614903000000",
+            "description": {
+                "en": "Hendygwyn",
+                "cy": "Hendygwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-111.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-111.jpg",
+            "type": "image",
+            "target_id": "584355"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

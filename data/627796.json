@@ -1,0 +1,97 @@
+{
+    "id": 627796,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Anglesey.",
+        "cy": "Celf a chrefft a choginio Merched y Wawr, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627796",
+    "created": 1511280953,
+    "updated": 1511280953,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o waith celf a chrefft a choginio Rhanbarth M\u00f4n o albwm aelod o gangen Llangefni.",
+        "cy": "Casgliad o luniau o waith celf a chrefft a choginio Rhanbarth M\u00f4n o albwm aelod o gangen Llangefni."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth M\u00f4n",
+    "owner": "Rhanbarth M\u00f4n",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHANBARTH_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHANBARTH_004.jpg",
+            "type": "image",
+            "target_id": "627776"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_RHANBARTH_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHANBARTH_005.jpg",
+            "type": "image",
+            "target_id": "627781"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_RHANBARTH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHANBARTH_006.jpg",
+            "type": "image",
+            "target_id": "627786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

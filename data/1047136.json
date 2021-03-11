@@ -1,0 +1,67 @@
+{
+    "id": 1047136,
+    "title": {
+        "en": "Annual Meeting and Summer Festival2006",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047136",
+    "created": 1555590735,
+    "updated": 1555590735,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition for the best programme of the year.",
+        "cy": "Cystadleuaeth y Rhaglen Orau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "Competition",
+        "cyfarfod blynyddol",
+        "Cystadleuaeth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_099.jpg",
+            "type": "image",
+            "target_id": "1047131"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

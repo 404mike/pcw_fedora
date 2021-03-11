@@ -1,0 +1,65 @@
+{
+    "id": 1048056,
+    "title": {
+        "en": "Annual Meeting 2008",
+        "cy": "Cyfarfod Blynyddol 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048056",
+    "created": 1555591260,
+    "updated": 1555591260,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Geraint Lloyd, guest speaker receiving a gift from the President, Mary Price.",
+        "cy": "Geraint Lloyd, y gwr gwadd, yn derbyn anrheg gan y Llywydd, Mary Price."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_204.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_204.jpg",
+            "type": "image",
+            "target_id": "1048051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

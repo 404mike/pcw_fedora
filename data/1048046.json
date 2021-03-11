@@ -1,0 +1,66 @@
+{
+    "id": 1048046,
+    "title": {
+        "en": "Annual Meeting 2008",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048046",
+    "created": 1555591255,
+    "updated": 1555591255,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Diane Roberts welcoming the members to the Royal Welsh Show at Builth on behalf of Clwyd.",
+        "cy": "Diane Roberts yn croesawu'r aelodau i Sioe Llanelwedd, ar ran Sir Clwyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_203.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_203.jpg",
+            "type": "image",
+            "target_id": "1048041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

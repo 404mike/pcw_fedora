@@ -1,0 +1,85 @@
+{
+    "id": 753861,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhydymain, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhydymain, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753861",
+    "created": 1516958584,
+    "updated": 1516958584,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwaith Cywain ar thema Gwdihw gan Helen Thomas a gaffed 3ydd yn Sioe Sir Meirionnydd yn 2016.",
+        "cy": "Gwaith Cywain ar thema Gwdihw gan Helen Thomas a gaffed 3ydd yn Sioe Sir Meirionnydd yn 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhydymain",
+    "owner": "Cangen Rhydymain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhydymain",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydymain",
+        "Celf a Chrefft Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.783358000000",
+            "lon": "-3.772938000000",
+            "description": {
+                "en": "Rhydymain",
+                "cy": "Rhydymain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_004.jpg",
+            "type": "image",
+            "target_id": "753851"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

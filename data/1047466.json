@@ -1,0 +1,79 @@
+{
+    "id": 1047466,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed \u2013 Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047466",
+    "created": 1555590916,
+    "updated": 1555590916,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Saturday night's Concert with Dylan Cernyw (harp); Annette Bryn Parry (piano); Mair Penri.",
+        "cy": "Cyngerdd nos Sadwrn gyda Dylan Cernyw (telyn); Annette Bryn Parry (piano); Mair Penri."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Lampeter",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_134.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_134.jpg",
+            "type": "image",
+            "target_id": "1047451"
+        },
+        {
+            "originalFilename": "df_myw_135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_135.jpg",
+            "type": "image",
+            "target_id": "1047456"
+        },
+        {
+            "originalFilename": "df_myw_136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_136.jpg",
+            "type": "image",
+            "target_id": "1047461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

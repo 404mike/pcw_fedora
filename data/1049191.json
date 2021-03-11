@@ -1,0 +1,65 @@
+{
+    "id": 1049191,
+    "title": {
+        "en": "President Dinner at Aberaeron 2011",
+        "cy": "Cinio&#039;r Llywydd  yng ngwesty&#039;r Plu, Aberaeron 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049191",
+    "created": 1555591821,
+    "updated": 1555591821,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Entertainment by the harpist Meinir Heulyn.",
+        "cy": "Adloniant gan y delynores Meinir Heulyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_328.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_328.jpg",
+            "type": "image",
+            "target_id": "1049186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

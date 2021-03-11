@@ -1,0 +1,98 @@
+{
+    "id": 623616,
+    "title": {
+        "en": "References to the previous area of Alun Dyfrdwy now known as Glyn Maelor",
+        "cy": "Gwybodaeth am ranbarth Alun Dyfrwyr sydd bellach yn Glyn Maelor. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623616",
+    "created": 1511279564,
+    "updated": 1511279564,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Argofion Eluned Tilsley o Ranbarth Alun Dyfrdwy, sef Glyn Maelor bellach. Erthygl o \u2018Y Wawr\u2019 yn son am Rhanarth Alun Dyfrdwy.",
+        "cy": "Argofion Eluned Tilsley o Ranbarth Alun Dyfrdwy, sef Glyn Maelor bellach. Erthygl o \u2018Y Wawr\u2019 yn son am Rhanarth Alun Dyfrdwy."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Wrecsam",
+    "owner": "Cangen Wrecsam",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "Alun Dyfrdwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Rhanbarth Alun Dyfrdwy",
+        "Y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988529000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_003.jpg",
+            "type": "image",
+            "target_id": "623596"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_001.jpg",
+            "type": "image",
+            "target_id": "623601"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RH_ALUNDYFRDWY_002.jpg",
+            "type": "image",
+            "target_id": "623606"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

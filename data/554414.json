@@ -1,0 +1,82 @@
+{
+    "id": 554414,
+    "title": {
+        "en": " List of Competitions in the 1999 Merched y Wawr Eisteddfod",
+        "cy": "Rhestr Cystadlaethau Eisteddfod Merched y Wawr 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554414",
+    "created": 1487591795,
+    "updated": 1487591795,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen yn dangos Rhestr Cystadlaethau Eisteddfod Merched y Wawr 1999, Sadwrn, 12 Mehefin, yn Y Pafiliwn, Llandrindod.",
+        "cy": "Taflen yn dangos Rhestr Cystadlaethau Eisteddfod Merched y Wawr 1999, Sadwrn, 12 Mehefin, yn Y Pafiliwn, Llandrindod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.238983000000",
+            "lon": "-3.379924000000",
+            "description": {
+                "en": "Paviliwn, Llandrindod",
+                "cy": "Paviliwn, Llandrindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000004.jpg",
+            "type": "image",
+            "target_id": "554412"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

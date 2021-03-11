@@ -1,0 +1,96 @@
+{
+    "id": 601422,
+    "title": {
+        "en": "Rhaglen Cangen y Bontfaen 1975 \u2013 76 \n\n",
+        "cy": "Rhaglen Cangen y Bontfaen 1975 \u2013 76 \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601422",
+    "created": 1502449355,
+    "updated": 1502449355,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cangen y Bontfaen 1975 \u2013 76 \nClawr",
+        "cy": "Rhaglen Cangen y Bontfaen 1975 \u2013 76 \nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.459288000000",
+            "lon": "-3.442102000000",
+            "description": {
+                "en": "Y Bontfaen",
+                "cy": "Y Bontfaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-007.jpg",
+            "type": "image",
+            "target_id": "601418"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-008.jpg",
+            "type": "image",
+            "target_id": "601419"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-009.jpg",
+            "type": "image",
+            "target_id": "601420"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,74 @@
+{
+    "id": 584441,
+    "title": {
+        "en": "Merched y Wawr - The Yellow Ponchos in the National Urdd Eisteddfod!",
+        "cy": "Merched y Wawr - Y Ponchos Melyn yn Eisteddfod yr Urdd!"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584441",
+    "created": 1499871057,
+    "updated": 1499871057,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glenys Thomas (Llywydd Cenedlaethol 2004-2006) a Ronw James yn modeli ponchos glaw yn Eisteddfod yr Urdd.",
+        "cy": "Glenys Thomas (Llywydd Cenedlaethol 2004-2006) a Ronw James yn modeli ponchos glaw yn Eisteddfod yr Urdd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-083.jpg",
+            "type": "image",
+            "target_id": "584440"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

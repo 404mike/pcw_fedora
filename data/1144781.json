@@ -1,0 +1,63 @@
+{
+    "id": 1144781,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Carmarthen National Eisteddfod 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144781",
+    "created": 1562062415,
+    "updated": 1562062415,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tegwen Morris, Director, being accepted to the Bardic Circle.",
+        "cy": "Tegwen Morris, Cyfarwyddwr MyW yn cael ei derbyn i'r Orsedd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_600_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_600_0.jpg",
+            "type": "image",
+            "target_id": "1144776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

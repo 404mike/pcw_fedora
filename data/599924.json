@@ -1,0 +1,85 @@
+{
+    "id": 599924,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henryd, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Henryd, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599924",
+    "created": 1502447051,
+    "updated": 1502447051,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Nadolig cyntaf cangen Henryd - Rhagfyr 1968. Ceinwen Roberts, Winnie, Mary Hughes, Mrs Jackson, Mrs Pierce, Jane Jones, Dilys Jones, Glenys Roberts, Mererid Jones, Anwen Hughes, Laura Jones, Mrs Wayman, Mrs Roberts, Bella Jones, Mrs Owen, Jane Jones, Ann Edwards a C. Davies Sefydlydd y Gangen.",
+        "cy": "Parti Nadolig cyntaf cangen Henryd - Rhagfyr 1968. Ceinwen Roberts, Winnie, Mary Hughes, Mrs Jackson, Mrs Pierce, Jane Jones, Dilys Jones, Glenys Roberts, Mererid Jones, Anwen Hughes, Laura Jones, Mrs Wayman, Mrs Roberts, Bella Jones, Mrs Owen, Jane Jones, Ann Edwards a C. Davies Sefydlydd y Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henryd",
+    "owner": "Cangen Henryd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "henryd",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Henryd",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255077000000",
+            "lon": "-3.846170000000",
+            "description": {
+                "en": "Henryd",
+                "cy": "Henryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_001.jpg",
+            "type": "image",
+            "target_id": "599922"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

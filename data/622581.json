@@ -1,0 +1,86 @@
+{
+    "id": 622581,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwyddelwern, Glyn Maelor",
+        "cy": "Arddangosfa cgangen Merched y Wawr Gwyddelwern, Glyn Maelor. Sioe Llanelwedd, 1995."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622581",
+    "created": 1511279216,
+    "updated": 1511279216,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa\u2019r gangen yn Sioe Llanelwedd, 1995.",
+        "cy": "Arddangosfa\u2019r gangen yn Sioe Llanelwedd, 1995."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwyddelwern",
+    "owner": "Cangen Gwyddelwern",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "gwyddelwern",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwyddelwern",
+        "Rhanbarth Glyn Maelor",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.011795000000",
+            "lon": "-3.378912000000",
+            "description": {
+                "en": "Gwyddelwern",
+                "cy": "Gwyddelwern"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_GWYDDELWERN_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_GWYDDELWERN_009.jpg",
+            "type": "image",
+            "target_id": "622571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

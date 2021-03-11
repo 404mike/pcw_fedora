@@ -1,0 +1,73 @@
+{
+    "id": 610596,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch Charitable Work",
+        "cy": "Gweithgaredd elusennol Merched y Wawr Cangen Gronw "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610596",
+    "created": 1510753242,
+    "updated": 1510753242,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Crynodeb sy\u2019n rhoi braslun o weithgaredd elusennol Merched y Wawr Cangen Gronw yn y 1970au a\u2019r 1980au wrth iddyn nhw godi arian tuag at achosion da.",
+        "cy": "Crynodeb sy\u2019n rhoi braslun o weithgaredd elusennol Merched y Wawr Cangen Gronw yn y 1970au a\u2019r 1980au wrth iddyn nhw godi arian tuag at achosion da."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-272.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-272.jpg",
+            "type": "image",
+            "target_id": "610591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 628296,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Talwrn, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Talwrn, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628296",
+    "created": 1511281111,
+    "updated": 1511281111,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Talwrn yn Dathlu\u2019r Aur a Gwyl Ddewi a\u2019u bagiau arbennig. Gwelwn: (Cefn) Jean P, Mair, Carys, Gwenda, Bethan, Anwen, Jean H, Enfys, (Blaen), Myfanwy, Beryl, Jean, Diana, Buddug, Elisabeth, Ann W.",
+        "cy": "Aelodau Cangen Talwrn yn Dathlu\u2019r Aur a Gwyl Ddewi a\u2019u bagiau arbennig. Gwelwn: (Cefn) Jean P, Mair, Carys, Gwenda, Bethan, Anwen, Jean H, Enfys, (Blaen), Myfanwy, Beryl, Jean, Diana, Buddug, Elisabeth, Ann W."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Talwrn",
+    "owner": "Cangen Talwrn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Talwrn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talwrn",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.269374000000",
+            "lon": "-4.274138000000",
+            "description": {
+                "en": "Talwrn",
+                "cy": "Talwrn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_TALWRN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_TALWRN_005.jpg",
+            "type": "image",
+            "target_id": "628286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

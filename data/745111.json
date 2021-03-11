@@ -1,0 +1,81 @@
+{
+    "id": 745111,
+    "title": {
+        "en": "Merched y Wawr Ffynnongroes Branch Celebrate its 25th Anniversary - Leaflet",
+        "cy": "Merched y Wawr Ffynnongroes yn Dathlu Chwarter Canrif - Taflen Rhaglen Nodwedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745111",
+    "created": 1516896664,
+    "updated": 1516896664,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Rhaglen Nodwedd Merched y Wawr Ffynnongroes wrth i\u2019r gangen Ddathlu Penblwydd yn 25ain Oed, yn Neuadd Ffynnongroes, Mai 14, 1993.",
+        "cy": "Taflen Rhaglen Nodwedd Merched y Wawr Ffynnongroes wrth i\u2019r gangen Ddathlu Penblwydd yn 25ain Oed, yn Neuadd Ffynnongroes, Mai 14, 1993."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-107.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-107.jpg",
+            "type": "image",
+            "target_id": "745101"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-108.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-108.jpg",
+            "type": "image",
+            "target_id": "745106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

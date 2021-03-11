@@ -1,0 +1,86 @@
+{
+    "id": 750836,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maesywaun, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Maesywaen, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750836",
+    "created": 1516899697,
+    "updated": 1516899697,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion sefydlu\u2019r gangen nos Fercher, yr 11eg o Chwefror, 1976 sydd hefyd yn cynnwys rhaglen y flwyddyn gyntaf (tymor 1976).",
+        "cy": "Cofnodion sefydlu\u2019r gangen nos Fercher, yr 11eg o Chwefror, 1976 sydd hefyd yn cynnwys rhaglen y flwyddyn gyntaf (tymor 1976)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maesywaen",
+    "owner": "Cangen Maesywaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maesywaen",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maesywaen",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Mercher y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.038999000000",
+            "lon": "-3.809175000000",
+            "description": {
+                "en": "Maesywaen",
+                "cy": "Maesywaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAESYWAEUN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAESYWAEUN_001.jpg",
+            "type": "image",
+            "target_id": "750826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

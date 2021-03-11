@@ -1,0 +1,83 @@
+{
+    "id": 745001,
+    "title": {
+        "en": "Merched y Wawr Felinfach Branch Exhibition",
+        "cy": "Arddangosfa o lwyddiannau Merched y Wawr Felinfach a\u2019r Cylch."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745001",
+    "created": 1516896610,
+    "updated": 1516896610,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa o\u2019r tariannau a\u2019r tystysgrifau a enillwyd gan aelodau Cangen Felinfach a\u2019r Cylch o Ferched y Wawr yn ystod tymor 2011-2012.  Fe baratowyd yr arddangosfa ar gyfer Noson o Adloniant yn y gangen ym Mehefin 2012 yn Neuadd Goffa Felinfach.\nMae hyn yn cynnwys Tarian Goffa Mair Kitchener Davies am y cynnydd mwyaf yn yr aelodaeth yn Rhanbarth Ceredigion.",
+        "cy": "Arddangosfa o\u2019r tariannau a\u2019r tystysgrifau a enillwyd gan aelodau Cangen Felinfach a\u2019r Cylch o Ferched y Wawr yn ystod tymor 2011-2012.  Fe baratowyd yr arddangosfa ar gyfer Noson o Adloniant yn y gangen ym Mehefin 2012 yn Neuadd Goffa Felinfach.\nMae hyn yn cynnwys Tarian Goffa Mair Kitchener Davies am y cynnydd mwyaf yn yr aelodaeth yn Rhanbarth Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Felinfach a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Felinfach ar Cylch"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.132838000000",
+            "lon": "-3.801086000000",
+            "description": {
+                "en": "Neuadd Goffa Felinfach",
+                "cy": "Neuadd Goffa Felinfach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-127.jpg",
+            "type": "image",
+            "target_id": "744991"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

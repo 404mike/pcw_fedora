@@ -1,0 +1,75 @@
+{
+    "id": 746726,
+    "title": {
+        "en": "Merched y Wawr New Branch Form, to mark the start of Llangwyrfon Branch",
+        "cy": "Ffurflen \u2018Cangen Newydd\u2019 Merched y Wawr ar gyfer Cangen Llangwyryfon"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746726",
+    "created": 1516897408,
+    "updated": 1516897408,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffurflen \u2018Cangen Newydd\u2019 Merched y Wawr yn nodi sefydlu Cangen Llangwyryfon, Medi 4, 1986.",
+        "cy": "Ffurflen \u2018Cangen Newydd\u2019 Merched y Wawr yn nodi sefydlu Cangen Llangwyryfon, Medi 4, 1986."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llangwyryfon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llangwyryfon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-209.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-209.jpg",
+            "type": "image",
+            "target_id": "746721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

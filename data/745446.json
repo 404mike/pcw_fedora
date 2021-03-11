@@ -1,0 +1,82 @@
+{
+    "id": 745446,
+    "title": {
+        "en": "Merched y Wawr Glyn Nedd Branch with Grav",
+        "cy": "Aelodau Merched y Wawr Glyn Nedd gyda Grav"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745446",
+    "created": 1516896809,
+    "updated": 1516896809,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Grav\u2019, sef Ray Gravell, yn holi dwy aelod o Ferched y Wawr Glyn Nedd \u2013 Kathleen Harries a Karen Trimble - yng nghaffi \u2018Cyber Cafe\u2019, Glynnedd",
+        "cy": "\u2018Grav\u2019, sef Ray Gravell, yn holi dwy aelod o Ferched y Wawr Glyn Nedd \u2013 Kathleen Harries a Karen Trimble - yng nghaffi \u2018Cyber Cafe\u2019, Glynnedd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.746390000000",
+            "lon": "-3.620181000000",
+            "description": {
+                "en": "Cyber Cafe\u2019, Glynnedd",
+                "cy": "Cyber Cafe\u2019, Glynnedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-027.jpg",
+            "type": "image",
+            "target_id": "745436"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

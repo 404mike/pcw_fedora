@@ -1,0 +1,75 @@
+{
+    "id": 747356,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch 21st Anniversary Singing Festival",
+        "cy": "Cymanfa Ganu Merched y Wawr Cangen Mynach i ddathlu penblwydd y gangen yn 21ain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747356",
+    "created": 1516897698,
+    "updated": 1516897698,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun Cymanfa Ganu Merched y Wawr Cangen Mynach i ddathlu 21oed y gangen yng Nghapel Mynah, Pontarfyrnach, Chwefror 24, 1991\nCrwys Evans, Robyn Lyn Evans, Delyth Hopkins Evans, Bethan Bryn, TD Morgan, Cadfau Prry Owen, Eirlys Evans, Nesta Roberts, Susan Pugh, Delyth Morris Jones, Joan Richards, Mia Lewis, Nancy Edwards, Paul Barnard",
+        "cy": "Llun Cymanfa Ganu Merched y Wawr Cangen Mynach i ddathlu 21oed y gangen yng Nghapel Mynah, Pontarfyrnach, Chwefror 24, 1991\nCrwys Evans, Robyn Lyn Evans, Delyth Hopkins Evans, Bethan Bryn, TD Morgan, Cadfau Prry Owen, Eirlys Evans, Nesta Roberts, Susan Pugh, Delyth Morris Jones, Joan Richards, Mia Lewis, Nancy Edwards, Paul Barnard"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-162.jpg",
+            "type": "image",
+            "target_id": "747351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

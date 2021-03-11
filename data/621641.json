@@ -1,0 +1,85 @@
+{
+    "id": 621641,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henllan, Colwyn.",
+        "cy": "Aelod cangen Merched y Wawr Henllan, Rhanbarth Colwyn. Rhaglen \u2018Halen y Ddaear\u2019, \u2018Heno\u2019\/ S4C, Rhagfyr 2011."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621641",
+    "created": 1511278904,
+    "updated": 1511278904,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ceinwen Jones yn cael ei anrhegu\u2019n \u2018Halen y Ddaear\u2019 gan Alwyn Humphreys fel rhan o rhaglen \u2018Heno\u2019\/ S4C, Rhagfyr 2011.",
+        "cy": "Ceinwen Jones yn cael ei anrhegu\u2019n \u2018Halen y Ddaear\u2019 gan Alwyn Humphreys fel rhan o rhaglen \u2018Heno\u2019\/ S4C, Rhagfyr 2011."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henllan",
+    "owner": "Cangen Henllan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Henllan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Henllan"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.200626000000",
+            "lon": "-3.461812000000",
+            "description": {
+                "en": "Henllan",
+                "cy": "Henllan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_034.jpg",
+            "type": "image",
+            "target_id": "621631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

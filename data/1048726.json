@@ -1,0 +1,65 @@
+{
+    "id": 1048726,
+    "title": {
+        "en": "Ceredigion Urdd National Eisteddfod 2010 at  Llanerchaeron",
+        "cy": "Eisteddfod yr Urdd Ceredifgion 2010 yn Llanerchaeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048726",
+    "created": 1555591624,
+    "updated": 1555591624,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Because MyW had planted 1,000 trees all over Wales Margaret Jones, Regional Chairman; Tegwen Morris, Director and Elizabeth Evans, Developement Officer decided to have some fun and have a tattoo!",
+        "cy": "Gan fod MyW wedi plannu 1,000 o goed ar draws Cymru penderfynodd Margaret Jones, Llywydd Ceredigion; Tegwen Morris, Cyfarwyddwr ac Elizabeth evans, Swyddog Datblygu gael hwyl a chael tat\u0175!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod",
+        "eisteddfod yr urdd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_276.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_276.jpg",
+            "type": "image",
+            "target_id": "1048721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

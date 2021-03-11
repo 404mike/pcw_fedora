@@ -1,0 +1,88 @@
+{
+    "id": 747061,
+    "title": {
+        "en": "Merched y Wawr Ceredigion Area Royal Welsh Show Exhibition",
+        "cy": "Arddangosfa Merched y Wawr Rhanbarth Ceredigion yn y Sioe Frenhinol "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747061",
+    "created": 1516897562,
+    "updated": 1516897562,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gosod Arddangosfa Rhanbarth Ceredigion o Ferched y Wawr yn y Sioe Frenhinol yn Llanelwedd \u2013 roedd pedwar o\u2019r lluniau ar y mur wedi eu paentio gan Beti Evans o Gangen Llwynpiod.",
+        "cy": "Gosod Arddangosfa Rhanbarth Ceredigion o Ferched y Wawr yn y Sioe Frenhinol yn Llanelwedd \u2013 roedd pedwar o\u2019r lluniau ar y mur wedi eu paentio gan Beti Evans o Gangen Llwynpiod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llwynpiod ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llwynpiod",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157793000000",
+            "lon": "-3.407333000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanwelwedd",
+                "cy": "Sioe Frenhinol, Llanwelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-086.jpg",
+            "type": "image",
+            "target_id": "747046"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-087.jpg",
+            "type": "image",
+            "target_id": "747051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

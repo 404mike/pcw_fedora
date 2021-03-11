@@ -1,0 +1,90 @@
+{
+    "id": 747486,
+    "title": {
+        "en": "Merched y Wawr Mynachlogddu Celebrates Ten Years",
+        "cy": "Merched y Wawr Mynachlogddu yn dathlu Penblwydd yn 10 oed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747486",
+    "created": 1516897745,
+    "updated": 1516897745,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Mynachlogddu yn dathlu Penblwydd y Gangen yn 10 oed yng Ngwesty Castell Malgwyn, Llechryd, Medi 16, 1983\nYn sefyll o\u2019r chwith \u2013 Irene Miles, Dilys Davies, Sally Davies, Era Edwards, Beti Davies, Mairwen Evans, Sally Lewis, Annie Davies, Mary Sacale, Tonwen Adams, Cymraes Davies, Morfudd Dowen, San Owens, Maisie James, Lil Absalom, Tegwen Davies, Elfreda Davies, Bronwen Williams, Caroline Williams, Nan Williams, Sally Lawrence, Megan John\nYn eistedd (rhes gefn) \u2013 Gertie Griffiths, Martha Jane (Bash) Lewis, Muriel Griffiths, Brenda Davies, Melfeda Lewis\nRhes flaen \u2013 Lottie Smart, Barbara Williams, Glenys Owens, Elfair Jones, Haulwen Parri-Roberts, Veronica Griffiths\nYn penlinio \u2013 Janet Rees, Nia Davies, Ann Davies",
+        "cy": "Merched y Wawr Mynachlogddu yn dathlu Penblwydd y Gangen yn 10 oed yng Ngwesty Castell Malgwyn, Llechryd, Medi 16, 1983\nYn sefyll o\u2019r chwith \u2013 Irene Miles, Dilys Davies, Sally Davies, Era Edwards, Beti Davies, Mairwen Evans, Sally Lewis, Annie Davies, Mary Sacale, Tonwen Adams, Cymraes Davies, Morfudd Dowen, San Owens, Maisie James, Lil Absalom, Tegwen Davies, Elfreda Davies, Bronwen Williams, Caroline Williams, Nan Williams, Sally Lawrence, Megan John\nYn eistedd (rhes gefn) \u2013 Gertie Griffiths, Martha Jane (Bash) Lewis, Muriel Griffiths, Brenda Davies, Melfeda Lewis\nRhes flaen \u2013 Lottie Smart, Barbara Williams, Glenys Owens, Elfair Jones, Haulwen Parri-Roberts, Veronica Griffiths\nYn penlinio \u2013 Janet Rees, Nia Davies, Ann Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynachlogddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Mynachlogddu"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.061283000000",
+            "lon": "-4.607706000000",
+            "description": {
+                "en": "Castell Malgwyn, Llechryd",
+                "cy": "Castell Malgwyn, Llechryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-099.jpg",
+            "type": "image",
+            "target_id": "747471"
+        },
+        {
+            "originalFilename": "Dathlu%2010fed%20penblwydd%20angen%20Merched%20y%20Wawr.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Dathlu%252010fed%2520penblwydd%2520angen%2520Merched%2520y%2520Wawr.jpg",
+            "type": "image",
+            "target_id": "747476"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

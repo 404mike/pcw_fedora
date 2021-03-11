@@ -1,0 +1,86 @@
+{
+    "id": 624701,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Treffynnon, Glyn Maelor",
+        "cy": "T\u00eem Rownderi cangen Merched y Wawr Treffynnon, Glyn Maelor. Gwyl Haf Machynlleth ym 1994."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624701",
+    "created": 1511279920,
+    "updated": 1511279920,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem Rownderi yng Ngwyl Haf Machynlleth ym 1994.\nEnwau: cefn: Maryl Rees,Nesta Elis, Nerys Roberts, \nBlaen: Kathleen Hughes, Glenys Davies, Menna Coleclough.",
+        "cy": "T\u00eem Rownderi yng Ngwyl Haf Machynlleth ym 1994.\nEnwau: cefn: Maryl Rees,Nesta Elis, Nerys Roberts, \nBlaen: Kathleen Hughes, Glenys Davies, Menna Coleclough."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Treffynnon",
+    "owner": "Cangen Treffynnon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holywell",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treffynnon",
+        "Rhanbarth Glyn Maelor",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275636000000",
+            "lon": "-3.215419000000",
+            "description": {
+                "en": "Holywell",
+                "cy": "Treffynnon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_TREFFYNNON_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_TREFFYNNON_005.jpg",
+            "type": "image",
+            "target_id": "624691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

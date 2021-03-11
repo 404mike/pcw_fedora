@@ -1,0 +1,74 @@
+{
+    "id": 1046306,
+    "title": {
+        "en": "President's Charity Walk 2003",
+        "cy": "Taith Gerdded y Llywydd 2003"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046306",
+    "created": 1555590148,
+    "updated": 1555590148,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs showing a Charity Walk through Wales organised by the President Catrin Stevens in aid of Breast Cancer. The photograph shows members joining the walk from Aberaeron to Llannerchaeron.",
+        "cy": "2 lun yn dangos y Daith Gerdded drwy Gymru a drefnwyd gan y Llywydd Catrin Stevens yn 2003 er budd Cancr y Fron. Gwelir aelodau yn ymuno i gerdded o Aberaeron i Llannerchaeron."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "charity walk 2003",
+        "breast cancer",
+        "Catrin Stevens",
+        "taith gerdded 2003",
+        "cancr y fron",
+        "Aberaeron",
+        "llannerchaeron"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_024.jpg",
+            "type": "image",
+            "target_id": "1046296"
+        },
+        {
+            "originalFilename": "df_myw_024-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_024-001.jpg",
+            "type": "image",
+            "target_id": "1046301"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

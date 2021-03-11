@@ -1,0 +1,84 @@
+{
+    "id": 743791,
+    "title": {
+        "en": "Merched y Wawr Bro Barti Ddu Branch 10th Anniversary",
+        "cy": "Merched y Wawr Bro Barti Ddu yn Dathlu 10 Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743791",
+    "created": 1516896012,
+    "updated": 1516896012,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Bro Barti Ddu yn Dathlu 10fed penblwydd y gangen ar Fedi\u2019r 6ed, 2003 yng ngwesty Gellifawr, Cwm Gwaun.\nRhes gefn \u2013 Ann James, Beryl Howels, Sally Evans, Gwen Morgan\nRhes ganol \u2013 Glenys Harries, Rita Williams, Mona ?, Rhian Taylor, ?, Eirwen Hughes, Mary Luke\nRhes flaen - ? , Gillian Howells, Margaret Griffiths, Ann Morris (Gwraig Gw\u00e2dd), Barbara Jones, Heulwen Thomas, Brenda Evans",
+        "cy": "Merched y Wawr Bro Barti Ddu yn Dathlu 10fed penblwydd y gangen ar Fedi\u2019r 6ed, 2003 yng ngwesty Gellifawr, Cwm Gwaun.\nRhes gefn \u2013 Ann James, Beryl Howels, Sally Evans, Gwen Morgan\nRhes ganol \u2013 Glenys Harries, Rita Williams, Mona ?, Rhian Taylor, ?, Eirwen Hughes, Mary Luke\nRhes flaen - ? , Gillian Howells, Margaret Griffiths, Ann Morris (Gwraig Gw\u00e2dd), Barbara Jones, Heulwen Thomas, Brenda Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Barti Ddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Barti Ddu",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.974890000000",
+            "lon": "-4.822351000000",
+            "description": {
+                "en": "Gwesty Gellifawr, Cwm Gwaun",
+                "cy": "Gwesty Gellifawr, Cwm Gwaun"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-139.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-139.jpg",
+            "type": "image",
+            "target_id": "743781"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,66 @@
+{
+    "id": 1046476,
+    "title": {
+        "en": "MyW Residential Weekend 2002",
+        "cy": "Penwythnos Preswyl MyW 2002 \u2013 Llais a Llun"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046476",
+    "created": 1555590248,
+    "updated": 1555590248,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catrin Stevens presenting a cheque for \u00a312,000, \u2013 the sum raised by her sponsered walk through Wales when she was President \u2013 to Rebecca and Robert from Tenovus. Also in the photograph, Gwyneth Morus Jones, President.",
+        "cy": "Catrin Stevens yn cyflwyno siec o \u00a312,000 \u2013 y swm a gododd gyda'i thaith gerdded noddedig trwy Gymru yn ystod ei llywyddiaeth \u2013 i Rebecca  a Robert o Tenovus. Hefyd yn y llun, Gwyneth Morus Jones, Llywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2002",
+        "Tenovus",
+        "sponsored walk",
+        "penwythnos preswyl myw 2002",
+        "taith gerdded"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_037.jpg",
+            "type": "image",
+            "target_id": "1046471"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

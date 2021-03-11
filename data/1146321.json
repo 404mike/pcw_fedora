@@ -1,0 +1,66 @@
+{
+    "id": 1146321,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Penwythnos Preswyl MyW 2016 Abertawe \u2013 SA1 \u2013 Bae Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146321",
+    "created": 1562063829,
+    "updated": 1562063829,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sandra Morris Jones welcoming the members to the evening concert.",
+        "cy": "Sandra Morris Jones welcoming the Members to the evening concert."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2016",
+        "SWANSEA",
+        "penwythnos preswyl myw",
+        "abertawe"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_788.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_788.jpg",
+            "type": "image",
+            "target_id": "1146316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

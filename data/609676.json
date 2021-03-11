@@ -1,0 +1,84 @@
+{
+    "id": 609676,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Branch in Cardigan Castle",
+        "cy": "Merched y Wawr Cangen Bro Cennech yng Nghastell Aberteifi "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609676",
+    "created": 1510753036,
+    "updated": 1510753036,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Cennech y tu allan i Gastell Aberteifi \u2013 Gwibdaith 2015 \nBrenda Williams, Patricia Jones, Ann Jones, Megan Morgan, Margaret Richards, Gaynor Thomas, Jayne Hughes, Margaret Harries, ? (gwestai) , Liz Williams, Dinah John, ?( gwestai), Mai Jones, Brenda Rees, Beryl Bowen",
+        "cy": "Merched y Wawr Cangen Bro Cennech y tu allan i Gastell Aberteifi \u2013 Gwibdaith 2015 \nBrenda Williams, Patricia Jones, Ann Jones, Megan Morgan, Margaret Richards, Gaynor Thomas, Jayne Hughes, Margaret Harries, ? (gwestai) , Liz Williams, Dinah John, ?( gwestai), Mai Jones, Brenda Rees, Beryl Bowen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081859000000",
+            "lon": "-4.660483000000",
+            "description": {
+                "en": "Castell Aberteifi",
+                "cy": "Castell Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-005.jpg",
+            "type": "image",
+            "target_id": "609666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

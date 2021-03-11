@@ -1,0 +1,185 @@
+{
+    "id": 755106,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. First published in August,1968.  ",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr, a gyhoeddwyd am y tro cyntaf ym mis Awst 1968. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/755106",
+    "created": 1516958905,
+    "updated": 1516958905,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhifyn 1 o\u2019r cylchgrawn \u2018Y WAWR\u2019 o mis Awst, 1968.",
+        "cy": "Rhifyn 1 o\u2019r cylchgrawn \u2018Y WAWR\u2019 o mis Awst, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_001.jpg",
+            "type": "image",
+            "target_id": "755011"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_002.jpg",
+            "type": "image",
+            "target_id": "755016"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_003.jpg",
+            "type": "image",
+            "target_id": "755021"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_004.jpg",
+            "type": "image",
+            "target_id": "755026"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_005.jpg",
+            "type": "image",
+            "target_id": "755031"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_006.jpg",
+            "type": "image",
+            "target_id": "755036"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_007.jpg",
+            "type": "image",
+            "target_id": "755041"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_008.jpg",
+            "type": "image",
+            "target_id": "755046"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_009.jpg",
+            "type": "image",
+            "target_id": "755051"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_010.jpg",
+            "type": "image",
+            "target_id": "755056"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_011.jpg",
+            "type": "image",
+            "target_id": "755061"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_012.jpg",
+            "type": "image",
+            "target_id": "755066"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_013.jpg",
+            "type": "image",
+            "target_id": "755071"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_014.jpg",
+            "type": "image",
+            "target_id": "755076"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_015.jpg",
+            "type": "image",
+            "target_id": "755081"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_016.jpg",
+            "type": "image",
+            "target_id": "755086"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_017.jpg",
+            "type": "image",
+            "target_id": "755091"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_01_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_01_018.jpg",
+            "type": "image",
+            "target_id": "755096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

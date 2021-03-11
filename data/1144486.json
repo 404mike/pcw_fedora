@@ -1,0 +1,64 @@
+{
+    "id": 1144486,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2014",
+        "cy": "Sioe Frenhinol Llanelwedd 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144486",
+    "created": 1562061929,
+    "updated": 1562061929,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Radi Thomas Competition (Theme Blue and Yellow) \u2013 1st Pembrokeshire Region of MyW.",
+        "cy": "Cystadleuaeth Radi Thomas \u2013 Thema 'Glas a Melyn' \u2013 1af Rhanbarth Penfro."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_577.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_577.jpg",
+            "type": "image",
+            "target_id": "1144481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

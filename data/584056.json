@@ -1,0 +1,75 @@
+{
+    "id": 584056,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch = Pembrokeshire County Show 1996",
+        "cy": "Merched y Wawr Cangen Maenclochog - Sioe Sir Benfro 1996"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584056",
+    "created": 1499870292,
+    "updated": 1499870292,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog  Awst 1996, Sioe Sir Benfro, Hwlffordd.  Mae gan y Rhanbarth stondin i werthu nwyddau a raffl yn y Sioe.  Maureen George a Rhiannon Edwards yn gofalu am y stondin ar y Dydd Mawrth.  Diolch i Elfair Jones am fenthyg y garafan",
+        "cy": "Merched y Wawr Maenclochog  Awst 1996, Sioe Sir Benfro, Hwlffordd.  Mae gan y Rhanbarth stondin i werthu nwyddau a raffl yn y Sioe.  Maureen George a Rhiannon Edwards yn gofalu am y stondin ar y Dydd Mawrth.  Diolch i Elfair Jones am fenthyg y garafan"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-030.jpg",
+            "type": "image",
+            "target_id": "584055"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

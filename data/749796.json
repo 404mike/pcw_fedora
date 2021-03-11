@@ -1,0 +1,76 @@
+{
+    "id": 749796,
+    "title": {
+        "en": "A Song for Merched y Wawr Brynaman Branch",
+        "cy": "C\u00e2n ar gyfer Merched y Wawr Brynaman"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749796",
+    "created": 1516899162,
+    "updated": 1516899162,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00e2n ar gyfer Merched y Wawr Brynaman tua 1970\/71 gan y Parchedig Dafydd Owen.",
+        "cy": "C\u00e2n ar gyfer Merched y Wawr Brynaman tua 1970\/71 gan y Parchedig Dafydd Owen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Y Gwter Fawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Gwter Fawr",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Brynaman"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-116.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-116.jpg",
+            "type": "image",
+            "target_id": "749791"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 584200,
+    "title": {
+        "en": "Celebratory Dinner to mark Margarette Hughes becoming National President of Merched y Wawr",
+        "cy": "Cinio Dathlu dychafiad Margarette Hughes yn Lywydd Cenedlaethol Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584200",
+    "created": 1499870785,
+    "updated": 1499870785,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun ar achlysur cinio i ddathlu dychafiad Margarette Hughes (Cangen Hendygwyn) yn Lywydd Cenedlaethol Merched y Wawr yn y Llwyn Iorwg, Caerfyrddin ar 2ail o Fedi 1988.  Trefnwyd y cinio gan Enid Jones.  Yn y llun mae  Mererid Jones (Trefnydd Cenedlaethol), Enid Jones (Llywydd Anrhydeddus Rhabarth Caerfyrddin), Margarette Hughes, Eirlys Lewis Evams, Rhyl (cyn Lywydd Cenedlaethol)",
+        "cy": "Llun ar achlysur cinio i ddathlu dychafiad Margarette Hughes (Cangen Hendygwyn) yn Lywydd Cenedlaethol Merched y Wawr yn y Llwyn Iorwg, Caerfyrddin ar 2ail o Fedi 1988.  Trefnwyd y cinio gan Enid Jones.  Yn y llun mae  Mererid Jones (Trefnydd Cenedlaethol), Enid Jones (Llywydd Anrhydeddus Rhabarth Caerfyrddin), Margarette Hughes, Eirlys Lewis Evams, Rhyl (cyn Lywydd Cenedlaethol)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Hendygwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-013.jpg",
+            "type": "image",
+            "target_id": "584199"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,93 @@
+{
+    "id": 625186,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Amlwch, Anglesey.",
+        "cy": "Cangen Merched y Wawr Amlwch, Rhanbarth M\u00f4n yn perfformio\u2019r drama \u201cCodi Rhesel\u201d,Theatr Fach, Llangefni, 1989. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625186",
+    "created": 1511280078,
+    "updated": 1511280078,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r gangen yn perfformio\u2019r ddrama \u201cCodi Rhesel\u201d yn Theatr Fach, Llangefni, 1989. (cefn) Catherine Jones, Lillian Hughes, Linda Jones (arweinydd), (blaen) Enid Williams, Margaret Mon Griffiths",
+        "cy": "Llun o\u2019r gangen yn perfformio\u2019r ddrama \u201cCodi Rhesel\u201d yn Theatr Fach, Llangefni, 1989. (cefn) Catherine Jones, Lillian Hughes, Linda Jones (arweinydd), (blaen) Enid Williams, Margaret Mon Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Amwlch",
+    "owner": "Cangen Amwlch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Amlwch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Amwlch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411193000000",
+            "lon": "-4.343023000000",
+            "description": {
+                "en": "Amlwch",
+                "cy": "Amlwch "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_007.jpg",
+            "type": "image",
+            "target_id": "625171"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_008.jpg",
+            "type": "image",
+            "target_id": "625176"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

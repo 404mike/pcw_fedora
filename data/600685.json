@@ -1,0 +1,84 @@
+{
+    "id": 600685,
+    "title": {
+        "en": "Merched y Wawr Nantgaredig Branch learn about a Lesotho Charity ",
+        "cy": "Merched y Wawr Cangen Nantgaredig yn dysgu am elusen yn Lesotho"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600685",
+    "created": 1502448079,
+    "updated": 1502448079,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gareth Thomas, cyn brifathro Ysgol Gynradd Nantgaredig yn siarad i Gangen Nantgaredig  Ferched y Wawr am elusen addysg plant yn Lesotho yn yr Affrig.  Rhoddwyd \u00a360 i\u2019r elusen ar y noson yng nghyfarfod Hydref 2016. \nYn y llun mae Liz Lewis, Non Davies, Gareth Thomas, Eirwen Williams, Hazel James.",
+        "cy": "Gareth Thomas, cyn brifathro Ysgol Gynradd Nantgaredig yn siarad i Gangen Nantgaredig  Ferched y Wawr am elusen addysg plant yn Lesotho yn yr Affrig.  Rhoddwyd \u00a360 i\u2019r elusen ar y noson yng nghyfarfod Hydref 2016. \nYn y llun mae Liz Lewis, Non Davies, Gareth Thomas, Eirwen Williams, Hazel James."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871065000000",
+            "lon": "-4.189562000000",
+            "description": {
+                "en": "Nantgaredig",
+                "cy": "Nantgaredig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-078.jpg",
+            "type": "image",
+            "target_id": "600683"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

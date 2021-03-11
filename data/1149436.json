@@ -1,0 +1,64 @@
+{
+    "id": 1149436,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2010",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149436",
+    "created": 1562066305,
+    "updated": 1562066305,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Darts \u2013 1st Bronant, Ceredigion",
+        "cy": "Dartiau \u2013 1af Bronant, Ceredigion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_143.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_143.jpg",
+            "type": "image",
+            "target_id": "1149431"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

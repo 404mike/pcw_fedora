@@ -1,0 +1,110 @@
+{
+    "id": 751711,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Bro Tryweryn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bro Tryweryn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751711",
+    "created": 1516958001,
+    "updated": 1516958001,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf y Gangen sy\u2019n cynnwys rhestr o aelodau a Swyddogion o 1974 - 1975.",
+        "cy": "Cofnodion cyntaf y Gangen sy\u2019n cynnwys rhestr o aelodau a Swyddogion o 1974 - 1975."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bro Tryweryn",
+    "owner": "Cangen Bro Tryweryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bro Tryweryn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Tryweryn",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.939553000000",
+            "lon": "-3.631991000000",
+            "description": {
+                "en": "Bro Tryweryn",
+                "cy": "Bro Tryweryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_001.jpg",
+            "type": "image",
+            "target_id": "751681"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_002.jpg",
+            "type": "image",
+            "target_id": "751686"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_003.jpg",
+            "type": "image",
+            "target_id": "751691"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_004.jpg",
+            "type": "image",
+            "target_id": "751696"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_005.jpg",
+            "type": "image",
+            "target_id": "751701"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

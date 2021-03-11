@@ -1,0 +1,87 @@
+{
+    "id": 748291,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch Programme 1996-1997",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontarddulais a&#039;r Cylch 1996-1997"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748291",
+    "created": 1516898483,
+    "updated": 1516898483,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Pontarddulais 1996-1997\nClawr (Man cyfarfod, Institiwt, Pontarddulais). Gweithgareddau\u2019r tymor ac enwau\u2019r pwyllgor.",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontarddulais 1996-1997\nClawr (Man cyfarfod, Institiwt, Pontarddulais). Gweithgareddau\u2019r tymor ac enwau\u2019r pwyllgor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-073.jpg",
+            "type": "image",
+            "target_id": "748276"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-074.jpg",
+            "type": "image",
+            "target_id": "748281"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-075.jpg",
+            "type": "image",
+            "target_id": "748286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

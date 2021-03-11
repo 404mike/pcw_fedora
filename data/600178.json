@@ -1,0 +1,88 @@
+{
+    "id": 600178,
+    "title": {
+        "en": "Exhibition by Merched y Wawr Abergorlech Branch",
+        "cy": "Arddangosfa gan Ferched y Wawr Cangen Abergorlech"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600178",
+    "created": 1502447376,
+    "updated": 1502447376,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa \u2018Abergorlech\u2019 yn cynnwys amryw o luniau, clipiau papur bro ac erthygl \u2018Ein Cangen Ni\u2019 o\u2019r Wawr, ac sy\u2019n dangos gweithgareddau Cangen Abergorlech o Ferched y Wawr",
+        "cy": "Arddangosfa \u2018Abergorlech\u2019 yn cynnwys amryw o luniau, clipiau papur bro ac erthygl \u2018Ein Cangen Ni\u2019 o\u2019r Wawr, ac sy\u2019n dangos gweithgareddau Cangen Abergorlech o Ferched y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.982927000000",
+            "lon": "-4.062153000000",
+            "description": {
+                "en": "Abergorlech",
+                "cy": "Abergorlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_102150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_102150.jpg",
+            "type": "image",
+            "target_id": "600175"
+        },
+        {
+            "originalFilename": "20170128_102206.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_102206.jpg",
+            "type": "image",
+            "target_id": "600176"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

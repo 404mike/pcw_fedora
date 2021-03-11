@@ -1,0 +1,87 @@
+{
+    "id": 584265,
+    "title": {
+        "en": "Merched y Wawr - Year of Celebration Pamphlet - Celebrating 25 Years, 1967 - 1992",
+        "cy": "Pamffled Blwyddyn Y Dathlu, Merched y Wawr, Chwarter Canrif 1967 - 1992. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584265",
+    "created": 1499870848,
+    "updated": 1499870848,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pamffled Blwyddyn Y Dathlu, Merched y Wawr, Chwarter Canrif 1967 - 1992. Tudalen flaen",
+        "cy": "Pamffled Blwyddyn Y Dathlu, Merched y Wawr, Chwarter Canrif 1967 - 1992. Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-058.jpg",
+            "type": "image",
+            "target_id": "584262"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-059.jpg",
+            "type": "image",
+            "target_id": "584263"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-060.jpg",
+            "type": "image",
+            "target_id": "584264"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

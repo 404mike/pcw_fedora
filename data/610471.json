@@ -1,0 +1,86 @@
+{
+    "id": 610471,
+    "title": {
+        "en": "\u2018Beti Gwynno\u2019 by Rhoswen Llewellyn, Merched y Wawr, Gronw Branch ",
+        "cy": "\u2018Beti Gwynno\u2019 gan Rhoswen Llewellyn, aelod o Ferched y Wawr, Cangen Gronw "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610471",
+    "created": 1510753209,
+    "updated": 1510753209,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Darn o waith \u2018Beti Gwynno\u2019 gan Rhoswen Llewellyn  - un o aelodau gwreiddiol Cangen Gronw o Ferched y Wawr yw Rhoswen ac un sydd wedi cyfrannu\u2019n helaeth i\u2019r Gangen ar hyd y blynyddoedd ac yn dal i wneud.  Mae\u2019r darn yn rhoi hanes y diweddar Beti Gwynno a fu\u2019n Lywydd Cenedlaethol (1972 \u2013 1974) Merched y Wawr.  \nTudalen 1",
+        "cy": "Darn o waith \u2018Beti Gwynno\u2019 gan Rhoswen Llewellyn  - un o aelodau gwreiddiol Cangen Gronw o Ferched y Wawr yw Rhoswen ac un sydd wedi cyfrannu\u2019n helaeth i\u2019r Gangen ar hyd y blynyddoedd ac yn dal i wneud.  Mae\u2019r darn yn rhoi hanes y diweddar Beti Gwynno a fu\u2019n Lywydd Cenedlaethol (1972 \u2013 1974) Merched y Wawr.  \nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-254.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-254.jpg",
+            "type": "image",
+            "target_id": "610456"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-255.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-255.jpg",
+            "type": "image",
+            "target_id": "610461"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-256.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-256.jpg",
+            "type": "image",
+            "target_id": "610466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

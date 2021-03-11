@@ -1,0 +1,75 @@
+{
+    "id": 742951,
+    "title": {
+        "en": "Merched y Wawr Abernant Branch Cake Decorating",
+        "cy": "Merched y Wawr Cangen Abernant yn addurno cacennau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742951",
+    "created": 1516895650,
+    "updated": 1516895650,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Abernant, Mrs Eirwen Davies yn addurno cacennau 1996, gydag Anne Thomas a Meleri Brown",
+        "cy": "Merched y Wawr Cangen Abernant, Mrs Eirwen Davies yn addurno cacennau 1996, gydag Anne Thomas a Meleri Brown"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abernant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abernant",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-110417-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CAERFYRDDIN-110417-021.jpg",
+            "type": "image",
+            "target_id": "742946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

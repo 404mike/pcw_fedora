@@ -1,0 +1,88 @@
+{
+    "id": 584169,
+    "title": {
+        "en": "Merched y Wawr, Quarter Century 1967-92 Celebration Dinner",
+        "cy": "Merched y Wawr Chwarter Canrif 1967-1992 Cinio\u2019r Dathlu"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584169",
+    "created": 1499870443,
+    "updated": 1499870443,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Chwarter Canrif Merched y Wawr 1967-1992 Rhaglen Cinio\u2019r Dathlu, Nos Wener, 18 Medi, 1992 Coleg y Brifysgol, Llanbed   Tudalen Flaen",
+        "cy": "Chwarter Canrif Merched y Wawr 1967-1992 Rhaglen Cinio\u2019r Dathlu, Nos Wener, 18 Medi, 1992 Coleg y Brifysgol, Llanbed   Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.113765000000",
+            "lon": "-4.076454000000",
+            "description": {
+                "en": "Coleg y Brifysgol, Llanbed",
+                "cy": "Coleg y Brifysgol, Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-261016-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CENEDLAETHOL-261016-019.jpg",
+            "type": "image",
+            "target_id": "584166"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-261016-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CENEDLAETHOL-261016-020.jpg",
+            "type": "image",
+            "target_id": "584167"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

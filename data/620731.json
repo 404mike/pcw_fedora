@@ -1,0 +1,86 @@
+{
+    "id": 620731,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Dathlu deng mlwyddiant ym Medi 1982. Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620731",
+    "created": 1511278553,
+    "updated": 1511278553,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Uwchaled yn dathlu eu deng mlwyddiant ym Medi 1982 (sefydlwyd ym mis Mai 1972). Fe welwn Buddug Evans, Rebecca Powell (Llywydd Cenedlaethol), Barbara Jones, Heulwen Williams a Ellen Ellis yn torri\u2019r gacen.",
+        "cy": "Cangen Uwchaled yn dathlu eu deng mlwyddiant ym Medi 1982 (sefydlwyd ym mis Mai 1972). Fe welwn Buddug Evans, Rebecca Powell (Llywydd Cenedlaethol), Barbara Jones, Heulwen Williams a Ellen Ellis yn torri\u2019r gacen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_012.jpg",
+            "type": "image",
+            "target_id": "620721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1146976,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146976",
+    "created": 1562064097,
+    "updated": 1562064097,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies, President and Tegwen Morris, Director giving their combined Annual Report.",
+        "cy": "Meryl Davies, Llywydd a Tegwen Morris, Cyfarwyddwr yn rhoi eu Adroddiad Blynyddol ar y cyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_867.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_867.jpg",
+            "type": "image",
+            "target_id": "1146971"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

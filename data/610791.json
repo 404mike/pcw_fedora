@@ -1,0 +1,84 @@
+{
+    "id": 610791,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch History",
+        "cy": "Hanes Merched y Wawr Cangen Llandeilo"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610791",
+    "created": 1510753295,
+    "updated": 1510753295,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dogfen yn rhoi ychydig o hanes Merched y Wawr Cangen Llandeilo agorwyd yn swyddogol fis Medi 1969 yng ngwesty\u2019r Cawdor yn y dref.",
+        "cy": "Dogfen yn rhoi ychydig o hanes Merched y Wawr Cangen Llandeilo agorwyd yn swyddogol fis Medi 1969 yng ngwesty\u2019r Cawdor yn y dref."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.882897000000",
+            "lon": "-3.992972000000",
+            "description": {
+                "en": "Gwesty'r Cawdor, Llandeilo",
+                "cy": "Gwesty'r Cawdor, Llandeilo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-018.jpg",
+            "type": "image",
+            "target_id": "610781"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

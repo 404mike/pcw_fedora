@@ -1,0 +1,86 @@
+{
+    "id": 751431,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Blaenau Ffestiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Blaenau Ffestiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751431",
+    "created": 1516957926,
+    "updated": 1516957926,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00e2n wedi\u2019i ysgrifennu i ddathlu penblwydd y Gangen yn 21 gan Rhiannon aeloda o Gangen Blaenau Ffestiniog.",
+        "cy": "C\u00e2n wedi\u2019i ysgrifennu i ddathlu penblwydd y Gangen yn 21 gan Rhiannon aeloda o Gangen Blaenau Ffestiniog."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Blaenau Ffestiniog",
+    "owner": "Cangen Blaenau Ffestiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Blaenau Ffestiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Blaenau Ffestiniog",
+        "Rhanbarth Meirionnydd",
+        "Drama Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.985611000000",
+            "lon": "-3.929878000000",
+            "description": {
+                "en": "Blaenau Ffestiniog",
+                "cy": "Blaenau Ffestiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_018.jpg",
+            "type": "image",
+            "target_id": "751421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

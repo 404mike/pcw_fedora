@@ -1,0 +1,90 @@
+{
+    "id": 612066,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch, 2015 - 2016 Programme",
+        "cy": "Rhaglen 2015-2016 Merched y Wawr Cangen Rhydaman a\u2019r Cylch  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612066",
+    "created": 1510753612,
+    "updated": 1510753612,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen 2015-2016 Merched y Wawr Cangen Rhydaman a\u2019r Cylch  \nClawr",
+        "cy": "Rhaglen 2015-2016 Merched y Wawr Cangen Rhydaman a\u2019r Cylch  \nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792829000000",
+            "lon": "-3.988327000000",
+            "description": {
+                "en": "Rhydaman",
+                "cy": "Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-166.jpg",
+            "type": "image",
+            "target_id": "612051"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-167.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-167.jpg",
+            "type": "image",
+            "target_id": "612056"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

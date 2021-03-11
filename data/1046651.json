@@ -1,0 +1,68 @@
+{
+    "id": 1046651,
+    "title": {
+        "en": "Annual Meeting 2004",
+        "cy": "Cyfarfod Blynyddol 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046651",
+    "created": 1555590344,
+    "updated": 1555590344,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Winners of the annual Quiz. Joint first \u2013 Llaniestyn; Bro Radur; Garth.",
+        "cy": "Enillwyr Cwis Hwyl 2004. Cydradd gynta \u2013 Canghennau Llaniestyn; Bro Radur; Y Garth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2004",
+        "annual quiz",
+        "cyfarfod blynyddol 2004",
+        "cwis hwyl",
+        "cangen llaniestyn",
+        "Cangen Bro Radur",
+        "Garth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_053.jpg",
+            "type": "image",
+            "target_id": "1046646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

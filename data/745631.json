@@ -1,0 +1,84 @@
+{
+    "id": 745631,
+    "title": {
+        "en": "Merched y Wawr Gwaun Gors Branch visits the Royal Mint",
+        "cy": "Merched y Wawr Gwaun Gors yn y Bathdy Brenhinol "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745631",
+    "created": 1516896895,
+    "updated": 1516896895,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Gwaun Gors yn mwynhau taith i\u2019r Bathdy Brenhinol yn Llantrisant, Tachwedd 19, 2016\nYn y llun (gan ddechrau yn y cefn) mae Joan, Elen, Emyr, Pamela, Sharon, Pamela, Margaret, Linda, Mary, Marietta, Sal, Emily, Anthea, Bethan, Lynda, Llinos, Rita, Wyn\nMYW-DE-GORLLMORGANNWG-150217-067 (papur Bro??)\nAdroddiad yn s\u00f4n am Ferched y Wawr Gwaun Gors yn mynd ar daith i\u2019r Bathdy Brenhinol yn Llantrisant, Tachwedd 19, 2016",
+        "cy": "Merched y Wawr Gwaun Gors yn mwynhau taith i\u2019r Bathdy Brenhinol yn Llantrisant, Tachwedd 19, 2016\nYn y llun (gan ddechrau yn y cefn) mae Joan, Elen, Emyr, Pamela, Sharon, Pamela, Margaret, Linda, Mary, Marietta, Sal, Emily, Anthea, Bethan, Lynda, Llinos, Rita, Wyn\nMYW-DE-GORLLMORGANNWG-150217-067 (papur Bro??)\nAdroddiad yn s\u00f4n am Ferched y Wawr Gwaun Gors yn mynd ar daith i\u2019r Bathdy Brenhinol yn Llantrisant, Tachwedd 19, 2016"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gwaun Gors",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwaun Gors",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.541758000000",
+            "lon": "-3.373613000000",
+            "description": {
+                "en": "Bathdy Brenhinol, Llantrisant",
+                "cy": "Bathdy Brenhinol, Llantrisant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-066.jpg",
+            "type": "image",
+            "target_id": "745621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

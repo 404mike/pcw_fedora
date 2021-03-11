@@ -1,0 +1,99 @@
+{
+    "id": 743776,
+    "title": {
+        "en": "Merched y Wawr Bro Barti Ddu Branch First Book of Minutes 1993",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Bro Barti Ddu 1993"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743776",
+    "created": 1516896007,
+    "updated": 1516896007,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnofion y cyfarfod cyntaf i sefydlu\u2019r gangen, Mehefin 21, 1993 yn Summerton, Casnewydd Bach",
+        "cy": "Cofnofion y cyfarfod cyntaf i sefydlu\u2019r gangen, Mehefin 21, 1993 yn Summerton, Casnewydd Bach"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Barti Ddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Barti Ddu",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-133.jpg",
+            "type": "image",
+            "target_id": "743751"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-135.jpg",
+            "type": "image",
+            "target_id": "743756"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-136.jpg",
+            "type": "image",
+            "target_id": "743761"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-137.jpg",
+            "type": "image",
+            "target_id": "743766"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-138.jpg",
+            "type": "image",
+            "target_id": "743771"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

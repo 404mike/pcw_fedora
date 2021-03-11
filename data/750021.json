@@ -1,0 +1,75 @@
+{
+    "id": 750021,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch Netball Team",
+        "cy": "T\u00eem P\u00eal-Rwyd Merched y Wawr Gorseinon"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750021",
+    "created": 1516899271,
+    "updated": 1516899271,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Gorseinon yn ennill cystadleuaeth b\u00eal-rwyd genedlaethol yn y Drenewydd yn y 1980au. Cefn:  ? ; Catrin Stevens, Ann Easter\nBlaen:  Gwen Evans; Linda Liles, Sue Leyshon, Monica ?",
+        "cy": "Merched y Wawr Gorseinon yn ennill cystadleuaeth b\u00eal-rwyd genedlaethol yn y Drenewydd yn y 1980au. Cefn:  ? ; Catrin Stevens, Ann Easter\nBlaen:  Gwen Evans; Linda Liles, Sue Leyshon, Monica ?"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ennill%20Pel-rwyd%20Cenedlaethol%201980au%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ennill%2520Pel-rwyd%2520Cenedlaethol%25201980au%2520001.jpg",
+            "type": "image",
+            "target_id": "750016"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

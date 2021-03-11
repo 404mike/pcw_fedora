@@ -1,0 +1,66 @@
+{
+    "id": 1046616,
+    "title": {
+        "en": "Annual Meeting 2004",
+        "cy": "Cyfarfod Blynyddol 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046616",
+    "created": 1555590324,
+    "updated": 1555590324,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph of Buddug Pauline accepting the Patagonia Prize from the adjudicator, Hafina Clwyd.",
+        "cy": "Buddug Pauline yn derbyn Gwobr Patagonia o law Hafina Clwyd, y beirniad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2004",
+        "patagonia prize",
+        "cyfarfod blynyddol 2004",
+        "gwobr patagonia",
+        "hafina clwyd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_050.jpg",
+            "type": "image",
+            "target_id": "1046611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

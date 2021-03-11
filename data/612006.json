@@ -1,0 +1,82 @@
+{
+    "id": 612006,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch in Carmarthen Area Eisteddfod ",
+        "cy": " Merched y Wawr Rhydaman a&#039;r Cylch yn Eisteddfod Rhanbarth Caerfyrddin  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612006",
+    "created": 1510753597,
+    "updated": 1510753597,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman Merched y Wawr yng nghystadleuaeth Eisteddfod Rhanbarthol yn Crosshands yn adrodd Salm y Genedl.  Yn y llun mae Carol Howells, Mavis Williams, Ann Jenkins, Bethan Thomas, Gwyneth Morgan, Meriel Thomas, Margaret Rees, Iorylle Evans.  Hyfforddrwaig \u2013 Mrs Enid Davies",
+        "cy": "Cangen Rhydaman Merched y Wawr yng nghystadleuaeth Eisteddfod Rhanbarthol yn Crosshands yn adrodd Salm y Genedl.  Yn y llun mae Carol Howells, Mavis Williams, Ann Jenkins, Bethan Thomas, Gwyneth Morgan, Meriel Thomas, Margaret Rees, Iorylle Evans.  Hyfforddrwaig \u2013 Mrs Enid Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.794374000000",
+            "lon": "-4.087431000000",
+            "description": {
+                "en": "Cross Hands",
+                "cy": "Cross Hands"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-162.jpg",
+            "type": "image",
+            "target_id": "611996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

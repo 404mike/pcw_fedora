@@ -1,0 +1,64 @@
+{
+    "id": 1149516,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2014",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149516",
+    "created": 1562066351,
+    "updated": 1562066351,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tippit \u2013 1st Beca, Pembrokeshire",
+        "cy": "Dewis Dau Ddwrn \u2013 1af Beca. Penfro"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_151.jpg",
+            "type": "image",
+            "target_id": "1149511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

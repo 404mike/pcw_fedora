@@ -1,0 +1,85 @@
+{
+    "id": 584318,
+    "title": {
+        "en": "Festival of Celebration Leaflet - Merched y Wawr Llanelli Branch Celebrates 21 Years, 1989",
+        "cy": "Taflen Cymanfa\u2019r Dathlu.  Merched y Wawr, Cangen Llanelli yn dathlu 21 oed.  1989.   "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584318",
+    "created": 1499870905,
+    "updated": 1499870905,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cymanfa\u2019r Dathlu.  Merched y Wawr, Cangen Llanelli yn dathlu UN ar Hugain Oed.  Capel Als, Llanelli.  Hydref 12, 1989.   Tudalen flaen",
+        "cy": "Taflen Cymanfa\u2019r Dathlu.  Merched y Wawr, Cangen Llanelli yn dathlu UN ar Hugain Oed.  Capel Als, Llanelli.  Hydref 12, 1989.   Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanelli",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.681364000000",
+            "lon": "-4.162501000000",
+            "description": {
+                "en": "Capel Als, Llanelli",
+                "cy": "Capel Als, Llanelli"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-090.jpg",
+            "type": "image",
+            "target_id": "584316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

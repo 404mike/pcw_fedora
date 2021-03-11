@@ -1,0 +1,86 @@
+{
+    "id": 599610,
+    "title": {
+        "en": "Betws y Coed Memorial Hall and Members of the Betws y Coed MyW Branch",
+        "cy": "Neuadd Goffa Betws y Coed a Aelodau\u2019r Gangen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599610",
+    "created": 1502446695,
+    "updated": 1502446695,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "These photo\u2019s show Betws y Coed Memorial Hall, where the Betws y Coed branch of MyW have met since the branch was formed in 1971. The second photo shows today\u2019s members with their special \u201850th\u2019 celebratory bags.",
+        "cy": "Yma welwn Neuadd Goffa Betws y Coed, lle mae aelodau\u2019r gangen wedi cwrdd ers dechrau\u2019r gangen ym 1971. Gwelwn hefyd aelodau\u2019r gangen fel y mae heddiw efo\u2019i bagiau dathlu\u2019r 50, rhodd arbennig i holl aelodau\u2019r Mudiad fel rhan o\u2019r dathliadau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "Betws y Coed Memorial Hall",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_001.jpg",
+            "type": "image",
+            "target_id": "599608"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

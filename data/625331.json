@@ -1,0 +1,87 @@
+{
+    "id": 625331,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Benllech Anglesey.",
+        "cy": "Cangen Merched y Wawr Benllech, Rhanbarth M\u00f4n. Dathlu\u2019r gangen yn 40, 1969 - 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625331",
+    "created": 1511280127,
+    "updated": 1511280127,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 40th birthday - 2009",
+        "cy": "Dathlu\u2019r gangen yn 40, 1969 - 2009. (blaen) Myfanwy Roberts, Marian Lloyd, Magdalen Jones,Eirwen Roberts (Llywydd Cyntaf Rh. Mon,1967), Nance Williams (Llywydd Cyntaf Cangen Benllech, 1969), Pat Ann Roberts (Llywydd Rh. Mon 2009), Ann Elfed Jones, Gwladys Parry, Mair Hughes, (canol) Marian Williams, Margaret Humphries, Gwyneth Haf Jones, Jane Roberts, Erina Roberts, Beryl Hughes Jones, Ann Rees, Ann Gibbard, Gwen George, (cefn) Eira Jones, Wendy Clarke, Peggy Jones, Myra Jones, Owena Hughes, Lena Evans, Mair Roberts, Ann Asteley, Wendy Howell Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Benllech",
+    "owner": "Cangen Benllech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Benllech",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Benllech",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226139000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_009.jpg",
+            "type": "image",
+            "target_id": "625321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

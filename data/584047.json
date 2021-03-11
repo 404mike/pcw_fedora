@@ -1,0 +1,84 @@
+{
+    "id": 584047,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting Fflach Recording Studio",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Stiwdio Fflach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584047",
+    "created": 1499870270,
+    "updated": 1499870270,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog, Medi 2001.  Ymweld \u00e2 Stiwdio Recordio Fflach, Aberteifi.  Yn y llun mae Mattie Lewis, Rhiannon Edwards, Haulwen Davies, Richard Jones (Cwmni Fflach), Eirianwen Thomas, Eiry Phillips a Gill Phillips",
+        "cy": "Merched y Wawr Cangen Maenclochog, Medi 2001.  Ymweld \u00e2 Stiwdio Recordio Fflach, Aberteifi.  Yn y llun mae Mattie Lewis, Rhiannon Edwards, Haulwen Davies, Richard Jones (Cwmni Fflach), Eirianwen Thomas, Eiry Phillips a Gill Phillips"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.077901000000",
+            "lon": "-4.657229000000",
+            "description": {
+                "en": "Stwidio Fflach, Aberteifi",
+                "cy": "Stwidio Fflach, Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-026.jpg",
+            "type": "image",
+            "target_id": "584045"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1147221,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147221",
+    "created": 1562065096,
+    "updated": 1562065096,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Learners Competition \u2013 Middle \u2013 Article for a magazine on your area. 1st Jill Cropley, Mydroilyn, Ceredigion.",
+        "cy": "Cystadleuaeth Dysgwyr \u2013 Canolradd \u2013 Erthygl i gylchgrawn am eich ardal. 1af Jill Cropley, Mydroilyn, Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_892.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_892.jpg",
+            "type": "image",
+            "target_id": "1147216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

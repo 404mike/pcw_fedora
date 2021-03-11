@@ -1,0 +1,84 @@
+{
+    "id": 742851,
+    "title": {
+        "en": "Merched y Wawr Neath Branch visit Gwili Railway",
+        "cy": "Merched y Wawr Cangen Castell Nedd ar drip i Rheilffordd Gwili"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742851",
+    "created": 1516895311,
+    "updated": 1516895311,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau Merched y Wawr Cangen Castell Nedd yn mwynhau ar y tren bach yn Rheilffordd Gwili, Bronwyddm ger Caerfyrddin.  Aelodau ar y Tr\u00ean:                                                                                i)x  ii)x 3. Phoebe, 4. Gwenda, 5. Patti, vi)x 7. Elizabeth, 8. Jean Boyles, 9. Mair Davies, 10. Mary Roberts,       11. Gaynor Williams, 12. Heulwen Richards",
+        "cy": "Llun aelodau Merched y Wawr Cangen Castell Nedd yn mwynhau ar y tren bach yn Rheilffordd Gwili, Bronwyddm ger Caerfyrddin.  Aelodau ar y Tr\u00ean:                                                                                i)x  ii)x 3. Phoebe, 4. Gwenda, 5. Patti, vi)x 7. Elizabeth, 8. Jean Boyles, 9. Mair Davies, 10. Mary Roberts,       11. Gaynor Williams, 12. Heulwen Richards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.891735000000",
+            "lon": "-4.300677000000",
+            "description": {
+                "en": "Rheilffordd Gwili",
+                "cy": "Rheilffordd Gwili"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "2015.05.21%20Gwyli%20Rheilffordd%20Fach_7x5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/2015.05.21%2520Gwyli%2520Rheilffordd%2520Fach_7x5.jpg",
+            "type": "image",
+            "target_id": "742841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

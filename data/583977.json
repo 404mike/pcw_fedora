@@ -1,0 +1,83 @@
+{
+    "id": 583977,
+    "title": {
+        "en": "Retirement of Merched y Wawr Development Officer 2009",
+        "cy": "Ymddeoliad Swyddog Datblygu Merched y Wawr 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583977",
+    "created": 1499870182,
+    "updated": 1499870182,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penwythnos ymddeol Malvina Ley, aelod o Gangen Lon Las o'r cychwyn cyntaf, fel Swyddog Datblygu yn 2009.  Mae hi yn dal yr anrheg o\u2019r mudiad yn genedlaethol (gemwaith Mari Thomas).  Yng Nghwesty y Cliff, Gwbert, ger Aberteifi",
+        "cy": "Penwythnos ymddeol Malvina Ley, aelod o Gangen Lon Las o'r cychwyn cyntaf, fel Swyddog Datblygu yn 2009.  Mae hi yn dal yr anrheg o\u2019r mudiad yn genedlaethol (gemwaith Mari Thomas).  Yng Nghwesty y Cliff, Gwbert, ger Aberteifi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.118295000000",
+            "lon": "-4.687878000000",
+            "description": {
+                "en": "Gwesty'r Cliff, Gwbert, Aberteifi",
+                "cy": "Gwesty'r Cliff, Gwbert, Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-007.jpg",
+            "type": "image",
+            "target_id": "583975"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

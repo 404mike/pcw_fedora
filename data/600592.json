@@ -1,0 +1,84 @@
+{
+    "id": 600592,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch Celebrate 25 Years, 1994",
+        "cy": "Penblwydd Merched y Wawr Cangen Llandeilo yn 25ain, 1994"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600592",
+    "created": 1502447952,
+    "updated": 1502447952,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penblwydd Merched y Wawr Cangen Llandeilo yn 25ain, Medi 1994 yng ngwesty\u2019r Cawdor (lle cafwyd cyfarfod swyddogol cyntaf y gangen n\u00f4l ym 1969).  \nYn y llun \u2013 Elizabeth Davies (Llywydd y Gangen), Bethan Edwards (Ysgrifennydd y Gangen), Joan Jones (Trysorydd), Gweneira Davies, Mrs Broad, Ann Roberts (Llywydd Rhanbarth), Nan Lewis (siaradwraig wadd, Llwydd Cenedlaethol), Iris Williams (Llywydd cyntaf y gangen), Mererid James (Ysgrifennydd cyntaf y gangen), Lynfa (Trysorydd cyntaf y gangen)",
+        "cy": "Penblwydd Merched y Wawr Cangen Llandeilo yn 25ain, Medi 1994 yng ngwesty\u2019r Cawdor (lle cafwyd cyfarfod swyddogol cyntaf y gangen n\u00f4l ym 1969).  \nYn y llun \u2013 Elizabeth Davies (Llywydd y Gangen), Bethan Edwards (Ysgrifennydd y Gangen), Joan Jones (Trysorydd), Gweneira Davies, Mrs Broad, Ann Roberts (Llywydd Rhanbarth), Nan Lewis (siaradwraig wadd, Llwydd Cenedlaethol), Iris Williams (Llywydd cyntaf y gangen), Mererid James (Ysgrifennydd cyntaf y gangen), Lynfa (Trysorydd cyntaf y gangen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.882897000000",
+            "lon": "-3.992972000000",
+            "description": {
+                "en": "Gwesty'r Cawdor, Llandeilo",
+                "cy": "Gwesty'r Cawdor, Llandeilo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-048.jpg",
+            "type": "image",
+            "target_id": "600590"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

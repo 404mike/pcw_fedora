@@ -1,0 +1,66 @@
+{
+    "id": 1047646,
+    "title": {
+        "en": "Annual Meeting 2007",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047646",
+    "created": 1555591014,
+    "updated": 1555591014,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elinor Joyce Owen receiving the first prize for a conversation on tape with June Lloyd Jones, Aberporth in the Learners' Competition.",
+        "cy": "Elinor Joyce Owen yn derbyn y wobr gyntaf am Sgwrs ar D\u00e2p yn adran y Dysgwyr, gyda June Lloyd Jones, Aberporth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_156.jpg",
+            "type": "image",
+            "target_id": "1047641"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1046381,
+    "title": {
+        "en": "Presentation",
+        "cy": "Cyflwyno Rhodd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046381",
+    "created": 1555590194,
+    "updated": 1555590194,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catrin Stevens, President presenting Delyth Fletcher with flowers and a gift as appreciation for her services as Y Wawr 's Deputy Editor and Advertising Officer for 12 years. In  the photograph Janet Evans, Editor. Marged Jones, Delyth Fletcher and Catrin Stevens.",
+        "cy": "Catrin Stevens , Llywydd yn cyflwyno blodau a rhodd i Delyth Fletcher am ei gwasanaeth fel Is-Olygydd a Threfnydd Hysbysebion Y Wawr am 12 mlynedd. Yn y llun: Janet Evans, Golygydd, Marged Jones, Delyth Fletcher a Catrin Stevens."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presentation",
+        "cyflwyno rhodd",
+        "Catrin Stevens",
+        "delyth fletcher"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_030.jpg",
+            "type": "image",
+            "target_id": "1046376"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

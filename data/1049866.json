@@ -1,0 +1,71 @@
+{
+    "id": 1049866,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049866",
+    "created": 1555592079,
+    "updated": 1555592079,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sketchbased on 'Bird\/s'. Winners \u2013 Y Parc and Bala Branches, Meirionethshire.",
+        "cy": "Sgets yn seiliedig ar 'Adar\/Aderyn'. Enillwyr \u2013 Canghennau'r Parc a'r Bala, Rhanbarth Meirionnydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_408.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_408.jpg",
+            "type": "image",
+            "target_id": "1049856"
+        },
+        {
+            "originalFilename": "df_myw_409.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_409.jpg",
+            "type": "image",
+            "target_id": "1049861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

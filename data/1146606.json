@@ -1,0 +1,64 @@
+{
+    "id": 1146606,
+    "title": {
+        "en": "Day Craft Course in South Wales at Tyglyn Aeron 2017",
+        "cy": "Cwrs Crefft yn y De 2017 \u2013 Tyglyn Aeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146606",
+    "created": 1562063938,
+    "updated": 1562063938,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Examples of the printing work.",
+        "cy": "Engreifftiau o'r gwaith argraffu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "craft course",
+        "cwrs crefft",
+        "tyglyn aeron"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_827.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_827.jpg",
+            "type": "image",
+            "target_id": "1146601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

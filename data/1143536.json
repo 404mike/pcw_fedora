@@ -1,0 +1,66 @@
+{
+    "id": 1143536,
+    "title": {
+        "en": "Annual Meeting 2013",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143536",
+    "created": 1562061034,
+    "updated": 1562061034,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Welsh Learners Competition.1st Ruth Sharpe \u2013 Article for Y Wawr.",
+        "cy": "Cystadleuaeth Dysgwyr. 1af Ruth Sharpe \u2013 Erthygl i'r Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "g\u0175yl haf",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_470.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_470.jpg",
+            "type": "image",
+            "target_id": "1143531"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

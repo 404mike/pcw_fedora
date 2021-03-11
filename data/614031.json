@@ -1,0 +1,90 @@
+{
+    "id": 614031,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch Programme 2001 - 2002",
+        "cy": "Rhaglen Merched y Wawr Cangen Aberporth 2001 \u2013 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614031",
+    "created": 1510754907,
+    "updated": 1510754907,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Aberporth 2001 \u2013 2002\nClawr \/ Cefn yn cynnwys enwau swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Aberporth 2001 \u2013 2002\nClawr \/ Cefn yn cynnwys enwau swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.132488000000",
+            "lon": "-4.541683000000",
+            "description": {
+                "en": "Aberporth",
+                "cy": "Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-098.jpg",
+            "type": "image",
+            "target_id": "614016"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-099.jpg",
+            "type": "image",
+            "target_id": "614021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

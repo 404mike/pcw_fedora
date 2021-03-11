@@ -1,0 +1,67 @@
+{
+    "id": 1047276,
+    "title": {
+        "en": "Swansea and District National Eisteddfod 2006",
+        "cy": "Eisteddfod Genedlaethol Abertawe a&#039;r Cylch 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047276",
+    "created": 1555590810,
+    "updated": 1555590810,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bro Ddyfi and Clwb Gwawr Glyndwr singing party at the President's Reception at the Eisteddfod.",
+        "cy": "Parti Canu Cangen Bro Ddyfi a Chlwb Gwawr Glyndwr yn Nerbyniad y Llywydd yn yr Eisteddfod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "SWANSEA",
+        "national eisteddfod",
+        "Eisteddfod Genedlaethol",
+        "abertawe"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_115.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_115.jpg",
+            "type": "image",
+            "target_id": "1047271"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

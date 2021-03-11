@@ -1,0 +1,84 @@
+{
+    "id": 746276,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch celebrates 40th Anniversary",
+        "cy": "Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch yn Dathlu Deugain Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746276",
+    "created": 1516897203,
+    "updated": 1516897203,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 40ain y Gangen yng Ngwesty T\u0177 Glyn Aeron 2012:\nRhes Gefn: Veronica James; Morfudd Slaymaker; Dinah Davies; Mair Lewis; Avanna Evans; Enyd Griffiths; Glenys Morris; Elizabeth Warmington; Gwynfil Griffiths.\nRhes Ganol: Margaret Jones (Evans); Dorothy James; Irene Jones; Dilwen Roderick; Glesni Thomas; Gwen Jones; Dilys Godfrey; Brenda Morgan; Mary Davies; Verina Roberts; Margaret Roberts; Ceinwen Jones; Joan James; Sadie Davies; Ray Jones; Eiry Jones; Eiry Jones; Miss Thomas; Beti Evans; Beryl Davies; Avril Williams; Eryl Jones.\nRhes Flaen: Elma Phillips; Morwen Thomas; Elizabeth Evans (Swyddog Datblygu); Tegwen Morris (Cyfarwyddwr y Mudiad); Gill Thomas (Llywydd Cenedlaethol); Noeleen Davies (Llywydd y Gangen); Gwyneth Morgan; Janet Evans; Ann Bowen Morgan.",
+        "cy": "Dathlu 40ain y Gangen yng Ngwesty T\u0177 Glyn Aeron 2012:\nRhes Gefn: Veronica James; Morfudd Slaymaker; Dinah Davies; Mair Lewis; Avanna Evans; Enyd Griffiths; Glenys Morris; Elizabeth Warmington; Gwynfil Griffiths.\nRhes Ganol: Margaret Jones (Evans); Dorothy James; Irene Jones; Dilwen Roderick; Glesni Thomas; Gwen Jones; Dilys Godfrey; Brenda Morgan; Mary Davies; Verina Roberts; Margaret Roberts; Ceinwen Jones; Joan James; Sadie Davies; Ray Jones; Eiry Jones; Eiry Jones; Miss Thomas; Beti Evans; Beryl Davies; Avril Williams; Eryl Jones.\nRhes Flaen: Elma Phillips; Morwen Thomas; Elizabeth Evans (Swyddog Datblygu); Tegwen Morris (Cyfarwyddwr y Mudiad); Gill Thomas (Llywydd Cenedlaethol); Noeleen Davies (Llywydd y Gangen); Gwyneth Morgan; Janet Evans; Ann Bowen Morgan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.215501000000",
+            "lon": "-4.193894000000",
+            "description": {
+                "en": "Ty Glyn Aeron",
+                "cy": "Ty Glyn Aeron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252041.jpg",
+            "type": "image",
+            "target_id": "746266"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

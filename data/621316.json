@@ -1,0 +1,86 @@
+{
+    "id": 621316,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Old Colwyn, Colwyn.",
+        "cy": "Cangen Merched y Wawr Hen Golwyn, Rhanbarth Colwyn. Penwythnos Preswyl y Mudiad yn Llandrindod ym 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621316",
+    "created": 1511278750,
+    "updated": 1511278750,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen ym mhenwythnos Preswyl y Mudiad yn Llandrindod ym 1991. Gwelwn: Margaret Jones, Jaan Bilsland, Meriwen Evans, Eleri Davies, Mari V. Jones, Hefina Evans, Yvonne Williams.",
+        "cy": "Rhai o aelodau\u2019r gangen ym mhenwythnos Preswyl y Mudiad yn Llandrindod ym 1991. Gwelwn: Margaret Jones, Jaan Bilsland, Meriwen Evans, Eleri Davies, Mari V. Jones, Hefina Evans, Yvonne Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Hen Golwyn",
+    "owner": "Cangen Hen Golwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Old Colwyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Hen Golwyn",
+        "Penwythnos Preswyl"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.289141000000",
+            "lon": "-3.698205000000",
+            "description": {
+                "en": "Old Colwyn",
+                "cy": "Hen Golwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HEN_GOLWYN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HEN_GOLWYN_004.jpg",
+            "type": "image",
+            "target_id": "621306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

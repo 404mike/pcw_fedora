@@ -1,0 +1,96 @@
+{
+    "id": 747751,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Cylch Wyre"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747751",
+    "created": 1516898103,
+    "updated": 1516898103,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Cylch Wyre\nTudalen 1 - Cofnodion cyfarfod agoriadol y gangen, Medi 15, 1975 yn Festri Capel Rhiwbwys. Tudalen 2 - Cofnodion cyfarfod agoriadol y gangen, Medi 15, 1975 yn Festri Capel Rhiwbwys. Tudalen 3 \u2013 Rhaglen Tymor cyntaf y Gangen, 1975-1976",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Cylch Wyre\nTudalen 1 - Cofnodion cyfarfod agoriadol y gangen, Medi 15, 1975 yn Festri Capel Rhiwbwys. Tudalen 2 - Cofnodion cyfarfod agoriadol y gangen, Medi 15, 1975 yn Festri Capel Rhiwbwys. Tudalen 3 \u2013 Rhaglen Tymor cyntaf y Gangen, 1975-1976"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Wyre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Cylch Wyre"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.305107000000",
+            "lon": "-4.146729000000",
+            "description": {
+                "en": "Festri Capel Rhiwbwys, Llanrhystud ",
+                "cy": "Festri Capel Rhiwbwys, Llanrhystud "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-191_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-191_0.jpg",
+            "type": "image",
+            "target_id": "747731"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-192_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-192_0.jpg",
+            "type": "image",
+            "target_id": "747736"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-193_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-193_0.jpg",
+            "type": "image",
+            "target_id": "747741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

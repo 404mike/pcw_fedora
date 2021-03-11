@@ -1,0 +1,65 @@
+{
+    "id": 1047156,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2006",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047156",
+    "created": 1555590746,
+    "updated": 1555590746,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Julia Revell receiving her prize for the best article for Welsh Learners. Left to right: Sian Arwel Davies, Juliet Revell, Glenys Thomas.",
+        "cy": "Juliet Revell yn derbyn gwobr am yr erthygl orau i Ddysgwyr ar y testun, 'Fy Hoff Le'. Chwith i'r dde: Sian Arwel Davies, Juliet Revell a Glenys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_101.jpg",
+            "type": "image",
+            "target_id": "1047151"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

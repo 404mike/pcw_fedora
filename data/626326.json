@@ -1,0 +1,87 @@
+{
+    "id": 626326,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gaerwen, Anglesey.",
+        "cy": "Cangen Merched y Wawr Gaerwen, Rhanbarth M\u00f4n yn dathlu ei phenblwydd yn 18."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626326",
+    "created": 1511280454,
+    "updated": 1511280454,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 18. Yma ceir; Yvonne Owen, Lorna Owen, Rosemary Jones, Bet Jones, Gladys Jones, Jean Williams, Megan Williams a Gwyneth Morris Jones.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 18. Yma ceir; Yvonne Owen, Lorna Owen, Rosemary Jones, Bet Jones, Gladys Jones, Jean Williams, Megan Williams a Gwyneth Morris Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gaerwen",
+    "owner": "Cangen Gaerwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gaerwen",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gaerwen",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 18"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.222982000000",
+            "lon": "-4.280288000000",
+            "description": {
+                "en": "Gaerwen",
+                "cy": "Gaerwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Gaerwen_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Gaerwen_011.jpg",
+            "type": "image",
+            "target_id": "626316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

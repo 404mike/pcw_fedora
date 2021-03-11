@@ -1,0 +1,86 @@
+{
+    "id": 624811,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Pum aelod gwreiddiol cangen Merched y Wawr Wuddgrug, Glyn Maelor. Dathlu 40 mlynedd, 2009."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624811",
+    "created": 1511279956,
+    "updated": 1511279956,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pum aelod gwreiddiol o\u2019r gangen ar achlysur dahlu 40ain y Gangen yn 2009. Beryl Davies, Vera jones, Janie Jones, Rhoda Jones a Myra Parry.",
+        "cy": "Pum aelod gwreiddiol o\u2019r gangen ar achlysur dahlu 40ain y Gangen yn 2009. Beryl Davies, Vera jones, Janie Jones, Rhoda Jones a Myra Parry."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 40"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_002.jpg",
+            "type": "image",
+            "target_id": "624801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

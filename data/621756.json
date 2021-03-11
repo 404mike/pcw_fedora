@@ -1,0 +1,86 @@
+{
+    "id": 621756,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn y dathlu 40ain y gangen - 2001."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621756",
+    "created": 1511278943,
+    "updated": 1511278943,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen y dathlu 40ain y gangen - 2001.",
+        "cy": "Cangen y dathlu 40ain y gangen - 2001."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_022.jpg",
+            "type": "image",
+            "target_id": "621746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

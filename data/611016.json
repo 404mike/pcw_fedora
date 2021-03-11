@@ -1,0 +1,75 @@
+{
+    "id": 611016,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch in the Fun Race 1998",
+        "cy": "Merched y Wawr Cangen Llangadog, Ras Hwyl 1998.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611016",
+    "created": 1510753352,
+    "updated": 1510753352,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o gangen Llangadog o Ferched y Wawr yn cymryd rhan yn Ras Hwyl 1998.  Yn y llun mae Eirlys Lewis, Aerona Williams a Janet Bowyer.",
+        "cy": "Aelodau o gangen Llangadog o Ferched y Wawr yn cymryd rhan yn Ras Hwyl 1998.  Yn y llun mae Eirlys Lewis, Aerona Williams a Janet Bowyer."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-215.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-215.jpg",
+            "type": "image",
+            "target_id": "611011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

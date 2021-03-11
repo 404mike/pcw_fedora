@@ -1,0 +1,91 @@
+{
+    "id": 599824,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Eglwysbach, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Eglwysbach, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599824",
+    "created": 1502446933,
+    "updated": 1502446933,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen y Tymor, 1996 - 1997, Cangen Eglwys Bach (blaen)",
+        "cy": "Rhaglen y Tymor, 1996 - 1997, Cangen Eglwys Bach (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Eglwysbach",
+    "owner": "Cangen Eglwysbach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandudno Junction Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Eglwysbach",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216637000000",
+            "lon": "-3.793126000000",
+            "description": {
+                "en": "Eglwysbach",
+                "cy": "Eglwysbach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EGLWYSBACH_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EGLWYSBACH_005.jpg",
+            "type": "image",
+            "target_id": "599821"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EGLWYSBACH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EGLWYSBACH_006.jpg",
+            "type": "image",
+            "target_id": "599822"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

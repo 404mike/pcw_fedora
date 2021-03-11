@@ -1,0 +1,65 @@
+{
+    "id": 1147041,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147041",
+    "created": 1562065013,
+    "updated": 1562065013,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Winners of the competition Craeting a Xmas Card and Verse Xmas 2017 with Meryl Lloyd, deputy President (on the left).",
+        "cy": "Enillwyr cystadleuaeth Creu Carden Nadolig a penillion Nadolig 2017 gyda'r Is-Lywydd (ar y chwith)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_874.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_874.jpg",
+            "type": "image",
+            "target_id": "1147036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

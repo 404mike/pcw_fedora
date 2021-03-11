@@ -1,0 +1,73 @@
+{
+    "id": 469808,
+    "title": {
+        "en": "Anglesey area of Merched y Wawr's contribution to the book published as 'Enwau Caeau a Mwy' 2014",
+        "cy": "Cyfraniad ardal Ynys M\u00f4n o Ferched y Wawr i lyfr &#039;Caeau a Mwy&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/469808",
+    "created": 1441700499,
+    "updated": 1441700499,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected during Anglesey Show by members of Merched y Wawr towards a project collecting Welsh names for a book published during the Winter Fair at Builth Wells 2014.",
+        "cy": "Cynnwys gwaith a gasglwyd yn Sioe M\u00f4n gan Ferched y Wawr Ynys M\u00f4n ar gyfer prosiect casglu enwau ar gyfer llyfr a gyhoeddwyd yn Ffair Aeaf Llanelwedd 2014"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_1090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1090.jpg",
+            "type": "image",
+            "target_id": "469805"
+        },
+        {
+            "originalFilename": "pcw001_1091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1091.jpg",
+            "type": "image",
+            "target_id": "469806"
+        },
+        {
+            "originalFilename": "pcw001_1092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1092.jpg",
+            "type": "image",
+            "target_id": "469807"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_1090",
+    "publisher_ref": ""
+}

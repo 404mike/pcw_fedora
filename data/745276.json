@@ -1,0 +1,103 @@
+{
+    "id": 745276,
+    "title": {
+        "en": "The History of Merched y Wawr Ffynnongroes Branch",
+        "cy": "Hanes Merched y Wawr Cangen Ffynnongroes"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745276",
+    "created": 1516896734,
+    "updated": 1516896734,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl gan Joyce Phillips, un o sylfaenwyr Merched y Wawr Ffynnongroes yn rhoi hanes y gangen.",
+        "cy": "Erthygl gan Joyce Phillips, un o sylfaenwyr Merched y Wawr Ffynnongroes yn rhoi hanes y gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170317_100827.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100827.jpg",
+            "type": "image",
+            "target_id": "745246"
+        },
+        {
+            "originalFilename": "20170317_100835.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100835.jpg",
+            "type": "image",
+            "target_id": "745251"
+        },
+        {
+            "originalFilename": "20170317_100841.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100841.jpg",
+            "type": "image",
+            "target_id": "745256"
+        },
+        {
+            "originalFilename": "20170317_100849.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100849.jpg",
+            "type": "image",
+            "target_id": "745261"
+        },
+        {
+            "originalFilename": "20170317_100859.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100859.jpg",
+            "type": "image",
+            "target_id": "745266"
+        },
+        {
+            "originalFilename": "20170317_100911.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170317_100911.jpg",
+            "type": "image",
+            "target_id": "745271"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

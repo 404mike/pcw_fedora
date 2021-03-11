@@ -1,0 +1,65 @@
+{
+    "id": 1046021,
+    "title": {
+        "en": "Hwyl Haf Merched y Wawr 2000",
+        "cy": "Hwyl Haf Merched y Wawr 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046021",
+    "created": 1555589928,
+    "updated": 1555589928,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyril Jones, guest speaker at the National Event Hwyl Haf at Newtown, Powys 2000.",
+        "cy": "Y Prifardd Cyril Jones yn siarad yn yr Hwyl Haf yn y Drenewydd, Powys 2000."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "hwyl haf merched y wawr",
+        "2000",
+        "hwyl haf merched y wawr 2000",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_002.jpg",
+            "type": "image",
+            "target_id": "1046016"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

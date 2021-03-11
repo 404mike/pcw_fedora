@@ -1,0 +1,75 @@
+{
+    "id": 746001,
+    "title": {
+        "en": "Janet Evans, Editor of the Merched y Wawr magazine, 'Y Wawr'",
+        "cy": "Janet Evans, Golygydd cylchgrawn Merched y Wawr, &#039;Y Wawr&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746001",
+    "created": 1516897069,
+    "updated": 1516897069,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Janet Evans, aelod o MYW Llambed a golygydd Y Wawr ar y pryd, yn beirniadu\u2019r gystadleuaeth am y rhaglen orau yng Ng\u0175yl Haf y mudiad",
+        "cy": "Janet Evans, aelod o MYW Llambed a golygydd Y Wawr ar y pryd, yn beirniadu\u2019r gystadleuaeth am y rhaglen orau yng Ng\u0175yl Haf y mudiad"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252010.jpg",
+            "type": "image",
+            "target_id": "745996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584072,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Merched y Wawr Ruby Celebrations 2007",
+        "cy": "Merched y Wawr Cangen Maenclochog - Dathlu Rhuddem Merched y Wawr 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584072",
+    "created": 1499870315,
+    "updated": 1499870315,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog\nGorffennaf 2007, Dathlu\u2019r Rhuddem - Mudiad Merched y Wawr yn dathlu penblwydd yn 40ed.  Bu aelodau Rhanbarth Penfro yn pwytho pedwar panel ar gyfer stondin MyW yn Sioe Llanelwedd.  Noson gymdeithasol yn Festri Capel Blaenffos.  Bu Mary Llewellyn, Eiry Phillips ac Ogwen Phillis yn gwnio ar ran Cangen Maenclochog.",
+        "cy": "Merched y Wawr Maenclochog\nGorffennaf 2007, Dathlu\u2019r Rhuddem - Mudiad Merched y Wawr yn dathlu penblwydd yn 40ed.  Bu aelodau Rhanbarth Penfro yn pwytho pedwar panel ar gyfer stondin MyW yn Sioe Llanelwedd.  Noson gymdeithasol yn Festri Capel Blaenffos.  Bu Mary Llewellyn, Eiry Phillips ac Ogwen Phillis yn gwnio ar ran Cangen Maenclochog."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.002659000000",
+            "lon": "-4.639193000000",
+            "description": {
+                "en": "Festri Capel Blaenffos",
+                "cy": "Festri Capel Blaenffos"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-036.jpg",
+            "type": "image",
+            "target_id": "584070"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

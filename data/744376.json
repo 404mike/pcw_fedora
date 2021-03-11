@@ -1,0 +1,75 @@
+{
+    "id": 744376,
+    "title": {
+        "en": "Merched y Wawr Bronant Branch Celebrate 25 Years in 1994",
+        "cy": "Merched y Wawr Bronant yn Dathlu Chwarter Canrif ym 1994."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744376",
+    "created": 1516896267,
+    "updated": 1516896267,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Ferched y Wawr Bronant gyda\u2019r Llywydd Cenedlaethol, Nan Lewis a Swyddogion Rhanbarth Ceredigion yn Dathlu Chwarter Canrif y gangen ym 1994.",
+        "cy": "Llun o Ferched y Wawr Bronant gyda\u2019r Llywydd Cenedlaethol, Nan Lewis a Swyddogion Rhanbarth Ceredigion yn Dathlu Chwarter Canrif y gangen ym 1994."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-151.jpg",
+            "type": "image",
+            "target_id": "744371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

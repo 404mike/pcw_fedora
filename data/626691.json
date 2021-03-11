@@ -1,0 +1,86 @@
+{
+    "id": 626691,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Llandegfan, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llandegfan, Rhanbarth M\u00f4n yn dathlu ei phenblwydd yn 10 oed, 1979"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626691",
+    "created": 1511280577,
+    "updated": 1511280577,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llandegfan yn dathlu ei phenblwydd yn 10 oed ym 1979. Mrs Megan Morris, Mrs Dilys, Evans, Mrs Wendy Williams, Mrs Elsie Williams, Mrs Kathleen Morris Jones, Mrs Mattie Williams.",
+        "cy": "Cangen Llandegfan yn dathlu ei phenblwydd yn 10 oed ym 1979. Mrs Megan Morris, Mrs Dilys, Evans, Mrs Wendy Williams, Mrs Elsie Williams, Mrs Kathleen Morris Jones, Mrs Mattie Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llandegfan",
+    "owner": "Cangen Llandegfan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandegfan",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandegfan",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.243244000000",
+            "lon": "-4.146291000000",
+            "description": {
+                "en": "Llandegfan",
+                "cy": "Llandegfan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_010.jpg",
+            "type": "image",
+            "target_id": "626681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,88 @@
+{
+    "id": 620181,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llangwm, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llangwm, Rhanbarth Colwyn. Gwyl Haf Merched y Wawr, yn Machynlleth yn 1992."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620181",
+    "created": 1511278366,
+    "updated": 1511278366,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llangwm yn cystadlu yng Nghwyl Haf Merched y Wawr, yn Machynlleth yn 1992. Gwelwn Ceinwen Hughes, Meinir Lynch, Eirwen Jones, Gwyneth Jones, Linda Evans, Haf Hughes, Buddug Jones, Teleri Roberts, Anwen Jones, Mally Jones, Mair Owen a Gwenan Williams",
+        "cy": "Cangen Llangwm yn cystadlu yng Nghwyl Haf Merched y Wawr, yn Machynlleth yn 1992. Gwelwn Ceinwen Hughes, Meinir Lynch, Eirwen Jones, Gwyneth Jones, Linda Evans, Haf Hughes, Buddug Jones, Teleri Roberts, Anwen Jones, Mally Jones, Mair Owen a Gwenan Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangwm",
+    "owner": "Cangen Llangwm",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llangwm",
+                "cy": "Cangen Merched y Wawr Llangwm"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "llangwm",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangwm",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.984821000000",
+            "lon": "-3.544486000000",
+            "description": {
+                "en": "Llangwm",
+                "cy": "Llangwm"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGWM_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGWM_013.jpg",
+            "type": "image",
+            "target_id": "620171"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

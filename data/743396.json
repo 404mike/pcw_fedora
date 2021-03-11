@@ -1,0 +1,76 @@
+{
+    "id": 743396,
+    "title": {
+        "en": "Merched y Wawr Afan Branch's First Members, with Neath Branch Members",
+        "cy": "Aelodau cyntaf Merched y Wawr Cangen Afan gydag aelodau Cangen Castell Nedd\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743396",
+    "created": 1516895853,
+    "updated": 1516895853,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tair aelod cyntaf Merched y Wawr Cangen Afan \u2013 Margaret Thomas, Siwsi Denby a Rae Thompson - gydag aelodau Cangen Castell Nedd, tua canol y 1970au.\nCyn sefydlu Cangen Afan ym Mhort Talbot yr oedd Margaret Thomas a Rae Thompson yn aelodau yng Nghangen Castell Nedd, gan deithio o Bort Talbot i\u2019r cyfarfodydd yng Nghastell Nedd yn fisol.  \nMi roedd tua 45 o ferched yn bresennol yng nghyfarfod cyntaf Cangen Afan a ddechreuwyd ym 1983.",
+        "cy": "Tair aelod cyntaf Merched y Wawr Cangen Afan \u2013 Margaret Thomas, Siwsi Denby a Rae Thompson - gydag aelodau Cangen Castell Nedd, tua canol y 1970au.\nCyn sefydlu Cangen Afan ym Mhort Talbot yr oedd Margaret Thomas a Rae Thompson yn aelodau yng Nghangen Castell Nedd, gan deithio o Bort Talbot i\u2019r cyfarfodydd yng Nghastell Nedd yn fisol.  \nMi roedd tua 45 o ferched yn bresennol yng nghyfarfod cyntaf Cangen Afan a ddechreuwyd ym 1983."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Afan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Afan",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-008.jpg",
+            "type": "image",
+            "target_id": "743391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,76 @@
+{
+    "id": 1148766,
+    "title": {
+        "en": "MyW Scrap Books",
+        "cy": "Llyfrau Lloffion MyW"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148766",
+    "created": 1562065894,
+    "updated": 1562065894,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The winning Scrap Book by Bryncoes branch, Dwyfor.",
+        "cy": "Y Llyfr Lloffion buddugol gan Gangen Bryncroes, Rhanbarth Dwyfor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "scrap books",
+        "llyfrau lloffion myw",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_072.jpg",
+            "type": "image",
+            "target_id": "1148751"
+        },
+        {
+            "originalFilename": "df_myw_v2_073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_073.jpg",
+            "type": "image",
+            "target_id": "1148756"
+        },
+        {
+            "originalFilename": "df_myw_v2_074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_074.jpg",
+            "type": "image",
+            "target_id": "1148761"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

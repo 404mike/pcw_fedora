@@ -1,0 +1,84 @@
+{
+    "id": 747841,
+    "title": {
+        "en": "Merched y Wawr Glyn Nedd Branch visiting the Assembly",
+        "cy": "Merched y Wawr Neath Branch Programme 1968 - 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747841",
+    "created": 1516898309,
+    "updated": 1516898309,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aeoldau Merched y Wawr Glyn Nedd yn ymweld \u00e2\u2019r Cynulliad yn y 2000au.\nGwyneth Edwards, Menna Walters, Gwyneth Jones, Megan Thomas, Megan Davies, Lynfa Thomas, Rhiannon Gordon, Karen Trimble, Nan Jones, Kathleen Harries",
+        "cy": "Aeoldau Merched y Wawr Glyn Nedd yn ymweld \u00e2\u2019r Cynulliad yn y 2000au.\nGwyneth Edwards, Menna Walters, Gwyneth Jones, Megan Thomas, Megan Davies, Lynfa Thomas, Rhiannon Gordon, Karen Trimble, Nan Jones, Kathleen Harries"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463410000000",
+            "lon": "-3.162847000000",
+            "description": {
+                "en": "Cynulliad Cenedlaethol Cymru",
+                "cy": "Cynulliad Cenedlaethol Cymru"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-036_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-036_0.jpg",
+            "type": "image",
+            "target_id": "747831"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

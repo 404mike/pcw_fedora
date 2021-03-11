@@ -1,0 +1,67 @@
+{
+    "id": 1049091,
+    "title": {
+        "en": "Xmas Fair 2010",
+        "cy": "Ffair Aeaf 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049091",
+    "created": 1555591780,
+    "updated": 1555591780,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "President, Mererid Jones on the MyW Stand at the Fair.",
+        "cy": "Y Llywydd, Mererid Jones ar stondin MyW yn y Ffair."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "xmas fair",
+        "stall",
+        "Ffair Aeaf",
+        "stondin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_317.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_317.jpg",
+            "type": "image",
+            "target_id": "1049086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

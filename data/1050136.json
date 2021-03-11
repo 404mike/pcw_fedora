@@ -1,0 +1,65 @@
+{
+    "id": 1050136,
+    "title": {
+        "en": "MyW Residential Weekend at Lampeter 2012",
+        "cy": "Penwythnos Preswyl MyW 2012 yn Llanbed \u2013 Cainc a Chelfyddyd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050136",
+    "created": 1555592200,
+    "updated": 1555592200,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The audience on their feet to applaud the group Mynediad am Ddim.",
+        "cy": "Y gynulleidfa ar eu traed yn cymeradwyo Mynediad am Ddim."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_438.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_438.jpg",
+            "type": "image",
+            "target_id": "1050131"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

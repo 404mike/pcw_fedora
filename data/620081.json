@@ -1,0 +1,89 @@
+{
+    "id": 620081,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llangwm, Colwyn.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llangwm, Rhanbarth Colwyn yn dathlu ei phenblwydd yn 40ain yn 2016."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620081",
+    "created": 1511278335,
+    "updated": 1511278335,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 40ain yn 2016. Sefydlwyd y Gangen yn 1976. Gwelwn: Gwenfron Jones, Carys Evans, Meinir Lynch, Linda Evans, Llinos Hughes, Gillian Jones, Helen Jones, Buddug Jones, Bethan Smallwood, Lowri Jones, Gwennan Wiliams Glenys Jones, Gwyneth Jones, Mally Jones, Ann Lambie, Haf Hughes, Ruth Morris Ceri Rowlands, Anwen Williams, Anwen Jones, Eirwen Jones, Barbara Jones, Mair Jones.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 40ain yn 2016. Sefydlwyd y Gangen yn 1976. Gwelwn: Gwenfron Jones, Carys Evans, Meinir Lynch, Linda Evans, Llinos Hughes, Gillian Jones, Helen Jones, Buddug Jones, Bethan Smallwood, Lowri Jones, Gwennan Wiliams Glenys Jones, Gwyneth Jones, Mally Jones, Ann Lambie, Haf Hughes, Ruth Morris Ceri Rowlands, Anwen Williams, Anwen Jones, Eirwen Jones, Barbara Jones, Mair Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangwm",
+    "owner": "Cangen Llangwm",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llangwm",
+                "cy": "Cangen Merched y Wawr Llangwm"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "llangwm",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangwm",
+        "Rhanbarth Colwyn",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.984821000000",
+            "lon": "-3.544486000000",
+            "description": {
+                "en": "Llangwm",
+                "cy": "Llangwm"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGWM_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGWM_002.jpg",
+            "type": "image",
+            "target_id": "620071"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

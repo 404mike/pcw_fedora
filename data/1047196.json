@@ -1,0 +1,68 @@
+{
+    "id": 1047196,
+    "title": {
+        "en": "Annual Meeting 2006",
+        "cy": "Cyfarfod Blynyddol 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047196",
+    "created": 1555590765,
+    "updated": 1555590765,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dr Dai Lloyd, adjudicating the entertainment competition.",
+        "cy": "Dr Dai Lloyd yn beirniadu y gystadleuaeth adloniant Iechyd a Ffitrwydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "dr dai lloyd",
+        "cyfarfod blynyddol",
+        "iechyd",
+        "ffitrwydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_106.jpg",
+            "type": "image",
+            "target_id": "1047191"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

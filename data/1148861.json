@@ -1,0 +1,76 @@
+{
+    "id": 1148861,
+    "title": {
+        "en": "Celebrating 200th edition of Y Wawr \u2013 MyW's magazine at the Conrah Hotel.",
+        "cy": "Dathlu rhifyn 200 o gylchgrawn Y Wawr yng ngwesty&#039;r Conrah."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148861",
+    "created": 1562065936,
+    "updated": 1562065936,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Some of the guests.",
+        "cy": "Rhai o'r gwesteion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Y Wawr",
+        "MYW",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_083.jpg",
+            "type": "image",
+            "target_id": "1148846"
+        },
+        {
+            "originalFilename": "df_myw_v2_084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_084.jpg",
+            "type": "image",
+            "target_id": "1148851"
+        },
+        {
+            "originalFilename": "df_myw_v2_085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_085.jpg",
+            "type": "image",
+            "target_id": "1148856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

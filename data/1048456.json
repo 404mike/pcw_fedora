@@ -1,0 +1,65 @@
+{
+    "id": 1048456,
+    "title": {
+        "en": "MyW Residential Weekend 2009",
+        "cy": "Penwythnos Preswyl MyW 2009 \u2013 Cicio&#039;r Bar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048456",
+    "created": 1555591493,
+    "updated": 1555591493,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The magician Rosfa having some help from Einir Wyn, Mererid Jones and Esyllt Jones.",
+        "cy": "Rosfa, y Consuriwr yn cael help gan Einir Wyn, Mererid Jones ac Esyllt Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_247.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_247.jpg",
+            "type": "image",
+            "target_id": "1048451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

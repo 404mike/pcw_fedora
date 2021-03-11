@@ -1,0 +1,81 @@
+{
+    "id": 747261,
+    "title": {
+        "en": "Merched y Wawr Melindwr Branch donating to T\u0177 Hafan ",
+        "cy": "Merched y Wawr Melindwr yn cyfrannu i T\u0177 Hafan "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747261",
+    "created": 1516897649,
+    "updated": 1516897649,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif rhodd gan T\u0177 Hafan i Ferched y Wawr Cangen Melindwr am y rhodd o \u00a3750 i\u2019r elusen yn 2005. Yn y llun mae Philip Thomas, Eirlys Davies, Eirwen McNulty, Llinos Evans",
+        "cy": "Tystysgrif rhodd gan T\u0177 Hafan i Ferched y Wawr Cangen Melindwr am y rhodd o \u00a3750 i\u2019r elusen yn 2005. Yn y llun mae Philip Thomas, Eirlys Davies, Eirwen McNulty, Llinos Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Melindwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Melindwr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-016.jpg",
+            "type": "image",
+            "target_id": "747251"
+        },
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-017.jpg",
+            "type": "image",
+            "target_id": "747256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

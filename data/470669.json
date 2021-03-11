@@ -1,0 +1,100 @@
+{
+    "id": 470669,
+    "title": {
+        "en": "Pencader, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Pencader, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470669",
+    "created": 1441700850,
+    "updated": 1441700850,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Pencader, Carmarthenshire branch of Merched y Wawr. It contains names of fields in the Lanfihangel-yr-Arth area. Also fields of Blaengyfre Farm, Dolgr\u00e2n.",
+        "cy": "Gwybodaeth am waith cangen Pencader, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys enwau caeau ardal Llanfihangel-yr-arth. Hefyd enwau caeau fferm Blaengyfre, Dolgr\u00e2n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10799.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10799.jpg",
+            "type": "image",
+            "target_id": "470661"
+        },
+        {
+            "originalFilename": "pcw001_10800.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10800.jpg",
+            "type": "image",
+            "target_id": "470662"
+        },
+        {
+            "originalFilename": "pcw001_10801.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10801.jpg",
+            "type": "image",
+            "target_id": "470663"
+        },
+        {
+            "originalFilename": "pcw001_10802.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10802.jpg",
+            "type": "image",
+            "target_id": "470664"
+        },
+        {
+            "originalFilename": "pcw001_10803.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10803.jpg",
+            "type": "image",
+            "target_id": "470665"
+        },
+        {
+            "originalFilename": "pcw001_10804.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10804.jpg",
+            "type": "image",
+            "target_id": "470666"
+        },
+        {
+            "originalFilename": "pcw001_10805.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10805.jpg",
+            "type": "image",
+            "target_id": "470667"
+        },
+        {
+            "originalFilename": "pcw001_10806.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10806.jpg",
+            "type": "image",
+            "target_id": "470668"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10799",
+    "publisher_ref": ""
+}

@@ -1,0 +1,77 @@
+{
+    "id": 470292,
+    "title": {
+        "en": "Uwchaled, Aberconwy branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Uwchaled, Aberconwy i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470292",
+    "created": 1441700684,
+    "updated": 1441700684,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Uwchaled, Aberconwy of Merched y Wawr. It contains some field names with meanings.",
+        "cy": "Gwybodaeth am waith cangen Uwchaled, Aberconwy o Ferched y Wawr. Mae'n cynnwys enwau caeau a'u hystyr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10459.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10459.jpg",
+            "type": "image",
+            "target_id": "470288"
+        },
+        {
+            "originalFilename": "pcw001_10460.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10460.jpg",
+            "type": "image",
+            "target_id": "470289"
+        },
+        {
+            "originalFilename": "pcw001_10461.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10461.jpg",
+            "type": "image",
+            "target_id": "470290"
+        },
+        {
+            "originalFilename": "pcw001_10462.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10462.jpg",
+            "type": "image",
+            "target_id": "470291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10459",
+    "publisher_ref": ""
+}

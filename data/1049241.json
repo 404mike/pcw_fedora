@@ -1,0 +1,66 @@
+{
+    "id": 1049241,
+    "title": {
+        "en": "Annual Meeting 2011",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049241",
+    "created": 1555591840,
+    "updated": 1555591840,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presenting a bound volume of the editions of Y Wawr edited by her to Catrin Stevens by the President, Mererid Jones. Also in the photo Tegwen Morris, Director.",
+        "cy": "Cyflwyno cyfrol rwymedig o rifynnau o'r Wawr a olygwyd ganddi i Catrin Stevens, gan y Llywydd, Mererid Jones, Yn y llun Tegwen Morris, Cyfarwyddwr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_334.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_334.jpg",
+            "type": "image",
+            "target_id": "1049236"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

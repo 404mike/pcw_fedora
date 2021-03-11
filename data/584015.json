@@ -1,0 +1,84 @@
+{
+    "id": 584015,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Pembrokeshire Shwmae Awards 2015",
+        "cy": "Merched y Wawr Cangen Maenclochog - Gwobrau Shwmae Sir Benfro 2015 \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584015",
+    "created": 1499870231,
+    "updated": 1499870231,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwobrau Shwmae Sir Benfro 2015, Coleg Sir Benfro, Hwlffordd, Hydref 2015.  Cynigwyd gwobr i aelodau Merched y Wawr am eu gwaith o hybu gweithgareddau\u2019r mudiad yn lleol a rhanbarthol.  Yr enillydd oedd Maureen George, Cangen Maenclochog. \nLlun 1 \u2013 Rhai o Gangen Maenclochog gyda Maureen George yn derbyn y tystysgrif, Eirianwen Thomas , Beryl John, Eirwyn George (gwr Maureen), Maureen a Mary Llewellyn .  \nLlun 2 \u2013 Awen Evans, Llywydd Rhanbarth Penfro, yn cyflwyno\u2019r wobr i Maureen.",
+        "cy": "Gwobrau Shwmae Sir Benfro 2015, Coleg Sir Benfro, Hwlffordd, Hydref 2015.  Cynigwyd gwobr i aelodau Merched y Wawr am eu gwaith o hybu gweithgareddau\u2019r mudiad yn lleol a rhanbarthol.  Yr enillydd oedd Maureen George, Cangen Maenclochog. \nLlun 1 \u2013 Rhai o Gangen Maenclochog gyda Maureen George yn derbyn y tystysgrif, Eirianwen Thomas , Beryl John, Eirwyn George (gwr Maureen), Maureen a Mary Llewellyn .  \nLlun 2 \u2013 Awen Evans, Llywydd Rhanbarth Penfro, yn cyflwyno\u2019r wobr i Maureen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792409000000",
+            "lon": "-4.981302000000",
+            "description": {
+                "en": "Coleg Sir Benfro, Hwlffordd",
+                "cy": "Coleg Sir Benfro, Hwlffordd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-014.jpg",
+            "type": "image",
+            "target_id": "584013"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

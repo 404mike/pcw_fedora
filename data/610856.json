@@ -1,0 +1,75 @@
+{
+    "id": 610856,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch, Reciting Party 1987",
+        "cy": "Parti Cydadrodd Merched y Wawr Cangen Llangadog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610856",
+    "created": 1510753311,
+    "updated": 1510753311,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangadog, Parti Cydadrodd 1987 \nYn y llun mae Menna Evans, Menna Roberts Cerist, Haulwen Booth, Alwena Roberts, Sara Slaymaker, Menna Roberts (Pendref)",
+        "cy": "Merched y Wawr Cangen Llangadog, Parti Cydadrodd 1987 \nYn y llun mae Menna Evans, Menna Roberts Cerist, Haulwen Booth, Alwena Roberts, Sara Slaymaker, Menna Roberts (Pendref)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-201.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-201.jpg",
+            "type": "image",
+            "target_id": "610851"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

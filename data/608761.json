@@ -1,0 +1,109 @@
+{
+    "id": 608761,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Penmachno, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Penmachno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608761",
+    "created": 1510752797,
+    "updated": 1510752797,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o waith celf\/ llaw aelodau\u2019r gangen.",
+        "cy": "Casgliad o luniau o waith celf\/ llaw aelodau\u2019r gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Penmachno ",
+    "owner": "Cangen Penmachno ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Penmachno",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penmachno",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.039303000000",
+            "lon": "-3.806500000000",
+            "description": {
+                "en": "Penmachno ",
+                "cy": "Penmachno "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_008.jpg",
+            "type": "image",
+            "target_id": "608731"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_009.jpg",
+            "type": "image",
+            "target_id": "608736"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_010.jpg",
+            "type": "image",
+            "target_id": "608741"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_011.jpg",
+            "type": "image",
+            "target_id": "608746"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_012.jpg",
+            "type": "image",
+            "target_id": "608751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

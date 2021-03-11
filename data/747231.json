@@ -1,0 +1,102 @@
+{
+    "id": 747231,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch, First Book of Minutes 1971",
+        "cy": "Merched y Wawr Cangen Maenclochog, Cofnodion cyntaf, 1971"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747231",
+    "created": 1516897636,
+    "updated": 1516897636,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog, Cofnodion cyntaf, 1971\nSefydlwyd y gangen Hydref, 1971.  Tu fewn y clawr \u2013 Rhestr swyddogion. Tudalen 1 \u2013 Cofnodion cyfarfod sefydlu\u2019r gangen ar Hyfref 12, 1971. Tudalen 2 \u2013 Cofnodion cyfarfod cefydlu\u2019r gangen ar Hydref 12, 1971, yn parhau",
+        "cy": "Merched y Wawr Cangen Maenclochog, Cofnodion cyntaf, 1971\nSefydlwyd y gangen Hydref, 1971.  Tu fewn y clawr \u2013 Rhestr swyddogion. Tudalen 1 \u2013 Cofnodion cyfarfod sefydlu\u2019r gangen ar Hyfref 12, 1971. Tudalen 2 \u2013 Cofnodion cyfarfod cefydlu\u2019r gangen ar Hydref 12, 1971, yn parhau"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Maenclochog ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Maenclochog"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.910665000000",
+            "lon": "-4.789172000000",
+            "description": {
+                "en": "Maenclochog",
+                "cy": "Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-128.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-128.jpg",
+            "type": "image",
+            "target_id": "747206"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-129.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-129.jpg",
+            "type": "image",
+            "target_id": "747211"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-130.jpg",
+            "type": "image",
+            "target_id": "747216"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-131.jpg",
+            "type": "image",
+            "target_id": "747221"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

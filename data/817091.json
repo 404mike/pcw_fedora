@@ -1,0 +1,369 @@
+{
+    "id": 817091,
+    "title": {
+        "en": "Scrapbook of Penrhyncoch Branch",
+        "cy": "Llyfr lloffion Cangen Penrhyncoch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/817091",
+    "created": 1523360629,
+    "updated": 1523360629,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Penrhyncoch",
+    "owner": "Cangen Penrhyncoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Penrhyncoch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Penrhyncoch00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00001.jpg",
+            "type": "image",
+            "target_id": "816841"
+        },
+        {
+            "originalFilename": "Penrhyncoch00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00002.jpg",
+            "type": "image",
+            "target_id": "816846"
+        },
+        {
+            "originalFilename": "Penrhyncoch00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00003.jpg",
+            "type": "image",
+            "target_id": "816851"
+        },
+        {
+            "originalFilename": "Penrhyncoch00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00004.jpg",
+            "type": "image",
+            "target_id": "816856"
+        },
+        {
+            "originalFilename": "Penrhyncoch00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00005.jpg",
+            "type": "image",
+            "target_id": "816861"
+        },
+        {
+            "originalFilename": "Penrhyncoch00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00006.jpg",
+            "type": "image",
+            "target_id": "816866"
+        },
+        {
+            "originalFilename": "Penrhyncoch00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00007.jpg",
+            "type": "image",
+            "target_id": "816871"
+        },
+        {
+            "originalFilename": "Penrhyncoch00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00008.jpg",
+            "type": "image",
+            "target_id": "816876"
+        },
+        {
+            "originalFilename": "Penrhyncoch00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00009.jpg",
+            "type": "image",
+            "target_id": "816881"
+        },
+        {
+            "originalFilename": "Penrhyncoch00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00010.jpg",
+            "type": "image",
+            "target_id": "816886"
+        },
+        {
+            "originalFilename": "Penrhyncoch00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00011.jpg",
+            "type": "image",
+            "target_id": "816891"
+        },
+        {
+            "originalFilename": "Penrhyncoch00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00012.jpg",
+            "type": "image",
+            "target_id": "816896"
+        },
+        {
+            "originalFilename": "Penrhyncoch00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00013.jpg",
+            "type": "image",
+            "target_id": "816901"
+        },
+        {
+            "originalFilename": "Penrhyncoch00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00014.jpg",
+            "type": "image",
+            "target_id": "816906"
+        },
+        {
+            "originalFilename": "Penrhyncoch00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00015.jpg",
+            "type": "image",
+            "target_id": "816911"
+        },
+        {
+            "originalFilename": "Penrhyncoch00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00016.jpg",
+            "type": "image",
+            "target_id": "816916"
+        },
+        {
+            "originalFilename": "Penrhyncoch00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00017.jpg",
+            "type": "image",
+            "target_id": "816921"
+        },
+        {
+            "originalFilename": "Penrhyncoch00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00018.jpg",
+            "type": "image",
+            "target_id": "816926"
+        },
+        {
+            "originalFilename": "Penrhyncoch00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00019.jpg",
+            "type": "image",
+            "target_id": "816931"
+        },
+        {
+            "originalFilename": "Penrhyncoch00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00020.jpg",
+            "type": "image",
+            "target_id": "816936"
+        },
+        {
+            "originalFilename": "Penrhyncoch00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00021.jpg",
+            "type": "image",
+            "target_id": "816941"
+        },
+        {
+            "originalFilename": "Penrhyncoch00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00022.jpg",
+            "type": "image",
+            "target_id": "816946"
+        },
+        {
+            "originalFilename": "Penrhyncoch00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00023.jpg",
+            "type": "image",
+            "target_id": "816951"
+        },
+        {
+            "originalFilename": "Penrhyncoch00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00024.jpg",
+            "type": "image",
+            "target_id": "816956"
+        },
+        {
+            "originalFilename": "Penrhyncoch00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00025.jpg",
+            "type": "image",
+            "target_id": "816961"
+        },
+        {
+            "originalFilename": "Penrhyncoch00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00026.jpg",
+            "type": "image",
+            "target_id": "816966"
+        },
+        {
+            "originalFilename": "Penrhyncoch00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00027.jpg",
+            "type": "image",
+            "target_id": "816971"
+        },
+        {
+            "originalFilename": "Penrhyncoch00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00028.jpg",
+            "type": "image",
+            "target_id": "816976"
+        },
+        {
+            "originalFilename": "Penrhyncoch00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00029.jpg",
+            "type": "image",
+            "target_id": "816981"
+        },
+        {
+            "originalFilename": "Penrhyncoch00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00030.jpg",
+            "type": "image",
+            "target_id": "816986"
+        },
+        {
+            "originalFilename": "Penrhyncoch00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00031.jpg",
+            "type": "image",
+            "target_id": "816991"
+        },
+        {
+            "originalFilename": "Penrhyncoch00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00032.jpg",
+            "type": "image",
+            "target_id": "816996"
+        },
+        {
+            "originalFilename": "Penrhyncoch00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00033.jpg",
+            "type": "image",
+            "target_id": "817001"
+        },
+        {
+            "originalFilename": "Penrhyncoch00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00034.jpg",
+            "type": "image",
+            "target_id": "817006"
+        },
+        {
+            "originalFilename": "Penrhyncoch00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00035.jpg",
+            "type": "image",
+            "target_id": "817011"
+        },
+        {
+            "originalFilename": "Penrhyncoch00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00036.jpg",
+            "type": "image",
+            "target_id": "817016"
+        },
+        {
+            "originalFilename": "Penrhyncoch00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00037.jpg",
+            "type": "image",
+            "target_id": "817021"
+        },
+        {
+            "originalFilename": "Penrhyncoch00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00038.jpg",
+            "type": "image",
+            "target_id": "817026"
+        },
+        {
+            "originalFilename": "Penrhyncoch00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00039.jpg",
+            "type": "image",
+            "target_id": "817031"
+        },
+        {
+            "originalFilename": "Penrhyncoch00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00040.jpg",
+            "type": "image",
+            "target_id": "817036"
+        },
+        {
+            "originalFilename": "Penrhyncoch00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00041.jpg",
+            "type": "image",
+            "target_id": "817041"
+        },
+        {
+            "originalFilename": "Penrhyncoch00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00042.jpg",
+            "type": "image",
+            "target_id": "817046"
+        },
+        {
+            "originalFilename": "Penrhyncoch00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00043.jpg",
+            "type": "image",
+            "target_id": "817051"
+        },
+        {
+            "originalFilename": "Penrhyncoch00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00044.jpg",
+            "type": "image",
+            "target_id": "817056"
+        },
+        {
+            "originalFilename": "Penrhyncoch00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00045.jpg",
+            "type": "image",
+            "target_id": "817061"
+        },
+        {
+            "originalFilename": "Penrhyncoch00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00046.jpg",
+            "type": "image",
+            "target_id": "817066"
+        },
+        {
+            "originalFilename": "Penrhyncoch00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00047.jpg",
+            "type": "image",
+            "target_id": "817071"
+        },
+        {
+            "originalFilename": "Penrhyncoch00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00048.jpg",
+            "type": "image",
+            "target_id": "817076"
+        },
+        {
+            "originalFilename": "Penrhyncoch00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00049.jpg",
+            "type": "image",
+            "target_id": "817081"
+        },
+        {
+            "originalFilename": "Penrhyncoch00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Penrhyncoch00050.jpg",
+            "type": "image",
+            "target_id": "817086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

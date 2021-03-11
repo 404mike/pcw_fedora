@@ -1,0 +1,81 @@
+{
+    "id": 601539,
+    "title": {
+        "en": "Merched y Wawr Bannau Branch 2016-2017",
+        "cy": "Rhaglen Merched y Wawr Cangen y Bannau 2016-2017 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601539",
+    "created": 1502449528,
+    "updated": 1502449528,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen y Bannau 2016-2017 \u2013 Clawr",
+        "cy": "Rhaglen Merched y Wawr Cangen y Bannau 2016-2017 \u2013 Clawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bannau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bannau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-077.jpg",
+            "type": "image",
+            "target_id": "601537"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-078%20.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-078%2520.jpg",
+            "type": "image",
+            "target_id": "601538"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

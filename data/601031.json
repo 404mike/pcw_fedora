@@ -1,0 +1,96 @@
+{
+    "id": 601031,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Branch, Plygain Service 1992 and 1993",
+        "cy": "Gwasanaeth Plygain Merched y Wawr Cangen Llannau\u2019r Tywi 1992 a 1993 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601031",
+    "created": 1502448575,
+    "updated": 1502448575,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi, Gwasanaeth Plygain 1992 Ar nos Sul, Rhagfyr 13, 1992 cynhaliwyd Gwasanaeth Plygain yng Nghapel Ebeneser, Llangynog.  Paratowyd a threfnwyd y rhaglen gan Miss Beryl Thomas a chyfranwyd rhan helaeth o\u2019r casgliad tuag at Gronfa Adnewyddu Capel Ebeneser.\nY flwyddyn ganlynol cynhaliwyd Gwasanaeth Plygain ar brynhawn Sul yng Nghapel Moriah, Llansteffan a chyfranwyd casgliad y gwasanaeth hwnnw tuag at Ganolfan Ieuenctid Methodistiaid, Tresaith.  \nYr aelodau ym Mhlygain 1992",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, Gwasanaeth Plygain 1992 Ar nos Sul, Rhagfyr 13, 1992 cynhaliwyd Gwasanaeth Plygain yng Nghapel Ebeneser, Llangynog.  Paratowyd a threfnwyd y rhaglen gan Miss Beryl Thomas a chyfranwyd rhan helaeth o\u2019r casgliad tuag at Gronfa Adnewyddu Capel Ebeneser.\nY flwyddyn ganlynol cynhaliwyd Gwasanaeth Plygain ar brynhawn Sul yng Nghapel Moriah, Llansteffan a chyfranwyd casgliad y gwasanaeth hwnnw tuag at Ganolfan Ieuenctid Methodistiaid, Tresaith.  \nYr aelodau ym Mhlygain 1992"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.824310000000",
+            "lon": "-3.406286000000",
+            "description": {
+                "en": "Capel Ebeneser Llangynog",
+                "cy": "Capel Ebeneser Llangynog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_028.jpg",
+            "type": "image",
+            "target_id": "601027"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_030.jpg",
+            "type": "image",
+            "target_id": "601028"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_032.jpg",
+            "type": "image",
+            "target_id": "601029"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

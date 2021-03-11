@@ -1,0 +1,89 @@
+{
+    "id": 752211,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752211",
+    "created": 1516958134,
+    "updated": 1516958134,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen a banner y Rhanbarth tra\u2019n dathlu 25mlynedd y mudiad ym Mehefin 1992. Gwelwn: Menna, Marian, Catherine, Beryl a Meira Pierce (Nantcol).",
+        "cy": "Rhai o aelodau\u2019r gangen a banner y Rhanbarth tra\u2019n dathlu 25mlynedd y mudiad ym Mehefin 1992. Gwelwn: Menna, Marian, Catherine, Beryl a Meira Pierce (Nantcol)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_20160510_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_20160510_003.jpg",
+            "type": "image",
+            "target_id": "752201"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

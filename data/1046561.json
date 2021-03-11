@@ -1,0 +1,65 @@
+{
+    "id": 1046561,
+    "title": {
+        "en": "President's Dinner in South Wales 2004",
+        "cy": "Cinio&#039;r Llywydd yn y De 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046561",
+    "created": 1555590296,
+    "updated": 1555590296,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ann Rosser, West Glamorgan Region's president welcoming the members to the dinner and the area.",
+        "cy": "Ann Rosser, Llywydd Gorllewin Morgannwg yn croesawu'r aelodau i'r ginio ac i'r ardal."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2004",
+        "west glamorgan region",
+        "cinior llywydd yn y de 2004",
+        "gorllewin morgannwg"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_045.jpg",
+            "type": "image",
+            "target_id": "1046556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

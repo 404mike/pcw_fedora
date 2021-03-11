@@ -1,0 +1,75 @@
+{
+    "id": 747381,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch 40th Anniversary Singing Festival",
+        "cy": "Cymanfa Ganu Merched y Wawr Cangen Mynach i ddathlu penblwydd y gangen yn 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747381",
+    "created": 1516897708,
+    "updated": 1516897708,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cymanfa Ganu Merched y Wawr Cangen Mynach i Ddathlu Deugain Oed y Gangen, Medi 20 (2009 \u2013 dechreuwyd y gangen ym 1969).",
+        "cy": "Taflen Cymanfa Ganu Merched y Wawr Cangen Mynach i Ddathlu Deugain Oed y Gangen, Medi 20 (2009 \u2013 dechreuwyd y gangen ym 1969)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-166.jpg",
+            "type": "image",
+            "target_id": "747376"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

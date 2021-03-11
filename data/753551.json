@@ -1,0 +1,86 @@
+{
+    "id": 753551,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mawddwy, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mawddwy, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753551",
+    "created": 1516958503,
+    "updated": 1516958503,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenlwydd yn 21 ym 1991. Gwelwn: (cefn) Olwen Wyn, Mair Rees, Gaunor Roberts, Glenys Roberts, Mag Pugh, Glenys Lewis, Gladys Jones, Eldrydd Edwards, Selian Jones, Mair Morgans, Myfanwy Davies, Esther Griffiths, Gwen Evans, Olwen Jones, Beti Williams, Mygfanwy Griffiths (2i) Dilys Roberts, Siw Hughes, Gillian Morris, Jean Preston, Jennifer Jones, Sian Pugh, Mair Hughes, Annie Jones, Margaret Ann Jones, Mair Wyn Jones, (blaen) Anwen Pugh, Carys Jones, Meinir Rees, Megan Jones, Gwenfair Davies.",
+        "cy": "Y Gangen yn dathlu ei phenlwydd yn 21 ym 1991. Gwelwn: (cefn) Olwen Wyn, Mair Rees, Gaunor Roberts, Glenys Roberts, Mag Pugh, Glenys Lewis, Gladys Jones, Eldrydd Edwards, Selian Jones, Mair Morgans, Myfanwy Davies, Esther Griffiths, Gwen Evans, Olwen Jones, Beti Williams, Mygfanwy Griffiths (2i) Dilys Roberts, Siw Hughes, Gillian Morris, Jean Preston, Jennifer Jones, Sian Pugh, Mair Hughes, Annie Jones, Margaret Ann Jones, Mair Wyn Jones, (blaen) Anwen Pugh, Carys Jones, Meinir Rees, Megan Jones, Gwenfair Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mawddwy,",
+    "owner": "Cangen Mawddwy,",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mawddwy",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mawddwy",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.721860000000",
+            "lon": "-3.688326000000",
+            "description": {
+                "en": "Dinas Mawddwy",
+                "cy": "Dinas Mawddwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAWDDWY014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAWDDWY014.jpg",
+            "type": "image",
+            "target_id": "753541"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

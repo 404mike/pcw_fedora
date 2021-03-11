@@ -1,0 +1,84 @@
+{
+    "id": 613656,
+    "title": {
+        "en": "Merched y Wawr Tumble Branch at the Carmarthen Area Hwyl Ebrill (April Fun) ",
+        "cy": "Merched y Wawr Cangen Y Tymbl a yn \u2018Hwyl Ebrill\u2019 Rhanbarth Caerfyrddin\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613656",
+    "created": 1510753988,
+    "updated": 1510753988,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Tymbl a ddaeth yn fuddugol yn \u2018Hwyl Ebrill\u2019 Rhanbarth Caerfyrddin yn Llangennech yn 2012\nEsmi Lloyd, Angela Jones, Gaynor Hughes, Delyth Armstrong, Erica Samuel, ?, Susan Jones, Buddug ?, Dilys Tedaldi, Bet Davies \nMeryl Evans, Cath Price, Elen Jones, Nerys Samuel",
+        "cy": "Merched y Wawr Cangen Y Tymbl a ddaeth yn fuddugol yn \u2018Hwyl Ebrill\u2019 Rhanbarth Caerfyrddin yn Llangennech yn 2012\nEsmi Lloyd, Angela Jones, Gaynor Hughes, Delyth Armstrong, Erica Samuel, ?, Susan Jones, Buddug ?, Dilys Tedaldi, Bet Davies \nMeryl Evans, Cath Price, Elen Jones, Nerys Samuel"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.695996000000",
+            "lon": "-4.083590000000",
+            "description": {
+                "en": "Llangennech",
+                "cy": "Llangennech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_087.jpg",
+            "type": "image",
+            "target_id": "613646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

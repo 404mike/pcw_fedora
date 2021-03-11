@@ -1,0 +1,75 @@
+{
+    "id": 747876,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Pennill Dathlu Penblwydd Merched y Wawr Penrhyncoch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747876",
+    "created": 1516898320,
+    "updated": 1516898320,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pennill gan Mairwen Jones, aelod o Ferched y Wawr Penrhyncoch, wrth i\u2019r gangen Ddathlu penblwydd yn 30 yn 2006-2007.",
+        "cy": "Pennill gan Mairwen Jones, aelod o Ferched y Wawr Penrhyncoch, wrth i\u2019r gangen Ddathlu penblwydd yn 30 yn 2006-2007."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Penrhyncoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Penrhyncoch"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-256_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-256_0.jpg",
+            "type": "image",
+            "target_id": "747871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

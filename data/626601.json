@@ -1,0 +1,86 @@
+{
+    "id": 626601,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Llandegfan, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llandegfan, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626601",
+    "created": 1511280548,
+    "updated": 1511280548,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sefydlwyd Cangen Llandegfan ym mis Chwefror 1969 a dyma chai lluniau o\u2019r gangen yn eu cyfarfod ym mis Mawrth. Dyma rhai o aelodau cyntaf y gangen: Mrs Williams (Ty Capel) Mrs Elise Williams, Mrs Kathllen Morris Jones, Glenys Lloyd, Wendy Williams, Helen Rammage, Enid Davies, Dilys Evens, Daisy Jones, Mrs Jones (Erw Hywel), Mrs Roberts (Tan Fynwent) Maggie Hughes, Beryl Roberts, Mary Hughes, Mrs Mattie Williams.",
+        "cy": "Sefydlwyd Cangen Llandegfan ym mis Chwefror 1969 a dyma chai lluniau o\u2019r gangen yn eu cyfarfod ym mis Mawrth. Dyma rhai o aelodau cyntaf y gangen: Mrs Williams (Ty Capel) Mrs Elise Williams, Mrs Kathllen Morris Jones, Glenys Lloyd, Wendy Williams, Helen Rammage, Enid Davies, Dilys Evens, Daisy Jones, Mrs Jones (Erw Hywel), Mrs Roberts (Tan Fynwent) Maggie Hughes, Beryl Roberts, Mary Hughes, Mrs Mattie Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llandegfan",
+    "owner": "Cangen Llandegfan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandegfan",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandegfan",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.243244000000",
+            "lon": "-4.146291000000",
+            "description": {
+                "en": "Llandegfan",
+                "cy": "Llandegfan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_001.jpg",
+            "type": "image",
+            "target_id": "626591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 749026,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch singing carols",
+        "cy": "Merched y Wawr Tegryn yn canu carolau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749026",
+    "created": 1516898816,
+    "updated": 1516898816,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Tegryn yn canu carolau Nadolig yng Nghapel Brynmyrnach, Hermon",
+        "cy": "Aelodau Merched y Wawr Tegryn yn canu carolau Nadolig yng Nghapel Brynmyrnach, Hermon"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-072.jpg",
+            "type": "image",
+            "target_id": "749021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

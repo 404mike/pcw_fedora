@@ -1,0 +1,84 @@
+{
+    "id": 584026,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Knitting blankets for Romania",
+        "cy": "Merched y Wawr Cangen Maenclochog - Gwau blancedi i Rwmania"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584026",
+    "created": 1499870246,
+    "updated": 1499870246,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ym 1993 bu Merched y Wawr Rhanbarth Penfro yn gwau sgwariau ar gyfer Rwmania \u2013 gwneud blancedi.  Dyma gyfraniad Cangen Maenclochog.\nRhes gefn \u2013 Vi Edwards, Gretta Gibby, Daisy Evans, Ogwen Phillips, Sheila Vaughan, Non Roberts a Beth Iorwerth\nRhes flaen \u2013 Ann Morris, Buddug Harries a Rhiannon Edwards",
+        "cy": "Ym 1993 bu Merched y Wawr Rhanbarth Penfro yn gwau sgwariau ar gyfer Rwmania \u2013 gwneud blancedi.  Dyma gyfraniad Cangen Maenclochog.\nRhes gefn \u2013 Vi Edwards, Gretta Gibby, Daisy Evans, Ogwen Phillips, Sheila Vaughan, Non Roberts a Beth Iorwerth\nRhes flaen \u2013 Ann Morris, Buddug Harries a Rhiannon Edwards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.911782000000",
+            "lon": "-4.788467000000",
+            "description": {
+                "en": "Maenclochog",
+                "cy": "Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-018.jpg",
+            "type": "image",
+            "target_id": "584024"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 745736,
+    "title": {
+        "en": "Merched y Wawr Haverfordwest Branch knitting blankets",
+        "cy": "Merched y Wawr Cangen Hwlffordd yn gwau blancedi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745736",
+    "created": 1516896948,
+    "updated": 1516896948,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Merched y Wawr Hwlffordd wedi dod at ei gilydd i wau 2 flanced ar gyfer eu danfon i Rwmania.  \nYn y llun:- \nBlaen - Ceri Jenkins, May Jenkins, Eluned Hughes, Caroline Smith \nCefn \u2013 Ionwy Thorne, Anne Beynon, Perlys John, Mer Evans",
+        "cy": "Rhai o aelodau Merched y Wawr Hwlffordd wedi dod at ei gilydd i wau 2 flanced ar gyfer eu danfon i Rwmania.  \nYn y llun:- \nBlaen - Ceri Jenkins, May Jenkins, Eluned Hughes, Caroline Smith \nCefn \u2013 Ionwy Thorne, Anne Beynon, Perlys John, Mer Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Hwlffordd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hwlffordd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW_Hwlffordd_Treftadaeth_5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_Hwlffordd_Treftadaeth_5.jpg",
+            "type": "image",
+            "target_id": "745731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

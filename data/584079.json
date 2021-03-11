@@ -1,0 +1,84 @@
+{
+    "id": 584079,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - A Tribute to DJ Williams 1986",
+        "cy": "Merched y Wawr Cangen Maenclochog - Rhaglen Deyrnged i DJ Williams 1986"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584079",
+    "created": 1499870325,
+    "updated": 1499870325,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyflwynwyd Rhaglen Deyrnged i\u2019r diweddar DJ Williams, llenor a chenedlaetholwr, gan aelodau o Ferched y Wawr Sir Benfro yn Ysgol Uwchradd Abergwaun, 6 Awst 1986 yn ystod wythnos yr Eisteddfod Genedlaethol.  \nC\u00f4r Cangen Maenclochog\nCefn: Mai Jones, Gillian Phillips, Ann Morrs, Kitty Evans\nBlaen: Eirianwen Thomas, Leila Davies, Rhiannon Edwards ac Eirwen Gibby",
+        "cy": "Cyflwynwyd Rhaglen Deyrnged i\u2019r diweddar DJ Williams, llenor a chenedlaetholwr, gan aelodau o Ferched y Wawr Sir Benfro yn Ysgol Uwchradd Abergwaun, 6 Awst 1986 yn ystod wythnos yr Eisteddfod Genedlaethol.  \nC\u00f4r Cangen Maenclochog\nCefn: Mai Jones, Gillian Phillips, Ann Morrs, Kitty Evans\nBlaen: Eirianwen Thomas, Leila Davies, Rhiannon Edwards ac Eirwen Gibby"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.996211000000",
+            "lon": "-4.988002000000",
+            "description": {
+                "en": "Ysgol Uwchradd Abergwaun",
+                "cy": "Ysgol Uwchradd Abergwaun"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-039.jpg",
+            "type": "image",
+            "target_id": "584077"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

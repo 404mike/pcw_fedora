@@ -1,0 +1,86 @@
+{
+    "id": 625971,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Caergybi, Holyhead, Anglesey.",
+        "cy": "Aelodau cyntaf cangen Merched y Wawr Caergybi, Rhanbarth M\u00f4n. 29 Ionawr, 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625971",
+    "created": 1511280333,
+    "updated": 1511280333,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau cyntaf Cangen Caergybi, 29.01.1969",
+        "cy": "Llun o aelodau cyntaf Cangen Caergybi, 29.01.1969"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Caergybi",
+    "owner": "Cangen Caergybi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holyhead",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caergybi",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.316229000000",
+            "lon": "-4.644301000000",
+            "description": {
+                "en": "Caergybi",
+                "cy": "Caergybi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CAERGYBI_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CAERGYBI_009.jpg",
+            "type": "image",
+            "target_id": "625961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

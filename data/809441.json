@@ -1,0 +1,464 @@
+{
+    "id": 809441,
+    "title": {
+        "en": "Scrapbook of Bryncroes Branch",
+        "cy": "Llyfr lloffion Cangen Bryncroes"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/809441",
+    "created": 1523359151,
+    "updated": 1523359151,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bryncroes",
+    "owner": "Cangen Bryncroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Bryncroes"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Bryncroes00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00001.jpg",
+            "type": "image",
+            "target_id": "809111"
+        },
+        {
+            "originalFilename": "Bryncroes00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00002.jpg",
+            "type": "image",
+            "target_id": "809116"
+        },
+        {
+            "originalFilename": "Bryncroes00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00003.jpg",
+            "type": "image",
+            "target_id": "809121"
+        },
+        {
+            "originalFilename": "Bryncroes00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00004.jpg",
+            "type": "image",
+            "target_id": "809126"
+        },
+        {
+            "originalFilename": "Bryncroes00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00005.jpg",
+            "type": "image",
+            "target_id": "809131"
+        },
+        {
+            "originalFilename": "Bryncroes00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00006.jpg",
+            "type": "image",
+            "target_id": "809136"
+        },
+        {
+            "originalFilename": "Bryncroes00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00007.jpg",
+            "type": "image",
+            "target_id": "809141"
+        },
+        {
+            "originalFilename": "Bryncroes00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00008.jpg",
+            "type": "image",
+            "target_id": "809146"
+        },
+        {
+            "originalFilename": "Bryncroes00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00009.jpg",
+            "type": "image",
+            "target_id": "809151"
+        },
+        {
+            "originalFilename": "Bryncroes00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00010.jpg",
+            "type": "image",
+            "target_id": "809156"
+        },
+        {
+            "originalFilename": "Bryncroes00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00011.jpg",
+            "type": "image",
+            "target_id": "809161"
+        },
+        {
+            "originalFilename": "Bryncroes00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00012.jpg",
+            "type": "image",
+            "target_id": "809166"
+        },
+        {
+            "originalFilename": "Bryncroes00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00013.jpg",
+            "type": "image",
+            "target_id": "809171"
+        },
+        {
+            "originalFilename": "Bryncroes00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00014.jpg",
+            "type": "image",
+            "target_id": "809176"
+        },
+        {
+            "originalFilename": "Bryncroes00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00015.jpg",
+            "type": "image",
+            "target_id": "809181"
+        },
+        {
+            "originalFilename": "Bryncroes00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00016.jpg",
+            "type": "image",
+            "target_id": "809186"
+        },
+        {
+            "originalFilename": "Bryncroes00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00017.jpg",
+            "type": "image",
+            "target_id": "809191"
+        },
+        {
+            "originalFilename": "Bryncroes00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00018.jpg",
+            "type": "image",
+            "target_id": "809196"
+        },
+        {
+            "originalFilename": "Bryncroes00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00019.jpg",
+            "type": "image",
+            "target_id": "809201"
+        },
+        {
+            "originalFilename": "Bryncroes00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00020.jpg",
+            "type": "image",
+            "target_id": "809206"
+        },
+        {
+            "originalFilename": "Bryncroes00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00021.jpg",
+            "type": "image",
+            "target_id": "809211"
+        },
+        {
+            "originalFilename": "Bryncroes00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00022.jpg",
+            "type": "image",
+            "target_id": "809216"
+        },
+        {
+            "originalFilename": "Bryncroes00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00023.jpg",
+            "type": "image",
+            "target_id": "809221"
+        },
+        {
+            "originalFilename": "Bryncroes00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00024.jpg",
+            "type": "image",
+            "target_id": "809226"
+        },
+        {
+            "originalFilename": "Bryncroes00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00025.jpg",
+            "type": "image",
+            "target_id": "809231"
+        },
+        {
+            "originalFilename": "Bryncroes00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00026.jpg",
+            "type": "image",
+            "target_id": "809236"
+        },
+        {
+            "originalFilename": "Bryncroes00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00027.jpg",
+            "type": "image",
+            "target_id": "809241"
+        },
+        {
+            "originalFilename": "Bryncroes00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00028.jpg",
+            "type": "image",
+            "target_id": "809246"
+        },
+        {
+            "originalFilename": "Bryncroes00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00029.jpg",
+            "type": "image",
+            "target_id": "809251"
+        },
+        {
+            "originalFilename": "Bryncroes00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00030.jpg",
+            "type": "image",
+            "target_id": "809256"
+        },
+        {
+            "originalFilename": "Bryncroes00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00031.jpg",
+            "type": "image",
+            "target_id": "809261"
+        },
+        {
+            "originalFilename": "Bryncroes00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00032.jpg",
+            "type": "image",
+            "target_id": "809266"
+        },
+        {
+            "originalFilename": "Bryncroes00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00033.jpg",
+            "type": "image",
+            "target_id": "809271"
+        },
+        {
+            "originalFilename": "Bryncroes00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00034.jpg",
+            "type": "image",
+            "target_id": "809276"
+        },
+        {
+            "originalFilename": "Bryncroes00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00035.jpg",
+            "type": "image",
+            "target_id": "809281"
+        },
+        {
+            "originalFilename": "Bryncroes00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00036.jpg",
+            "type": "image",
+            "target_id": "809286"
+        },
+        {
+            "originalFilename": "Bryncroes00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00037.jpg",
+            "type": "image",
+            "target_id": "809291"
+        },
+        {
+            "originalFilename": "Bryncroes00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00038.jpg",
+            "type": "image",
+            "target_id": "809296"
+        },
+        {
+            "originalFilename": "Bryncroes00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00039.jpg",
+            "type": "image",
+            "target_id": "809301"
+        },
+        {
+            "originalFilename": "Bryncroes00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00040.jpg",
+            "type": "image",
+            "target_id": "809306"
+        },
+        {
+            "originalFilename": "Bryncroes00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00041.jpg",
+            "type": "image",
+            "target_id": "809311"
+        },
+        {
+            "originalFilename": "Bryncroes00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00042.jpg",
+            "type": "image",
+            "target_id": "809316"
+        },
+        {
+            "originalFilename": "Bryncroes00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00043.jpg",
+            "type": "image",
+            "target_id": "809321"
+        },
+        {
+            "originalFilename": "Bryncroes00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00044.jpg",
+            "type": "image",
+            "target_id": "809326"
+        },
+        {
+            "originalFilename": "Bryncroes00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00045.jpg",
+            "type": "image",
+            "target_id": "809331"
+        },
+        {
+            "originalFilename": "Bryncroes00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00046.jpg",
+            "type": "image",
+            "target_id": "809336"
+        },
+        {
+            "originalFilename": "Bryncroes00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00047.jpg",
+            "type": "image",
+            "target_id": "809341"
+        },
+        {
+            "originalFilename": "Bryncroes00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00048.jpg",
+            "type": "image",
+            "target_id": "809346"
+        },
+        {
+            "originalFilename": "Bryncroes00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00049.jpg",
+            "type": "image",
+            "target_id": "809351"
+        },
+        {
+            "originalFilename": "Bryncroes00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00050.jpg",
+            "type": "image",
+            "target_id": "809356"
+        },
+        {
+            "originalFilename": "Bryncroes00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00051.jpg",
+            "type": "image",
+            "target_id": "809361"
+        },
+        {
+            "originalFilename": "Bryncroes00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00052.jpg",
+            "type": "image",
+            "target_id": "809366"
+        },
+        {
+            "originalFilename": "Bryncroes00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00053.jpg",
+            "type": "image",
+            "target_id": "809371"
+        },
+        {
+            "originalFilename": "Bryncroes00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00054.jpg",
+            "type": "image",
+            "target_id": "809376"
+        },
+        {
+            "originalFilename": "Bryncroes00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00055.jpg",
+            "type": "image",
+            "target_id": "809381"
+        },
+        {
+            "originalFilename": "Bryncroes00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00056.jpg",
+            "type": "image",
+            "target_id": "809386"
+        },
+        {
+            "originalFilename": "Bryncroes00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00057.jpg",
+            "type": "image",
+            "target_id": "809391"
+        },
+        {
+            "originalFilename": "Bryncroes00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00058.jpg",
+            "type": "image",
+            "target_id": "809396"
+        },
+        {
+            "originalFilename": "Bryncroes00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00059.jpg",
+            "type": "image",
+            "target_id": "809401"
+        },
+        {
+            "originalFilename": "Bryncroes00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00060.jpg",
+            "type": "image",
+            "target_id": "809406"
+        },
+        {
+            "originalFilename": "Bryncroes00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00061.jpg",
+            "type": "image",
+            "target_id": "809411"
+        },
+        {
+            "originalFilename": "Bryncroes00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00062.jpg",
+            "type": "image",
+            "target_id": "809416"
+        },
+        {
+            "originalFilename": "fileVYb3Rn",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/fileVYb3Rn",
+            "type": "office_doc",
+            "target_id": "809421"
+        },
+        {
+            "originalFilename": "Bryncroes00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00064.jpg",
+            "type": "image",
+            "target_id": "809426"
+        },
+        {
+            "originalFilename": "Bryncroes00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00065.jpg",
+            "type": "image",
+            "target_id": "809431"
+        },
+        {
+            "originalFilename": "Bryncroes00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Bryncroes00066.jpg",
+            "type": "image",
+            "target_id": "809436"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

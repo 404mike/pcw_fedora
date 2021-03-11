@@ -1,0 +1,82 @@
+{
+    "id": 583991,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Area, President's Dinner 1996\n",
+        "cy": "Merched y Wawr Rhanbarth Gorllewin Morgannwg, Cinio y Llywydd 1996 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583991",
+    "created": 1499870202,
+    "updated": 1499870202,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio y Llywydd Val James yn y Patti Pavilion Rhagfyr 1996 (Rhanbarth Gorllewin Morgannwg). Adloniant Jac y Do yn y cefndir.  Rhodd o sampler i Valerie.  Yn y blaen \u2013 Rhianwen Roberts, Marged Jones, Valerie James, Non Griffiths (Trefnydd Merched y Wawr), Malvina Ley",
+        "cy": "Cinio y Llywydd Val James yn y Patti Pavilion Rhagfyr 1996 (Rhanbarth Gorllewin Morgannwg). Adloniant Jac y Do yn y cefndir.  Rhodd o sampler i Valerie.  Yn y blaen \u2013 Rhianwen Roberts, Marged Jones, Valerie James, Non Griffiths (Trefnydd Merched y Wawr), Malvina Ley"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.612497000000",
+            "lon": "-3.963623000000",
+            "description": {
+                "en": "Patti Pavilion Abertawe",
+                "cy": "Patti Pavilion Abertawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-012.jpg",
+            "type": "image",
+            "target_id": "583989"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

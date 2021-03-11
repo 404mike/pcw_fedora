@@ -1,0 +1,84 @@
+{
+    "id": 743976,
+    "title": {
+        "en": "Merched y Wawr Bro Gwili Branch Annual Dinner ",
+        "cy": "Cinio Blynyddol Merched y Wawr Bro Gwili"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743976",
+    "created": 1516896088,
+    "updated": 1516896088,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Gwili, yng Ngwesty Castell Malgwyn, Llechryd ar achlysur ei cinio blynyddol yn niwrnodau cynnar y gangen (felly dechrau'r 1980au).\n\n\nRhes gefn:-  Hettie Lewis, ?, Coronia Davies\nAil Res:- Eir Davies, Mair Dyer, Mrs Green, Margaret Griffiths\n3ydd Res:-  Miss Lenny,Ray Jones, May Evans, Elsie Jones\nRhes Gyntaf:- May Thomas, Doreen Nicholas, Elunied Davies (ein Llywydd Gwreiddiol), Helen Davies, Hettie Davies.",
+        "cy": "Merched y Wawr Cangen Bro Gwili, yng Ngwesty Castell Malgwyn, Llechryd ar achlysur ei cinio blynyddol yn niwrnodau cynnar y gangen (felly dechrau'r 1980au).\n\n\nRhes gefn:-  Hettie Lewis, ?, Coronia Davies\nAil Res:- Eir Davies, Mair Dyer, Mrs Green, Margaret Griffiths\n3ydd Res:-  Miss Lenny,Ray Jones, May Evans, Elsie Jones\nRhes Gyntaf:- May Thomas, Doreen Nicholas, Elunied Davies (ein Llywydd Gwreiddiol), Helen Davies, Hettie Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Gwili",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Gwili",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.061825000000",
+            "lon": "-4.607695000000",
+            "description": {
+                "en": "Castell Malgwyn, Llechryd",
+                "cy": "Castell Malgwyn, Llechryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Bro%20Gwili%20Castell%20Maglwyn.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Bro%2520Gwili%2520Castell%2520Maglwyn.jpg",
+            "type": "image",
+            "target_id": "743966"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

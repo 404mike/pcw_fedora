@@ -1,0 +1,92 @@
+{
+    "id": 623196,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Wrecsam, Glyn Maelor",
+        "cy": "Rhaglen tymor  1968 - 1969 cangen Merched y Wawr Wrecsam, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623196",
+    "created": 1511279421,
+    "updated": 1511279421,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor  1968 - 1969 (tymor gyntaf y gangen).",
+        "cy": "Rhaglen tymor  1968 - 1969 (tymor gyntaf y gangen)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Wrecsam",
+    "owner": "Cangen Wrecsam",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Wrecsam",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Wrecsam",
+        "Rhanbarth Glyn Maelor",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_013.jpg",
+            "type": "image",
+            "target_id": "623181"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_014.jpg",
+            "type": "image",
+            "target_id": "623186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

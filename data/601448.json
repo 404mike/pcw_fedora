@@ -1,0 +1,96 @@
+{
+    "id": 601448,
+    "title": {
+        "en": "Merched y Wawr Cowbridge Branch Christmas Card 2014",
+        "cy": "Cerdyn Nadolig Merched y Wawr Cangen y Bontfaen 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601448",
+    "created": 1502449387,
+    "updated": 1502449387,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdyn Nadolig Cangen y Bontfaen 2014.  Tudalen flaen\nCystadleuaeth Cynllunio Cerdyn Nadolig 2014 Merched y Wawr.  \nArddangoswyd y goeden Nadolig yng Ngwyl Coed Nadolig Eglwys y Grog Sanctaidd yn y Bontfaen yn 2013.  Pennill tu mewn gan Eleri Rogers, Cangen y Bontfaen",
+        "cy": "Cerdyn Nadolig Cangen y Bontfaen 2014.  Tudalen flaen\nCystadleuaeth Cynllunio Cerdyn Nadolig 2014 Merched y Wawr.  \nArddangoswyd y goeden Nadolig yng Ngwyl Coed Nadolig Eglwys y Grog Sanctaidd yn y Bontfaen yn 2013.  Pennill tu mewn gan Eleri Rogers, Cangen y Bontfaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.462121000000",
+            "lon": "-3.449352000000",
+            "description": {
+                "en": "Y Bontfaen",
+                "cy": "Y Bontfaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-020.jpg",
+            "type": "image",
+            "target_id": "601444"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-021.jpg",
+            "type": "image",
+            "target_id": "601445"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-022.jpg",
+            "type": "image",
+            "target_id": "601446"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

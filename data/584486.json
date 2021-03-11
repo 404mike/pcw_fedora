@@ -1,0 +1,82 @@
+{
+    "id": 584486,
+    "title": {
+        "en": "Part of an Exhibition telling the story of Merched y Wawr Y Garth Branch 2016",
+        "cy": "Rhan o Arddangosfa yn olrhain hanes Merched y Wawr Cangen y Garth 2016\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584486",
+    "created": 1499871113,
+    "updated": 1499871113,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhan o\u2019r Arddangosfa H\u00e2f fu yn yr Hen Lyfrgell, Caerdydd, Haf 2016 yn olrhain hanes Cangen y Garth.  \nCynnwys Tud 1:- Llun o\u2019r Gangen yn Ymweld \u00e2\u2019r T\u0177\u2019r Crwn yn Sain Hilari \/ Noson Eisteddfodol Hwyl Gwyl Ddewi \/ Paratoi ar gyfer y rhaglen deledu S4C \u2018Am Ddrama\u2019 gyda Wynne Evans \/ Cyflwyno rhodd ariannol i Adran Cardioleg Ysbyty Brenhinol Morgannwg i bryni teclyn i fesur curiad y galon",
+        "cy": "Rhan o\u2019r Arddangosfa H\u00e2f fu yn yr Hen Lyfrgell, Caerdydd, Haf 2016 yn olrhain hanes Cangen y Garth.  \nCynnwys Tud 1:- Llun o\u2019r Gangen yn Ymweld \u00e2\u2019r T\u0177\u2019r Crwn yn Sain Hilari \/ Noson Eisteddfodol Hwyl Gwyl Ddewi \/ Paratoi ar gyfer y rhaglen deledu S4C \u2018Am Ddrama\u2019 gyda Wynne Evans \/ Cyflwyno rhodd ariannol i Adran Cardioleg Ysbyty Brenhinol Morgannwg i bryni teclyn i fesur curiad y galon"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Gareth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garth",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-082_2.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-082_2.jpg",
+            "type": "image",
+            "target_id": "584484"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-083.jpg",
+            "type": "image",
+            "target_id": "584485"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

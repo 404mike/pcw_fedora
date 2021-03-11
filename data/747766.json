@@ -1,0 +1,84 @@
+{
+    "id": 747766,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Merched y Wawr Cangen Cylch Wyre yn Dathlu&#039;r Deg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747766",
+    "created": 1516898126,
+    "updated": 1516898126,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Wyre yn dathlu degfed penblwydd y gangen yng Ngwesty\u2019r Marine Aberystwyth, Medi 21, 1985.  \nIdwena Williams, Y Garth, Llanrhystud, Sylfaenydd a Llywydd Anrhydeddus y gangen, a Jean Morgan, y llywydd ar y pryd, yn torri cacen y Dathlu.",
+        "cy": "Merched y Wawr Cangen Cylch Wyre yn dathlu degfed penblwydd y gangen yng Ngwesty\u2019r Marine Aberystwyth, Medi 21, 1985.  \nIdwena Williams, Y Garth, Llanrhystud, Sylfaenydd a Llywydd Anrhydeddus y gangen, a Jean Morgan, y llywydd ar y pryd, yn torri cacen y Dathlu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Wyre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Cylch Wyre"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.418587000000",
+            "lon": "-4.084291000000",
+            "description": {
+                "en": "Gwesty'r Marine, Aberystwyth",
+                "cy": "Gwesty'r Marine, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-194_2_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-194_2_0.jpg",
+            "type": "image",
+            "target_id": "747756"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

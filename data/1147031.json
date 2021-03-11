@@ -1,0 +1,71 @@
+{
+    "id": 1147031,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147031",
+    "created": 1562065009,
+    "updated": 1562065009,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Representatives of Llansannan branch, Colwyn, receiving a certificate for the best programme from the adjudicators, Catherine Watkin Thomas and Glenys Thomas.",
+        "cy": "Cynrychiolydd o gangen Llansanan, rhanbarth Colwyn, yn derbyn Tystysgrif am y Rhaglen Orau oddi wrth y beirniaid Catherine Watkin Thomas a Glenys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_872.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_872.jpg",
+            "type": "image",
+            "target_id": "1147021"
+        },
+        {
+            "originalFilename": "df_myw_873.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_873.jpg",
+            "type": "image",
+            "target_id": "1147026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

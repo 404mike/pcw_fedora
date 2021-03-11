@@ -1,0 +1,84 @@
+{
+    "id": 746586,
+    "title": {
+        "en": "Merched y Wawr St Dogmaels Branch Presentation",
+        "cy": " Merched y Wawr Llandudoch yn cyflwyno detholiad o lyfr \u2018Odi\u2019r Teid yn Mynd Mas?\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746586",
+    "created": 1516897348,
+    "updated": 1516897348,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llandudoch yn cyflwyno detholiad o lyfr Mair Garnon James \u2013 \u2018Odi\u2019r Teid yn Mynd Mas?\u2019 yng Nghapel Degwel, Llandudoch, Ionawr 29, 2017.  Roedd hyn y ystod Penwythnos Menter Iaith Sir Benfro.  Mair yn aelod o\u2019r Gangen ers y cychwyn ym 1978.  \nYn y llun mae Beryl Rees, Melrose Thomas, Esther Davies (Pulpud), Dilys Roberts, Llinos Devonald",
+        "cy": "Merched y Wawr Llandudoch yn cyflwyno detholiad o lyfr Mair Garnon James \u2013 \u2018Odi\u2019r Teid yn Mynd Mas?\u2019 yng Nghapel Degwel, Llandudoch, Ionawr 29, 2017.  Roedd hyn y ystod Penwythnos Menter Iaith Sir Benfro.  Mair yn aelod o\u2019r Gangen ers y cychwyn ym 1978.  \nYn y llun mae Beryl Rees, Melrose Thomas, Esther Davies (Pulpud), Dilys Roberts, Llinos Devonald"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081033000000",
+            "lon": "-4.680762000000",
+            "description": {
+                "en": "St Dogmaels, Aberteifi",
+                "cy": "St Dogmaels, Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-034.jpg",
+            "type": "image",
+            "target_id": "746576"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

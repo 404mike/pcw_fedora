@@ -1,0 +1,75 @@
+{
+    "id": 1046246,
+    "title": {
+        "en": "MyW Residential Weekend 2001",
+        "cy": "Penwythnos Preswyl MyW 2001  Llwybrau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046246",
+    "created": 1555590115,
+    "updated": 1555590115,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "National President, Catrin Stevens introducing guest speaker, Dr Olwen Williams, to the members at the Residential Weekend at Trinity College, Carmarthen, 2001.",
+        "cy": "Llywydd Cenedlaethol, Catrin Stevens yn cyflwyno Dr Olwen Williams i siarad ag aelodau'r Mudiad yng Ngholeg y Drindod, Caerfyrddin, 2001."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "introducing",
+        "guest speaker",
+        "residential weekend",
+        "2001",
+        "cyflwyno",
+        "siaradwraig wadd",
+        "Penwythnos Preswyl",
+        "penwythnos preswyl myw 2001"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_020.jpg",
+            "type": "image",
+            "target_id": "1046236"
+        },
+        {
+            "originalFilename": "df_myw_020-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_020-001.jpg",
+            "type": "image",
+            "target_id": "1046241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

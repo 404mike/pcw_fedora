@@ -1,0 +1,88 @@
+{
+    "id": 627916,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfechell, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanfechell, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627916",
+    "created": 1511280990,
+    "updated": 1511280990,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Aelodau\u2019r gangen yn dathlu ei penblwydd yn 18, yn 1988, yn yr Harbwr, Cemaes. Gwelwn: Mary Hughes, Sandra Owen, Mair Williams, Sally Thomas, Annwen Jones, Glenys Jones a Theresa Hughes. 1. Aelodau\u2019r gangen yn dathlu ei 21ain yn y Lastra, Amlwch, 1993. Gwelwn: Glenys Jones, Mary Hughes, Brenda Jones a Sian Jones.",
+        "cy": "1. Aelodau\u2019r gangen yn dathlu ei penblwydd yn 18, yn 1988, yn yr Harbwr, Cemaes. Gwelwn: Mary Hughes, Sandra Owen, Mair Williams, Sally Thomas, Annwen Jones, Glenys Jones a Theresa Hughes. 1. Aelodau\u2019r gangen yn dathlu ei 21ain yn y Lastra, Amlwch, 1993. Gwelwn: Glenys Jones, Mary Hughes, Brenda Jones a Sian Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfechell",
+    "owner": "Cangen Llanfechell",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfechell",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfechell",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 18",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.392650000000",
+            "lon": "-4.453929000000",
+            "description": {
+                "en": "Llanfechell",
+                "cy": "Llanfechell"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANFECHELL_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANFECHELL_003.jpg",
+            "type": "image",
+            "target_id": "627906"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

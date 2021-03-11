@@ -1,0 +1,84 @@
+{
+    "id": 747371,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch 40th Anniversary",
+        "cy": "Merched y Wawr Cangen Mynach yn Dathlu 40 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747371",
+    "created": 1516897704,
+    "updated": 1516897704,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Mynach yn Dathlu Penblwydd Rhuddem (Deugain mlynedd) yng Ngwesty\u2019r Marine, Ionawr 2010.  Dechreuwyd y gangen yn 1969.  \nYn y llun:- Delyth Morris Jones, Kathleen Williams, Dilys Davies, Eirlys Evans, Ruth Evans, Magwen Pughe, Ann Bunton, Lallie Evans, Morfudd Rees Griffiths, Mary Raw, Annie Ball, Susan Pugh, Elaine Evans, Mair Morgan, Eileen Jones, Elaine Lewis, Gwlays Morgam Jane Jenkins, Nesta Roberts, Eiry Jones, Gwen Evans, Joan Richards",
+        "cy": "Merched y Wawr Cangen Mynach yn Dathlu Penblwydd Rhuddem (Deugain mlynedd) yng Ngwesty\u2019r Marine, Ionawr 2010.  Dechreuwyd y gangen yn 1969.  \nYn y llun:- Delyth Morris Jones, Kathleen Williams, Dilys Davies, Eirlys Evans, Ruth Evans, Magwen Pughe, Ann Bunton, Lallie Evans, Morfudd Rees Griffiths, Mary Raw, Annie Ball, Susan Pugh, Elaine Evans, Mair Morgan, Eileen Jones, Elaine Lewis, Gwlays Morgam Jane Jenkins, Nesta Roberts, Eiry Jones, Gwen Evans, Joan Richards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.418646000000",
+            "lon": "-4.084269000000",
+            "description": {
+                "en": "Gwesty'r Marine, Aberystwyth",
+                "cy": "Gwesty'r Marine, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-165.jpg",
+            "type": "image",
+            "target_id": "747361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

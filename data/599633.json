@@ -1,0 +1,94 @@
+{
+    "id": 599633,
+    "title": {
+        "en": "MyW Betws y Coed, founding members 1971",
+        "cy": "Hanes sefydlu Cangen Betws y Coed ym 1971 - Llyfr Llofion "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599633",
+    "created": 1502446723,
+    "updated": 1502446723,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Page taken from the branch scrapbook, commemorating their beginnings in 1971.",
+        "cy": "Dyma hanes sefydlu'r Gangen ym 1971 o\u2019i lyfr llofion. Yma ceir lun o aelodau cyntaf y gangen yn ogystal ag englyn i Lywydd Anrhydeddys y gangen, Dilys Thomas gan Myrddin ap Dafydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "Myrddin ap Dafydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy",
+        "llyfr lloffion",
+        "Barddoniaeth Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_012.jpg",
+            "type": "image",
+            "target_id": "599630"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_013.jpg",
+            "type": "image",
+            "target_id": "599631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

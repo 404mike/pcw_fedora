@@ -1,0 +1,73 @@
+{
+    "id": 610626,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch present a cheque to local nurse",
+        "cy": "Merched y Wawr, Cangen Gronw, cyflwyno siec i nyrs leol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610626",
+    "created": 1510753252,
+    "updated": 1510753252,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Cangen Gronw, Nansi Evans (llywydd), Meirwen Evans (Trysorydd), Gwennie Blain (nyrs yn y gymuned ac aelod o\u2019r Gangen) a Bethan Richards (Ysgrifennydd y Gangen).  Mae Gwennie yn derbyn siec gan Meirwen Evans.",
+        "cy": "Merched y Wawr, Cangen Gronw, Nansi Evans (llywydd), Meirwen Evans (Trysorydd), Gwennie Blain (nyrs yn y gymuned ac aelod o\u2019r Gangen) a Bethan Richards (Ysgrifennydd y Gangen).  Mae Gwennie yn derbyn siec gan Meirwen Evans."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-274b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-274b.jpg",
+            "type": "image",
+            "target_id": "610621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

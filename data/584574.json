@@ -1,0 +1,94 @@
+{
+    "id": 584574,
+    "title": {
+        "en": "Programme for the Presentation by Merched y Wawr, South-East Area at the National Eisteddfod 2010",
+        "cy": "Rhaglen cyflwyniad Merche dy Wawr, Rhanbarth y De-Ddwyrain Eisteddfod Genedlaethol 2010 Blaenau Gwent a Blaenau\u2019r Cymoedd\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584574",
+    "created": 1499871209,
+    "updated": 1499871209,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen cyflwyniad Rhanbarth y De-Ddwyrain o Ferched y Wawr yn Eisteddfod Genedlaethol 2010 Blaenau Gwent a Blaenau\u2019r Cymoedd.  Awst 4, 2010.  Clawr",
+        "cy": "Rhaglen cyflwyniad Rhanbarth y De-Ddwyrain o Ferched y Wawr yn Eisteddfod Genedlaethol 2010 Blaenau Gwent a Blaenau\u2019r Cymoedd.  Awst 4, 2010.  Clawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.763897000000",
+            "lon": "-3.198061000000",
+            "description": {
+                "en": "Eisteddfod Genedlaethol 2010 Blaenau Gwent a Blaenau\u2019r Cymoedd",
+                "cy": "Eisteddfod Genedlaethol 2010 Blaenau Gwent a Blaenau\u2019r Cymoedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-050.jpg",
+            "type": "image",
+            "target_id": "584570"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-051.jpg",
+            "type": "image",
+            "target_id": "584571"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-052.jpg",
+            "type": "image",
+            "target_id": "584572"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

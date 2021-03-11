@@ -1,0 +1,73 @@
+{
+    "id": 600377,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Branch Walking Club",
+        "cy": "Clwb Cerdded Merched y Wawr Bro Cennech"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600377",
+    "created": 1502447665,
+    "updated": 1502447665,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Clwb Cerdded Merched y Wawr Cangen Bro Cennech ( bob bore Llun) \u2013 yn y glaw!\nEirian Davies, Lis Fidler, Helen Hurley, Beth Leyshon, Ann Jones, Patricia Jones",
+        "cy": "Rhai o aelodau Clwb Cerdded Merched y Wawr Cangen Bro Cennech ( bob bore Llun) \u2013 yn y glaw!\nEirian Davies, Lis Fidler, Helen Hurley, Beth Leyshon, Ann Jones, Patricia Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-014.jpg",
+            "type": "image",
+            "target_id": "600376"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

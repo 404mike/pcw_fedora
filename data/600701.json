@@ -1,0 +1,84 @@
+{
+    "id": 600701,
+    "title": {
+        "en": "Merched y Wawr, Pencader and Dristrict Branch, Minutes from the First Meetings",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch, cofnodion cyntaf, 1968"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600701",
+    "created": 1502448114,
+    "updated": 1502448114,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Pencader a\u2019r Cylch, cofnodion cyntaf y gangen sy\u2019n s\u00f4n am y cyfarfod lle penderfynwyd sefydlu Cangen Pencader a\u2019r Cylch Medi 26, 1968.",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch, cofnodion cyntaf y gangen sy\u2019n s\u00f4n am y cyfarfod lle penderfynwyd sefydlu Cangen Pencader a\u2019r Cylch Medi 26, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.997985000000",
+            "lon": "-4.237697000000",
+            "description": {
+                "en": "Capel Gwyddgrug",
+                "cy": "Capel Gwyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-090.jpg",
+            "type": "image",
+            "target_id": "600699"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,96 @@
+{
+    "id": 756076,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. Winter 2002",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr. Gaeaf 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/756076",
+    "created": 1516959179,
+    "updated": 1516959179,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhifyn 137. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968.",
+        "cy": "Rhifyn 137. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr",
+        "Canolfan Merched y Wawr"
+    ],
+    "when": [
+        "21st century"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_0137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_0137.jpg",
+            "type": "image",
+            "target_id": "756056"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_0137_GwynethMorusJones_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_0137_GwynethMorusJones_001.jpg",
+            "type": "image",
+            "target_id": "756061"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_0137_KittyEdwards_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_0137_KittyEdwards_002.jpg",
+            "type": "image",
+            "target_id": "756066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

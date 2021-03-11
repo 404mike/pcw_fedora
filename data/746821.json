@@ -1,0 +1,84 @@
+{
+    "id": 746821,
+    "title": {
+        "en": "Merched y Wawr Llanon Branch Carol Singing",
+        "cy": "Merched y Wawr Llannon yn Canu Carolau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746821",
+    "created": 1516897453,
+    "updated": 1516897453,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Merched y Wawr Llannon yn Canu Carolau yn Neuadd y Pentref, Rhagfyr 9, 2007.",
+        "cy": "Taflen Merched y Wawr Llannon yn Canu Carolau yn Neuadd y Pentref, Rhagfyr 9, 2007."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llannon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llannon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.282455000000",
+            "lon": "-4.177862000000",
+            "description": {
+                "en": "Neuadd y Pentref, Llannon",
+                "cy": "Neuadd y Pentref, Llannon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-228.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-228.jpg",
+            "type": "image",
+            "target_id": "746811"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 750316,
+    "title": {
+        "en": "A Card from Sylwen Davies to Esyllt Jones, Merched y Wawr National President 2008-2010",
+        "cy": "Carden gan Sylwen Davies i Esyllt Jones Llywyddiaeth Cenedlaethol Merched y Wawr 2008-2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750316",
+    "created": 1516899410,
+    "updated": 1516899410,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Carden cyfarch a roddwyd i Esyllt Jones gan Sylwen Davies i\u2019w llongyfarch a dymuno\u2019n dda wrth iddi ddechrau ei chyfnod fel Llywydd Cenedlaethol Merched y Wawr, 2008-2010.  Roedd Sylwen yn Lywydd Cenedlaethol o 1998 \u2013 2000 ac mae erbyn hyn yn Lywydd Anrhydeddus.",
+        "cy": "Carden cyfarch a roddwyd i Esyllt Jones gan Sylwen Davies i\u2019w llongyfarch a dymuno\u2019n dda wrth iddi ddechrau ei chyfnod fel Llywydd Cenedlaethol Merched y Wawr, 2008-2010.  Roedd Sylwen yn Lywydd Cenedlaethol o 1998 \u2013 2000 ac mae erbyn hyn yn Lywydd Anrhydeddus."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-034.jpg",
+            "type": "image",
+            "target_id": "750311"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

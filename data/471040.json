@@ -1,0 +1,125 @@
+{
+    "id": 471040,
+    "title": {
+        "en": "Llanfairtalhaearn, Colwyn region branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanfairtalhaearn, Rhanbarth Colwyn i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/471040",
+    "created": 1441701039,
+    "updated": 1441701039,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanfairtalhaearn Colwyn region branch of Merched y Wawr. It contains names of farms and fields and a comprehensive history of Bodchwil farm.",
+        "cy": "Gwybodaeth am waith cangen Llanfairtalhaearn, Rhanbarth Colwyn o Ferched y Wawr. Mae'n cynnwys enwau ffermydd a chaeau yn yr ardal a hanes manwl am fferm Bodchwil."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_11157.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11157.jpg",
+            "type": "image",
+            "target_id": "471028"
+        },
+        {
+            "originalFilename": "pcw001_11158.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11158.jpg",
+            "type": "image",
+            "target_id": "471029"
+        },
+        {
+            "originalFilename": "pcw001_11159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11159.jpg",
+            "type": "image",
+            "target_id": "471030"
+        },
+        {
+            "originalFilename": "pcw001_11160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11160.jpg",
+            "type": "image",
+            "target_id": "471031"
+        },
+        {
+            "originalFilename": "pcw001_11161.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11161.jpg",
+            "type": "image",
+            "target_id": "471032"
+        },
+        {
+            "originalFilename": "pcw001_11162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11162.jpg",
+            "type": "image",
+            "target_id": "471033"
+        },
+        {
+            "originalFilename": "pcw001_11163.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11163.jpg",
+            "type": "image",
+            "target_id": "471034"
+        },
+        {
+            "originalFilename": "pcw001_11164.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11164.jpg",
+            "type": "image",
+            "target_id": "471035"
+        },
+        {
+            "originalFilename": "pcw001_11165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11165.jpg",
+            "type": "image",
+            "target_id": "471036"
+        },
+        {
+            "originalFilename": "pcw001_11166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11166.jpg",
+            "type": "image",
+            "target_id": "471037"
+        },
+        {
+            "originalFilename": "pcw001_11167.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11167.jpg",
+            "type": "image",
+            "target_id": "471038"
+        },
+        {
+            "originalFilename": "pcw001_11168.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11168.jpg",
+            "type": "image",
+            "target_id": "471039"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_11157",
+    "publisher_ref": ""
+}

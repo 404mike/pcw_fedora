@@ -1,0 +1,75 @@
+{
+    "id": 1146011,
+    "title": {
+        "en": "Urdd National Eisteddfod Fflint 2016",
+        "cy": "Eisteddfod yr Urdd Sir y Fflint 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146011",
+    "created": 1562063097,
+    "updated": 1562063097,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand.",
+        "cy": "Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod fflint 2016",
+        "eisteddfod yr urdd sir y fflint 2016"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_748.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_748.jpg",
+            "type": "image",
+            "target_id": "1145996"
+        },
+        {
+            "originalFilename": "df_myw_749.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_749.jpg",
+            "type": "image",
+            "target_id": "1146001"
+        },
+        {
+            "originalFilename": "df_myw_750.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_750.jpg",
+            "type": "image",
+            "target_id": "1146006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

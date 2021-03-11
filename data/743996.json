@@ -1,0 +1,75 @@
+{
+    "id": 743996,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch Fun Quiz Team",
+        "cy": "T\u00eem Cwis Hwyl Merched y Wawr Bro Ilar\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743996",
+    "created": 1516896099,
+    "updated": 1516896099,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem Cwis Hwyl Merched y Wawr Bro Ilar, T\u00eem B a ddaeth yn gyntaf yng Ngheredigion ac yn gyntaf yn Genedlaethol yn 2013.\nJean Evans, Jane Edwards, Sian Lewis, Ada Evans",
+        "cy": "T\u00eem Cwis Hwyl Merched y Wawr Bro Ilar, T\u00eem B a ddaeth yn gyntaf yng Ngheredigion ac yn gyntaf yn Genedlaethol yn 2013.\nJean Evans, Jane Edwards, Sian Lewis, Ada Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-100.jpg",
+            "type": "image",
+            "target_id": "743991"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

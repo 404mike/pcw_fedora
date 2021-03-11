@@ -1,0 +1,72 @@
+{
+    "id": 470148,
+    "title": {
+        "en": "Carno , Maldwyn Powys branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Carno, Maldwyn Powys, i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470148",
+    "created": 1441700613,
+    "updated": 1441700613,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Carno, Maldwyn Powys branch of Merched y Wawr. It contains a poem noting farms and houses in the Carno area.",
+        "cy": "Gwybodaeth am waith cangen Carno, Maldwyn Powys o Ferched y Wawr. Mae'n cynnwys darn o farddoniaeth yn enwi ffermydd a thai ym mhlwyf Carno."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10334.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10334.jpg",
+            "type": "image",
+            "target_id": "470145"
+        },
+        {
+            "originalFilename": "pcw001_10335.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10335.jpg",
+            "type": "image",
+            "target_id": "470146"
+        },
+        {
+            "originalFilename": "pcw001_10336.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10336.jpg",
+            "type": "image",
+            "target_id": "470147"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10334",
+    "publisher_ref": ""
+}

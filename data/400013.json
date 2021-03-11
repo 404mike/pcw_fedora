@@ -1,0 +1,107 @@
+{
+    "id": 400013,
+    "title": {
+        "en": "Map of Bodwrog and the history of interesting names or names that have disappeared from the parish",
+        "cy": "Map o  Bodwrog ac enwau diddorol neu enwau sydd wedi diflanu o&#039;r plwydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400013",
+    "created": 1416923844,
+    "updated": 1417016360,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hand drawn map and the history of interesting names or names that have disappeared from the parish of Bodwrog, Anglesey",
+        "cy": "Map a dynnwyd gyda llaw a hanes enwau diddorol neu enwau sydd wedi dilfannu o blwyf Bodwrog, Ynys M\u00f4n"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Bodwrog",
+        "Anglesey",
+        "house names",
+        "map",
+        "Ynys Mon",
+        "enwau tai"
+    ],
+    "when": [],
+    "what": [
+        "Houses and Homes",
+        "Cities, towns & villages",
+        "Farms and smallholdings",
+        "Maps"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010544.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010544.jpg",
+            "type": "image",
+            "target_id": "400007"
+        },
+        {
+            "originalFilename": "pcw0010545.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010545.jpg",
+            "type": "image",
+            "target_id": "400008"
+        },
+        {
+            "originalFilename": "pcw0010546.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010546.jpg",
+            "type": "image",
+            "target_id": "400009"
+        },
+        {
+            "originalFilename": "pcw0010547.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010547.jpg",
+            "type": "image",
+            "target_id": "400010"
+        },
+        {
+            "originalFilename": "pcw0010548.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010548.jpg",
+            "type": "image",
+            "target_id": "400011"
+        },
+        {
+            "originalFilename": "pcw0010549.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010549.jpg",
+            "type": "image",
+            "target_id": "400012"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010544",
+    "publisher_ref": ""
+}

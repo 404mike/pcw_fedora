@@ -1,0 +1,76 @@
+{
+    "id": 750306,
+    "title": {
+        "en": "A Card from Swansea Branch to Esyllt Jones, Merched y Wawr National President 2008-2010",
+        "cy": "Carden gan Cangen Abertawe i Esyllt Jones Llywyddiaeth Cenedlaethol Merched y Wawr 2008-2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750306",
+    "created": 1516899406,
+    "updated": 1516899406,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Carden a roddwyd i Esyllt Jones i\u2019w llongyfarch a dymuno\u2019n dda iddi a wnaed gan Grace Birt ar ran Cangen Abertawe (Rhanbarth Gorllewin Morgannwg) wrth iddi ymgymryd \u00e2\u2019r r\u00f4l o fod yn Lywydd Cenedlaethol Merched y Wawr, 2008-2010 (mae Esyllt yn aelod o Gangen Gorseinon, Rhanbarth Gorllewin Morgannwg).",
+        "cy": "Carden a roddwyd i Esyllt Jones i\u2019w llongyfarch a dymuno\u2019n dda iddi a wnaed gan Grace Birt ar ran Cangen Abertawe (Rhanbarth Gorllewin Morgannwg) wrth iddi ymgymryd \u00e2\u2019r r\u00f4l o fod yn Lywydd Cenedlaethol Merched y Wawr, 2008-2010 (mae Esyllt yn aelod o Gangen Gorseinon, Rhanbarth Gorllewin Morgannwg)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol",
+        "Cangen Abertawe"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-033.jpg",
+            "type": "image",
+            "target_id": "750301"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

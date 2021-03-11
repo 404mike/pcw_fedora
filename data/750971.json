@@ -1,0 +1,92 @@
+{
+    "id": 750971,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, y Bala, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bala, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750971",
+    "created": 1516899745,
+    "updated": 1516899745,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Gwyl Haf a chafarfod blynyddol y Mudiad ym 2007 sef  blwyddyn dathliad y mudiad yn 40. Dydd Sadwrn, 19 Mai, 2007.",
+        "cy": "Rhaglen Gwyl Haf a chafarfod blynyddol y Mudiad ym 2007 sef  blwyddyn dathliad y mudiad yn 40. Dydd Sadwrn, 19 Mai, 2007."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bala",
+    "owner": "Cangen y Bala",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bala",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bala",
+        "Rhanbarth Meirionnydd",
+        "Gwyl Haf Merched y Wawr",
+        "Dathlu 40",
+        "Cendlaethol Merched y Wawr"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.909665000000",
+            "lon": "-3.599882000000",
+            "description": {
+                "en": "Y Bala",
+                "cy": "Y Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_013.jpg",
+            "type": "image",
+            "target_id": "750956"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_014.jpg",
+            "type": "image",
+            "target_id": "750961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 744056,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch 20th Anniversary Dinner",
+        "cy": "Cinio Dathlu Merched y Wawr Cangen Bro Ilar yn 20 oed\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744056",
+    "created": 1516896126,
+    "updated": 1516896126,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Dathlu Merched y Wawr Cangen Bro Ilar yn 20 oed, yn Nhafarn y Gors, yng nghwmni y Llywydd Cenedlaethol, Glenys Thomas ac ysgrifenyddes cyntaf y gangen, Gwyneth Stephens, Tachwedd 22, 2005.\nRhes gefn \u2013 Jean Evans, Jean Jones, Margaret Morris, Ruth Morris, Olivia Lewis, Jane Evans, Olwen Morgan, Kath Townsend, Enfys Rennie, Brenda Parry Owen, Mary James, Rhiannon Parry\nRhes flaen \u2013 Ada Evans, Mair Jones, Glenys Thomas, Gwyneth Stephens",
+        "cy": "Cinio Dathlu Merched y Wawr Cangen Bro Ilar yn 20 oed, yn Nhafarn y Gors, yng nghwmni y Llywydd Cenedlaethol, Glenys Thomas ac ysgrifenyddes cyntaf y gangen, Gwyneth Stephens, Tachwedd 22, 2005.\nRhes gefn \u2013 Jean Evans, Jean Jones, Margaret Morris, Ruth Morris, Olivia Lewis, Jane Evans, Olwen Morgan, Kath Townsend, Enfys Rennie, Brenda Parry Owen, Mary James, Rhiannon Parry\nRhes flaen \u2013 Ada Evans, Mair Jones, Glenys Thomas, Gwyneth Stephens"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.373830000000",
+            "lon": "-4.007515000000",
+            "description": {
+                "en": "Tafarn y Gors, New Cross",
+                "cy": "Tafarn y Gors, New Cross"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-105.jpg",
+            "type": "image",
+            "target_id": "744046"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

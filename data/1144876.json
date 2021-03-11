@@ -1,0 +1,72 @@
+{
+    "id": 1144876,
+    "title": {
+        "en": "MyW Residential Weekend, 2014",
+        "cy": "Penwythnos Preswyl MyW 2014 yn Llanbed \u2013 &#039;Cyfaredd y Canolbarth&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144876",
+    "created": 1562062614,
+    "updated": 1562062614,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation by Jayne Lewis, Heart Foundation, and some of the accessories.",
+        "cy": "Cyflwyniad gan Jayne Lewis, Sefydliad y Galon, a rhai o'r ategolion a gasglwyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2014",
+        "penwythnos preswyl myw",
+        "Llanbed",
+        "cyfaredd y canolbarth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_623.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_623.jpg",
+            "type": "image",
+            "target_id": "1144866"
+        },
+        {
+            "originalFilename": "df_myw_624.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_624.jpg",
+            "type": "image",
+            "target_id": "1144871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

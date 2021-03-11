@@ -1,0 +1,75 @@
+{
+    "id": 744576,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Area Banner",
+        "cy": "Baner Rhanbarth Gorllewin Morgannwg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744576",
+    "created": 1516896388,
+    "updated": 1516896388,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trosglwyddo baner Rhanbarth Gorllewin Morgannwg o Gangen Clydach i Gangen Treforys adeg dathlu Chwarter Canrif Merched y Wawr ym 1992 \u2013 trosglwyddwyd y faner newydd i bob un cangen yn y Rhanbarth.  \nLlun top \u2013 Mary Jones (Clydach) a Marian Payne (Treforys)",
+        "cy": "Trosglwyddo baner Rhanbarth Gorllewin Morgannwg o Gangen Clydach i Gangen Treforys adeg dathlu Chwarter Canrif Merched y Wawr ym 1992 \u2013 trosglwyddwyd y faner newydd i bob un cangen yn y Rhanbarth.  \nLlun top \u2013 Mary Jones (Clydach) a Marian Payne (Treforys)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-052.jpg",
+            "type": "image",
+            "target_id": "744571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

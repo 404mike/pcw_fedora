@@ -1,0 +1,90 @@
+{
+    "id": 753926,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhydymain, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhydymain, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753926",
+    "created": 1516958606,
+    "updated": 1516958606,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith cangen Rhydymain I begin Gareth Richards yn Llanbedr Pont Steffan ym Mehefin 2011. Gwelwn: Dorath, Mair, Beryl, Olwen, Nia, Ann, Helen T, Helen E, Ceri Lloyd Davies.",
+        "cy": "Gwibdaith cangen Rhydymain I begin Gareth Richards yn Llanbedr Pont Steffan ym Mehefin 2011. Gwelwn: Dorath, Mair, Beryl, Olwen, Nia, Ann, Helen T, Helen E, Ceri Lloyd Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhydymain",
+    "owner": "Cangen Rhydymain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhydymain",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydymain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.783358000000",
+            "lon": "-3.772938000000",
+            "description": {
+                "en": "Rhydymain",
+                "cy": "Rhydymain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_008.jpg",
+            "type": "image",
+            "target_id": "753911"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_009.jpg",
+            "type": "image",
+            "target_id": "753916"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 744446,
+    "title": {
+        "en": "Merched y Wawr Ceredigion Area's Banner ",
+        "cy": "Baner Merched y Wawr Rhanbarth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744446",
+    "created": 1516896300,
+    "updated": 1516896300,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Rhanbarth Ceredigion.  Gwnaed y faner gan Mrs Megan James, Cangen Bronant.  Mae\u2019n dangos canghennau\u2019r rhanbarth ar y pryd.",
+        "cy": "Baner Merched y Wawr Rhanbarth Ceredigion.  Gwnaed y faner gan Mrs Megan James, Cangen Bronant.  Mae\u2019n dangos canghennau\u2019r rhanbarth ar y pryd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-159.jpg",
+            "type": "image",
+            "target_id": "744441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

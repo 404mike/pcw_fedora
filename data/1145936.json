@@ -1,0 +1,71 @@
+{
+    "id": 1145936,
+    "title": {
+        "en": "President's Dinner at the Ivy Bush, Carmarthen",
+        "cy": "Cinio&#039;r Llywydd yn y De yng ngwesty&#039;r Llwyn Iorwg, Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145936",
+    "created": 1562063067,
+    "updated": 1562063067,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members after the meal.",
+        "cy": "Yr aelodau ar \u00f4l y cinio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Carmarthen",
+        "cinior llywydd",
+        "Caerfyrddin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_740.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_740.jpg",
+            "type": "image",
+            "target_id": "1145926"
+        },
+        {
+            "originalFilename": "df_myw_741.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_741.jpg",
+            "type": "image",
+            "target_id": "1145931"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

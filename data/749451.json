@@ -1,0 +1,73 @@
+{
+    "id": 749451,
+    "title": {
+        "en": "Christmas Card designed by a member of Merched y Wawr Morriston Branch",
+        "cy": "Carden Nadolig gan aelod o Ferched y Wawr Cangen Treforys"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749451",
+    "created": 1516899010,
+    "updated": 1516899010,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Carden wedi ei ddylunio gan Mrs Marilyn Roberts o Gangen Treforys a oedd yn fuddugol yng nghystadleuaeth Carden Nadolig Merched y Wawr.",
+        "cy": "Carden wedi ei ddylunio gan Mrs Marilyn Roberts o Gangen Treforys a oedd yn fuddugol yng nghystadleuaeth Carden Nadolig Merched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treforys",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-135.jpg",
+            "type": "image",
+            "target_id": "749446"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

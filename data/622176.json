@@ -1,0 +1,86 @@
+{
+    "id": 622176,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Cystadleuaethau dartiau yn yr Wyl Haf."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622176",
+    "created": 1511279081,
+    "updated": 1511279081,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen fu'n cystadlu yng ngystadleuaethau dartiau yn yr Wyl Haf. 1. Marian Davies, Ann Morris, Mair Selway (1999), 2. Marian Davies, Ann Morris, Marian Davies (2000)",
+        "cy": "Rhai o aelodau\u2019r gangen fu'n cystadlu yng ngystadleuaethau dartiau yn yr Wyl Haf. 1. Marian Davies, Ann Morris, Mair Selway (1999), 2. Marian Davies, Ann Morris, Marian Davies (2000)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_024.jpg",
+            "type": "image",
+            "target_id": "622166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

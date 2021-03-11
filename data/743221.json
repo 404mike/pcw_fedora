@@ -1,0 +1,84 @@
+{
+    "id": 743221,
+    "title": {
+        "en": "Merched y Wawr Aberystwyth Branch celebrates its 40th Birthday",
+        "cy": "Merched y Wawr Aberystwyth yn dathlu penblwydd yn 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743221",
+    "created": 1516895773,
+    "updated": 1516895773,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Aberystwyth yn dathlu\u2019r deugain yng Ngwesty Llety Parc yn 2010.  Ellen ap Gwynn, y wraig wadd a Llywydd Cyntaf y Gangen yn torri\u2019r gacen gyda Megan Jones.",
+        "cy": "Merched y Wawr Cangen Aberystwyth yn dathlu\u2019r deugain yng Ngwesty Llety Parc yn 2010.  Ellen ap Gwynn, y wraig wadd a Llywydd Cyntaf y Gangen yn torri\u2019r gacen gyda Megan Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Aberystwyth"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.404923000000",
+            "lon": "-4.064793000000",
+            "description": {
+                "en": "Gwesty Llety Parc, Aberystwyth",
+                "cy": "Gwesty Llety Parc, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-090.jpg",
+            "type": "image",
+            "target_id": "743211"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

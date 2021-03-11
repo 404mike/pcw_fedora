@@ -1,0 +1,70 @@
+{
+    "id": 1046326,
+    "title": {
+        "en": "Annual Meeting 2002",
+        "cy": "Cyfarfod Blynyddol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046326",
+    "created": 1555590163,
+    "updated": 1555590163,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Guest Speaker at the Annual Meeting 2002, Sian Thomas, Broadcaster with BBC Radio Cymru.",
+        "cy": "Siaradwraig Wadd yn y Cyfarfod Blynyddol 2002, Sian Thomas, Darlledwraig BBC Radio Cymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2002",
+        "sian thomas",
+        "guest speaker",
+        "Tabernacle",
+        "cyfarfod blynyddol 2002",
+        "Tabernacl",
+        "Machynlleth",
+        "Mehefin",
+        "siaradwraig wadd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_026.jpg",
+            "type": "image",
+            "target_id": "1046321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

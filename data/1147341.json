@@ -1,0 +1,65 @@
+{
+    "id": 1147341,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147341",
+    "created": 1562065149,
+    "updated": 1562065149,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation \u2013 Looking back at 50 years of MyW. 1st Henllan branch, Colwyn.",
+        "cy": "Cyflwyniad \u2013 Edrych yn \u00f4l ar 50 mlynedd o MyW. 1af Cangen Henllan, Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_904.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_904.jpg",
+            "type": "image",
+            "target_id": "1147336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

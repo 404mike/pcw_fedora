@@ -1,0 +1,84 @@
+{
+    "id": 601270,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi Branch celebrate 25 Years",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn Dathlu Chwarter Canrif "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601270",
+    "created": 1502449113,
+    "updated": 1502449113,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Teifi yn Dathlu 25ain mlynedd y gangen yng Ngwesty Penbontbren, Glynarthen, 3ydd Ebrill, 1996.",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn Dathlu 25ain mlynedd y gangen yng Ngwesty Penbontbren, Glynarthen, 3ydd Ebrill, 1996."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.116069000000",
+            "lon": "-4.467323000000",
+            "description": {
+                "en": "Gwesty Pentbontbren, Glynarthen",
+                "cy": "Gwesty Pentbontbren, Glynarthen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-124.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-124.jpg",
+            "type": "image",
+            "target_id": "601268"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

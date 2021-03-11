@@ -1,0 +1,106 @@
+{
+    "id": 600329,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch, 'Rhamant a Ch\u00e2n \/ Romance and Song' Programme",
+        "cy": "Merched y Wawr Cangen Bargod Teifi, Rhaglen \u2018Rhamant a Ch\u00e2n\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600329",
+    "created": 1502447588,
+    "updated": 1502447588,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi, Rhaglen \u2018Rhamant a Ch\u00e2n\u2019\nTudalen 1",
+        "cy": "Merched y Wawr Cangen Bargod Teifi, Rhaglen \u2018Rhamant a Ch\u00e2n\u2019\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.019737000000",
+            "lon": "-4.400262000000",
+            "description": {
+                "en": "Drefach Felindre",
+                "cy": "Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-066.jpg",
+            "type": "image",
+            "target_id": "600323"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-067.jpg",
+            "type": "image",
+            "target_id": "600324"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-068.jpg",
+            "type": "image",
+            "target_id": "600325"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-069.jpg",
+            "type": "image",
+            "target_id": "600326"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-070.jpg",
+            "type": "image",
+            "target_id": "600327"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

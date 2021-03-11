@@ -1,0 +1,65 @@
+{
+    "id": 1145271,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145271",
+    "created": 1562062780,
+    "updated": 1562062780,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Craft Competition on the theme 'T Llew Jones': 1st Grace Birt, Swansea Branch, West Glamorgan.",
+        "cy": "Cystadleuaeth Grefft ar y thema 'T. Llew Jones': 1af Grace Birt, Cangen Abertawe, Gorllewin Morgannwg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_665.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_665.jpg",
+            "type": "image",
+            "target_id": "1145266"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

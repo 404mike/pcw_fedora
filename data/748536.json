@@ -1,0 +1,84 @@
+{
+    "id": 748536,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch accepting a cheqie from the Big Lottery Fund",
+        "cy": "Merched y Wawr Pontarddulais a&#039;r Cylch yn derbyn siec gan Y Loteri Fawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748536",
+    "created": 1516898592,
+    "updated": 1516898592,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Pontarddulais yn derbyn siec \u00a32800 gan Y Loteri Fawr i Ddathliad Rhuddem y Gangen yn 2015.  Tynnwyd y llun yng Nghinio\u2019r Pwyllgor 2014-2015 yn y Butchers, Llanddarog.  \nYn y llun mae Jean Bolton (Llywydd am y 3ydd tro), Delyth Williams (Ysg), Lorraine Rees (Trysorydd)",
+        "cy": "Merched y Wawr Pontarddulais yn derbyn siec \u00a32800 gan Y Loteri Fawr i Ddathliad Rhuddem y Gangen yn 2015.  Tynnwyd y llun yng Nghinio\u2019r Pwyllgor 2014-2015 yn y Butchers, Llanddarog.  \nYn y llun mae Jean Bolton (Llywydd am y 3ydd tro), Delyth Williams (Ysg), Lorraine Rees (Trysorydd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.828199000000",
+            "lon": "-4.174306000000",
+            "description": {
+                "en": "Butchers, Llanddarog",
+                "cy": "Butchers, Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-105.jpg",
+            "type": "image",
+            "target_id": "748526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

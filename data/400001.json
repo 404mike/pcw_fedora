@@ -1,0 +1,74 @@
+{
+    "id": 400001,
+    "title": {
+        "en": "Field names in Meillteyrn Uchaf, Sarn, Meillteryn, Pwllheli",
+        "cy": "Enwau caeau yn Meillteyrn Uchaf, Sarn Meillteryn, Pwllheli "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400001",
+    "created": 1416923817,
+    "updated": 1416923817,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Field names Meillteyrn Uchaf, Sarn Meillteyrn, Pwllheli - Cae Person, Cae Llidiart Gwyn, Cae Sgubor",
+        "cy": "Enwau Caeau Fferm Meillteyrn Uchaf, Sarn Meillteyrn, Pwllheli - Cae Person, Cae Llidiart Gwyn, Cae Sgubor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names in Meillteyrn Uchaf",
+        "Sarn Meillteyrn",
+        "Pwllheli",
+        "Enwau Caeau Meillteyrn Uchaf"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.861852000000",
+            "lon": "-4.621065000000",
+            "description": {
+                "en": "Meillteyrn Uchaf, Sarn Meillteyrn, Pwllheli",
+                "cy": "Meillteyrn Uchaf, Sarn Meillteyrn, Pwllheli"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010550_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010550_0.jpg",
+            "type": "image",
+            "target_id": "399999"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.mercheywawr.com"
+    },
+    "guid": "pcw0010540",
+    "publisher_ref": ""
+}

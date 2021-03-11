@@ -1,0 +1,75 @@
+{
+    "id": 600973,
+    "title": {
+        "en": "The Cake made for the Merched y Wawr Llanddarog Branch 30th Anniversary",
+        "cy": "Cacen Dathlu 30 Mlynedd Merched y Wawr Cangen Llanddarog "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600973",
+    "created": 1502448496,
+    "updated": 1502448496,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gacen ar gyfer Merched y Wawr Cangen Llanddarog yn dathlu 30 yn 2011",
+        "cy": "Y gacen ar gyfer Merched y Wawr Cangen Llanddarog yn dathlu 30 yn 2011"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_156.jpg",
+            "type": "image",
+            "target_id": "600972"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

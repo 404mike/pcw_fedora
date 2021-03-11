@@ -1,0 +1,82 @@
+{
+    "id": 610406,
+    "title": {
+        "en": "Merched y Wawr Glannau Pibwr Branch in Llandyfaelog Eisteddfod",
+        "cy": "Merched y Wawr Glannau Pibwr , Eisteddfod Llandyfaelog \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610406",
+    "created": 1510753195,
+    "updated": 1510753195,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Glannau Pibwr yn Eisteddfod Llandyfaelog \u2013 Cyflwyniad \u2018Salem a Steil\u2019 a enillodd y wobr gyntaf.",
+        "cy": "Merched y Wawr Glannau Pibwr yn Eisteddfod Llandyfaelog \u2013 Cyflwyniad \u2018Salem a Steil\u2019 a enillodd y wobr gyntaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen  Glannau Pibwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glannau Pibwr",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.782068000000",
+            "lon": "-4.295906000000",
+            "description": {
+                "en": "Llandyfaelog",
+                "cy": "Llandyfaelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_173627.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/20170128_173627.jpg",
+            "type": "image",
+            "target_id": "610396"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

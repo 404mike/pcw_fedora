@@ -1,0 +1,106 @@
+{
+    "id": 584478,
+    "title": {
+        "en": "Ryseitiau Ystrad Mynach - Ystrad Mynach Recipes -  A Collection of Recipes by Merched y Wawr Ystrad Mynach Branch 1988",
+        "cy": "Ryseitiau Ystrad Mynach - Casgliad o ryseitiau gan Gangen Ystrad Mynach Merched y Wawr 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584478",
+    "created": 1499871101,
+    "updated": 1499871101,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Ystrad Mynach \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \nRyseitiau Ystrad Mynach - Clawr",
+        "cy": "Cangen Ystrad Mynach \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \nRyseitiau Ystrad Mynach - Clawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-022.jpg",
+            "type": "image",
+            "target_id": "584472"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-023.jpg",
+            "type": "image",
+            "target_id": "584473"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-024.jpg",
+            "type": "image",
+            "target_id": "584474"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-025.jpg",
+            "type": "image",
+            "target_id": "584475"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-026.jpg",
+            "type": "image",
+            "target_id": "584476"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-027.jpg",
+            "type": "image",
+            "target_id": "584477"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

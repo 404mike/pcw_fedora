@@ -1,0 +1,89 @@
+{
+    "id": 752931,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Harlech, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Harlech, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752931",
+    "created": 1516958332,
+    "updated": 1516958332,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00f4r ardal Ardudwy fu\u2019n cynnwys Canghennau y Bermo Nantcol, Harlech a Deudraeth, yn cymeryd rhan yn Eisteddfod Genedlaethol Meirion, y Bala 2014. Gwelwn: Jean Jones (B),Bronwen Williams (H), Rhian Jones (N), Meinir Lewis (H), Janet Mostert (H), Marian Williams (D), Eirlys Williams (H), Catherine Jones (D), Mai Morris (D), blaen Enid Owen (D), Llewela Edwards (B).",
+        "cy": "C\u00f4r ardal Ardudwy fu\u2019n cynnwys Canghennau y Bermo Nantcol, Harlech a Deudraeth, yn cymeryd rhan yn Eisteddfod Genedlaethol Meirion, y Bala 2014. Gwelwn: Jean Jones (B),Bronwen Williams (H), Rhian Jones (N), Meinir Lewis (H), Janet Mostert (H), Marian Williams (D), Eirlys Williams (H), Catherine Jones (D), Mai Morris (D), blaen Enid Owen (D), Llewela Edwards (B)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Harlech",
+    "owner": "Cangen Harlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Harlech",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Harlech",
+        "Rhanbarth Meirionnydd",
+        "Drama Meirionnydd",
+        "Cangen Deudraeth",
+        "Cangen Nantcol",
+        "Cangen y Bermo"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.859766000000",
+            "lon": "-4.106688000000",
+            "description": {
+                "en": "Harlech",
+                "cy": "Harlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_HARLECH_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_HARLECH_013.jpg",
+            "type": "image",
+            "target_id": "752921"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 751996,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corris,, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Corris, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751996",
+    "created": 1516958076,
+    "updated": 1516958076,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cwmni \u2018Noson Lawen MyW Corris a\u2019r Cylch\u2019 ym 1979. Bu\u2019r \u2018criw\u2019 yn cynnal nosweithau noson lawen o amgylch yr ardal. Gwelwn: Mary Jones, Menna Thomas, Aranwen Jarman, Dilys McBryde, Alice Hughes, Philly Jones, Blodwen Pugh, Annie Davies, Phena Jones, Gwyneth Morgan, Buddug Davies, Maggie Thomas, Betty Humphries, Gwen Jones, Ellinor Evans, Nia Williams.",
+        "cy": "Cwmni \u2018Noson Lawen MyW Corris a\u2019r Cylch\u2019 ym 1979. Bu\u2019r \u2018criw\u2019 yn cynnal nosweithau noson lawen o amgylch yr ardal. Gwelwn: Mary Jones, Menna Thomas, Aranwen Jarman, Dilys McBryde, Alice Hughes, Philly Jones, Blodwen Pugh, Annie Davies, Phena Jones, Gwyneth Morgan, Buddug Davies, Maggie Thomas, Betty Humphries, Gwen Jones, Ellinor Evans, Nia Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corris",
+    "owner": "Cangen Corris",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corris",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corris",
+        "Rhanbarth Meirionnydd",
+        "Drama Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.654491000000",
+            "lon": "-3.842454000000",
+            "description": {
+                "en": "Corris",
+                "cy": "Corris"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_CORRIS_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_CORRIS_001.jpg",
+            "type": "image",
+            "target_id": "751986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

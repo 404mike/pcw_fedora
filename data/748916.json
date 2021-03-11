@@ -1,0 +1,78 @@
+{
+    "id": 748916,
+    "title": {
+        "en": "Merched y Wawr Tal-y-Bont Branch Netball Team ",
+        "cy": "T\u00eem p\u00eal rwyd Cangen Tal-y-Bont 1985"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748916",
+    "created": 1516898764,
+    "updated": 1516898764,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o d\u00eem p\u00eal rwyd Cangen Tal-y-Bont fu\u2019n cystadlu yn Rhanbarth Ceredigion o Ferched y Wawr, Medi 7, 1985 yng Nghanolfan Hamdden Drefach Felindre.  \nYn y llun mae Myfanwy James, Margaret Jones, Gill Saunders Jones, Gwen Jenkins, Christine Charlton, Eirlys Jones, Betty Jenkins",
+        "cy": "Llun o d\u00eem p\u00eal rwyd Cangen Tal-y-Bont fu\u2019n cystadlu yn Rhanbarth Ceredigion o Ferched y Wawr, Medi 7, 1985 yng Nghanolfan Hamdden Drefach Felindre.  \nYn y llun mae Myfanwy James, Margaret Jones, Gill Saunders Jones, Gwen Jenkins, Christine Charlton, Eirlys Jones, Betty Jenkins"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Papur Pawb",
+    "owner": "Cangen Tal-y-bont a\u2019r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Papur Pawb",
+                "cy": "Papur Pawb"
+            },
+            "year": "1985",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Tal-y-bont ar Cylch"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Tim%20pel%20rwyd%20Cangen%20Talybont.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Tim%2520pel%2520rwyd%2520Cangen%2520Talybont.jpg",
+            "type": "image",
+            "target_id": "748911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

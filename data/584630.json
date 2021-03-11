@@ -1,0 +1,76 @@
+{
+    "id": 584630,
+    "title": {
+        "en": "The history of the Cardiff Branch of Merched y Wawr from 2013 to November 2016",
+        "cy": "Adroddiad Hanes Cangen Caerdydd o Ferched y Wawr o 2013 i 2016\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584630",
+    "created": 1499871289,
+    "updated": 1499871289,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad Hanes Cangen Caerdydd o Ferched y Wawr o 2013 tan mis Tachwedd 2016 - Ysgrifenwyd gan Sh\u00e2n Morgan, aelod o'r Gangen",
+        "cy": "Adroddiad Hanes Cangen Caerdydd o Ferched y Wawr o 2013 tan mis Tachwedd 2016 - Ysgrifenwyd gan Sh\u00e2n Morgan, aelod o'r Gangen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerdydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerfydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-001.jpg",
+            "type": "image",
+            "target_id": "584629"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

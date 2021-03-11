@@ -1,0 +1,96 @@
+{
+    "id": 584292,
+    "title": {
+        "en": "Hwyl Ebrill' ('April Fun') Programme, Merched y Wawr Carmarthenshire Area 2010",
+        "cy": "Rhaglen Hwyl Ebrill, Merched y Wawr Rhanbarth Caerfyrddin 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584292",
+    "created": 1499870875,
+    "updated": 1499870875,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Hwyl Ebrill, Merched y Wawr Rhanbarth Caerfyrddin.  Ysgol Maes yr Yrfa, Cefneithin.  Ebrill 24ain, 2010.  Tudalen flaen",
+        "cy": "Rhaglen Hwyl Ebrill, Merched y Wawr Rhanbarth Caerfyrddin.  Ysgol Maes yr Yrfa, Cefneithin.  Ebrill 24ain, 2010.  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.804331000000",
+            "lon": "-4.097882000000",
+            "description": {
+                "en": "Ysgol Maes yr Yrfa, Cefneithin",
+                "cy": "Ysgol Maes yr Yrfa, Cefneithin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-074.jpg",
+            "type": "image",
+            "target_id": "584288"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-075.jpg",
+            "type": "image",
+            "target_id": "584289"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-076.jpg",
+            "type": "image",
+            "target_id": "584290"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

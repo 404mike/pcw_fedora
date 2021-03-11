@@ -1,0 +1,84 @@
+{
+    "id": 743641,
+    "title": {
+        "en": "Merched y Wawr Beca Branch Celebrates its 25th Anniversary",
+        "cy": "Merched y Wawr Cangen Beca yn Dathlu Chwarter Canrif \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743641",
+    "created": 1516895959,
+    "updated": 1516895959,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu penblwydd Merched y Wawr Cangen Beca yn 25ain yng Ngwesty Nantyffin ym 1998.  \nYn y llun mae Violet James, Ena Davies, Peggy Thomas, Muriel Thomas, Avril Owen, Rhiannon Davies, Betty Jones, Yvonne Vaughan, Mefin Lewis, Ennis Morris, Joy Llewelyn, Linda Owen, Margaret Williams, Sophia Davies, Morfydd Owen, Bessie Williams, Nancy Davies, Rhiannon Jones, Mary Llewelyn, Eirian Bowen, Aeres Jones, Merlyn, Eilir Davies, Jill Beynon, Ann Phillips, Sadie Davies",
+        "cy": "Dathlu penblwydd Merched y Wawr Cangen Beca yn 25ain yng Ngwesty Nantyffin ym 1998.  \nYn y llun mae Violet James, Ena Davies, Peggy Thomas, Muriel Thomas, Avril Owen, Rhiannon Davies, Betty Jones, Yvonne Vaughan, Mefin Lewis, Ennis Morris, Joy Llewelyn, Linda Owen, Margaret Williams, Sophia Davies, Morfydd Owen, Bessie Williams, Nancy Davies, Rhiannon Jones, Mary Llewelyn, Eirian Bowen, Aeres Jones, Merlyn, Eilir Davies, Jill Beynon, Ann Phillips, Sadie Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853721000000",
+            "lon": "-4.728589000000",
+            "description": {
+                "en": "Gwesty Nanytffin",
+                "cy": "Gwesty Nanytffin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-054.jpg",
+            "type": "image",
+            "target_id": "743631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

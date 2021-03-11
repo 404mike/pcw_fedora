@@ -1,0 +1,85 @@
+{
+    "id": 752041,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corris,, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Corris, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752041",
+    "created": 1516958088,
+    "updated": 1516958088,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn dathlu Gwyl Ddewi yn y Llew Du, Derwlas, ym 1996. Gwelwn: Annie Davies, Eluned Lloyd, Ellinor Evans, Menna Thomas, Gwen Jones, Nancey Lloyd, Blanche Evans, Phena Jones, Megan Morris, Mary Jones, Olwen Roberts (gwraig wadd), Betty Humphries (Llywydd).",
+        "cy": "Y gangen yn dathlu Gwyl Ddewi yn y Llew Du, Derwlas, ym 1996. Gwelwn: Annie Davies, Eluned Lloyd, Ellinor Evans, Menna Thomas, Gwen Jones, Nancey Lloyd, Blanche Evans, Phena Jones, Megan Morris, Mary Jones, Olwen Roberts (gwraig wadd), Betty Humphries (Llywydd)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corris",
+    "owner": "Cangen Corris",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corris",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corris",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.654491000000",
+            "lon": "-3.842454000000",
+            "description": {
+                "en": "Corris",
+                "cy": "Corris"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_CORRIS_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_CORRIS_004.jpg",
+            "type": "image",
+            "target_id": "752031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

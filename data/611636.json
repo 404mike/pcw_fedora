@@ -1,0 +1,84 @@
+{
+    "id": 611636,
+    "title": {
+        "en": "Unveiling the Memorial to Beti Gwynno",
+        "cy": "Dadorchuddio Cofeb Beti Gwynno"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611636",
+    "created": 1510753502,
+    "updated": 1510753502,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Enid Jones yn dadorchuddio Cofeb Beti Gwynno \u2013 Mrs Beti Hughes - yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974.",
+        "cy": "Enid Jones yn dadorchuddio Cofeb Beti Gwynno \u2013 Mrs Beti Hughes - yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.707644000000",
+            "lon": "-3.413201000000",
+            "description": {
+                "en": "Cwmbach",
+                "cy": "Cwmbach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-140.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-140.jpg",
+            "type": "image",
+            "target_id": "611626"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

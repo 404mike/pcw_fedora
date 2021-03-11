@@ -1,0 +1,75 @@
+{
+    "id": 584076,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Reading on tape for the blind",
+        "cy": "Merched y Wawr Cangen Mlaenclochog - Darllen ar d\u00e2p ar gyfer y deillion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584076",
+    "created": 1499870322,
+    "updated": 1499870322,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Ionawr 1988.  Heather Jenkins, Ann Morris ac Eirianwen Thomas yn darllen \u2018Clebran' (Papur Bro\u2019r Preseli) ar d\u00e2p ar gyfer y deillion yn nghartref Ann Morris.",
+        "cy": "Merched y Wawr Maenclochog, Ionawr 1988.  Heather Jenkins, Ann Morris ac Eirianwen Thomas yn darllen \u2018Clebran' (Papur Bro\u2019r Preseli) ar d\u00e2p ar gyfer y deillion yn nghartref Ann Morris."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-038.jpg",
+            "type": "image",
+            "target_id": "584075"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

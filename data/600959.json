@@ -1,0 +1,85 @@
+{
+    "id": 600959,
+    "title": {
+        "en": "The defibrillator in Llanddarog Village Hall organised by Merched y Wawr Llanddarog Branch",
+        "cy": "Y Diffibriliwr yn Llanddarog a drefnwyd gan Gangen Llanddarog o Ferched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600959",
+    "created": 1502448476,
+    "updated": 1502448476,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o\u2019r Diffibriliwr ar wal allanol Neuadd y Pentref yn Llanddarog a brynwyd gan Gangen Llanddarog o Ferched y Wawr gyda chymorth grant Sefydliad y Galon.  Cafwyd grant gan y Loteri \u2013 Arian i Bawb i brynu cabinet pwrpasol iddo. Cynhaliwyd noson goffi yn Nhachwedd 2015 i\u2019r gymuned er mwyn chwyddo\u2019r gronfa ar gyfer ei brynu.",
+        "cy": "Ffotograff o\u2019r Diffibriliwr ar wal allanol Neuadd y Pentref yn Llanddarog a brynwyd gan Gangen Llanddarog o Ferched y Wawr gyda chymorth grant Sefydliad y Galon.  Cafwyd grant gan y Loteri \u2013 Arian i Bawb i brynu cabinet pwrpasol iddo. Cynhaliwyd noson goffi yn Nhachwedd 2015 i\u2019r gymuned er mwyn chwyddo\u2019r gronfa ar gyfer ei brynu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Neuadd y Pentref, Llanddarog",
+                "cy": "Neuadd y Pentref, Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_149b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_149b.jpg",
+            "type": "image",
+            "target_id": "600957"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

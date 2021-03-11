@@ -1,0 +1,66 @@
+{
+    "id": 1047846,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047846",
+    "created": 1555591143,
+    "updated": 1555591143,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "John Price, President's husband preparing to release the balloons.",
+        "cy": "John Price, g\u0175r y Llywydd yn paratoi i ollwng y bal\u0175ns."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "Eisteddfod Genedlaethol",
+        "fflint"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_182.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_182.jpg",
+            "type": "image",
+            "target_id": "1047841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

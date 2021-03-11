@@ -1,0 +1,86 @@
+{
+    "id": 754301,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Trawsfynydd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Trawsfynydd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754301",
+    "created": 1516958706,
+    "updated": 1516958706,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 40, yng ngwesty\u2019r Oakley Arms, Ionawr, 2012. Gwelwn: Olwen Williams, Mererid James, Ellen Davies, Mair Williams, Dilys Thomas, Gwladys Hughes, Catherine Roberts, Delyth Jones, Annie Williams, Myfanwy Hughes, Doreen Jones, Rhian Daives, Greta Ellis, Gwen Haf Evans, Heather Foden, Nest Williams, Gwyneth Williams, Liz Jones, Beryl Hughes, Sharon Jones, Eirlys Ellis.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 40, yng ngwesty\u2019r Oakley Arms, Ionawr, 2012. Gwelwn: Olwen Williams, Mererid James, Ellen Davies, Mair Williams, Dilys Thomas, Gwladys Hughes, Catherine Roberts, Delyth Jones, Annie Williams, Myfanwy Hughes, Doreen Jones, Rhian Daives, Greta Ellis, Gwen Haf Evans, Heather Foden, Nest Williams, Gwyneth Williams, Liz Jones, Beryl Hughes, Sharon Jones, Eirlys Ellis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Trawsfynydd",
+    "owner": "Cangen Trawsfynydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Trawsfynydd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trawsfynydd",
+        "Dathlu 40",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902317000000",
+            "lon": "-3.923549000000",
+            "description": {
+                "en": "Trawsfynydd",
+                "cy": "Trawsfynydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_024.jpg",
+            "type": "image",
+            "target_id": "754291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

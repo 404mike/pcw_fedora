@@ -1,0 +1,84 @@
+{
+    "id": 601495,
+    "title": {
+        "en": "Merched y Wawr Merthyr Branch visits Pembrokeshire in 2007",
+        "cy": "Merched y Wawr Cangen Merthyr Tudfulyn ymweld \u00e2 Sir Benfro yn 2007.  \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601495",
+    "created": 1502449458,
+    "updated": 1502449458,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad yn s\u00f4n am ymweliad Merched y Wawr Cangen Merthyr Tudful \u00e2 Sir Benfro ym Mehefin 2007.  \nCroesawyd y criw i Drefdraeth gan aelodau Cangen Trefdraeth a fu\u2019n eu harwain am dro o gwymoas y pentref cyn eu bwydo yn y festri lleol.  \nYn y llun mae Ann Hickley, Henny Hen, Nia Barrar, Liz Stead, Hefina Davies, Elisabeth Gethin, Cleidi Correa, Bethan Jenkins, Hannah Lowe",
+        "cy": "Adroddiad yn s\u00f4n am ymweliad Merched y Wawr Cangen Merthyr Tudful \u00e2 Sir Benfro ym Mehefin 2007.  \nCroesawyd y criw i Drefdraeth gan aelodau Cangen Trefdraeth a fu\u2019n eu harwain am dro o gwymoas y pentref cyn eu bwydo yn y festri lleol.  \nYn y llun mae Ann Hickley, Henny Hen, Nia Barrar, Liz Stead, Hefina Davies, Elisabeth Gethin, Cleidi Correa, Bethan Jenkins, Hannah Lowe"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Merthyr Tudful",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Merthyr Tudful",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.205714000000",
+            "lon": "-4.387625000000",
+            "description": {
+                "en": "Trefdraeth",
+                "cy": "Trefdraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-026.jpg",
+            "type": "image",
+            "target_id": "601493"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

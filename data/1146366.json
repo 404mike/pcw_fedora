@@ -1,0 +1,66 @@
+{
+    "id": 1146366,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Penwythnos Preswyl MyW 2016 Abertawe \u2013 SA1 \u2013 Bae Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146366",
+    "created": 1562063847,
+    "updated": 1562063847,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Yvonne Evans S4C,  giving a presentation.",
+        "cy": "Sgwrs gan Yvonne Evans S4C."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2016",
+        "SWANSEA",
+        "penwythnos preswyl myw",
+        "abertawe"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_793.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_793.jpg",
+            "type": "image",
+            "target_id": "1146361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

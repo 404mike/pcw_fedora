@@ -1,0 +1,75 @@
+{
+    "id": 584054,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - National Eisteddfod, St David's 2002",
+        "cy": "Merched y Wawr Cangen Mlaenclochog - Eisteddfod Genedlaethol Tyddewi 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584054",
+    "created": 1499870282,
+    "updated": 1499870282,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pabell y Dysgwyr, Eisteddfod Genedlaethol Tyddewi 2002.  Buddug Harries, aelod Cangen Maenclochog yn goaflu ar ol stondin Merched y Wawr yn y babell.",
+        "cy": "Pabell y Dysgwyr, Eisteddfod Genedlaethol Tyddewi 2002.  Buddug Harries, aelod Cangen Maenclochog yn goaflu ar ol stondin Merched y Wawr yn y babell."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-029.jpg",
+            "type": "image",
+            "target_id": "584053"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

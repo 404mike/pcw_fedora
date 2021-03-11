@@ -1,0 +1,91 @@
+{
+    "id": 600020,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Eigiau, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Eigiau, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600020",
+    "created": 1502447160,
+    "updated": 1502447160,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o\u2019r gangen yn dathlu ei phenblwydd yn 25 yn \u2018Y Lodge\u2019, Talybont yn 1996. Joan Jones, Ifora Owen, Beatrice Jones, Mair B Williams, Gwen Humphries, Bet Hughes, Rhiannon Hughes, Margaret Edwards, Olwen Williams, Euron Owen, Mair A Williams, Dori Jones, Nora L Jones, Beryl Griffith, Margaret Fru, Eirlys Carpenter, Dilys Phillips, Eirlys Roberts, Megan Clark, Mair Davies, Gwyneth Roberts, Myfanwy Williams, Ann Jones, Myra Jones, Eirlys Williams, Elen Griffiths.",
+        "cy": "Casgliad o luniau o\u2019r gangen yn dathlu ei phenblwydd yn 25 yn \u2018Y Lodge\u2019, Talybont yn 1996. Joan Jones, Ifora Owen, Beatrice Jones, Mair B Williams, Gwen Humphries, Bet Hughes, Rhiannon Hughes, Margaret Edwards, Olwen Williams, Euron Owen, Mair A Williams, Dori Jones, Nora L Jones, Beryl Griffith, Margaret Fru, Eirlys Carpenter, Dilys Phillips, Eirlys Roberts, Megan Clark, Mair Davies, Gwyneth Roberts, Myfanwy Williams, Ann Jones, Myra Jones, Eirlys Williams, Elen Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Eigiau",
+    "owner": "Cangen Eigiau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Eigiau",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Eigiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.201950000000",
+            "lon": "-3.847700000000",
+            "description": {
+                "en": "Eigiau",
+                "cy": "Eigiau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_010.jpg",
+            "type": "image",
+            "target_id": "600017"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_011.jpg",
+            "type": "image",
+            "target_id": "600018"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

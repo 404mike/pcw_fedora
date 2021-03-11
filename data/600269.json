@@ -1,0 +1,75 @@
+{
+    "id": 600269,
+    "title": {
+        "en": "Merched y Wawr Bro Elfed Branch's First Dinner",
+        "cy": "Cinio Cyntaf Merched y Wawr Cangen Bro Elfed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600269",
+    "created": 1502447513,
+    "updated": 1502447513,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Elfed yn cael eu cinio cyntaf ym 1971, wedi dechrau\u2019r gangen ym 1970",
+        "cy": "Merched y Wawr Cangen Bro Elfed yn cael eu cinio cyntaf ym 1971, wedi dechrau\u2019r gangen ym 1970"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Elfed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Elfed",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117019.jpg",
+            "type": "image",
+            "target_id": "600268"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

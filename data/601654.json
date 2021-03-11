@@ -1,0 +1,84 @@
+{
+    "id": 601654,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club have a Pudding evening",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cael noson \u2018Melys a Meddwol\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601654",
+    "created": 1502449669,
+    "updated": 1502449669,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Llygaid y Dydd yn cael noson \u2018Melys a Meddwol\u2019, noson lle ddaeth yr aelodau \u00e2 phwdin yr un gyda phawb yn cael blasu pob math o ddanteithion. Tua 2008.  \nYn y llun mae Wendy yn egluro\u2019r noson i bawb.",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cael noson \u2018Melys a Meddwol\u2019, noson lle ddaeth yr aelodau \u00e2 phwdin yr un gyda phawb yn cael blasu pob math o ddanteithion. Tua 2008.  \nYn y llun mae Wendy yn egluro\u2019r noson i bawb."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "DSCN8365.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/DSCN8365.jpg",
+            "type": "image",
+            "target_id": "601652"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

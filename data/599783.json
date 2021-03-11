@@ -1,0 +1,85 @@
+{
+    "id": 599783,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandudno Junction, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Cyffordd Llandudno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599783",
+    "created": 1502446883,
+    "updated": 1502446883,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathliad G\u0175yl Ddewi - 1976. (cefn) Mrs Ritchie Roberts, Gladys Hughes, Mrs Humphries, Eirian Eluned Jones, (blaen) Mrs H Francis Williams, Mrs Miles, Ceri Williams (llywydd) Mrs O. M. Roberts (gwraid wadd), Mrs Janes Edwards, Mrs Nellie Hughes.",
+        "cy": "Dathliad G\u0175yl Ddewi - 1976. (cefn) Mrs Ritchie Roberts, Gladys Hughes, Mrs Humphries, Eirian Eluned Jones, (blaen) Mrs H Francis Williams, Mrs Miles, Ceri Williams (llywydd) Mrs O. M. Roberts (gwraid wadd), Mrs Janes Edwards, Mrs Nellie Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cyffordd Llandudno",
+    "owner": "Cangen Cyffordd Llandudno",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandudno Junction Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cyffordd Llandudno",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284857000000",
+            "lon": "-3.814005000000",
+            "description": {
+                "en": "Cyffordd Llandudno",
+                "cy": "Cyffordd Llandudno"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_026.jpg",
+            "type": "image",
+            "target_id": "599781"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

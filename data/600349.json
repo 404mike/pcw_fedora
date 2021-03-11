@@ -1,0 +1,75 @@
+{
+    "id": 600349,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Branch present chequeWales Air Ambulance",
+        "cy": "Merched y Wawr Cangen Bro Cennech i Ambiwlans Awyr Cymru  \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600349",
+    "created": 1502447620,
+    "updated": 1502447620,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Cennech cyflwyno siec i Ambiwlans Awyr Cymru  - Medi  2016\nPatricia Jones, Margaret Squire, Margaret Thomas, Beth Leyshon, Jayne Hughges, Linda Sidgwick",
+        "cy": "Merched y Wawr Cangen Bro Cennech cyflwyno siec i Ambiwlans Awyr Cymru  - Medi  2016\nPatricia Jones, Margaret Squire, Margaret Thomas, Beth Leyshon, Jayne Hughges, Linda Sidgwick"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-002.jpg",
+            "type": "image",
+            "target_id": "600348"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

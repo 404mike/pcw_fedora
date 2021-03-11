@@ -1,0 +1,333 @@
+{
+    "id": 818091,
+    "title": {
+        "en": "Scrapbook of Tegryn Branch",
+        "cy": "Llyfr lloffion Cangen Tegryn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/818091",
+    "created": 1523360833,
+    "updated": 1523360833,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Tegryn",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Tegryn00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00001.jpg",
+            "type": "image",
+            "target_id": "817871"
+        },
+        {
+            "originalFilename": "Tegryn00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00002.jpg",
+            "type": "image",
+            "target_id": "817876"
+        },
+        {
+            "originalFilename": "Tegryn00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00003.jpg",
+            "type": "image",
+            "target_id": "817881"
+        },
+        {
+            "originalFilename": "Tegryn00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00004.jpg",
+            "type": "image",
+            "target_id": "817886"
+        },
+        {
+            "originalFilename": "Tegryn00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00005.jpg",
+            "type": "image",
+            "target_id": "817891"
+        },
+        {
+            "originalFilename": "Tegryn00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00006.jpg",
+            "type": "image",
+            "target_id": "817896"
+        },
+        {
+            "originalFilename": "Tegryn00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00007.jpg",
+            "type": "image",
+            "target_id": "817901"
+        },
+        {
+            "originalFilename": "Tegryn00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00008.jpg",
+            "type": "image",
+            "target_id": "817906"
+        },
+        {
+            "originalFilename": "Tegryn00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00009.jpg",
+            "type": "image",
+            "target_id": "817911"
+        },
+        {
+            "originalFilename": "Tegryn00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00010.jpg",
+            "type": "image",
+            "target_id": "817916"
+        },
+        {
+            "originalFilename": "Tegryn00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00011.jpg",
+            "type": "image",
+            "target_id": "817921"
+        },
+        {
+            "originalFilename": "Tegryn00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00012.jpg",
+            "type": "image",
+            "target_id": "817926"
+        },
+        {
+            "originalFilename": "Tegryn00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00013.jpg",
+            "type": "image",
+            "target_id": "817931"
+        },
+        {
+            "originalFilename": "Tegryn00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00014.jpg",
+            "type": "image",
+            "target_id": "817936"
+        },
+        {
+            "originalFilename": "Tegryn00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00015.jpg",
+            "type": "image",
+            "target_id": "817941"
+        },
+        {
+            "originalFilename": "Tegryn00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00016.jpg",
+            "type": "image",
+            "target_id": "817946"
+        },
+        {
+            "originalFilename": "Tegryn00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00017.jpg",
+            "type": "image",
+            "target_id": "817951"
+        },
+        {
+            "originalFilename": "Tegryn00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00018.jpg",
+            "type": "image",
+            "target_id": "817956"
+        },
+        {
+            "originalFilename": "Tegryn00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00019.jpg",
+            "type": "image",
+            "target_id": "817961"
+        },
+        {
+            "originalFilename": "Tegryn00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00020.jpg",
+            "type": "image",
+            "target_id": "817966"
+        },
+        {
+            "originalFilename": "Tegryn00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00021.jpg",
+            "type": "image",
+            "target_id": "817971"
+        },
+        {
+            "originalFilename": "Tegryn00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00022.jpg",
+            "type": "image",
+            "target_id": "817976"
+        },
+        {
+            "originalFilename": "Tegryn00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00023.jpg",
+            "type": "image",
+            "target_id": "817981"
+        },
+        {
+            "originalFilename": "Tegryn00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00024.jpg",
+            "type": "image",
+            "target_id": "817986"
+        },
+        {
+            "originalFilename": "Tegryn00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00025.jpg",
+            "type": "image",
+            "target_id": "817991"
+        },
+        {
+            "originalFilename": "Tegryn00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00026.jpg",
+            "type": "image",
+            "target_id": "817996"
+        },
+        {
+            "originalFilename": "Tegryn00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00027.jpg",
+            "type": "image",
+            "target_id": "818001"
+        },
+        {
+            "originalFilename": "Tegryn00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00028.jpg",
+            "type": "image",
+            "target_id": "818006"
+        },
+        {
+            "originalFilename": "Tegryn00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00029.jpg",
+            "type": "image",
+            "target_id": "818011"
+        },
+        {
+            "originalFilename": "Tegryn00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00030.jpg",
+            "type": "image",
+            "target_id": "818016"
+        },
+        {
+            "originalFilename": "Tegryn00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00031.jpg",
+            "type": "image",
+            "target_id": "818021"
+        },
+        {
+            "originalFilename": "Tegryn00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00032.jpg",
+            "type": "image",
+            "target_id": "818026"
+        },
+        {
+            "originalFilename": "Tegryn00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00033.jpg",
+            "type": "image",
+            "target_id": "818031"
+        },
+        {
+            "originalFilename": "Tegryn00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00034.jpg",
+            "type": "image",
+            "target_id": "818036"
+        },
+        {
+            "originalFilename": "Tegryn00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00035.jpg",
+            "type": "image",
+            "target_id": "818041"
+        },
+        {
+            "originalFilename": "Tegryn00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00036.jpg",
+            "type": "image",
+            "target_id": "818046"
+        },
+        {
+            "originalFilename": "Tegryn00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00037.jpg",
+            "type": "image",
+            "target_id": "818051"
+        },
+        {
+            "originalFilename": "Tegryn00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00038.jpg",
+            "type": "image",
+            "target_id": "818056"
+        },
+        {
+            "originalFilename": "Tegryn00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00039.jpg",
+            "type": "image",
+            "target_id": "818061"
+        },
+        {
+            "originalFilename": "Tegryn00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00040.jpg",
+            "type": "image",
+            "target_id": "818066"
+        },
+        {
+            "originalFilename": "Tegryn00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00041.jpg",
+            "type": "image",
+            "target_id": "818071"
+        },
+        {
+            "originalFilename": "Tegryn00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00042.jpg",
+            "type": "image",
+            "target_id": "818076"
+        },
+        {
+            "originalFilename": "Tegryn00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00043.jpg",
+            "type": "image",
+            "target_id": "818081"
+        },
+        {
+            "originalFilename": "Tegryn00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Tegryn00044.jpg",
+            "type": "image",
+            "target_id": "818086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

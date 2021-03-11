@@ -1,0 +1,85 @@
+{
+    "id": 621386,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Old Colwyn, Colwyn.",
+        "cy": "Cangen Merched y Wawr Hen Golwyn, Rhanbarth Colwyn yn hel atgofion. Rhagfyr, 2015."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621386",
+    "created": 1511278775,
+    "updated": 1511278775,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yn ymgynnull i hel atgofion tra\u2019n pori drwy hen luniau - Rhagfyr, 2015.",
+        "cy": "Aelodau\u2019r gangen yn ymgynnull i hel atgofion tra\u2019n pori drwy hen luniau - Rhagfyr, 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Hen Golwyn",
+    "owner": "Cangen Hen Golwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Old Colwyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Hen Golwyn"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.289141000000",
+            "lon": "-3.698205000000",
+            "description": {
+                "en": "Old Colwyn",
+                "cy": "Hen Golwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HEN_GOLWYN_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HEN_GOLWYN_012.jpg",
+            "type": "image",
+            "target_id": "621376"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

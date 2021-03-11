@@ -1,0 +1,84 @@
+{
+    "id": 751036,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Sarnau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Sarnau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751036",
+    "created": 1516899766,
+    "updated": 1516899766,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o lythyr gan Marged Lloyd Jones i\u2019r gangen yn diolch am ei anrheg penblwydd.",
+        "cy": "Copi o lythyr gan Marged Lloyd Jones i\u2019r gangen yn diolch am ei anrheg penblwydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Sarnau",
+    "owner": "Cangen Sarnau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_015.jpg",
+            "type": "image",
+            "target_id": "751026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

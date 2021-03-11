@@ -1,0 +1,84 @@
+{
+    "id": 600832,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch visit Ynys Angharad Park",
+        "cy": "Merched y Wawr Cangen Rhydaman a&#039;r Cylch ym Mharc Ynys Angharad, Pontypridd "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600832",
+    "created": 1502448305,
+    "updated": 1502448305,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o Gangen Rhydaman o Ferched y Wawr ym Mharc Ynys Angharad, Pontypridd dan Lywyddiaeth Jean Huw Jones, 2005-2006.\nYn y llun mae Bethan Thomas, Jean Huw Jones, Marjorie Rogers, Edwina Leach, Eirian Bowen",
+        "cy": "Aelodau o Gangen Rhydaman o Ferched y Wawr ym Mharc Ynys Angharad, Pontypridd dan Lywyddiaeth Jean Huw Jones, 2005-2006.\nYn y llun mae Bethan Thomas, Jean Huw Jones, Marjorie Rogers, Edwina Leach, Eirian Bowen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.601610000000",
+            "lon": "-3.336500000000",
+            "description": {
+                "en": "Parc Ynys Angharad, Pontypridd",
+                "cy": "Parc Ynys Angharad, Pontypridd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-163.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-163.jpg",
+            "type": "image",
+            "target_id": "600830"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

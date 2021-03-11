@@ -1,0 +1,86 @@
+{
+    "id": 620816,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Ngharnifal Cerrig, Mai, 1992. Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620816",
+    "created": 1511278581,
+    "updated": 1511278581,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen mewn gwisg ffansi yng Ngharnifal Cerrig, Mai, 1992 ar y thema \u2018Dracula\u2019. Gwelwn Mair Williams, Barbara Jones, Dorothy Jones, Eirwen Williams, Dilys Ellis, Heulwen Williams.",
+        "cy": "Rhai o aelodau\u2019r gangen mewn gwisg ffansi yng Ngharnifal Cerrig, Mai, 1992 ar y thema \u2018Dracula\u2019. Gwelwn Mair Williams, Barbara Jones, Dorothy Jones, Eirwen Williams, Dilys Ellis, Heulwen Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_031.jpg",
+            "type": "image",
+            "target_id": "620806"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 599857,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mochdre, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mochdre, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599857",
+    "created": 1502446977,
+    "updated": 1502446977,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Establishing the branch in 1974.",
+        "cy": "Sefydlu cangen Mochdre ym 1974. (cefn) Mary Jones, Bessie Roberts, Angharad Booth Taylor, Annwen Edwards, Eluned Jones, Olwen Jones, Elen Jenkins, Margaret Williams (blaen) Sean Owens, Eluned Davies, Nans Higham."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mochdre",
+    "owner": "Cangen Mochdre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mochdre Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mochdre",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293500000000",
+            "lon": "-3.761070000000",
+            "description": {
+                "en": "Mochdre",
+                "cy": "Mochdre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_MOCHDRE_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_MOCHDRE_003.jpg",
+            "type": "image",
+            "target_id": "599855"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

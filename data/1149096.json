@@ -1,0 +1,64 @@
+{
+    "id": 1149096,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2004",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149096",
+    "created": 1562066083,
+    "updated": 1562066083,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Golf \u20131st Pwllheli, Dwyfor",
+        "cy": "Golff \u2013 1af Pwllheli, Dwyfor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_109.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_109.jpg",
+            "type": "image",
+            "target_id": "1149091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

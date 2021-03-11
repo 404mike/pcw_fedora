@@ -1,0 +1,84 @@
+{
+    "id": 743131,
+    "title": {
+        "en": "Merched y Wawr Swansea Branch plants a tree to marlk its 40th anniversary",
+        "cy": "Merched y Wawr Cangen Abertawe yn plannu coeden i ddathlu 40 mlynedd  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743131",
+    "created": 1516895735,
+    "updated": 1516895735,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad gan Grace Birt yn s\u00f4n am Ferched y Wawr Cangen Abertawe yn plannu coeden ym Mharc Singleton yn 2011 er mwyn cofnodi deugain mlynedd ers sefydlu\u2019r gangen ym 1970.",
+        "cy": "Adroddiad gan Grace Birt yn s\u00f4n am Ferched y Wawr Cangen Abertawe yn plannu coeden ym Mharc Singleton yn 2011 er mwyn cofnodi deugain mlynedd ers sefydlu\u2019r gangen ym 1970."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.610976000000",
+            "lon": "-3.978645000000",
+            "description": {
+                "en": "Parc Singleton, Abertawe",
+                "cy": "Parc Singleton, Abertawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-023.jpg",
+            "type": "image",
+            "target_id": "743121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

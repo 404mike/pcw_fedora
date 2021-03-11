@@ -1,0 +1,65 @@
+{
+    "id": 1145176,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145176",
+    "created": 1562062741,
+    "updated": 1562062741,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Invitation to the Royal Welsh Show \u2013 Llinos Roberts.",
+        "cy": "Gwahoddiad i'r Sioe Amaethyddol Llanelwedd \u2013 Llinos Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_655.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_655.jpg",
+            "type": "image",
+            "target_id": "1145171"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

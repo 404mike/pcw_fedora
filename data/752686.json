@@ -1,0 +1,86 @@
+{
+    "id": 752686,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glanrafon, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Glanrafon, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752686",
+    "created": 1516958269,
+    "updated": 1516958269,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu\u2019r Gangen yn 40 yng nghaffi Hen Siop Frongoch, 2012. Gwelwn: Lona Jones (Is-Lywydd 1af y G), Margaret Ainsworth, Menna Hughes, Olwen Roberts, Delyth Lloyd Jones (Llywydd 1af y G) a Sioned Jones.",
+        "cy": "Dathlu\u2019r Gangen yn 40 yng nghaffi Hen Siop Frongoch, 2012. Gwelwn: Lona Jones (Is-Lywydd 1af y G), Margaret Ainsworth, Menna Hughes, Olwen Roberts, Delyth Lloyd Jones (Llywydd 1af y G) a Sioned Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Glanrafon",
+    "owner": "Cangen Glanrafon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glanrafon",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glanrafon",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.971516000000",
+            "lon": "-3.458562000000",
+            "description": {
+                "en": "Glanrafon",
+                "cy": "Glanrafon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_009.jpg",
+            "type": "image",
+            "target_id": "752676"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

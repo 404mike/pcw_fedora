@@ -1,0 +1,82 @@
+{
+    "id": 584593,
+    "title": {
+        "en": "Book of Limericks by the Newport Branch of Merched y Wawr 2003",
+        "cy": "Llyfryn Limrigau gan Gangen Casnewydd o Ferched y Wawr 2003\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584593",
+    "created": 1499871244,
+    "updated": 1499871244,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn Limrigau 2003\nLlyfryn a roed at ei gilydd gan Vivien Lee c sy\u2019n cynnwys limrigau\/penillion  a orffenwyd (llinell olaf neu 3 llinell olaf) gan aelodau\u2019r Cangen Casnewydd a\u2019r Cylch.  Ysgrifennwyd y llinell cyntaf gan Arwyn Thomas, gwr un o\u2019n haelodau.  .\nClawr",
+        "cy": "Llyfryn Limrigau 2003\nLlyfryn a roed at ei gilydd gan Vivien Lee c sy\u2019n cynnwys limrigau\/penillion  a orffenwyd (llinell olaf neu 3 llinell olaf) gan aelodau\u2019r Cangen Casnewydd a\u2019r Cylch.  Ysgrifennwyd y llinell cyntaf gan Arwyn Thomas, gwr un o\u2019n haelodau.  .\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "ON \u2018Clip Art\u2019 o\u2019r W\u00ea yw\u2019r lluniau.",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-098.jpg",
+            "type": "image",
+            "target_id": "584591"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-099.jpg",
+            "type": "image",
+            "target_id": "584592"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

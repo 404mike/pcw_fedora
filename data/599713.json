@@ -1,0 +1,78 @@
+{
+    "id": 599713,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Betws Garmon, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599713",
+    "created": 1502446804,
+    "updated": 1602584225,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cangen Betws Garmon yn nodi gwaith arbennig Gwyneth Jones Gwninger yn paratoi\u2019r Yr Odyn yw dapio i\u2019r deillion. Mair Jones a Gwyneth yn y llun, yn ogystal \u00e2 englyn wedi\u2019i gyfansoddio yn arbennig gan Myrddin ap Dafydd.",
+        "cy": "Cofnodion cangen Betws Garmon yn nodi gwaith arbennig Gwyneth Jones Gwninger yn paratoi\u2019r Yr Odyn yw dapio i\u2019r deillion. Mair Jones a Gwyneth yn y llun, yn ogystal \u00e2 englyn wedi\u2019i gyfansoddio yn arbennig gan Myrddin ap Dafydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "Llyfrau Cofnodion Merched y Wawr",
+        "Cofnodion Merched y Wawr",
+        "Barddoniaeth Merched y Wawr",
+        "Myrddin ap Dafydd"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_058.jpg",
+            "type": "image",
+            "target_id": "599711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

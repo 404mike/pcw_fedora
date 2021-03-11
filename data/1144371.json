@@ -1,0 +1,77 @@
+{
+    "id": 1144371,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144371",
+    "created": 1562061638,
+    "updated": 1562061638,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sunday lunch at Nantyffin Hotel, before departing.",
+        "cy": "Cinio Dydd Sul yng ngwesty Nantyffin, cyn gadael."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "taith myw",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_501.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_501.jpg",
+            "type": "image",
+            "target_id": "1143816"
+        },
+        {
+            "originalFilename": "df_myw_502_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_502_0.jpg",
+            "type": "image",
+            "target_id": "1144361"
+        },
+        {
+            "originalFilename": "df_myw_503_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_503_0.jpg",
+            "type": "image",
+            "target_id": "1144366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

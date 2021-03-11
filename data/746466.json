@@ -1,0 +1,75 @@
+{
+    "id": 746466,
+    "title": {
+        "en": "Etta George from St Dogmaels Branch wins a national Merched y Wawr competition",
+        "cy": "Etta George o Gangen Llandudoch yn ennill cystadleuaeth cenedlaethol Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746466",
+    "created": 1516897297,
+    "updated": 1516897297,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Etta George o Gangen Llandudoch yn ennill y gystadleuaeth i gynllunio pl\u00e2t i ddathlu penblwydd mudiad Merched y Wawr yn 25 oed.  Y Llywydd Cenedlaethol, Mair Penri Jones, yn cyflwyno pl\u00e2t iddi yn y Cyfarfod Blynyddol ym 1991 i nodi\u2019r amgylchiad.",
+        "cy": "Etta George o Gangen Llandudoch yn ennill y gystadleuaeth i gynllunio pl\u00e2t i ddathlu penblwydd mudiad Merched y Wawr yn 25 oed.  Y Llywydd Cenedlaethol, Mair Penri Jones, yn cyflwyno pl\u00e2t iddi yn y Cyfarfod Blynyddol ym 1991 i nodi\u2019r amgylchiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-017.jpg",
+            "type": "image",
+            "target_id": "746461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1147721,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2017",
+        "cy": "Sioe Frenhinol Llanelwedd 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147721",
+    "created": 1562065481,
+    "updated": 1562065481,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Radi Thomas Competition (Theme: 50 years) 3rd Ceredigion Region",
+        "cy": "Radi Thomas Competition (Theme: 50 years) 3ydd Rhanbarth Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_946.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_946.jpg",
+            "type": "image",
+            "target_id": "1147716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

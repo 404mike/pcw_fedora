@@ -1,0 +1,66 @@
+{
+    "id": 1049466,
+    "title": {
+        "en": "Wrexham  National Eisteddfod  2011",
+        "cy": "Eisteddfod Genedlaethol Wrecsam a&#039;r cylch 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049466",
+    "created": 1555591930,
+    "updated": 1555591930,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mererid Jones, President welcoming everybody to the Shoe Auction in aid of Save the Children. Shoes donated by Welsh Celebrities.",
+        "cy": "Mererid Jones, Llywydd yn croesawu pawb i Ocsiwn 'Sodlau'n Siarad'. Sgidiau wedi eu rhoi gan Enwogion Cymru. Elw tuag at Acub y Plant."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "wrexham",
+        "national eisteddfod",
+        "eisteddfod genedlaethol wrecsam"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_360.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_360.jpg",
+            "type": "image",
+            "target_id": "1049461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

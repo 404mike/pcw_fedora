@@ -1,0 +1,86 @@
+{
+    "id": 754676,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Parc, Meirionnydd",
+        "cy": "Casgliad o luniau a dogfennau gan gangen Merched y Wawr y Parc, Meirionnydd. Cangen gyntaf y Mudiad. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754676",
+    "created": 1516958794,
+    "updated": 1516958794,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o \u201cPererindod y Parc\u201d, dathliad chwarter canif y Mudiad ym mis Mehefin, 1992. Lluniau gan Jane Evans aelod o Gangen y Parc ac un o sylfaenwyr y Mudiad nol ym 1967.",
+        "cy": "Casgliad o luniau o \u201cPererindod y Parc\u201d, dathliad chwarter canif y Mudiad ym mis Mehefin, 1992. Lluniau gan Jane Evans aelod o Gangen y Parc ac un o sylfaenwyr y Mudiad nol ym 1967."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Parc",
+    "owner": "Cangen y Parc",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Y Parc",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Parc",
+        "Pererindod y Parc",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890620000000",
+            "lon": "-3.671856000000",
+            "description": {
+                "en": "Y Parc ",
+                "cy": "Y Parc"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_YPARC010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_YPARC010.jpg",
+            "type": "image",
+            "target_id": "754666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 601050,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Celebrate 25 Years",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi yn dathlu penblwydd yn 25ain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601050",
+    "created": 1502448601,
+    "updated": 1502448601,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 25oed ym Mhlas Pantyrathro, 2014\nSwyddogion cyntaf y gangen a sefydlwyd ym 1989, sef Jane Davies, Jill Davies a Mair Griffiths",
+        "cy": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 25oed ym Mhlas Pantyrathro, 2014\nSwyddogion cyntaf y gangen a sefydlwyd ym 1989, sef Jane Davies, Jill Davies a Mair Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_041.jpg",
+            "type": "image",
+            "target_id": "601048"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,69 @@
+{
+    "id": 1148056,
+    "title": {
+        "en": "MyW Residential Weekend 2017  at Aberystwyth \u2013 Golden Anniversary",
+        "cy": "Penwythnos Preswyl MyW 2017 yn Aberystwyth \u2013 Dathlu&#039;r Aur"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148056",
+    "created": 1562065614,
+    "updated": 1562065614,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members awaiting the evening's entertainment in the Great Hall of the Arts Centre.",
+        "cy": "Aelodau yn aros i adloniant y noson yn y Neuadd Fawr yng Nghanolfan y Celfyddydau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_985.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_985.jpg",
+            "type": "image",
+            "target_id": "1148046"
+        },
+        {
+            "originalFilename": "df_myw_986.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_986.jpg",
+            "type": "image",
+            "target_id": "1148051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

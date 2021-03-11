@@ -1,0 +1,81 @@
+{
+    "id": 749596,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch Programme 2012-2013",
+        "cy": "Rhaglen Merched y Wawr Cangen Tregaron 2012-2013 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749596",
+    "created": 1516899073,
+    "updated": 1516899073,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Tregaron 2012-2013 (y gangen yn 40 oed) \nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Tregaron 2012-2013 (y gangen yn 40 oed) \nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-016.jpg",
+            "type": "image",
+            "target_id": "749586"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-017.jpg",
+            "type": "image",
+            "target_id": "749591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

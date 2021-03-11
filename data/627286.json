@@ -1,0 +1,123 @@
+{
+    "id": 627286,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Menai Bridge, Anglesey.",
+        "cy": "Detholiad o llyfr reseitiau cangen Merched y Wawr Porthaethwy, Rhanbarth M\u00f4n. 1974"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627286",
+    "created": 1511280774,
+    "updated": 1511280774,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Detholiad o llyfr Reseitiau \u2018 Hoff Fwydydd\u2019 Cangen Porthaethwy a gyhoeddwyd yn annibynnol drwy Gwasg Gwynedd yn 1974.",
+        "cy": "Detholiad o llyfr Reseitiau \u2018 Hoff Fwydydd\u2019 Cangen Porthaethwy a gyhoeddwyd yn annibynnol drwy Gwasg Gwynedd yn 1974."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llannerch-y-Medd",
+    "owner": "Cangen Llannerch-y-Medd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Menai Bridge",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Porthaethwy",
+        "Rhanbarth Mon",
+        "Mon",
+        "Llyfrau Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.330448000000",
+            "lon": "-4.377493000000",
+            "description": {
+                "en": "Llannerch-y-Medd",
+                "cy": "Llannerch-y-Medd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY001.jpg",
+            "type": "image",
+            "target_id": "627246"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY002.jpg",
+            "type": "image",
+            "target_id": "627251"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY003.jpg",
+            "type": "image",
+            "target_id": "627256"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY004.jpg",
+            "type": "image",
+            "target_id": "627261"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY005.jpg",
+            "type": "image",
+            "target_id": "627266"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY006.jpg",
+            "type": "image",
+            "target_id": "627271"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY007.jpg",
+            "type": "image",
+            "target_id": "627276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

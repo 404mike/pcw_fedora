@@ -1,0 +1,93 @@
+{
+    "id": 626656,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Llandegfan, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llandegfan, Rhanbarth M\u00f4n. Dathliadau penblwydd y Gangen yn 20."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626656",
+    "created": 1511280566,
+    "updated": 1511280566,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pennillion gwreiddiol a gyfansoddwyd ar gyfer dathliadau penblwydd y Gangen yn 20 gan Edward Morris Jones.",
+        "cy": "Pennillion gwreiddiol a gyfansoddwyd ar gyfer dathliadau penblwydd y Gangen yn 20 gan Edward Morris Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llandegfan",
+    "owner": "Cangen Llandegfan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandegfan",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandegfan",
+        "Rhanbarth Mon",
+        "Mon",
+        "Barddoniaeth"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.243244000000",
+            "lon": "-4.146291000000",
+            "description": {
+                "en": "Llandegfan",
+                "cy": "Llandegfan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_005.jpg",
+            "type": "image",
+            "target_id": "626641"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_006.jpg",
+            "type": "image",
+            "target_id": "626646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

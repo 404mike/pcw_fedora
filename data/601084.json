@@ -1,0 +1,82 @@
+{
+    "id": 601084,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Supporting Good Causes",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, Cefnogi Achosion Da\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601084",
+    "created": 1502448653,
+    "updated": 1502448653,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi, mae\u2019r gangen wedi cyfrannu at sawl elusen ar hyd y blynyddoedd, yn cynnwys prosiectau lleol, cefnogi ysbytai\u2019r ardal a chyfrannu at eisteddfodau.  \nGareth Richards yn arddangos blodau yn Neuadd Llansteffan \u2013 gweithio ar y cyd gyda\u2019r Pwyllgor Ap\u00eal lleol",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, mae\u2019r gangen wedi cyfrannu at sawl elusen ar hyd y blynyddoedd, yn cynnwys prosiectau lleol, cefnogi ysbytai\u2019r ardal a chyfrannu at eisteddfodau.  \nGareth Richards yn arddangos blodau yn Neuadd Llansteffan \u2013 gweithio ar y cyd gyda\u2019r Pwyllgor Ap\u00eal lleol"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.773480000000",
+            "lon": "-4.390220000000",
+            "description": {
+                "en": "Neuadd Llansteffan",
+                "cy": "Neuadd Llansteffan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_059.jpg",
+            "type": "image",
+            "target_id": "601082"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

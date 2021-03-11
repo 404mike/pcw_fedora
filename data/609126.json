@@ -1,0 +1,84 @@
+{
+    "id": 609126,
+    "title": {
+        "en": "Merched y Wawr Bro Alma Branch visit the Botanic Gardens ",
+        "cy": " Merched y Wawr Cangen Bro Alma yn y Gerddi Botaneg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609126",
+    "created": 1510752905,
+    "updated": 1510752905,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Merched y Wawr Cangen Bro Alma yn ymweld \u00e2\u2019r Gerddi Botaneg, 2010",
+        "cy": "Rhai o aelodau Merched y Wawr Cangen Bro Alma yn ymweld \u00e2\u2019r Gerddi Botaneg, 2010"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.841318000000",
+            "lon": "-4.149701000000",
+            "description": {
+                "en": "National Botanic Gardens f Wales",
+                "cy": "National Botanic Gardens f Wales"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_082.jpg",
+            "type": "image",
+            "target_id": "609116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

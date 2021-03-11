@@ -1,0 +1,82 @@
+{
+    "id": 613956,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch taking part in a football game",
+        "cy": "Merched y Wawr Cangen Aberporth yn cymryd rhan mewn g\u00eam p\u00eal droed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613956",
+    "created": 1510754890,
+    "updated": 1510754890,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Aberporth yn cymryd rhan mewn g\u00eam p\u00eal droed yn erbyn \u2018Hoelion Wyth\u2019\nMary Bott, Annita Williams, Janice Davies, Nancy Davies, Menna Richardsm Anne Gomer Jones, Enfys Davies, Esme Gibby\nRhes Flaen \u2013 Phyllis ?, Glenys James, Marina Davies, Anne Rees, Esta Davies, Elizabeth Davies",
+        "cy": "Merched y Wawr Cangen Aberporth yn cymryd rhan mewn g\u00eam p\u00eal droed yn erbyn \u2018Hoelion Wyth\u2019\nMary Bott, Annita Williams, Janice Davies, Nancy Davies, Menna Richardsm Anne Gomer Jones, Enfys Davies, Esme Gibby\nRhes Flaen \u2013 Phyllis ?, Glenys James, Marina Davies, Anne Rees, Esta Davies, Elizabeth Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.132488000000",
+            "lon": "-4.541683000000",
+            "description": {
+                "en": "Aberporth",
+                "cy": "Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-092.jpg",
+            "type": "image",
+            "target_id": "613946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

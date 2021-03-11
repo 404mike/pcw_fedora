@@ -1,0 +1,85 @@
+{
+    "id": 608711,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Penmachno, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Penmachno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608711",
+    "created": 1510752789,
+    "updated": 1510752789,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyfarch ddigrif i\u2019r Is-Lywydd, Olwen Bryn Salem, sy\u2019n olrwain ei hanes yn anghofio am y daith dirgel y gangen ym mis Mehefin 2009.",
+        "cy": "Cyfarch ddigrif i\u2019r Is-Lywydd, Olwen Bryn Salem, sy\u2019n olrwain ei hanes yn anghofio am y daith dirgel y gangen ym mis Mehefin 2009."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Penmachno ",
+    "owner": "Cangen Penmachno ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Penmachno",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penmachno",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.039303000000",
+            "lon": "-3.806502000000",
+            "description": {
+                "en": "Penmachno ",
+                "cy": "Penmachno "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_005.jpg",
+            "type": "image",
+            "target_id": "608701"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

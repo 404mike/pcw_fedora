@@ -1,0 +1,84 @@
+{
+    "id": 600373,
+    "title": {
+        "en": "A ceremeony to award the limerick poets of Merched y Wawr Bro Cennech Branch ",
+        "cy": "Seremoni i wobrwyo \u2018beirdd\u2019 limrig Merched y Wawr Cangen Bro Cennech  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600373",
+    "created": 1502447658,
+    "updated": 1502447658,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Cennech yn cael seremoni i wobrwyo \u2018beirdd\u2019 y Limrig \u2013 ar \u00f4l cinio yn  nhafarn Penycae Mehefin 2013 - maen nhw\u2019n cynnal cystadleuaeth limrigau ar bob gwibdaith.  \nMargaret Thomas (yn y cefndir), Beth Leyshon, Annie Evans, Hilary Griffiths, Helen Hurley, Lis Fidler, Phyllis Williams",
+        "cy": "Merched y Wawr Cangen Bro Cennech yn cael seremoni i wobrwyo \u2018beirdd\u2019 y Limrig \u2013 ar \u00f4l cinio yn  nhafarn Penycae Mehefin 2013 - maen nhw\u2019n cynnal cystadleuaeth limrigau ar bob gwibdaith.  \nMargaret Thomas (yn y cefndir), Beth Leyshon, Annie Evans, Hilary Griffiths, Helen Hurley, Lis Fidler, Phyllis Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.999491000000",
+            "lon": "-3.071998000000",
+            "description": {
+                "en": "Tafarn Penycae",
+                "cy": "Tafarn Penycae"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-012.jpg",
+            "type": "image",
+            "target_id": "600371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

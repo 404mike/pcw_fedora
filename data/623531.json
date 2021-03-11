@@ -1,0 +1,86 @@
+{
+    "id": 623531,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gwawr Club, Ser Maelor, Glyn Maelor",
+        "cy": "Gapel Ebenezer. Cangen Cl\u0175b Gwawr S\u00ear Maelor, Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623531",
+    "created": 1511279535,
+    "updated": 1511279535,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "LLun o Gapel Ebenezer - Heleh, Gwenda, Gwawr, Jo, Mair, Rhian, Morfudd, Rhiannon, Rebecca, Non.",
+        "cy": "LLun o Gapel Ebenezer - Heleh, Gwenda, Gwawr, Jo, Mair, Rhian, Morfudd, Rhiannon, Rebecca, Non."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "owner": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cl\u0175b Gwawr",
+        "S\u00ear Maelor Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cl\u0175b Gwawr S\u00ear Maelor",
+        "Rhanbarth Glyn Maelor",
+        "Clybiau Gwawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_SER_MAELOR_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_SER_MAELOR_001.jpg",
+            "type": "image",
+            "target_id": "623521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

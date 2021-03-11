@@ -1,0 +1,92 @@
+{
+    "id": 625921,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Caergybi, Holyhead, Anglesey.",
+        "cy": "Aeolodau cyfarfod sefydlu cangen Merched y Wawr Caergybi, Rhanbarth M\u00f4n. 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625921",
+    "created": 1511280316,
+    "updated": 1511280316,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Enwau aelodau\u2019r oedd yn bresennol yn y cyfarfod sefydlu ym 1969. Nodyn am hanes sefydlu cangen Caergybi ar y 29ain o Ionawr, 1969.",
+        "cy": "Enwau aelodau\u2019r oedd yn bresennol yn y cyfarfod sefydlu ym 1969. Nodyn am hanes sefydlu cangen Caergybi ar y 29ain o Ionawr, 1969."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Caergybi",
+    "owner": "Cangen Caergybi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holyhead",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caergybi",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.316229000000",
+            "lon": "-4.644301000000",
+            "description": {
+                "en": "Caergybi",
+                "cy": "Caergybi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CAERGYBI_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CAERGYBI_001.jpg",
+            "type": "image",
+            "target_id": "625906"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CAERGYBI_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CAERGYBI_002.jpg",
+            "type": "image",
+            "target_id": "625911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

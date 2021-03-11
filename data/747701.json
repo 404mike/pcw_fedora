@@ -1,0 +1,73 @@
+{
+    "id": 747701,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Sampler Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747701",
+    "created": 1516897998,
+    "updated": 1516897998,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o \u2018Sampler\u2019 o waith \u2018crochet\u2019 Beryl George o gangen Cangen Newydd, gyda cwpled cyntaf c\u00e2n Merched y Wawr.",
+        "cy": "Llun o \u2018Sampler\u2019 o waith \u2018crochet\u2019 Beryl George o gangen Cangen Newydd, gyda cwpled cyntaf c\u00e2n Merched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Capel Newydd"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-150_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-150_0.jpg",
+            "type": "image",
+            "target_id": "747696"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

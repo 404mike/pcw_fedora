@@ -1,0 +1,429 @@
+{
+    "id": 817396,
+    "title": {
+        "en": "Scrapbook of Pontypridd Branch",
+        "cy": "Llyfr lloffion Cangen Pontypridd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/817396",
+    "created": 1523360686,
+    "updated": 1523360686,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Pontypridd",
+    "owner": "Cangen Pontypridd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Pontypridd",
+        "Rhanbarth De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Pontypridd00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00001.jpg",
+            "type": "image",
+            "target_id": "817096"
+        },
+        {
+            "originalFilename": "Pontypridd00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00002.jpg",
+            "type": "image",
+            "target_id": "817101"
+        },
+        {
+            "originalFilename": "Pontypridd00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00003.jpg",
+            "type": "image",
+            "target_id": "817106"
+        },
+        {
+            "originalFilename": "Pontypridd00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00004.jpg",
+            "type": "image",
+            "target_id": "817111"
+        },
+        {
+            "originalFilename": "Pontypridd00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00005.jpg",
+            "type": "image",
+            "target_id": "817116"
+        },
+        {
+            "originalFilename": "Pontypridd00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00006.jpg",
+            "type": "image",
+            "target_id": "817121"
+        },
+        {
+            "originalFilename": "Pontypridd00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00007.jpg",
+            "type": "image",
+            "target_id": "817126"
+        },
+        {
+            "originalFilename": "Pontypridd00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00008.jpg",
+            "type": "image",
+            "target_id": "817131"
+        },
+        {
+            "originalFilename": "Pontypridd00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00009.jpg",
+            "type": "image",
+            "target_id": "817136"
+        },
+        {
+            "originalFilename": "Pontypridd00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00010.jpg",
+            "type": "image",
+            "target_id": "817141"
+        },
+        {
+            "originalFilename": "Pontypridd00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00011.jpg",
+            "type": "image",
+            "target_id": "817146"
+        },
+        {
+            "originalFilename": "Pontypridd00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00012.jpg",
+            "type": "image",
+            "target_id": "817151"
+        },
+        {
+            "originalFilename": "Pontypridd00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00013.jpg",
+            "type": "image",
+            "target_id": "817156"
+        },
+        {
+            "originalFilename": "Pontypridd00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00014.jpg",
+            "type": "image",
+            "target_id": "817161"
+        },
+        {
+            "originalFilename": "Pontypridd00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00015.jpg",
+            "type": "image",
+            "target_id": "817166"
+        },
+        {
+            "originalFilename": "Pontypridd00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00016.jpg",
+            "type": "image",
+            "target_id": "817171"
+        },
+        {
+            "originalFilename": "Pontypridd00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00017.jpg",
+            "type": "image",
+            "target_id": "817176"
+        },
+        {
+            "originalFilename": "Pontypridd00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00018.jpg",
+            "type": "image",
+            "target_id": "817181"
+        },
+        {
+            "originalFilename": "Pontypridd00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00019.jpg",
+            "type": "image",
+            "target_id": "817186"
+        },
+        {
+            "originalFilename": "Pontypridd00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00020.jpg",
+            "type": "image",
+            "target_id": "817191"
+        },
+        {
+            "originalFilename": "Pontypridd00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00021.jpg",
+            "type": "image",
+            "target_id": "817196"
+        },
+        {
+            "originalFilename": "Pontypridd00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00022.jpg",
+            "type": "image",
+            "target_id": "817201"
+        },
+        {
+            "originalFilename": "Pontypridd00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00023.jpg",
+            "type": "image",
+            "target_id": "817206"
+        },
+        {
+            "originalFilename": "Pontypridd00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00024.jpg",
+            "type": "image",
+            "target_id": "817211"
+        },
+        {
+            "originalFilename": "Pontypridd00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00025.jpg",
+            "type": "image",
+            "target_id": "817216"
+        },
+        {
+            "originalFilename": "Pontypridd00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00026.jpg",
+            "type": "image",
+            "target_id": "817221"
+        },
+        {
+            "originalFilename": "Pontypridd00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00027.jpg",
+            "type": "image",
+            "target_id": "817226"
+        },
+        {
+            "originalFilename": "Pontypridd00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00028.jpg",
+            "type": "image",
+            "target_id": "817231"
+        },
+        {
+            "originalFilename": "Pontypridd00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00029.jpg",
+            "type": "image",
+            "target_id": "817236"
+        },
+        {
+            "originalFilename": "Pontypridd00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00030.jpg",
+            "type": "image",
+            "target_id": "817241"
+        },
+        {
+            "originalFilename": "Pontypridd00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00031.jpg",
+            "type": "image",
+            "target_id": "817246"
+        },
+        {
+            "originalFilename": "Pontypridd00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00032.jpg",
+            "type": "image",
+            "target_id": "817251"
+        },
+        {
+            "originalFilename": "Pontypridd00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00033.jpg",
+            "type": "image",
+            "target_id": "817256"
+        },
+        {
+            "originalFilename": "Pontypridd00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00034.jpg",
+            "type": "image",
+            "target_id": "817261"
+        },
+        {
+            "originalFilename": "Pontypridd00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00035.jpg",
+            "type": "image",
+            "target_id": "817266"
+        },
+        {
+            "originalFilename": "Pontypridd00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00036.jpg",
+            "type": "image",
+            "target_id": "817271"
+        },
+        {
+            "originalFilename": "Pontypridd00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00037.jpg",
+            "type": "image",
+            "target_id": "817276"
+        },
+        {
+            "originalFilename": "Pontypridd00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00038.jpg",
+            "type": "image",
+            "target_id": "817281"
+        },
+        {
+            "originalFilename": "Pontypridd00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00039.jpg",
+            "type": "image",
+            "target_id": "817286"
+        },
+        {
+            "originalFilename": "Pontypridd00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00040.jpg",
+            "type": "image",
+            "target_id": "817291"
+        },
+        {
+            "originalFilename": "Pontypridd00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00041.jpg",
+            "type": "image",
+            "target_id": "817296"
+        },
+        {
+            "originalFilename": "Pontypridd00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00042.jpg",
+            "type": "image",
+            "target_id": "817301"
+        },
+        {
+            "originalFilename": "Pontypridd00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00043.jpg",
+            "type": "image",
+            "target_id": "817306"
+        },
+        {
+            "originalFilename": "Pontypridd00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00044.jpg",
+            "type": "image",
+            "target_id": "817311"
+        },
+        {
+            "originalFilename": "Pontypridd00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00045.jpg",
+            "type": "image",
+            "target_id": "817316"
+        },
+        {
+            "originalFilename": "Pontypridd00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00046.jpg",
+            "type": "image",
+            "target_id": "817321"
+        },
+        {
+            "originalFilename": "Pontypridd00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00047.jpg",
+            "type": "image",
+            "target_id": "817326"
+        },
+        {
+            "originalFilename": "Pontypridd00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00048.jpg",
+            "type": "image",
+            "target_id": "817331"
+        },
+        {
+            "originalFilename": "Pontypridd00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00049.jpg",
+            "type": "image",
+            "target_id": "817336"
+        },
+        {
+            "originalFilename": "Pontypridd00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00050.jpg",
+            "type": "image",
+            "target_id": "817341"
+        },
+        {
+            "originalFilename": "Pontypridd00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00051.jpg",
+            "type": "image",
+            "target_id": "817346"
+        },
+        {
+            "originalFilename": "Pontypridd00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00052.jpg",
+            "type": "image",
+            "target_id": "817351"
+        },
+        {
+            "originalFilename": "Pontypridd00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00053.jpg",
+            "type": "image",
+            "target_id": "817356"
+        },
+        {
+            "originalFilename": "Pontypridd00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00054.jpg",
+            "type": "image",
+            "target_id": "817361"
+        },
+        {
+            "originalFilename": "Pontypridd00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00055.jpg",
+            "type": "image",
+            "target_id": "817366"
+        },
+        {
+            "originalFilename": "Pontypridd00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00056.jpg",
+            "type": "image",
+            "target_id": "817371"
+        },
+        {
+            "originalFilename": "Pontypridd00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00057.jpg",
+            "type": "image",
+            "target_id": "817376"
+        },
+        {
+            "originalFilename": "Pontypridd00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00058.jpg",
+            "type": "image",
+            "target_id": "817381"
+        },
+        {
+            "originalFilename": "Pontypridd00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00059.jpg",
+            "type": "image",
+            "target_id": "817386"
+        },
+        {
+            "originalFilename": "Pontypridd00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pontypridd00060.jpg",
+            "type": "image",
+            "target_id": "817391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

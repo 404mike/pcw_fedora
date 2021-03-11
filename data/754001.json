@@ -1,0 +1,85 @@
+{
+    "id": 754001,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Talsarnau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Talsarnau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754001",
+    "created": 1516958625,
+    "updated": 1516958625,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem bowlio deg y Gangen ym 1994 - a ddaeth yn fuddugol yn Nglanllyn yn Rhanbarthol. Gwelwn: Anwen, Margaret, Sh\u00e2m, Mai a Prydwen.",
+        "cy": "T\u00eem bowlio deg y Gangen ym 1994 - a ddaeth yn fuddugol yn Nglanllyn yn Rhanbarthol. Gwelwn: Anwen, Margaret, Sh\u00e2m, Mai a Prydwen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Talsarnau",
+    "owner": "Cangen Talsarnau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Talsarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talsarnau",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902673000000",
+            "lon": "-4.065211000000",
+            "description": {
+                "en": "Talsarnau",
+                "cy": "Talsarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TALSARNAU_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TALSARNAU_006.jpg",
+            "type": "image",
+            "target_id": "753991"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

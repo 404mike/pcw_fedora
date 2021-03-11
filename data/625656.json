@@ -1,0 +1,87 @@
+{
+    "id": 625656,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "C\u00f4r adrodd cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625656",
+    "created": 1511280228,
+    "updated": 1511280228,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00f4r adrodd Cangen Bodffordd dan hyfforddiant Mr R J Roberts. Bu\u2019r c\u00f4r yn llwyddiannus - gan ddod yn 1af am gyd-adrodd yn Eisteddfod Mon Llannerch-y-Medd gan adrodd ar y llwyfan am un y bore, wedi i\u2019r babell ddisgyn. Yn y llun ceir Mr R J Roberts, Gladys Owen, Iola Jones, Helen Pritchard, Dilys Roberts, Cadi Roberts, Madge James, Catherine Jones, Rosie Evans, Ann Williams a Mrs M Price.",
+        "cy": "C\u00f4r adrodd Cangen Bodffordd dan hyfforddiant Mr R J Roberts. Bu\u2019r c\u00f4r yn llwyddiannus - gan ddod yn 1af am gyd-adrodd yn Eisteddfod Mon Llannerch-y-Medd gan adrodd ar y llwyfan am un y bore, wedi i\u2019r babell ddisgyn. Yn y llun ceir Mr R J Roberts, Gladys Owen, Iola Jones, Helen Pritchard, Dilys Roberts, Cadi Roberts, Madge James, Catherine Jones, Rosie Evans, Ann Williams a Mrs M Price."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_003.jpg",
+            "type": "image",
+            "target_id": "625646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

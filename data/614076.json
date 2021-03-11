@@ -1,0 +1,96 @@
+{
+    "id": 614076,
+    "title": {
+        "en": "Merched y Wawr Bro Cranogwen Branch First Book of Minutes",
+        "cy": "Cofnodion cychwynnol Cangen Bro Cranogwen o Ferched y Wawr\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614076",
+    "created": 1510754921,
+    "updated": 1510754921,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cychwynnol Cangen Bro Cranogwen o Ferched y Wawr\nTudalen Flaen",
+        "cy": "Cofnodion cychwynnol Cangen Bro Cranogwen o Ferched y Wawr\nTudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cranogwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cranogwen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.303499000000",
+            "lon": "-4.146851000000",
+            "description": {
+                "en": "Neuadd Goffa Pontgarreg",
+                "cy": "Neuadd Goffa Pontgarreg"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-102.jpg",
+            "type": "image",
+            "target_id": "614056"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-103.jpg",
+            "type": "image",
+            "target_id": "614061"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-104.jpg",
+            "type": "image",
+            "target_id": "614066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

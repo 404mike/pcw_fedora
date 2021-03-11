@@ -1,0 +1,84 @@
+{
+    "id": 601078,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi - Trips",
+        "cy": "Tripiau Merched y Wawr Llannau&#039;r Tywi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601078",
+    "created": 1502448646,
+    "updated": 1502448646,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi\nYn 2012-13 trwy ddyfalbarhad y Llywydd ar y pryd, Anne Evans, derbyniodd y Gangen grant gan y Loteri.  Defnyddiwyd yr arian i brynu gliniadur ac argraffydd, camera digidol ac offer swyddfa er mwyn hwyluso gwaith y Swyddogion.  Defnyddiwyd y gweddill i dalu am sawl taith ddiddorol.  \nBu\u2019r gangen i Ganolfan Gwilitiau Jen Jones yn Llanbed, i Felin Tregwynt, Porthgain a Th\u0177 Ddewi, a\u2019r uchafbwynt oedd y daith i Fae Caerdydd ac i Ganolfan y Mileniwm i gwynhau perfformiad o\u2019r sioe \u2018Hairspray\u2019.\nYn dilyn blwyddyn lwyddiannus iawn derbyniodd y gangen Tarian Merched y Wawr am ddenu\u2019r mwyaf o aelodau newydd o blith ganghennau\u2019r De.  \nYr aelodau gyda\u2019r darian yng Ngwesty Pantyrathro. \nCefn \u2013 Valmai Griffiths, Myfanwy Jones, Beryl Thomas, Jane Davies, Bessie Marks, Margaret Evans, Olive Harries, Christine John, Ann Thomas, Elaine Bown, Kathleen Hyde, Dawn Griffiths, Gillian Treharne, Si\u00e2n Kier\nBlaen \u2013 Lin Heighton, Ann Iorwerth, Jill Davies, Anne Evans, Mair Griffiths, Dorothy Morgan",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi\nYn 2012-13 trwy ddyfalbarhad y Llywydd ar y pryd, Anne Evans, derbyniodd y Gangen grant gan y Loteri.  Defnyddiwyd yr arian i brynu gliniadur ac argraffydd, camera digidol ac offer swyddfa er mwyn hwyluso gwaith y Swyddogion.  Defnyddiwyd y gweddill i dalu am sawl taith ddiddorol.  \nBu\u2019r gangen i Ganolfan Gwilitiau Jen Jones yn Llanbed, i Felin Tregwynt, Porthgain a Th\u0177 Ddewi, a\u2019r uchafbwynt oedd y daith i Fae Caerdydd ac i Ganolfan y Mileniwm i gwynhau perfformiad o\u2019r sioe \u2018Hairspray\u2019.\nYn dilyn blwyddyn lwyddiannus iawn derbyniodd y gangen Tarian Merched y Wawr am ddenu\u2019r mwyaf o aelodau newydd o blith ganghennau\u2019r De.  \nYr aelodau gyda\u2019r darian yng Ngwesty Pantyrathro. \nCefn \u2013 Valmai Griffiths, Myfanwy Jones, Beryl Thomas, Jane Davies, Bessie Marks, Margaret Evans, Olive Harries, Christine John, Ann Thomas, Elaine Bown, Kathleen Hyde, Dawn Griffiths, Gillian Treharne, Si\u00e2n Kier\nBlaen \u2013 Lin Heighton, Ann Iorwerth, Jill Davies, Anne Evans, Mair Griffiths, Dorothy Morgan"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_056.jpg",
+            "type": "image",
+            "target_id": "601076"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

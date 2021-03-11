@@ -1,0 +1,86 @@
+{
+    "id": 624396,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor yn dathlu penblwydd yn 40 oed."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624396",
+    "created": 1511279824,
+    "updated": 1511279824,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r Gangen yn dathlu penblwydd y Gangen yn 40 oed (sefydlwyd ym 1973) yng nghwmni Tegwen Morris a Gill Griffith (Llywydd Cenedlaethol).",
+        "cy": "Aelodau\u2019r Gangen yn dathlu penblwydd y Gangen yn 40 oed (sefydlwyd ym 1973) yng nghwmni Tegwen Morris a Gill Griffith (Llywydd Cenedlaethol)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Dyffryn Clwyd",
+    "owner": "Cangen Llanfair Dyffryn Clwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Dyffryn Clwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfair Dyffryn Clwyd",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.089706000000",
+            "lon": "-3.294789000000",
+            "description": {
+                "en": "Llanfair Dyffryn Clwyd",
+                "cy": "Llanfair Dyffryn Clwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_009.jpg",
+            "type": "image",
+            "target_id": "624386"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

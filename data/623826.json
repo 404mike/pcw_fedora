@@ -1,0 +1,110 @@
+{
+    "id": 623826,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Derwen, Glyn Maelor",
+        "cy": "Cofnodion sefydlu cangen Merched y Wawr Derwen, Glyn Maelor. 1977"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623826",
+    "created": 1511279632,
+    "updated": 1511279632,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion sefydlu y Gangen ym 1977 yn ogystal \u00e2 rhestr o Swyddogion ac aelodau cyntaf Cangen Derwen.",
+        "cy": "Cofnodion sefydlu y Gangen ym 1977 yn ogystal \u00e2 rhestr o Swyddogion ac aelodau cyntaf Cangen Derwen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Derwen",
+    "owner": "Cangen Derwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "derwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Derwen",
+        "Derwen Rhanbarth Glyn Maelor",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.045249000000",
+            "lon": "-3.390589000000",
+            "description": {
+                "en": "Derwen",
+                "cy": "Derwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_001.jpg",
+            "type": "image",
+            "target_id": "623796"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_002.jpg",
+            "type": "image",
+            "target_id": "623801"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_003.jpg",
+            "type": "image",
+            "target_id": "623806"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_004.jpg",
+            "type": "image",
+            "target_id": "623811"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_005.jpg",
+            "type": "image",
+            "target_id": "623816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

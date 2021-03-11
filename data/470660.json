@@ -1,0 +1,70 @@
+{
+    "id": 470660,
+    "title": {
+        "en": "Llansteffan, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llansteffan, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470660",
+    "created": 1441700846,
+    "updated": 1441700846,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llansteffan, Carmarthenshire branch of Merched y Wawr. It contains names of farms and fields in the Llangain, Llangynog, Llansteffan and Llanybri areas.",
+        "cy": "Gwybodaeth am waith cangen Llansteffan, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys rhestr o enwau ffermydd, caeau a cartrefi ardaloedd Llangynog, Llangain, Llansteffan a Llanybri."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10796.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10796.jpg",
+            "type": "image",
+            "target_id": "470657"
+        },
+        {
+            "originalFilename": "pcw001_10797.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10797.jpg",
+            "type": "image",
+            "target_id": "470658"
+        },
+        {
+            "originalFilename": "pcw001_10798.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10798.jpg",
+            "type": "image",
+            "target_id": "470659"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10796",
+    "publisher_ref": ""
+}

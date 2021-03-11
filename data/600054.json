@@ -1,0 +1,85 @@
+{
+    "id": 600054,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Eigiau, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Eigiau, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600054",
+    "created": 1502447196,
+    "updated": 1502447196,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y gangen i Ffin y Parc, Llanrwst a bwyd yn y Royal Oak, Betws y Coed. 1. Ann Jones, Margaret Fry. 2. Gwyneth Roberts, Euron Owen, Eirlys Roberts, 3. Eirlys Carptenter, Beryl Griffith, Gwyneth Roberts.",
+        "cy": "Gwibdaith y gangen i Ffin y Parc, Llanrwst a bwyd yn y Royal Oak, Betws y Coed. 1. Ann Jones, Margaret Fry. 2. Gwyneth Roberts, Euron Owen, Eirlys Roberts, 3. Eirlys Carptenter, Beryl Griffith, Gwyneth Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Eigiau",
+    "owner": "Cangen Eigiau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Eigiau",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Eigiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.201950000000",
+            "lon": "-3.847700000000",
+            "description": {
+                "en": "Eigiau",
+                "cy": "Eigiau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_044.jpg",
+            "type": "image",
+            "target_id": "600052"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

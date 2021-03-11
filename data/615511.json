@@ -1,0 +1,84 @@
+{
+    "id": 615511,
+    "title": {
+        "en": "Merched y Wawr Beacons Branch Annual Dinner 2013",
+        "cy": "Cinio Blynyddol Merched y Wawr Cangen Y Bannau 2013.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615511",
+    "created": 1510755273,
+    "updated": 1510755273,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad Cinio Blynyddol Merched y Wawr Cangen Y Bannau yn mis Mehefin 2013. Y Llywydd Cenedlaethol ar y pryd, Gill Griffiths (2012-2014) oedd y siaradwraig wadd a bu\u2019n s\u00f4n am y tri \u2018D\u2019 \u2013 drama, dysgwyr a daioni.",
+        "cy": "Adroddiad Cinio Blynyddol Merched y Wawr Cangen Y Bannau yn mis Mehefin 2013. Y Llywydd Cenedlaethol ar y pryd, Gill Griffiths (2012-2014) oedd y siaradwraig wadd a bu\u2019n s\u00f4n am y tri \u2018D\u2019 \u2013 drama, dysgwyr a daioni."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bannau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bannau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.949000000000",
+            "lon": "-3.394002000000",
+            "description": {
+                "en": "Gwesty'r Castell, Aberhonddu",
+                "cy": "Gwesty'r Castell, Aberhonddu"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-073.jpg",
+            "type": "image",
+            "target_id": "615501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

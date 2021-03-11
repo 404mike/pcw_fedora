@@ -1,0 +1,86 @@
+{
+    "id": 624796,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Rhaglen cyntaf  cangen Merched y Wawr Wuddgrug, Glyn Maelor. 1969-1980."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624796",
+    "created": 1511279951,
+    "updated": 1511279951,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen cyntaf Cangen y Wyddgrug 1969 - 1970 dan Lywyddiaeth Jennie Eirian Davies, a ddaeth yn Lywydd Cenedlaethol ym 1978 - 1980.",
+        "cy": "Rhaglen cyntaf Cangen y Wyddgrug 1969 - 1970 dan Lywyddiaeth Jennie Eirian Davies, a ddaeth yn Lywydd Cenedlaethol ym 1978 - 1980."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_001.jpg",
+            "type": "image",
+            "target_id": "624786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

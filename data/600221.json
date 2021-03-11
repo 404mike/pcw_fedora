@@ -1,0 +1,126 @@
+{
+    "id": 600221,
+    "title": {
+        "en": "A Jigsaw Book made by Merched y Wawr Alma Branch",
+        "cy": "Llyfr Jig-So gan Ferched y Wawr Bro Alma"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600221",
+    "created": 1502447439,
+    "updated": 1502447439,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cystadleuaeth Jig-so leol ym 1989.  Daeth Cangen Merched y Wawr Bro Alma yn gydradd gyntaf am eu llyfr yn rhoi hanes yr ardal.  Enghraifft o dudalen",
+        "cy": "Cystadleuaeth Jig-so leol ym 1989.  Daeth Cangen Merched y Wawr Bro Alma yn gydradd gyntaf am eu llyfr yn rhoi hanes yr ardal.  Enghraifft o dudalen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.944835000000",
+            "lon": "-4.500753000000",
+            "description": {
+                "en": "Trelech \/ Meidrim",
+                "cy": "Trelech \/ Meidrim"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_125959.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_125959.jpg",
+            "type": "image",
+            "target_id": "600212"
+        },
+        {
+            "originalFilename": "20170128_130007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130007.jpg",
+            "type": "image",
+            "target_id": "600213"
+        },
+        {
+            "originalFilename": "20170128_130024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130024.jpg",
+            "type": "image",
+            "target_id": "600214"
+        },
+        {
+            "originalFilename": "20170128_130044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130044.jpg",
+            "type": "image",
+            "target_id": "600215"
+        },
+        {
+            "originalFilename": "20170128_130112.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130112.jpg",
+            "type": "image",
+            "target_id": "600216"
+        },
+        {
+            "originalFilename": "20170128_130117.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130117.jpg",
+            "type": "image",
+            "target_id": "600217"
+        },
+        {
+            "originalFilename": "20170128_130205.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130205.jpg",
+            "type": "image",
+            "target_id": "600218"
+        },
+        {
+            "originalFilename": "20170128_130213.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_130213.jpg",
+            "type": "image",
+            "target_id": "600219"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

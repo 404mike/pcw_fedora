@@ -1,0 +1,111 @@
+{
+    "id": 584369,
+    "title": {
+        "en": "Minutes Book Merched y Wawr, Carmarthen Area 1969 onwards",
+        "cy": "Llyfr Cofnodion Rhanbarth Caerfyrddin (Pwyllgor Sir Gaerfyrddin) 1969 ymlaen "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584369",
+    "created": 1499870960,
+    "updated": 1499870960,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr Cofnodion Rhanbarth Caerfyrddin (Pwyllgor Sir Gaerfyrddin ar y pryd) Merched y Wawr 1969 ymlaen \u2013 Clawr \n     Enid Jones Pwyllgor Sir wedi ei ysgrifennu ar y clawr\n     Llyfr Cofnodion cyntaf y Rhanbarth",
+        "cy": "Llyfr Cofnodion Rhanbarth Caerfyrddin (Pwyllgor Sir Gaerfyrddin ar y pryd) Merched y Wawr 1969 ymlaen \u2013 Clawr \n     Enid Jones Pwyllgor Sir wedi ei ysgrifennu ar y clawr\n     Llyfr Cofnodion cyntaf y Rhanbarth"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-001.jpg",
+            "type": "image",
+            "target_id": "584362"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-002.jpg",
+            "type": "image",
+            "target_id": "584363"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-003.jpg",
+            "type": "image",
+            "target_id": "584364"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-004.jpg",
+            "type": "image",
+            "target_id": "584365"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-005.jpg",
+            "type": "image",
+            "target_id": "584366"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-006.jpg",
+            "type": "image",
+            "target_id": "584367"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-007.jpg",
+            "type": "image",
+            "target_id": "584368"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

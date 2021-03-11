@@ -1,0 +1,84 @@
+{
+    "id": 584125,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting Aberglansey",
+        "cy": "Merched y wawr Cangen Maenclochog - Taith i Gerddi Aberglasney"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584125",
+    "created": 1499870388,
+    "updated": 1499870388,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Medi 2008 \u2013 Yn Aberglasney, Sir G\u00e2r. O\u2019r chwith \u2013 Maureen George, Gillian Phillips, Eiry Phillips, Ogwen Phillips, Gretta Gibby, Beryl John, Mary Llewellyn, Peggy Phillips, Vi Edwards, Lena Evans a Haulwen Davies",
+        "cy": "Medi 2008 \u2013 Yn Aberglasney, Sir G\u00e2r. O\u2019r chwith \u2013 Maureen George, Gillian Phillips, Eiry Phillips, Ogwen Phillips, Gretta Gibby, Beryl John, Mary Llewellyn, Peggy Phillips, Vi Edwards, Lena Evans a Haulwen Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.880163000000",
+            "lon": "-4.062081000000",
+            "description": {
+                "en": "Gerddi Aberglasney",
+                "cy": "Gerddi Aberglasney"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-059.jpg",
+            "type": "image",
+            "target_id": "584123"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

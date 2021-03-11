@@ -1,0 +1,73 @@
+{
+    "id": 601292,
+    "title": {
+        "en": "Merched y Wawr Cylch y Mwnt Branch Banner",
+        "cy": "Baner Merched y Wawr Cylch y Mwnt"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601292",
+    "created": 1502449150,
+    "updated": 1502449150,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Cangen Cylch y Mwnt\nGwaith un o aelodau\u2019r gangen, Mrs Elfair Gooch, yw\u2019r faner.",
+        "cy": "Baner Merched y Wawr Cangen Cylch y Mwnt\nGwaith un o aelodau\u2019r gangen, Mrs Elfair Gooch, yw\u2019r faner."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch y Mwnt ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Cylch y Mwnt",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-135.jpg",
+            "type": "image",
+            "target_id": "601291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,100 @@
+{
+    "id": 470797,
+    "title": {
+        "en": "Dinbych, Glyn Maelor branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Dibnbych, Glyn Maelor i brosiect Merched y Wawr ar enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470797",
+    "created": 1441700910,
+    "updated": 1441700910,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Dinbych, Glyn Maelor branch of Merched y Wawr. It contains a list of farms and their field names.",
+        "cy": "Gwybodaeth am waith cangen Dinbych, Glyn Maelor o Ferched y Wawr. Mae'n cynnwys rhestr o enwau ffermydd a'u caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10923.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10923.jpg",
+            "type": "image",
+            "target_id": "470789"
+        },
+        {
+            "originalFilename": "pcw001_10924.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10924.jpg",
+            "type": "image",
+            "target_id": "470790"
+        },
+        {
+            "originalFilename": "pcw001_10925.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10925.jpg",
+            "type": "image",
+            "target_id": "470791"
+        },
+        {
+            "originalFilename": "pcw001_10926.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10926.jpg",
+            "type": "image",
+            "target_id": "470792"
+        },
+        {
+            "originalFilename": "pcw001_10927.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10927.jpg",
+            "type": "image",
+            "target_id": "470793"
+        },
+        {
+            "originalFilename": "pcw001_10928.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10928.jpg",
+            "type": "image",
+            "target_id": "470794"
+        },
+        {
+            "originalFilename": "pcw001_10929.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10929.jpg",
+            "type": "image",
+            "target_id": "470795"
+        },
+        {
+            "originalFilename": "pcw001_10930.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10930.jpg",
+            "type": "image",
+            "target_id": "470796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10923",
+    "publisher_ref": ""
+}

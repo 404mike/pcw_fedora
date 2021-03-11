@@ -1,0 +1,102 @@
+{
+    "id": 600887,
+    "title": {
+        "en": "Sketch presented by Merched y Wawr St Clears Branch 1979",
+        "cy": "Sgets \u00e2 gyflwynwyd gan Ferched y Wawr Cangen San Cler 1979"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600887",
+    "created": 1502448376,
+    "updated": 1502448376,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sgets \u00e2 gyflwynwyd gan Ferched y Wawr Cangen San Cler yn noson eitemau Rhanbarth Caerfyrddin yn Ysgol Griffith Jones, San Cler ar nos Fercher, Mai 9fed, 1979.\nTudalen 1",
+        "cy": "Sgets \u00e2 gyflwynwyd gan Ferched y Wawr Cangen San Cler yn noson eitemau Rhanbarth Caerfyrddin yn Ysgol Griffith Jones, San Cler ar nos Fercher, Mai 9fed, 1979.\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.823822000000",
+            "lon": "-4.489772000000",
+            "description": {
+                "en": "Ysgol Griffith Jones, San Cler",
+                "cy": "Ysgol Griffith Jones, San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-018.jpg",
+            "type": "image",
+            "target_id": "600882"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-019.jpg",
+            "type": "image",
+            "target_id": "600883"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-020.jpg",
+            "type": "image",
+            "target_id": "600884"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-021.jpg",
+            "type": "image",
+            "target_id": "600885"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

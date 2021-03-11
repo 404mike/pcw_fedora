@@ -1,0 +1,86 @@
+{
+    "id": 628311,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Talwrn, Anglesey.",
+        "cy": "Hanesion a lluniau cangen Merched y Wawr Talwrn, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628311",
+    "created": 1511281120,
+    "updated": 1511281120,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dogfen cyfoethog, llawn hanesion diddorol a lluniau sy\u2019n adrodd hanes Cangen Talwrn ers ei sefydlu yn Hydref, 1975 dan arweiniad Meri Rhiannon Elis. Awdur y Dogfen - Ann",
+        "cy": "Dogfen cyfoethog, llawn hanesion diddorol a lluniau sy\u2019n adrodd hanes Cangen Talwrn ers ei sefydlu yn Hydref, 1975 dan arweiniad Meri Rhiannon Elis. Awdur y Dogfen - Ann"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Talwrn",
+    "owner": "Cangen Talwrn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Talwrn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talwrn",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.269374000000",
+            "lon": "-4.274138000000",
+            "description": {
+                "en": "Talwrn",
+                "cy": "Talwrn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_TALWRN_006.pdf",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/MYW_GOG_MON_TALWRN_006_0.pdf",
+            "type": "office_doc",
+            "target_id": "628301"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

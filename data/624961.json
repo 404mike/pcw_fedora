@@ -1,0 +1,96 @@
+{
+    "id": 624961,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Rhaglen \u2018Noson Lawen\u2019 Merched y Wawr Rhanbarth Glyn Maelor, Mehefin 1989."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624961",
+    "created": 1511280004,
+    "updated": 1511280004,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen \u2018Noson Lawen\u2019 Rhanbarth Glyn Maelor, ym Mhafiliwn Corwen, Mehefin 1989.",
+        "cy": "Rhaglen \u2018Noson Lawen\u2019 Rhanbarth Glyn Maelor, ym Mhafiliwn Corwen, Mehefin 1989."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_002.jpg",
+            "type": "image",
+            "target_id": "624941"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_003.jpg",
+            "type": "image",
+            "target_id": "624946"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_004.jpg",
+            "type": "image",
+            "target_id": "624951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

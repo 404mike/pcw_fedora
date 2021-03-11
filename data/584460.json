@@ -1,0 +1,74 @@
+{
+    "id": 584460,
+    "title": {
+        "en": "Crochan Coginio - Cooking Cauldron - A Collection of Recipes by Merched y Wawr Ystrad Mynach Branch 1988",
+        "cy": "Crochan Coginio - Casgliad o ryseitiau gan Gangen Ystrad Mynach Merched y Wawr 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584460",
+    "created": 1499871087,
+    "updated": 1499871087,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Ystrad Mynach o Ferched y Wawr \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \nClawr \u2013 Crochan Coginio",
+        "cy": "Cangen Ystrad Mynach o Ferched y Wawr \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \nClawr \u2013 Crochan Coginio"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-010.jpg",
+            "type": "image",
+            "target_id": "584459"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

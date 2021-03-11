@@ -1,0 +1,88 @@
+{
+    "id": 622251,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Penwythnos Preswyl y Mudiad yn Llanbedr Pont Steffan - Medi 1990. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622251",
+    "created": 1511279105,
+    "updated": 1511279105,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Llansannan a Changen y Groes yn perfformio sgets \u2018Sa\u2019m llonydd i gael\u2019 ym mhenwythnos Preswyl y Mudiad yn Llanbedr Pont Steffan - Medi 1990.",
+        "cy": "Rhai o aelodau Llansannan a Changen y Groes yn perfformio sgets \u2018Sa\u2019m llonydd i gael\u2019 ym mhenwythnos Preswyl y Mudiad yn Llanbedr Pont Steffan - Medi 1990."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Cangen y Groes",
+        "Drama Colwyn",
+        "Penwythnos Preswyl Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_033.jpg",
+            "type": "image",
+            "target_id": "622241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

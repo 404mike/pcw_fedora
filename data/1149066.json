@@ -1,0 +1,64 @@
+{
+    "id": 1149066,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2004",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149066",
+    "created": 1562066065,
+    "updated": 1562066065,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Darts  \u20131st Llwyncelyn, Dwyfor",
+        "cy": "Dartiau \u2013 1af Llwyncelyn, Dwyfor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_106.jpg",
+            "type": "image",
+            "target_id": "1149061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

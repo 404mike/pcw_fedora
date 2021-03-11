@@ -1,0 +1,73 @@
+{
+    "id": 609136,
+    "title": {
+        "en": "Merched y Wawr Bro Alma Flower Arranging Evening",
+        "cy": "Merched y Wawr Cangen Bro Alma yn dysgu gosod blodau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609136",
+    "created": 1510752908,
+    "updated": 1510752908,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Alma, noson yng nghwmni Mrs Judith Jones (un o\u2019r aelodau) yn dangos sut i osod blodau ar gyfer y Nadolig",
+        "cy": "Merched y Wawr Cangen Bro Alma, noson yng nghwmni Mrs Judith Jones (un o\u2019r aelodau) yn dangos sut i osod blodau ar gyfer y Nadolig"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_081.jpg",
+            "type": "image",
+            "target_id": "609131"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

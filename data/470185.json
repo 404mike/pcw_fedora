@@ -1,0 +1,71 @@
+{
+    "id": 470185,
+    "title": {
+        "en": "Pistyll, Dwyfor branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Pistyll, Dwyfor i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470185",
+    "created": 1441700631,
+    "updated": 1441700631,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Pistyll, Dwyfor branch of Merched y Wawr. It contains an anecdote on a smallholding known as Tyddyn Dafydd Morris, and information on wells in the area.",
+        "cy": "Gwybodaeth am waith cangen Pistyll, Dwyfor o Ferched y Wawr. Mae'n cynnwys hanesyn am Dyddyn Dafydd Morris a hanes rhai ffynhonnau yn yr ardal."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10366.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10366.jpg",
+            "type": "image",
+            "target_id": "470182"
+        },
+        {
+            "originalFilename": "pcw001_10367.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10367.jpg",
+            "type": "image",
+            "target_id": "470183"
+        },
+        {
+            "originalFilename": "pcw001_10368.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10368.jpg",
+            "type": "image",
+            "target_id": "470184"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10366",
+    "publisher_ref": ""
+}

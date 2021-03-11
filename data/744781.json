@@ -1,0 +1,75 @@
+{
+    "id": 744781,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch celebrate 25th Anniversary",
+        "cy": "Merched y Wawr Cylch Aeron yn Dathlu Chwarter Canrif  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744781",
+    "created": 1516896482,
+    "updated": 1516896482,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cylch Aeron, Tymor 1993-1994, yng nghinio dathlu penblwydd y Gangen yn 25ain oed.  Dechreuwyd y Gangen ym 1969.",
+        "cy": "Aelodau Merched y Wawr Cylch Aeron, Tymor 1993-1994, yng nghinio dathlu penblwydd y Gangen yn 25ain oed.  Dechreuwyd y Gangen ym 1969."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-040.jpg",
+            "type": "image",
+            "target_id": "744776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

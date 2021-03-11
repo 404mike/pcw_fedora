@@ -1,0 +1,116 @@
+{
+    "id": 753436,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753436",
+    "created": 1516958472,
+    "updated": 1516958472,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyfarfod sefydlu\u2019r Gangen ym mis Martha,1970, yn ogystal \u00e2 chofnodion trefnu\u2019r tymor 1970 - 1971.",
+        "cy": "Cofnodion cyfarfod sefydlu\u2019r Gangen ym mis Martha,1970, yn ogystal \u00e2 chofnodion trefnu\u2019r tymor 1970 - 1971."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932341000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_034.jpg",
+            "type": "image",
+            "target_id": "753401"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_035.jpg",
+            "type": "image",
+            "target_id": "753406"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_036.jpg",
+            "type": "image",
+            "target_id": "753411"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_037.jpg",
+            "type": "image",
+            "target_id": "753416"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_038.jpg",
+            "type": "image",
+            "target_id": "753421"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_039.jpg",
+            "type": "image",
+            "target_id": "753426"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 400016,
+    "title": {
+        "en": "Field names Gelli Ffrydiau Nantlle, Arfon",
+        "cy": "Enwau caeau Gelli Ffrydiau Nantlle Arfon"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400016",
+    "created": 1416923852,
+    "updated": 1416923852,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Field names Gelli Ffrydiau, Nantlle, Elizabeth C. Ellis Penygroes, Caernarvon and fields named for their shape - Jane Hughes, Penygroes",
+        "cy": "Enwau Caeau Gelli Ffrydiau Nantlle  Cae Ffrynt Bach, Gors Glan Llyn, Weirglodd Fain, Caeau yn cael eu henwi yn ol eu siap yn Nantlle - Cae Hetar, Cae Esgid, Cae Dwr Oer, Jane Hughes, Penygroes"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Gelli Ffrydiau",
+        "Nantlle",
+        "Caernarvon field names",
+        "Enwau Caeau Nantlle",
+        "Caernarfon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.057533000000",
+            "lon": "-4.222801000000",
+            "description": {
+                "en": "Gelli Ffrydiau, Nantlle, Caernarfon",
+                "cy": "Gelli Ffrydiau, Nantlle, Caernarfon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010550_1.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010550_1.jpg",
+            "type": "image",
+            "target_id": "400014"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010550",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 584394,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch - Giving a sampler",
+        "cy": "Merched y Wawr Rhanbarth Caerfyrddin - rhoi rhodd sampler i Elinor Davies"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584394",
+    "created": 1499870986,
+    "updated": 1499870986,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhanbarth Caerfyrddin rhoi rhodd sampler i Elinor Davies. Yn y llun o'r chwith i'r dde mae Nan Lewis, Betty Thomas, Enid Jones, ?, Marged Jones, ? Val James, Non (Trefnydd), Elinor Davies, Menna Lenny",
+        "cy": "Rhanbarth Caerfyrddin rhoi rhodd sampler i Elinor Davies. Yn y llun o'r chwith i'r dde mae Nan Lewis, Betty Thomas, Enid Jones, ?, Marged Jones, ? Val James, Non (Trefnydd), Elinor Davies, Menna Lenny"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-048.jpg",
+            "type": "image",
+            "target_id": "584393"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

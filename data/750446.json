@@ -1,0 +1,75 @@
+{
+    "id": 750446,
+    "title": {
+        "en": "Winner of the Merched y Wawr Flower Arranging Competition at the Royal Welsh Show 1989",
+        "cy": "Enillydd cystadleuaeth gosod blodau Merched y Wawr yn Sioe Frenhinol 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750446",
+    "created": 1516899463,
+    "updated": 1516899463,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Enillydd cystadleuaeth gosod blodau cenedlaethol Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd yn 1989.  Y testun oedd \u2018Y Wawr\u2019 ac yn fuddugol oedd Jennie Herbert o Gangen Pontarddulais yn cynrychioli Rhanbarth Gorllewin Morgannwg.  Dyma\u2019r tro cyntaf i Ferched y Wawr gael arddangos yn y y Babell Flodau yn y Sioe.",
+        "cy": "Enillydd cystadleuaeth gosod blodau cenedlaethol Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd yn 1989.  Y testun oedd \u2018Y Wawr\u2019 ac yn fuddugol oedd Jennie Herbert o Gangen Pontarddulais yn cynrychioli Rhanbarth Gorllewin Morgannwg.  Dyma\u2019r tro cyntaf i Ferched y Wawr gael arddangos yn y y Babell Flodau yn y Sioe."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr, Rhanbarth Gorllewin Morgannwg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Pontarddulais"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-026.jpg",
+            "type": "image",
+            "target_id": "750441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

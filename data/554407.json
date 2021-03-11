@@ -1,0 +1,73 @@
+{
+    "id": 554407,
+    "title": {
+        "en": "Write your cheques in Welsh",
+        "cy": "Llenwch eich sieciau yn Gymraeg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554407",
+    "created": 1487591768,
+    "updated": 1487591768,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o erthygl o\u2019r Wawr o Hydref 1974 Llenwch eich sieciau yn Gymraeg.",
+        "cy": "Copi o erthygl o\u2019r Wawr o Hydref 1974 Llenwch eich sieciau yn Gymraeg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": " Merched y Wawr",
+    "owner": " Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000001.jpg",
+            "type": "image",
+            "target_id": "554406"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

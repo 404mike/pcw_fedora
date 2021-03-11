@@ -1,0 +1,99 @@
+{
+    "id": 628131,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maelog, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Maelog, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628131",
+    "created": 1511281058,
+    "updated": 1511281058,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Aelodau Cangen Maelog yn cymeryd rhan yn \u2018Bwrlwm Bro\u2019 yn Eisteddfod Genedlaethol y Bala 1997 a\u2019u perfformiad (buddugol) o\u2019r \u2018Sipsiwn\u2019. 2. Tystysgrif buddugol Cangen Maelog o\u2019r Bwlwm Bro yn 1997 o \u2018Y SIPSIWN\u2019. 3. Beirniadaeth Rownd Gynderfynol - Bwrlwm Bro, 1997 - \u2018Y SIPSIWN\u2019.",
+        "cy": "1. Aelodau Cangen Maelog yn cymeryd rhan yn \u2018Bwrlwm Bro\u2019 yn Eisteddfod Genedlaethol y Bala 1997 a\u2019u perfformiad (buddugol) o\u2019r \u2018Sipsiwn\u2019. 2. Tystysgrif buddugol Cangen Maelog o\u2019r Bwlwm Bro yn 1997 o \u2018Y SIPSIWN\u2019. 3. Beirniadaeth Rownd Gynderfynol - Bwrlwm Bro, 1997 - \u2018Y SIPSIWN\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maelog",
+    "owner": "Cangen Maelog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maelog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maelog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.224711000000",
+            "lon": "-4.513083000000",
+            "description": {
+                "en": "Maelog",
+                "cy": "Maelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_003.jpg",
+            "type": "image",
+            "target_id": "628111"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_006.jpg",
+            "type": "image",
+            "target_id": "628116"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_007.jpg",
+            "type": "image",
+            "target_id": "628121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

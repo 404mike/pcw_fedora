@@ -1,0 +1,86 @@
+{
+    "id": 752576,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Ganllwyd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Ganllwyd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752576",
+    "created": 1516958239,
+    "updated": 1516958239,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu penblwydd y mudiad yn 21 ym mis Mai, 1998. Gwelwn saith o aelodau sefydlu y Gangen \/ Mudiad ym 1967. Gwelwn: (cefn) Mrs Eirlys Jones, Mrs Glenys Ashton, Mrs Anwen Jones, Mrs Mair Edwards (blaen) Mrs Eirionwen Thompson, Mrs Betsi Roberts, Mrs Gwen Davies.",
+        "cy": "Y Gangen yn dathlu penblwydd y mudiad yn 21 ym mis Mai, 1998. Gwelwn saith o aelodau sefydlu y Gangen \/ Mudiad ym 1967. Gwelwn: (cefn) Mrs Eirlys Jones, Mrs Glenys Ashton, Mrs Anwen Jones, Mrs Mair Edwards (blaen) Mrs Eirionwen Thompson, Mrs Betsi Roberts, Mrs Gwen Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Ganllwyd",
+    "owner": "Cangen y Ganllwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "y Ganllwyd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Ganllwyd",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.804985000000",
+            "lon": "-3.889672000000",
+            "description": {
+                "en": "Y Ganllwyd",
+                "cy": "Y Ganllwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "GOG_Meirionnydd_Ganllwyd_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/GOG_Meirionnydd_Ganllwyd_007.jpg",
+            "type": "image",
+            "target_id": "752566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

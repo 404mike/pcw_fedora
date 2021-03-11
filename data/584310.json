@@ -1,0 +1,90 @@
+{
+    "id": 584310,
+    "title": {
+        "en": "Merched y Wawr Residential Weekend Programme 2010 (Cainc a Chelfydd)",
+        "cy": "Rhaglen Cainc a Chelfydd, Penwythnos Preswyl Merched y Wawr,  2012.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584310",
+    "created": 1499870896,
+    "updated": 1499870896,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cainc a Chelfydd, Penwythnos Preswyl Merched y Wawr, 7 \u2013 9 Medi, 2012.  Llanbedr Pont Steffan. Tudalen flaen (amserlen Gwener \/ Sadwrn)",
+        "cy": "Rhaglen Cainc a Chelfydd, Penwythnos Preswyl Merched y Wawr, 7 \u2013 9 Medi, 2012.  Llanbedr Pont Steffan. Tudalen flaen (amserlen Gwener \/ Sadwrn)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112966000000",
+            "lon": "-4.078612000000",
+            "description": {
+                "en": "Llanbed",
+                "cy": "Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-085.jpg",
+            "type": "image",
+            "target_id": "584307"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-086.jpg",
+            "type": "image",
+            "target_id": "584308"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

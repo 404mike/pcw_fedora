@@ -1,0 +1,74 @@
+{
+    "id": 554497,
+    "title": {
+        "en": "Letter regarding the filming of S4C programme 'Sgwad Newyddi' at the Merched y Wawr office",
+        "cy": "Llythyr ynghlyn \u00e2 ffilmio rhaglen S4C, Sgwad Newyddi yn Swyddfa Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554497",
+    "created": 1487592092,
+    "updated": 1487592092,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr wrth gwmni cynhyrchu Ci Diog, 21 Rhagfyr 1999 ynghlyn \u00e2 ffilmio rhaglen Sgwad Newyddi yn Swyddfa Merched y Wawr, 14-18 Chwefror, 2000",
+        "cy": "Llythyr wrth gwmni cynhyrchu Ci Diog, 21 Rhagfyr 1999 ynghlyn \u00e2 ffilmio rhaglen Sgwad Newyddi yn Swyddfa Merched y Wawr, 14-18 Chwefror, 2000"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "S4C"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000045.jpg",
+            "type": "image",
+            "target_id": "554496"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

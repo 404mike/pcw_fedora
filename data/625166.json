@@ -1,0 +1,87 @@
+{
+    "id": 625166,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Amlwch, Anglesey.",
+        "cy": "Cangen  Merched y Wawr Amlwch, Rhanbarth M\u00f4n yn dathlu penblwydd 18 yn 1986. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625166",
+    "created": 1511280072,
+    "updated": 1511280072,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 18th birthday",
+        "cy": "Cangen Amlwch yn dathlu ei penblwydd yn 18 yn 1986. Sefydlwyd y gangen ym 1968.Llun o Mrs Williams, Mrs Enid Jones, Mrs Gwenda Davies, Mrs Lilan, Mrs Sally Williams, Mrs Catherine Jones, Mrs Beti Morgan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Amwlch",
+    "owner": "Cangen Amwlch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Amlwch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Amwlch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 18"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411193000000",
+            "lon": "-4.343023000000",
+            "description": {
+                "en": "Amlwch",
+                "cy": "Amlwch "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_006.jpg",
+            "type": "image",
+            "target_id": "625156"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

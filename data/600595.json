@@ -1,0 +1,84 @@
+{
+    "id": 600595,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch presenting a cheque to the Eisteddfod Bro Dinefwr Committee",
+        "cy": "Merched y Wawr Cangen Llandeilo yn cyflwyno siec i Bwyllgor Eisteddfod Llandeilo ym 1996.  \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600595",
+    "created": 1502447955,
+    "updated": 1502447955,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llandeilo yn cyflwyno siec i Bwyllgor Eisteddfod Llandeilo ym 1996.  \nYn y llun, Rhiannon Griffiths (Llywydd), Gweneira Davies (Ysgrifennydd), Hilda Broad (Trysorydd).  Cyflwynwyd y siec i Mr Bob Roberts a Mr Neville Evans, Cadeirydd Cyllid Bro Dinefwr a Swyddog Cyllid Eisteddfodau\u2019r De",
+        "cy": "Merched y Wawr Cangen Llandeilo yn cyflwyno siec i Bwyllgor Eisteddfod Llandeilo ym 1996.  \nYn y llun, Rhiannon Griffiths (Llywydd), Gweneira Davies (Ysgrifennydd), Hilda Broad (Trysorydd).  Cyflwynwyd y siec i Mr Bob Roberts a Mr Neville Evans, Cadeirydd Cyllid Bro Dinefwr a Swyddog Cyllid Eisteddfodau\u2019r De"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.884599000000",
+            "lon": "-3.991395000000",
+            "description": {
+                "en": "Llandeilo",
+                "cy": "Llandeilo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-049.jpg",
+            "type": "image",
+            "target_id": "600593"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

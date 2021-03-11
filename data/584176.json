@@ -1,0 +1,80 @@
+{
+    "id": 584176,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area, Celebration Evening 1988",
+        "cy": "Merched y Wawr Rhanbarth Caerfyrddin, Noson Ddathlu 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584176",
+    "created": 1499870452,
+    "updated": 1499870452,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Rhanbarth Caerfyrddin, Noson Ddathlu ar ddyrchafiad Mrs Margarette Huws yn Llywydd Cenedlaethol, Medi 2, 1988  (Gwesty\u2019r Llwyn Iorwg) Tudalen flaen",
+        "cy": "Merched y Wawr Rhanbarth Caerfyrddin, Noson Ddathlu ar ddyrchafiad Mrs Margarette Huws yn Llywydd Cenedlaethol, Medi 2, 1988  (Gwesty\u2019r Llwyn Iorwg) Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Gwesty&#039;r Llwyn Iorwg, Caerfyrddin (Ivy Bush Hotel)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-024.jpg",
+            "type": "image",
+            "target_id": "584174"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-025.jpg",
+            "type": "image",
+            "target_id": "584175"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

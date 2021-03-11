@@ -1,0 +1,94 @@
+{
+    "id": 400056,
+    "title": {
+        "en": "House names in Llandre, Llanfihangel Genau'r Glyn",
+        "cy": "Enwau tai yn Llandre, Llanfihangel genau&#039;r Glyn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400056",
+    "created": 1416923932,
+    "updated": 1417016368,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Some history relating to the village of Llandre in the parish of Llanfihangel Genau'r Glyn. It give the history of the house names of the area, and where the names originate from.",
+        "cy": "Ychydig o hanes pentref Llandre ym mhlwyf Llanfihangel Genau'r Glyn gan gynnwys disgrifiad o enwau tai a tarddiad y enwau"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "house names",
+        "Llandre",
+        "Llanfihangel Genaur Glyn",
+        "enwau tai"
+    ],
+    "when": [
+        "1800s"
+    ],
+    "what": [
+        "Houses and Homes",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010576.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010576.jpg",
+            "type": "image",
+            "target_id": "400052"
+        },
+        {
+            "originalFilename": "pcw0010577.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010577.jpg",
+            "type": "image",
+            "target_id": "400053"
+        },
+        {
+            "originalFilename": "pcw0010578.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010578.jpg",
+            "type": "image",
+            "target_id": "400054"
+        },
+        {
+            "originalFilename": "pcw0010579.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010579.jpg",
+            "type": "image",
+            "target_id": "400055"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010576",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1148746,
+    "title": {
+        "en": "MyW Scrap Books",
+        "cy": "Llyfrau Lloffion MyW"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148746",
+    "created": 1562065889,
+    "updated": 1562065889,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The MyW branches Scrap Books. They were exhibited at the National Library.",
+        "cy": "Llyfrau Lloffion y canghennau yn cael eu harddangos yn y Llyfrgell Genedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "scrap books",
+        "llyfrau lloffion myw",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_071.jpg",
+            "type": "image",
+            "target_id": "1148741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

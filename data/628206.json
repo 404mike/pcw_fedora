@@ -1,0 +1,87 @@
+{
+    "id": 628206,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maelog, Anglesey.",
+        "cy": "Parti Adrodd cangen Merched y Wawr Maelog, Rhanbarth M\u00f4n. Eisteddfod Genedlaethol M\u00f4n, Llangefni 1983."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628206",
+    "created": 1511281083,
+    "updated": 1511281083,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Adrodd Cangen Maelog yn cymeryd rhan yng Nghyflwyniad Merched y Wawr yn Eisteddfod Genedlaethol M\u00f4n, Llangefni 1983. Gwelwn: Eleanor Dew, Margaret Roberts, Renee Jones, Elizabeth Hughes, Ann Rowlands, Annen Price, Wendy Jones, Esther Edwards.",
+        "cy": "Parti Adrodd Cangen Maelog yn cymeryd rhan yng Nghyflwyniad Merched y Wawr yn Eisteddfod Genedlaethol M\u00f4n, Llangefni 1983. Gwelwn: Eleanor Dew, Margaret Roberts, Renee Jones, Elizabeth Hughes, Ann Rowlands, Annen Price, Wendy Jones, Esther Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maelog",
+    "owner": "Cangen Maelog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maelog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maelog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.224711000000",
+            "lon": "-4.513083000000",
+            "description": {
+                "en": "Maelog",
+                "cy": "Maelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_019.jpg",
+            "type": "image",
+            "target_id": "628196"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

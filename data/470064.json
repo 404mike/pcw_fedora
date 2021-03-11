@@ -1,0 +1,118 @@
+{
+    "id": 470064,
+    "title": {
+        "en": "Pontarddulais branch of Merched y Wawr, west Glamorgan's additional contribution to the project on Welsh place names.",
+        "cy": "Rhagor o gyfraniad gan gangen Pontarddulais, Gorllewin Morgannwg i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470064",
+    "created": 1441700578,
+    "updated": 1441700578,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Pontarddulais brnch, West Glamorgan of Merched y Wawr. It contains  material on names in the parish of Llandeilo Tal-y-Bont by Deric John.",
+        "cy": "Gwybodaeth am waith cangen Pontarddulais, Gorllewin Morgannwg o Ferched y Wawr. Mae'n cynnwys gwybodaeth am enwau ym mhlwyf Llandeilo Tal-y-Bont gan Deric John."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Cities, towns & villages"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10249.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10249.jpg",
+            "type": "image",
+            "target_id": "470053"
+        },
+        {
+            "originalFilename": "pcw001_10250.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10250.jpg",
+            "type": "image",
+            "target_id": "470054"
+        },
+        {
+            "originalFilename": "pcw001_10251.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10251.jpg",
+            "type": "image",
+            "target_id": "470055"
+        },
+        {
+            "originalFilename": "pcw001_10252.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10252.jpg",
+            "type": "image",
+            "target_id": "470056"
+        },
+        {
+            "originalFilename": "pcw001_10253.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10253.jpg",
+            "type": "image",
+            "target_id": "470057"
+        },
+        {
+            "originalFilename": "pcw001_10254.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10254.jpg",
+            "type": "image",
+            "target_id": "470058"
+        },
+        {
+            "originalFilename": "pcw001_10255.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10255.jpg",
+            "type": "image",
+            "target_id": "470059"
+        },
+        {
+            "originalFilename": "pcw001_10256.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10256.jpg",
+            "type": "image",
+            "target_id": "470060"
+        },
+        {
+            "originalFilename": "pcw001_10257.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10257.jpg",
+            "type": "image",
+            "target_id": "470061"
+        },
+        {
+            "originalFilename": "pcw001_10258.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10258.jpg",
+            "type": "image",
+            "target_id": "470062"
+        },
+        {
+            "originalFilename": "pcw001_10259.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10259.jpg",
+            "type": "image",
+            "target_id": "470063"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10249",
+    "publisher_ref": ""
+}

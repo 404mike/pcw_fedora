@@ -1,0 +1,73 @@
+{
+    "id": 746781,
+    "title": {
+        "en": "Merched y Wawr Llanon Branch knit",
+        "cy": "Merched y Wawr Cangen Llannon yn gwau "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746781",
+    "created": 1516897436,
+    "updated": 1516897436,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tair aelod o Gangen Llannon o Ferched y Wawr \u2013 Anita Jones, Sarah Jenkins a Betty - yn rhoi sgwariau wedi\u2019u gwau gyda\u2019i gilydd.  Rafflwyd y flanced a casgliwyd \u00a3100 i elusen.",
+        "cy": "Tair aelod o Gangen Llannon o Ferched y Wawr \u2013 Anita Jones, Sarah Jenkins a Betty - yn rhoi sgwariau wedi\u2019u gwau gyda\u2019i gilydd.  Rafflwyd y flanced a casgliwyd \u00a3100 i elusen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llannon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llannon"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-224.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-224.jpg",
+            "type": "image",
+            "target_id": "746776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

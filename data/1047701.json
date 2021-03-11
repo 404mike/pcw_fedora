@@ -1,0 +1,67 @@
+{
+    "id": 1047701,
+    "title": {
+        "en": "Pageant to celebrate 40 years and Singing Festival 2007",
+        "cy": "Pasiant Dathlu&#039;r Deugain a Cymanfa Ganu 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047701",
+    "created": 1555591047,
+    "updated": 1555591047,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Staff stewarding in their yellow coats \u2013 Mim Roberts, Tegwen Morris, Einir Wyn.",
+        "cy": "Staff yn stiwardio yn eu cotiau melyn \u2013 Mim Roberts, Tegwen Morris, Einir Wyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Pageant",
+        "singing festival",
+        "Pasiant",
+        "Cymanfa Ganu"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_162.jpg",
+            "type": "image",
+            "target_id": "1047696"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

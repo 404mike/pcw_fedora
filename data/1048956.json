@@ -1,0 +1,72 @@
+{
+    "id": 1048956,
+    "title": {
+        "en": "MyW Residential Weekend 2010 \u2013 Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2010 \u2013 Cyfoeth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048956",
+    "created": 1555591723,
+    "updated": 1555591723,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Fashion Show by EdedaJ.",
+        "cy": "Sioe Ffasiwn gan EdedaJ, Castell Newydd Emlyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "cyfoeth ceredigion"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_301.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_301.jpg",
+            "type": "image",
+            "target_id": "1048946"
+        },
+        {
+            "originalFilename": "df_myw_302.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_302.jpg",
+            "type": "image",
+            "target_id": "1048951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

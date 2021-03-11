@@ -1,0 +1,75 @@
+{
+    "id": 600574,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch, President's Medal",
+        "cy": "Tlws Llywydd Cangen Llandeilo o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600574",
+    "created": 1502447925,
+    "updated": 1502447925,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tlws Llywydd Cangen Llandeilo o Ferched y Wawr, rhoddedig gan Ann Roberts ym 1981",
+        "cy": "Tlws Llywydd Cangen Llandeilo o Ferched y Wawr, rhoddedig gan Ann Roberts ym 1981"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170128_115606.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_115606.jpg",
+            "type": "image",
+            "target_id": "600573"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

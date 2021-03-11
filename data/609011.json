@@ -1,0 +1,84 @@
+{
+    "id": 609011,
+    "title": {
+        "en": "Merched y Wawr Bro Alma in the year 2000",
+        "cy": "Merched y Wawr Cangen Bro Alma yn y flwyddyn 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609011",
+    "created": 1510752878,
+    "updated": 1510752878,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Alma yn y flwyddyn 2000\nRhes gefn \u2013 Alwen Davies, Jean Lewis, Meinir James, Wendy Thomas, Alyson Harries, Manon Thomas\nAil Res - Rachel Anna Thomas, Jenny Ford, Linda Davies, Val Gibbard, Ina Evans, Linda Davies, Elinor Evans, Patsy Lewis, Eirlys Phillips, Nesta Davies \nRhes flaen \u2013 Nancy Williams, Gwladys Davies, Muriel Bowen-Evans, Olive Thompson, Hevina Jones, Elinor Morris, Karolyn Thomas, Eileen Thomas, Eira Page, Yvonne Evans\nYn absennol o\u2019r llun mae Mrs Ray James a Mrs Llinos Jones",
+        "cy": "Merched y Wawr Cangen Bro Alma yn y flwyddyn 2000\nRhes gefn \u2013 Alwen Davies, Jean Lewis, Meinir James, Wendy Thomas, Alyson Harries, Manon Thomas\nAil Res - Rachel Anna Thomas, Jenny Ford, Linda Davies, Val Gibbard, Ina Evans, Linda Davies, Elinor Evans, Patsy Lewis, Eirlys Phillips, Nesta Davies \nRhes flaen \u2013 Nancy Williams, Gwladys Davies, Muriel Bowen-Evans, Olive Thompson, Hevina Jones, Elinor Morris, Karolyn Thomas, Eileen Thomas, Eira Page, Yvonne Evans\nYn absennol o\u2019r llun mae Mrs Ray James a Mrs Llinos Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.944835000000",
+            "lon": "-4.500753000000",
+            "description": {
+                "en": "Trelech \/ Meidrim",
+                "cy": "Trelech \/ Meidrim"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_069.jpg",
+            "type": "image",
+            "target_id": "609001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

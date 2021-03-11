@@ -1,0 +1,84 @@
+{
+    "id": 745241,
+    "title": {
+        "en": "Merched y Wawr Ffynnongroes Branch fundraising",
+        "cy": "Merched y Wawr Ffynnongroes yn gwerthu cacennau i godi arian\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745241",
+    "created": 1516896721,
+    "updated": 1516896721,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Ffynnongroes yn gwerthu cacennau yn y Fferm Ceffylau Gwedd, Carnhuan, Eglwyswrw, yn ystod y Sioe Hen Dractorau, Haf 2016 a hynny er mwyn codi arian i gynnal Neuadd Ffynnongroes.  Mae hyn yn rhywbeth mae\u2019r gangen yn gwneud yn flynyddol.\nYn y llun mae Awen Evans, Rhian Bryan, Pam Griffiths, Nest George, Bethan Picton-Davies, Llinos Davies",
+        "cy": "Merched y Wawr Ffynnongroes yn gwerthu cacennau yn y Fferm Ceffylau Gwedd, Carnhuan, Eglwyswrw, yn ystod y Sioe Hen Dractorau, Haf 2016 a hynny er mwyn codi arian i gynnal Neuadd Ffynnongroes.  Mae hyn yn rhywbeth mae\u2019r gangen yn gwneud yn flynyddol.\nYn y llun mae Awen Evans, Rhian Bryan, Pam Griffiths, Nest George, Bethan Picton-Davies, Llinos Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.006924000000",
+            "lon": "-4.720849000000",
+            "description": {
+                "en": "Fferm Ceffylau Gwedd Eglwyswrw (Shire Horse Centre)",
+                "cy": "Fferm Ceffylau Gwedd Eglwyswrw (Shire Horse Centre)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-119.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-119.jpg",
+            "type": "image",
+            "target_id": "745231"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

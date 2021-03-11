@@ -1,0 +1,87 @@
+{
+    "id": 751171,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Barmouth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bermo a\u2019r Cylch, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751171",
+    "created": 1516957851,
+    "updated": 1516957851,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyflwyno tusw o flodau I Elinor Jones yn 2006 fel diolch am ei gwaith kalend fel Trysorydd MyW Cangen y Bermo am 25 mlynedd. Gwelwn: Llewela Edwards, Elinor Jones a Grace Williams.",
+        "cy": "Cyflwyno tusw o flodau I Elinor Jones yn 2006 fel diolch am ei gwaith kalend fel Trysorydd MyW Cangen y Bermo am 25 mlynedd. Gwelwn: Llewela Edwards, Elinor Jones a Grace Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bermo, ",
+    "owner": "Cangen y Bermo, ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Barmouth",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bermo",
+        "Bermo",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.723722000000",
+            "lon": "-4.056849000000",
+            "description": {
+                "en": "Barmouth",
+                "cy": "Y Bermo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BERMO_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BERMO_005.jpg",
+            "type": "image",
+            "target_id": "751161"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

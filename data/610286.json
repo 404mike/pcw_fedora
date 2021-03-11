@@ -1,0 +1,84 @@
+{
+    "id": 610286,
+    "title": {
+        "en": "Merched y Wawr Geler Branch Trip to Cardigan Castle 2015",
+        "cy": "Trip  Merched y Wawr Cangen Geler i Gastell Aberteifi 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610286",
+    "created": 1510753174,
+    "updated": 1510753174,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip Cangen Geler o Ferched y Wawr i Gastell Aberteifi (derbynwyd nawdd Loteri) yn 2015. \nYn y llun mae Hetty, Glenys, Ogwen, Melfina, Beti Evans, Edith, Sarah, Rosie, Betty, Rita, Hetty, Yvonne, Meryl, Morwena, Marian Evans, Eleri, Elizabeth, Heiddwen, Mair, Gwen, Olive, Sylvia, Bronwen, Marian Lloyd Jones",
+        "cy": "Trip Cangen Geler o Ferched y Wawr i Gastell Aberteifi (derbynwyd nawdd Loteri) yn 2015. \nYn y llun mae Hetty, Glenys, Ogwen, Melfina, Beti Evans, Edith, Sarah, Rosie, Betty, Rita, Hetty, Yvonne, Meryl, Morwena, Marian Evans, Eleri, Elizabeth, Heiddwen, Mair, Gwen, Olive, Sylvia, Bronwen, Marian Lloyd Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081959000000",
+            "lon": "-4.660419000000",
+            "description": {
+                "en": "Castell Aberteifi",
+                "cy": "Castell Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-017.jpg",
+            "type": "image",
+            "target_id": "610276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1047046,
+    "title": {
+        "en": "MyW Residential Weekend 2005",
+        "cy": "Penwythnos Preswyl MyW 2005 \u2013 Dinasyddiaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047046",
+    "created": 1555590682,
+    "updated": 1555590682,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying a meal of fish and chips at Harry Ramsdens in Cardiff Bay.",
+        "cy": "Aelodau yn mwynhau pysgod a sglodion yn Harry Ramsdens, ym Mae Caerdydd cinio yng ngwesty Holland House, Caerdydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2005",
+        "Cardiff Bay",
+        "penwythnos preswyl myw 2005",
+        "Bae Caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_090.jpg",
+            "type": "image",
+            "target_id": "1047041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

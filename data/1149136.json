@@ -1,0 +1,64 @@
+{
+    "id": 1149136,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2006",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149136",
+    "created": 1562066108,
+    "updated": 1562066108,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Badminton  \u2013 1st Denbigh, Glyn Maelor",
+        "cy": "Badminton \u2013 1af Dinbych, Glyn Maelor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_113.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_113.jpg",
+            "type": "image",
+            "target_id": "1149131"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

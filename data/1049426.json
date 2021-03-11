@@ -1,0 +1,66 @@
+{
+    "id": 1049426,
+    "title": {
+        "en": "Wrexham  National Eisteddfod  2011",
+        "cy": "Eisteddfod Genedlaethol Wrecsam a&#039;r cylch 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049426",
+    "created": 1555591915,
+    "updated": 1555591915,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mair Penri, former President trying on a pair of shoes.",
+        "cy": "Mair Penri, cyn Lywydd yn meddwl prynu par o sgidiau!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "wrexham",
+        "national eisteddfod",
+        "eisteddfod genedlaethol wrecsam"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_355.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_355.jpg",
+            "type": "image",
+            "target_id": "1049421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

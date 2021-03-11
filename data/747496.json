@@ -1,0 +1,75 @@
+{
+    "id": 747496,
+    "title": {
+        "en": "Merched y Wawr Mynachlogddu - First Meeting Minutes",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Mynachlogddu\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747496",
+    "created": 1516897754,
+    "updated": 1516897754,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Mynachlogddu\nFfurfiwyd y Gangen yn Medi 1973",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Mynachlogddu\nFfurfiwyd y Gangen yn Medi 1973"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynachlogddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Mynachlogddu"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cofnodion%201973-1975.pdf",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/Cofnodion%25201973-1975.pdf",
+            "type": "office_doc",
+            "target_id": "747491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

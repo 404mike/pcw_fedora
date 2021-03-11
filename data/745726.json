@@ -1,0 +1,82 @@
+{
+    "id": 745726,
+    "title": {
+        "en": "Merched y Wawr Haverfordwest Branch volunteering at Withybush Hospital",
+        "cy": "Merched y Wawr Cangen Hwlffordd yn helpu yn Ysbyty Llwynhelyg "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745726",
+    "created": 1516896942,
+    "updated": 1516896942,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Merched y Wawr Hwlffordd yn helpu y WRVS yn y bar coffi yn Ysbyty Llwynhelyg \u2013 pobol yn falch o gael Cymraeg tu \u00f4l i\u2019r cownter.\nMay Jenkins, Perlys John, Anne Beynon, Dora Griffiths",
+        "cy": "Rhai o aelodau Merched y Wawr Hwlffordd yn helpu y WRVS yn y bar coffi yn Ysbyty Llwynhelyg \u2013 pobol yn falch o gael Cymraeg tu \u00f4l i\u2019r cownter.\nMay Jenkins, Perlys John, Anne Beynon, Dora Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Hwlffordd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hwlffordd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.812711000000",
+            "lon": "-4.963363000000",
+            "description": {
+                "en": "Ysbyty Llwynhelyg, Hwlffordd",
+                "cy": "Ysbyty Llwynhelyg, Hwlffordd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_Hwlffordd_Treftadaeth_4.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_Hwlffordd_Treftadaeth_4.jpg",
+            "type": "image",
+            "target_id": "745716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

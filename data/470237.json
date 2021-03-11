@@ -1,0 +1,89 @@
+{
+    "id": 470237,
+    "title": {
+        "en": "Deiniolen, Arfon branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Deiniolen, Arfon i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470237",
+    "created": 1441700661,
+    "updated": 1441700661,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Deiniolen, Arfon branch of Merched y Wawr. It contains lists of field names with explanations for the names.",
+        "cy": "Gwybodaeth am waith cangen Deiniolen, Arfon o Ferched y Wawr. Mae'n cynnwys rhestri o enwau caeau a'u hystyron."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10407.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10407.jpg",
+            "type": "image",
+            "target_id": "470231"
+        },
+        {
+            "originalFilename": "pcw001_10408.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10408.jpg",
+            "type": "image",
+            "target_id": "470232"
+        },
+        {
+            "originalFilename": "pcw001_10409.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10409.jpg",
+            "type": "image",
+            "target_id": "470233"
+        },
+        {
+            "originalFilename": "pcw001_10410.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10410.jpg",
+            "type": "image",
+            "target_id": "470234"
+        },
+        {
+            "originalFilename": "pcw001_10411.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10411.jpg",
+            "type": "image",
+            "target_id": "470235"
+        },
+        {
+            "originalFilename": "pcw001_10412.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10412.jpg",
+            "type": "image",
+            "target_id": "470236"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10407",
+    "publisher_ref": ""
+}

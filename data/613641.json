@@ -1,0 +1,95 @@
+{
+    "id": 613641,
+    "title": {
+        "en": "Remembering Beti Gwynno Pamphlet (Merched y Wawr President 1972-1974)",
+        "cy": "Rhaglen Cofio Beti Gwynno (Llywydd Cenedlaethol Merched y Wawr 1972 \u2013 1974)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613641",
+    "created": 1510753985,
+    "updated": 1510753985,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MYW-DE-CAERFYRDDINB-280117-060\nRhaglen Cofio Beti Gwynno (Llywydd Cenedlaethol Merched y Wawr 1972 \u2013 1974).  Taflen ar achlysur dadorchuddio cofeb ym mhentref Cwmbach, Gorffennaf 23, 1994\nTudalen flaen",
+        "cy": "MYW-DE-CAERFYRDDINB-280117-060\nRhaglen Cofio Beti Gwynno (Llywydd Cenedlaethol Merched y Wawr 1972 \u2013 1974).  Taflen ar achlysur dadorchuddio cofeb ym mhentref Cwmbach, Gorffennaf 23, 1994\nTudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.707680000000",
+            "lon": "-3.413312000000",
+            "description": {
+                "en": "Cwmbach",
+                "cy": "Cwmbach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-060.jpg",
+            "type": "image",
+            "target_id": "613621"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-061.jpg",
+            "type": "image",
+            "target_id": "613626"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-062.jpg",
+            "type": "image",
+            "target_id": "613631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,81 @@
+{
+    "id": 743061,
+    "title": {
+        "en": "A letter of thanks from the charity Tenovis to Merched y Wawr Swansea Branch",
+        "cy": "Llythyr gan wrth Tenovus i Ferched y Wawr Cangen Abertawe "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743061",
+    "created": 1516895706,
+    "updated": 1516895706,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr gan elusen cancr Tenovus yn diolch i Ferched y Wawr Cangen Abertawe am eu rhodd i\u2019r elsuen.  Enghraifft o\u2019r gefnogaeth mae Cangen Abertawe yn rhoi i elusennau.  Codwyd yr arian mewn noson henebion\nTudalen 1",
+        "cy": "Llythyr gan elusen cancr Tenovus yn diolch i Ferched y Wawr Cangen Abertawe am eu rhodd i\u2019r elsuen.  Enghraifft o\u2019r gefnogaeth mae Cangen Abertawe yn rhoi i elusennau.  Codwyd yr arian mewn noson henebion\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-013.jpg",
+            "type": "image",
+            "target_id": "743051"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-014.jpg",
+            "type": "image",
+            "target_id": "743056"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

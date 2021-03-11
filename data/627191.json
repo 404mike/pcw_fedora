@@ -1,0 +1,93 @@
+{
+    "id": 627191,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llannerch-y-Medd, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llannerch-y-Medd, Rhanbarth M\u00f4n. Sioe Llanelwedd, 2015. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627191",
+    "created": 1511280744,
+    "updated": 1511280744,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o arddangosfa Mon a cherdyn ail wobr am wneud Bara Brith yng Nghystadleuaeth Radi Thomas - Sioe Llanelwedd, 2015.",
+        "cy": "Llun o arddangosfa Mon a cherdyn ail wobr am wneud Bara Brith yng Nghystadleuaeth Radi Thomas - Sioe Llanelwedd, 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llannerch-y-Medd",
+    "owner": "Cangen Llannerch-y-Medd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llannerch-y-medd",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannerch-y-Medd",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.330448000000",
+            "lon": "-4.377493000000",
+            "description": {
+                "en": "Llannerch-y-Medd",
+                "cy": "Llannerch-y-Medd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANYCHYMEDD_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANYCHYMEDD_004.jpg",
+            "type": "image",
+            "target_id": "627176"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANYCHYMEDD_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANYCHYMEDD_005.jpg",
+            "type": "image",
+            "target_id": "627181"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

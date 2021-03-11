@@ -1,0 +1,114 @@
+{
+    "id": 600804,
+    "title": {
+        "en": "Merched y Wawr Pumsaint Branch First Book of Minutes",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Pumsaint "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600804",
+    "created": 1502448267,
+    "updated": 1502448267,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Pumsaint - Tudalen flaen",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Pumsaint - Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pumsaint",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pumsaint",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.047154000000",
+            "lon": "-3.961034000000",
+            "description": {
+                "en": "Neuadd Pumsaint",
+                "cy": "Neuadd Pumsaint"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-187.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-187.jpg",
+            "type": "image",
+            "target_id": "600797"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-190.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-190.jpg",
+            "type": "image",
+            "target_id": "600798"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-192.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-192.jpg",
+            "type": "image",
+            "target_id": "600799"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-193.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-193.jpg",
+            "type": "image",
+            "target_id": "600800"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-195.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-195.jpg",
+            "type": "image",
+            "target_id": "600801"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-196.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-196.jpg",
+            "type": "image",
+            "target_id": "600802"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

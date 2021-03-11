@@ -1,0 +1,84 @@
+{
+    "id": 615396,
+    "title": {
+        "en": "Merched y Wawr Bridgend Branch at the 1990 Residential Weekend",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr ym Mhenwythnos Preswyl 1990.\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615396",
+    "created": 1510755241,
+    "updated": 1510755241,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Penybont ar Ogwr ym Mhenwythnos Preswyl yn Llanbedr Pont Steffan ym 1990.\nYn y llun mae Maryl Richards, Si\u00e2n Hicks, Christine James, Gwerfyl Thomas, Lyn Edwards, Heulwen Thomas",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr ym Mhenwythnos Preswyl yn Llanbedr Pont Steffan ym 1990.\nYn y llun mae Maryl Richards, Si\u00e2n Hicks, Christine James, Gwerfyl Thomas, Lyn Edwards, Heulwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Penybont ar Ogwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penybont ar Ogwr",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112910000000",
+            "lon": "-4.078579000000",
+            "description": {
+                "en": "Llanbedr Pont Steffan",
+                "cy": "Llanbedr Pont Steffan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-005.jpg",
+            "type": "image",
+            "target_id": "615386"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

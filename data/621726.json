@@ -1,0 +1,86 @@
+{
+    "id": 621726,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn yn dathlu eu 21ain yn 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621726",
+    "created": 1511278933,
+    "updated": 1511278933,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llanfair Talhaiarn yn dathlu eu 21ain yn 1992. (Cefn) Lloydie Hughes, Margaret Evans, Ann Davies, Hazel Williams, Gwen Evans, Edna Davies, Elinor Davies, Alice Davies, Mair Owen, Eurwen Foulkes, Lona Foulkes, Gwyneth Williams, Mair Davies, Rhianwen Williams (2il res) Eileen Roberts, Lyn Jones, Catherine Roberts, Lona Williams, Eirlys Davies, Bet Pierce, Mary Hughes, Mair Jones, Nellie Jones, Morfudd Williams, Phillys Jones, Megan Davies (blaen) Menna Davies, Mererid Jones, Aledwen McGrath (Llywydd) Kit Jones (Llywydd Cyntaf), Marian Roberts, Amy Evans, Mair Hughes, Gillian Williams (Trysorydd 1af), Eurwen Roberts.",
+        "cy": "Cangen Llanfair Talhaiarn yn dathlu eu 21ain yn 1992. (Cefn) Lloydie Hughes, Margaret Evans, Ann Davies, Hazel Williams, Gwen Evans, Edna Davies, Elinor Davies, Alice Davies, Mair Owen, Eurwen Foulkes, Lona Foulkes, Gwyneth Williams, Mair Davies, Rhianwen Williams (2il res) Eileen Roberts, Lyn Jones, Catherine Roberts, Lona Williams, Eirlys Davies, Bet Pierce, Mary Hughes, Mair Jones, Nellie Jones, Morfudd Williams, Phillys Jones, Megan Davies (blaen) Menna Davies, Mererid Jones, Aledwen McGrath (Llywydd) Kit Jones (Llywydd Cyntaf), Marian Roberts, Amy Evans, Mair Hughes, Gillian Williams (Trysorydd 1af), Eurwen Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_013.jpg",
+            "type": "image",
+            "target_id": "621716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

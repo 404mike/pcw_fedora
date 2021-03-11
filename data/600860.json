@@ -1,0 +1,84 @@
+{
+    "id": 600860,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch taking part in filming for S4C's 'Dudley' cooking programme",
+        "cy": "Merched y Wawr Cangen Rhydaman a&#039;r Cylch yn cymryd rhan yn rhaglen &#039;Dudley&#039; ar S4C"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600860",
+    "created": 1502448342,
+    "updated": 1502448342,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr oddi wrth gwmni cynhyrchu Teledu Apollo i Ferched y Wawr Cangen Rhydaman yn diolch am eu cymorth gyda ffilmio rhaglen \u2018Dudley\u2019 i S4C, gyda\u2019r cogydd Dudley Newbery yn Rhydaman.  Dyddiad y llythyr, Ionawr 9fed, 1998.",
+        "cy": "Llythyr oddi wrth gwmni cynhyrchu Teledu Apollo i Ferched y Wawr Cangen Rhydaman yn diolch am eu cymorth gyda ffilmio rhaglen \u2018Dudley\u2019 i S4C, gyda\u2019r cogydd Dudley Newbery yn Rhydaman.  Dyddiad y llythyr, Ionawr 9fed, 1998."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792829000000",
+            "lon": "-3.988327000000",
+            "description": {
+                "en": "Rhydaman",
+                "cy": "Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-175.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-175.jpg",
+            "type": "image",
+            "target_id": "600858"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1146756,
+    "title": {
+        "en": "President's Dinner at Crug Glas Hotel, Pembrokeshire 2017 to celebrate 50 Years.",
+        "cy": "Cinio Llywydd yn y De 2017 yng ngwesty Crug Glas, Sir Benfro i ddathlu 50 mlynedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146756",
+    "created": 1562064002,
+    "updated": 1562064002,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Past Presidents from South Wales: 2. Nan Lewis 1992\u20131994",
+        "cy": "Cyn Lywyddion y De: 2. Nan Lewis 1992\u20131994"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "cinio llywydd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_844.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_844.jpg",
+            "type": "image",
+            "target_id": "1146751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 612836,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch take part in the organisation's national campaign to plant trees",
+        "cy": "Merched y Wawr Cangen Llanddarog ac ymgyrch genedlaethol plannu coed Merched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612836",
+    "created": 1510753804,
+    "updated": 1510753804,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanddarog yn ymuno yn yr ymgyrch genedlaethol gan Ferched y Wawr dan Lywyddiaeth Dr Esyllt Jones (2008-2010) i blannu coed yn eu hardal, gan gael cefnogaeth Prifathro Ysgol Llanddarog, Mr Brian Evans, a chael cymorth rhai o\u2019r disgyblion i blannu coed o gwympas yr ysgol, Hydref 6, 2010.  Erbyn hyn gwelir ffrwyth eu llafur.  \nYn y llun mae Iwan Parry (Coed Cymru), Disgyblion yr ysgol, Margaret Davies (Llywydd), Marian Williams (Ysgrifennydd)",
+        "cy": "Merched y Wawr Cangen Llanddarog yn ymuno yn yr ymgyrch genedlaethol gan Ferched y Wawr dan Lywyddiaeth Dr Esyllt Jones (2008-2010) i blannu coed yn eu hardal, gan gael cefnogaeth Prifathro Ysgol Llanddarog, Mr Brian Evans, a chael cymorth rhai o\u2019r disgyblion i blannu coed o gwympas yr ysgol, Hydref 6, 2010.  Erbyn hyn gwelir ffrwyth eu llafur.  \nYn y llun mae Iwan Parry (Coed Cymru), Disgyblion yr ysgol, Margaret Davies (Llywydd), Marian Williams (Ysgrifennydd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Ysgol Llanddarog",
+                "cy": "Ysgol Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_166a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_166a.jpg",
+            "type": "image",
+            "target_id": "612826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

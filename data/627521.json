@@ -1,0 +1,86 @@
+{
+    "id": 627521,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Rhosmeirch, Anglesey.",
+        "cy": "Gwaith croesbwyth cangen Merched y Wawr Rhosmeirch, Rhanbarth M\u00f4n. Eisteddfod Genedlaethol Bro Goronwy, Awst 1999."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627521",
+    "created": 1511280856,
+    "updated": 1511280856,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Esiampl o waith croesbwyth Cangen Rhosmeirch ar gyfer Pabell Merched y Wawr, Eisteddfod Genedlaethol Bro Goronwy, Awst 1999. Pwythwyd gan: Catherine Williams, Morfydd Edwards, Maxie Roberts, Mairwen Hughes.",
+        "cy": "Esiampl o waith croesbwyth Cangen Rhosmeirch ar gyfer Pabell Merched y Wawr, Eisteddfod Genedlaethol Bro Goronwy, Awst 1999. Pwythwyd gan: Catherine Williams, Morfydd Edwards, Maxie Roberts, Mairwen Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhosmeirch",
+    "owner": "Cangen Rhosmeirch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhosmeirch Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhosmeirch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275049000000",
+            "lon": "-4.311482000000",
+            "description": {
+                "en": "Rhosmeirch",
+                "cy": "Rhosmeirch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH013.jpg",
+            "type": "image",
+            "target_id": "627511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

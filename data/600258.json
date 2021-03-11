@@ -1,0 +1,82 @@
+{
+    "id": 600258,
+    "title": {
+        "en": "Merched y Wawr Bro Elfed Branch learn First Aid",
+        "cy": "Merched y Wawr Cangen Bro Elfed yn dysgu am Cymroth Cyntaf\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600258",
+    "created": 1502447494,
+    "updated": 1502447494,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Elfed yn cael eu trwytho mewn Cymroth Cyntaf gyda Tom Pointon\nYn y llun mae Tom Poiton, Tegwen, Esbeth, Betty, Annie, Jean, Idwen, Margaret, Eileen, Nia a Rhiannon",
+        "cy": "Merched y Wawr Cangen Bro Elfed yn cael eu trwytho mewn Cymroth Cyntaf gyda Tom Pointon\nYn y llun mae Tom Poiton, Tegwen, Esbeth, Betty, Annie, Jean, Idwen, Margaret, Eileen, Nia a Rhiannon"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Elfed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Elfed",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.921714000000",
+            "lon": "-4.367374000000",
+            "description": {
+                "en": "Cynwyl Elfed",
+                "cy": "Cynwyl Elfed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117014.jpg",
+            "type": "image",
+            "target_id": "600256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

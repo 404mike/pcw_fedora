@@ -1,0 +1,106 @@
+{
+    "id": 470620,
+    "title": {
+        "en": "Gronw, Cwmfelin Mynach, Carmarthenshire of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Gronw, Cwmfelin Mynach, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470620",
+    "created": 1441700820,
+    "updated": 1441700820,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Gronw, Cwmfelin Mynach, Carmarthenshire of Merched y Wawr. It contains a list of field names from Esgairddaugoed farm.",
+        "cy": "Gwybodaeth am waith cangen Gronw, Cwmfelin Mynach, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau fferm Esgairddaugoed."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10757.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10757.jpg",
+            "type": "image",
+            "target_id": "470611"
+        },
+        {
+            "originalFilename": "pcw001_10758.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10758.jpg",
+            "type": "image",
+            "target_id": "470612"
+        },
+        {
+            "originalFilename": "pcw001_10759.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10759.jpg",
+            "type": "image",
+            "target_id": "470613"
+        },
+        {
+            "originalFilename": "pcw001_10760.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10760.jpg",
+            "type": "image",
+            "target_id": "470614"
+        },
+        {
+            "originalFilename": "pcw001_10761.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10761.jpg",
+            "type": "image",
+            "target_id": "470615"
+        },
+        {
+            "originalFilename": "pcw001_10762.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10762.jpg",
+            "type": "image",
+            "target_id": "470616"
+        },
+        {
+            "originalFilename": "pcw001_10763.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10763.jpg",
+            "type": "image",
+            "target_id": "470617"
+        },
+        {
+            "originalFilename": "pcw001_10764.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10764.jpg",
+            "type": "image",
+            "target_id": "470618"
+        },
+        {
+            "originalFilename": "pcw001_10765.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10765.jpg",
+            "type": "image",
+            "target_id": "470619"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10756",
+    "publisher_ref": ""
+}

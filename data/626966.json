@@ -1,0 +1,86 @@
+{
+    "id": 626966,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanddeusant, Anglesey.",
+        "cy": "Derbyn grant \u2018Arian i Bawb\u2019 ar han y gangen yn 2009. Cangen Merched y Wawr Llanddeusant, Rhanbarth M\u00f4n. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626966",
+    "created": 1511280668,
+    "updated": 1511280668,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Jane Owen a Rosina Jones o Gangen Llanddeusant gyda\u2019r A.c. Ieuan Wyn Jones yn derbyn grant \u2018Arian i Bawb\u2019 ar han y gangen yn 2009.",
+        "cy": "Mrs Jane Owen a Rosina Jones o Gangen Llanddeusant gyda\u2019r A.c. Ieuan Wyn Jones yn derbyn grant \u2018Arian i Bawb\u2019 ar han y gangen yn 2009."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddeusant",
+    "owner": "Cangen Llanddeusant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddeusant",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddeusant",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.338113000000",
+            "lon": "-4.485818000000",
+            "description": {
+                "en": "Llanddeusant",
+                "cy": "Llanddeusant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_011.jpg",
+            "type": "image",
+            "target_id": "626956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

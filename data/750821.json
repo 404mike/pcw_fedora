@@ -1,0 +1,80 @@
+{
+    "id": 750821,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Rhaglen Ysgol Breswyl Merched y Wawr 1978"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750821",
+    "created": 1516899678,
+    "updated": 1516899678,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Ysgol Breswyl Merched y Wawr, Medi 15-17, 1978 yn Aberystwyth.",
+        "cy": "Rhaglen Ysgol Breswyl Merched y Wawr, Medi 15-17, 1978 yn Aberystwyth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Casgliad Wendy Richards, Cangen Castell Nedd a Llywydd Cenedlaethol 1976-1978)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ysgol%20Breswyl%201978%20rhaglen%20%28i%29%20001_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ysgol%2520Breswyl%25201978%2520rhaglen%2520%2528i%2529%2520001_0.jpg",
+            "type": "image",
+            "target_id": "750811"
+        },
+        {
+            "originalFilename": "Ysgol%20Breswyl%201978%20rhaglen%20%28ii%29%20001_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ysgol%2520Breswyl%25201978%2520rhaglen%2520%2528ii%2529%2520001_0.jpg",
+            "type": "image",
+            "target_id": "750816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

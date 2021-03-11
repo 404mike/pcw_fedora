@@ -1,0 +1,73 @@
+{
+    "id": 601373,
+    "title": {
+        "en": "A member of Merched y Wawr Garreg Wen Branch is awarded",
+        "cy": "Aelod o Ferched y Wawr Y Garreg Wen yn cael ei gwobrwyo"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601373",
+    "created": 1502449266,
+    "updated": 1502449266,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Gwen Davies o Ferched y Wawr Y Garreg Wen gyda pheth o\u2019i gwaith coginio cain \u2013 addurniadau ar gyfer cacennau.",
+        "cy": "Mrs Gwen Davies o Ferched y Wawr Y Garreg Wen gyda pheth o\u2019i gwaith coginio cain \u2013 addurniadau ar gyfer cacennau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Garreg%20Wen%20-%202016%20-%20Ffair%20Fai.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/Garreg%2520Wen%2520-%25202016%2520-%2520Ffair%2520Fai.jpg",
+            "type": "image",
+            "target_id": "601372"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

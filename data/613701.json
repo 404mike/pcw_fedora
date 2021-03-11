@@ -1,0 +1,84 @@
+{
+    "id": 613701,
+    "title": {
+        "en": "Merched y Wawr Tumble Branch at the Welsh Assembly",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn y Cynulliad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613701",
+    "created": 1510753997,
+    "updated": 1510753997,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Tymbl yn ymweld \u00e2\u2019r Cynulliad ym Mehefin 2006.\nYn y llun mae Meryl Evans, Caryl Thomas, Buddug ?, Sally Samuel, Heulwen Davies, Jean Evans, Beth Evans, Meryl davies, Eirian Jones, Elinor Owen, Bet Davies, Erica Samuel, Jean Thomas, Mona Thomas, Gaynor Lloyd, Mavis ?, Dilys Tidaldi",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn ymweld \u00e2\u2019r Cynulliad ym Mehefin 2006.\nYn y llun mae Meryl Evans, Caryl Thomas, Buddug ?, Sally Samuel, Heulwen Davies, Jean Evans, Beth Evans, Meryl davies, Eirian Jones, Elinor Owen, Bet Davies, Erica Samuel, Jean Thomas, Mona Thomas, Gaynor Lloyd, Mavis ?, Dilys Tidaldi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463386000000",
+            "lon": "-3.162768000000",
+            "description": {
+                "en": "Cynulliad",
+                "cy": "Cynulliad"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_090.jpg",
+            "type": "image",
+            "target_id": "613691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

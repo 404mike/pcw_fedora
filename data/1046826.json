@@ -1,0 +1,75 @@
+{
+    "id": 1046826,
+    "title": {
+        "en": "President's Dinner in South Wales 2005",
+        "cy": "Cinio&#039;r Llywydd yn y De 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046826",
+    "created": 1555590436,
+    "updated": 1555590436,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs \u2013 Dylan Iorwerth, guest speaker at the dinner and some of the members.",
+        "cy": "Dylan Iorwerth, g\u0175r gwadd yn siarad yn y ginio a rhai o'r aelodau yn gwrando."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2005",
+        "cinior llywydd yn y de 2005"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_066.jpg",
+            "type": "image",
+            "target_id": "1046811"
+        },
+        {
+            "originalFilename": "df_myw_066-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_066-001.jpg",
+            "type": "image",
+            "target_id": "1046816"
+        },
+        {
+            "originalFilename": "df_myw_066-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_066-002.jpg",
+            "type": "image",
+            "target_id": "1046821"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

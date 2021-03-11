@@ -1,0 +1,85 @@
+{
+    "id": 620891,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Colwyn Bae, Colwyn.",
+        "cy": "Rhestr o Swyddogion y Gangen o 1969 had at 2010. Cangen Merched y Wawr Bae Colwyn, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620891",
+    "created": 1511278608,
+    "updated": 1511278608,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhestr o Swyddogion y Gangen o 1969 had at 2010.",
+        "cy": "Rhestr o Swyddogion y Gangen o 1969 had at 2010."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bae Colwyn",
+    "owner": "Cangen Bae Colwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Colwyn Bae",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bae Colwyn",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.295463000000",
+            "lon": "-3.728684000000",
+            "description": {
+                "en": "Bae Colwyn",
+                "cy": "Bae Colwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_BAE_COLWYN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_BAE_COLWYN_003.jpg",
+            "type": "image",
+            "target_id": "620881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

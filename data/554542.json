@@ -1,0 +1,73 @@
+{
+    "id": 554542,
+    "title": {
+        "en": "Poem by Beryl George, member of Merched y Wawr, Capel Newydd Branch for the Merched y Wawr Eisteddfod, 1980. ",
+        "cy": "Cerdd am Ferched y Wawr gan Beryl George (Cangen Capel Newydd) ar gyfer Eisteddfod Merched y Wawr yn Abergawaun, Mai 1980.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554542",
+    "created": 1487592243,
+    "updated": 1487592243,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nCerdd gan Beryl George (Cangen Capel Newydd) ar gyfer Eisteddfod Merched y Wawr yn Abergawaun, Mai 1980.  Pwnc y gerdd oedd Merched y Wawr.",
+        "cy": "Cerdd gan Beryl George (Cangen Capel Newydd) ar gyfer Eisteddfod Merched y Wawr yn Abergawaun, Mai 1980.  Pwnc y gerdd oedd Merched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd, yn wreiddiol o Gangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies",
+        "OTHER: Arts + Culture"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-018.jpg",
+            "type": "image",
+            "target_id": "554541"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

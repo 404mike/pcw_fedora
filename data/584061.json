@@ -1,0 +1,84 @@
+{
+    "id": 584061,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - The Royal Welsh Show, 1991",
+        "cy": "Merched y Wawr Cangen Maenclochog - Y Sioe Frenhinol, Llanelwedd 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584061",
+    "created": 1499870300,
+    "updated": 1499870300,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "r \nPabell Merched y Wawr, Sioe Llanelwedd 1991.  Arddangosfa Sir Benfro",
+        "cy": "r \nPabell Merched y Wawr, Sioe Llanelwedd 1991.  Arddangosfa Sir Benfro"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.156611000000",
+            "lon": "-3.406091000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-032.jpg",
+            "type": "image",
+            "target_id": "584059"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

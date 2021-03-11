@@ -1,0 +1,82 @@
+{
+    "id": 748851,
+    "title": {
+        "en": "Merched y Wawr Talgarreg Branch Artwork",
+        "cy": "Gwaith Celf Merched y Wawr Cangen Talgarreg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748851",
+    "created": 1516898732,
+    "updated": 1516898732,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Roedd gan Cangen Talgarreg traddodiad o gynnal cyfres o weithdai amrywiol yn ystod y tymor \u2013 ee Gwaith basgedi, tapestri, coginio a gwn\u00efo.  Fe gawsant gwmni Caradog Williams fel tiwtor ar sawl tymor.  \nYn y llun mae Nansi Davies o\u2019r gangen a Caradog Williams yn y llun yn gwneud macrame.",
+        "cy": "Roedd gan Cangen Talgarreg traddodiad o gynnal cyfres o weithdai amrywiol yn ystod y tymor \u2013 ee Gwaith basgedi, tapestri, coginio a gwn\u00efo.  Fe gawsant gwmni Caradog Williams fel tiwtor ar sawl tymor.  \nYn y llun mae Nansi Davies o\u2019r gangen a Caradog Williams yn y llun yn gwneud macrame."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Talgarreg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talgarreg",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.136830000000",
+            "lon": "-4.302740000000",
+            "description": {
+                "en": "Talgarreg",
+                "cy": "Talgarreg"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-064.jpg",
+            "type": "image",
+            "target_id": "748841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

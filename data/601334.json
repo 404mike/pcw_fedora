@@ -1,0 +1,75 @@
+{
+    "id": 601334,
+    "title": {
+        "en": "A poem to mark 40 Years of the Llandysul Branch of Merched y Wawr",
+        "cy": "Cerdd i ddathlu deugain mlynedd Merched y Wawr Llandysul "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601334",
+    "created": 1502449211,
+    "updated": 1502449211,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd gan Eleri Davies i gofnodi Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu Deugain mlynedd y gangen, Hydref, 2012.",
+        "cy": "Cerdd gan Eleri Davies i gofnodi Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu Deugain mlynedd y gangen, Hydref, 2012."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-163.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-163.jpg",
+            "type": "image",
+            "target_id": "601333"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

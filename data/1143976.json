@@ -1,0 +1,75 @@
+{
+    "id": 1143976,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2013",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143976",
+    "created": 1562061229,
+    "updated": 1562061229,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Handbag Fashion Show \u2013 the models.",
+        "cy": "Sioe Ffasiwn y Bagiau \u2013 y  modelau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "denbigh national eisteddfod 2013",
+        "eisteddfod genedlaethol dinbych ar cylch 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_521.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_521.jpg",
+            "type": "image",
+            "target_id": "1143961"
+        },
+        {
+            "originalFilename": "df_myw_522.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_522.jpg",
+            "type": "image",
+            "target_id": "1143966"
+        },
+        {
+            "originalFilename": "df_myw_523.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_523.jpg",
+            "type": "image",
+            "target_id": "1143971"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 470456,
+    "title": {
+        "en": "Llanuwchlyn, Meirionethshire of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanuwchlyn, Meirionnydd i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470456",
+    "created": 1441700746,
+    "updated": 1441700746,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information collected by Llanuwchlyn, Meirionethshire branch of Merched y Wawr. It contains a list of field names of Benllech Isa and Benllech  Uchaf farms.",
+        "cy": "Gwybodaeth am waith cangen Llanuwchlyn, Meirionnydd o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau ar ffermydd Brynllech Isa a Brynllech Uchaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10614.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10614.jpg",
+            "type": "image",
+            "target_id": "470454"
+        },
+        {
+            "originalFilename": "pcw001_10615.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10615.jpg",
+            "type": "image",
+            "target_id": "470455"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10614",
+    "publisher_ref": ""
+}

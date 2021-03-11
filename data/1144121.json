@@ -1,0 +1,64 @@
+{
+    "id": 1144121,
+    "title": {
+        "en": "President's Dinner at Stradey Park Hotel, Llanelli",
+        "cy": "Cinio&#039;r Llywydd  yng ngwesty Parc y Strade, Llanelli."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144121",
+    "created": 1562061305,
+    "updated": 1562061305,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gill Griffiths, President, welcoming the members.",
+        "cy": "Gill Griffiths, Llywydd yn croesawu'r aelodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Llanelli",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_543.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_543.jpg",
+            "type": "image",
+            "target_id": "1144116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

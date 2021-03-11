@@ -1,0 +1,90 @@
+{
+    "id": 614246,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi Branch celebrate 25 Years",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn Dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614246",
+    "created": 1510754958,
+    "updated": 1510754958,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Swyddogion gyda\u2019r faner a\u2019r gacen ar achlysur Merched y Wawr Cangen Cylch Teifi yn dathlu penblwydd yn 25ain yng Ngwesty Penbontbren, Glynarthen, 3ydd Ebrill, 1996.  \nYn y llun mae Rhianwen Roberts (Llywydd Cenedlaethol 1994-1996), Ann Hughes (Trysorydd y Gangen), Meinir Jerman (Ysgrifennydd y Gangen), Bethan Jones (Llywydd Rhanbarth Ceredigion), Beti Lloyd (Llywydd y Gangen)",
+        "cy": "Swyddogion gyda\u2019r faner a\u2019r gacen ar achlysur Merched y Wawr Cangen Cylch Teifi yn dathlu penblwydd yn 25ain yng Ngwesty Penbontbren, Glynarthen, 3ydd Ebrill, 1996.  \nYn y llun mae Rhianwen Roberts (Llywydd Cenedlaethol 1994-1996), Ann Hughes (Trysorydd y Gangen), Meinir Jerman (Ysgrifennydd y Gangen), Bethan Jones (Llywydd Rhanbarth Ceredigion), Beti Lloyd (Llywydd y Gangen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.116069000000",
+            "lon": "-4.467323000000",
+            "description": {
+                "en": "Gwesty Pentbontbren, Glynarthen",
+                "cy": "Gwesty Pentbontbren, Glynarthen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-126.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-126.jpg",
+            "type": "image",
+            "target_id": "614231"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-127.jpg",
+            "type": "image",
+            "target_id": "614236"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

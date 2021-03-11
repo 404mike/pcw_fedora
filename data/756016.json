@@ -1,0 +1,84 @@
+{
+    "id": 756016,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. October 1999",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr. Hydref 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/756016",
+    "created": 1516959164,
+    "updated": 1516959164,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhifyn 124. Coff\u00e2d Wendy Richards, can Lywydd y Mudiad. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968.",
+        "cy": "Rhifyn 124. Coff\u00e2d Wendy Richards, can Lywydd y Mudiad. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_0124_WendyRichards001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_0124_WendyRichards001.jpg",
+            "type": "image",
+            "target_id": "756006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

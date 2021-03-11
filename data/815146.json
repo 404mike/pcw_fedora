@@ -1,0 +1,273 @@
+{
+    "id": 815146,
+    "title": {
+        "en": "Scrapbook of the Llanfair Dyffryn Clwyd Branch",
+        "cy": "Llyfr lloffion Cangen Llanfair Dyffryn Clwyd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/815146",
+    "created": 1523360263,
+    "updated": 1523360263,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Dyffryn Clwyd",
+    "owner": "Cangen Llanfair Dyffryn Clwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Llanfair Dyffryn Clwyd",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "LlanfairDC00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00001.jpg",
+            "type": "image",
+            "target_id": "814976"
+        },
+        {
+            "originalFilename": "LlanfairDC00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00002.jpg",
+            "type": "image",
+            "target_id": "814981"
+        },
+        {
+            "originalFilename": "LlanfairDC00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00003.jpg",
+            "type": "image",
+            "target_id": "814986"
+        },
+        {
+            "originalFilename": "LlanfairDC00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00004.jpg",
+            "type": "image",
+            "target_id": "814991"
+        },
+        {
+            "originalFilename": "LlanfairDC00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00005.jpg",
+            "type": "image",
+            "target_id": "814996"
+        },
+        {
+            "originalFilename": "LlanfairDC00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00006.jpg",
+            "type": "image",
+            "target_id": "815001"
+        },
+        {
+            "originalFilename": "LlanfairDC00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00007.jpg",
+            "type": "image",
+            "target_id": "815006"
+        },
+        {
+            "originalFilename": "LlanfairDC00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00008.jpg",
+            "type": "image",
+            "target_id": "815011"
+        },
+        {
+            "originalFilename": "LlanfairDC00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00009.jpg",
+            "type": "image",
+            "target_id": "815016"
+        },
+        {
+            "originalFilename": "LlanfairDC00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00010.jpg",
+            "type": "image",
+            "target_id": "815021"
+        },
+        {
+            "originalFilename": "LlanfairDC00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00011.jpg",
+            "type": "image",
+            "target_id": "815026"
+        },
+        {
+            "originalFilename": "LlanfairDC00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00012.jpg",
+            "type": "image",
+            "target_id": "815031"
+        },
+        {
+            "originalFilename": "LlanfairDC00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00013.jpg",
+            "type": "image",
+            "target_id": "815036"
+        },
+        {
+            "originalFilename": "LlanfairDC00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00014.jpg",
+            "type": "image",
+            "target_id": "815041"
+        },
+        {
+            "originalFilename": "LlanfairDC00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00015.jpg",
+            "type": "image",
+            "target_id": "815046"
+        },
+        {
+            "originalFilename": "LlanfairDC00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00016.jpg",
+            "type": "image",
+            "target_id": "815051"
+        },
+        {
+            "originalFilename": "LlanfairDC00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00017.jpg",
+            "type": "image",
+            "target_id": "815056"
+        },
+        {
+            "originalFilename": "LlanfairDC00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00018.jpg",
+            "type": "image",
+            "target_id": "815061"
+        },
+        {
+            "originalFilename": "LlanfairDC00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00019.jpg",
+            "type": "image",
+            "target_id": "815066"
+        },
+        {
+            "originalFilename": "LlanfairDC00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00020.jpg",
+            "type": "image",
+            "target_id": "815071"
+        },
+        {
+            "originalFilename": "LlanfairDC00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00021.jpg",
+            "type": "image",
+            "target_id": "815076"
+        },
+        {
+            "originalFilename": "LlanfairDC00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00022.jpg",
+            "type": "image",
+            "target_id": "815081"
+        },
+        {
+            "originalFilename": "LlanfairDC00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00023.jpg",
+            "type": "image",
+            "target_id": "815086"
+        },
+        {
+            "originalFilename": "LlanfairDC00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00024.jpg",
+            "type": "image",
+            "target_id": "815091"
+        },
+        {
+            "originalFilename": "LlanfairDC00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00025.jpg",
+            "type": "image",
+            "target_id": "815096"
+        },
+        {
+            "originalFilename": "LlanfairDC00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00026.jpg",
+            "type": "image",
+            "target_id": "815101"
+        },
+        {
+            "originalFilename": "LlanfairDC00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00027.jpg",
+            "type": "image",
+            "target_id": "815106"
+        },
+        {
+            "originalFilename": "LlanfairDC00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00028.jpg",
+            "type": "image",
+            "target_id": "815111"
+        },
+        {
+            "originalFilename": "LlanfairDC00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00029.jpg",
+            "type": "image",
+            "target_id": "815116"
+        },
+        {
+            "originalFilename": "LlanfairDC00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00030.jpg",
+            "type": "image",
+            "target_id": "815121"
+        },
+        {
+            "originalFilename": "LlanfairDC00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00031.jpg",
+            "type": "image",
+            "target_id": "815126"
+        },
+        {
+            "originalFilename": "LlanfairDC00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00032.jpg",
+            "type": "image",
+            "target_id": "815131"
+        },
+        {
+            "originalFilename": "LlanfairDC00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00033.jpg",
+            "type": "image",
+            "target_id": "815136"
+        },
+        {
+            "originalFilename": "LlanfairDC00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/LlanfairDC00034.jpg",
+            "type": "image",
+            "target_id": "815141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

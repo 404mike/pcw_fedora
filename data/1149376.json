@@ -1,0 +1,64 @@
+{
+    "id": 1149376,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2009",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149376",
+    "created": 1562066267,
+    "updated": 1562066267,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Golf \u20131st Aberystwyth, Ceredigion",
+        "cy": "Golff \u2013 1af Aberystwyth, Ceredigion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_137.jpg",
+            "type": "image",
+            "target_id": "1149371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

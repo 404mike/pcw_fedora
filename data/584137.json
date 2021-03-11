@@ -1,0 +1,84 @@
+{
+    "id": 584137,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visit to Cardiff",
+        "cy": "Merched y Wawr Cangen Maenclochog - Taith i Gaerdydd 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584137",
+    "created": 1499870403,
+    "updated": 1499870403,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Medi 2007. Arian Loteri i ymweld \u00e2 Chaerdydd.  Tu fas y Senedd, Bae Caerdydd. Cefn \u2013 Ann Morris, Tryphena Willaims, Ogwen Phillips, Sheila Vaughan, Haulwen Davies, Mai Morris a Mary Llewellyn\nBlaen \u2013 Peggy Phillips, Beryl John, Eiry Phillips, Maureen George, Gillian Phillips, Gretta Gibby, Eirianwen Thomas, Vi Edwards",
+        "cy": "Merched y Wawr Maenclochog, Medi 2007. Arian Loteri i ymweld \u00e2 Chaerdydd.  Tu fas y Senedd, Bae Caerdydd. Cefn \u2013 Ann Morris, Tryphena Willaims, Ogwen Phillips, Sheila Vaughan, Haulwen Davies, Mai Morris a Mary Llewellyn\nBlaen \u2013 Peggy Phillips, Beryl John, Eiry Phillips, Maureen George, Gillian Phillips, Gretta Gibby, Eirianwen Thomas, Vi Edwards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463387000000",
+            "lon": "-3.162663000000",
+            "description": {
+                "en": "Y Senedd, Caerdydd",
+                "cy": "Y Senedd, Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-065.jpg",
+            "type": "image",
+            "target_id": "584135"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

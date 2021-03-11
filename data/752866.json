@@ -1,0 +1,86 @@
+{
+    "id": 752866,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Harlech, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Harlech, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752866",
+    "created": 1516958315,
+    "updated": 1516958315,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "4 aelod gwreiddiol o\u2019r gangen yn dathlu ei phenblwydd y 40 ym Mhlas Harlech yng ngwmni Mair Penri Jones (Y Parc) yn 2011. Gwelwn: Elisabeth Jones, Gweneth Evans, Eilrys Williams, Meinir Ll. Lewis.",
+        "cy": "4 aelod gwreiddiol o\u2019r gangen yn dathlu ei phenblwydd y 40 ym Mhlas Harlech yng ngwmni Mair Penri Jones (Y Parc) yn 2011. Gwelwn: Elisabeth Jones, Gweneth Evans, Eilrys Williams, Meinir Ll. Lewis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Harlech",
+    "owner": "Cangen Harlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Harlech",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Harlech",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.859766000000",
+            "lon": "-4.106688000000",
+            "description": {
+                "en": "Harlech",
+                "cy": "Harlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_HARLECH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_HARLECH_006.jpg",
+            "type": "image",
+            "target_id": "752856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

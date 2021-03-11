@@ -1,0 +1,84 @@
+{
+    "id": 584018,
+    "title": {
+        "en": "Merched y Wawr, Maenclochog Branch - Visiting Hiut Denim in Cardigan",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Ffatri Hiut Denim yn Aberteifi\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584018",
+    "created": 1499870234,
+    "updated": 1499870234,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog, Ebrill 2015.  Ymweld \u00e2 Ffatri Hiut Denim yn Aberteifi (sy\u2019n gwneud jeans).  Rhes gefn \u2013 Beryl John, Eirwen Gibby, Eira Rowlands, Ann Morris, Maureen George, Mary Llewellyn a Myfanwy Bowen.  Rhes flaen \u2013 Gina Lewis, Peggy Phillips, Aerona Edwards, Eiry Phillips, Vi Edwards a Eirianwen Thomas",
+        "cy": "Merched y Wawr Cangen Maenclochog, Ebrill 2015.  Ymweld \u00e2 Ffatri Hiut Denim yn Aberteifi (sy\u2019n gwneud jeans).  Rhes gefn \u2013 Beryl John, Eirwen Gibby, Eira Rowlands, Ann Morris, Maureen George, Mary Llewellyn a Myfanwy Bowen.  Rhes flaen \u2013 Gina Lewis, Peggy Phillips, Aerona Edwards, Eiry Phillips, Vi Edwards a Eirianwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.085118000000",
+            "lon": "-4.648422000000",
+            "description": {
+                "en": "Hiut Denim, Aberteifi",
+                "cy": "Hiut Denim, Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-015.jpg",
+            "type": "image",
+            "target_id": "584016"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

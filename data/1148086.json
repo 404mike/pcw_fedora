@@ -1,0 +1,75 @@
+{
+    "id": 1148086,
+    "title": {
+        "en": "MyW Residential Weekend 2017  at Aberystwyth \u2013 Golden Anniversary",
+        "cy": "Penwythnos Preswyl MyW 2017 yn Aberystwyth \u2013 Dathlu&#039;r Aur"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148086",
+    "created": 1562065624,
+    "updated": 1562065624,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebratory Concert with the two tenors Aled Hall and Aled Wyn Davies; Ioan Mabbutt and the accompanist Eirian Owen.",
+        "cy": "Cyngerdd Dathlu'r Aur yng nghwmni y ddau denor Aled Hall ac Aled Wyn Davies; Ioan Mabbutt a'r gyfeilyddes Eirian Owen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "residential weekend 2017",
+        "penwythnos preswyl myw"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_988.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_988.jpg",
+            "type": "image",
+            "target_id": "1148071"
+        },
+        {
+            "originalFilename": "df_myw_989.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_989.jpg",
+            "type": "image",
+            "target_id": "1148076"
+        },
+        {
+            "originalFilename": "df_myw_990.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_990.jpg",
+            "type": "image",
+            "target_id": "1148081"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

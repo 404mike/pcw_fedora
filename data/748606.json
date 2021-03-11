@@ -1,0 +1,85 @@
+{
+    "id": 748606,
+    "title": {
+        "en": "Loughour Book Club 2017",
+        "cy": "Clwb Darllen LLwchwr yn 2017 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748606",
+    "created": 1516898624,
+    "updated": 1516898624,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Darllen LLwchwr yn 2017 \u2013 yn cynnwys aelodau Canghennau Pontarddulais a Gorseinon \u2013 sy\u2019n cwrdd yn y Ganolfan Arddio, Pontarddulais bob 6 wythnos.\nKath Irons, Jean Bolton, Anne Davies, Catrin Stevens, Margaret Williams, Gwen Jones, Iris Thomas, Bethan Edwards, Beryl Rencontre, Marie-Lynne Jones",
+        "cy": "Clwb Darllen LLwchwr yn 2017 \u2013 yn cynnwys aelodau Canghennau Pontarddulais a Gorseinon \u2013 sy\u2019n cwrdd yn y Ganolfan Arddio, Pontarddulais bob 6 wythnos.\nKath Irons, Jean Bolton, Anne Davies, Catrin Stevens, Margaret Williams, Gwen Jones, Iris Thomas, Bethan Edwards, Beryl Rencontre, Marie-Lynne Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.699998000000",
+            "lon": "-4.021678000000",
+            "description": {
+                "en": "Canolfan Garddio, Pontarddulais ",
+                "cy": "Canolfan Garddio, Pontarddulais "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-111.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-111.jpg",
+            "type": "image",
+            "target_id": "748596"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

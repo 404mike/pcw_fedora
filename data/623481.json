@@ -1,0 +1,86 @@
+{
+    "id": 623481,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Corwen, Glyn Maelor yn dathlu 25 mlynedd gyda baner y rhanbarth. 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623481",
+    "created": 1511279518,
+    "updated": 1511279518,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen gyda baner y Rhanbarth fel rhan o ddathliadau dathlu\u2019r 25 yn 1992. Mari Roberts, Audrey Kendrick, Kitty Jones, Gwladys Roberts, Menna Jones, Megan Jones.",
+        "cy": "Rhai o aelodau\u2019r gangen gyda baner y Rhanbarth fel rhan o ddathliadau dathlu\u2019r 25 yn 1992. Mari Roberts, Audrey Kendrick, Kitty Jones, Gwladys Roberts, Menna Jones, Megan Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_018.jpg",
+            "type": "image",
+            "target_id": "623471"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 628041,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfechell, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanfechell, Rhanbarth M\u00f4n. Bore coffi, Chwefror 2007."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628041",
+    "created": 1511281029,
+    "updated": 1511281029,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trefnwyd bore goffi ym mis Chwefror 2007 gan y gangen i godi arian tuag at Cancr Ieuenctid. Gwelwn: Glenys Jones, Iola Roberts, Brenda Jones, Margaret Rowlands, Elma Jones, Beryl Jones, Annen Jones, Eurwen Jones.",
+        "cy": "Trefnwyd bore goffi ym mis Chwefror 2007 gan y gangen i godi arian tuag at Cancr Ieuenctid. Gwelwn: Glenys Jones, Iola Roberts, Brenda Jones, Margaret Rowlands, Elma Jones, Beryl Jones, Annen Jones, Eurwen Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfechell",
+    "owner": "Cangen Llanfechell",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfechell",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfechell",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.392650000000",
+            "lon": "-4.453929000000",
+            "description": {
+                "en": "Llanfechell",
+                "cy": "Llanfechell"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANFECHELL_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANFECHELL_016.jpg",
+            "type": "image",
+            "target_id": "628031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

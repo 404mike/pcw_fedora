@@ -1,0 +1,95 @@
+{
+    "id": 600156,
+    "title": {
+        "en": "A collection of photographs and other documents pertaining to the history of Merched y Wawr.",
+        "cy": "Casgliad o luniau a dogfennau cymysg sy\u2019n ymwneud \u00e2 hanes cenedlaethol Mudiad Merched y Wawr. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600156",
+    "created": 1502447319,
+    "updated": 1502447319,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o rhaglen noson ddathlu dyrchafiad Mrs Margarette Huws yn Lywydd Cenedlaethol (Rhanbarth Aberconwy). 2ail o Fedi, 1988. (blaen)",
+        "cy": "Copi o rhaglen noson ddathlu dyrchafiad Mrs Margarette Huws yn Lywydd Cenedlaethol (Rhanbarth Aberconwy). 2ail o Fedi, 1988. (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anwen Hughes ",
+    "owner": "Anwen Hughes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Aberconwy",
+        "MYW",
+        "Deathly 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413281000000",
+            "lon": "-4.087100000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CasgliadAnwenHughes006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CasgliadAnwenHughes006.jpg",
+            "type": "image",
+            "target_id": "600152"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CasgliadAnwenHughes007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CasgliadAnwenHughes007.jpg",
+            "type": "image",
+            "target_id": "600153"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CasgliadAnwenHughes003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CasgliadAnwenHughes003_0.jpg",
+            "type": "image",
+            "target_id": "600154"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

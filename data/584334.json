@@ -1,0 +1,91 @@
+{
+    "id": 584334,
+    "title": {
+        "en": "Merched y Wawr, Leaflet for National President's Dinner, Southern Areas 2008",
+        "cy": "Merched y Wawr, Rhanbarthau\u2019r De, Taflen Cinio\u2019r Llywydd Cenedlaethol Mary Price 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584334",
+    "created": 1499870921,
+    "updated": 1499870921,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol  Mary Price, Canolfan Halliwell, Coleg y Drindod, 5 Ebrill 2008   Tudalen flaen",
+        "cy": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol  Mary Price, Canolfan Halliwell, Coleg y Drindod, 5 Ebrill 2008   Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol",
+        "Rhanbarthaur De"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.858547000000",
+            "lon": "-4.328764000000",
+            "description": {
+                "en": "Canolfan Halliwell, Coleg y Drindod",
+                "cy": "Canolfan Halliwell, Coleg y Drindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-097.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-097.jpg",
+            "type": "image",
+            "target_id": "584331"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-098.jpg",
+            "type": "image",
+            "target_id": "584332"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

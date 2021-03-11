@@ -1,0 +1,83 @@
+{
+    "id": 583983,
+    "title": {
+        "en": "Merched y Wawr Lon  Las Branch Trip to Llyn Brianne 1970s",
+        "cy": "Taith Merched y Wawr Cangen Lon Las i Lyn Brianne, 1970au  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583983",
+    "created": 1499870189,
+    "updated": 1499870189,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith Cangen Lon Las i Lyn Brianne, canol y 70au.",
+        "cy": "Taith Cangen Lon Las i Lyn Brianne, canol y 70au."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.134995000000",
+            "lon": "-3.747359000000",
+            "description": {
+                "en": "Llyn Brianne",
+                "cy": "Llyn Brianne"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-009.jpg",
+            "type": "image",
+            "target_id": "583981"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

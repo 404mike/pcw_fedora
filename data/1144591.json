@@ -1,0 +1,63 @@
+{
+    "id": 1144591,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Eisteddfod Genedlaethol Caerfyrddin a&#039;r Cylch 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144591",
+    "created": 1562061976,
+    "updated": 1562061976,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rosemary Butler, President of the Senate visiting MyW stand and being welcomed by Tegwen Morris, Director MyW.",
+        "cy": "Rosemary Butler, Llywydd y Senedd yn cael ei chroesawu gan Tegwen Morris, Cyfarwyddwr MyW i'r Stondin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_590.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_590.jpg",
+            "type": "image",
+            "target_id": "1144586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

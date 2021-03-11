@@ -1,0 +1,67 @@
+{
+    "id": 1047586,
+    "title": {
+        "en": "Annual Meeting 2007",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047586",
+    "created": 1555590983,
+    "updated": 1555590983,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sioned Jones receiving the Patagonia prize for best article from Iona Jones, S4C.",
+        "cy": "Sioned Jones yn derbyn Gwobr Patagonia oddi wrth Iona Jones, S4C."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "gwobr patagonia"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_150.jpg",
+            "type": "image",
+            "target_id": "1047581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

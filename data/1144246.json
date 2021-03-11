@@ -1,0 +1,66 @@
+{
+    "id": 1144246,
+    "title": {
+        "en": "Festival of the 5 Regions (North Wales)",
+        "cy": "G\u0175yl y 5 Rhanbarth (Gogledd Cymru)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144246",
+    "created": 1562061359,
+    "updated": 1562061359,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwenan Gibbard, the harpist and singer.",
+        "cy": "Gwenan Gibbard, yn canu i gyfeiliant ei thelyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "festival of the 5 regions",
+        "North Wales",
+        "g\u0175yl y 5 rhanbarth",
+        "Gogledd Cymru",
+        "gwenan gibbard"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_556.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_556.jpg",
+            "type": "image",
+            "target_id": "1144241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

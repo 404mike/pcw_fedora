@@ -1,0 +1,66 @@
+{
+    "id": 1143576,
+    "title": {
+        "en": "Annual Meeting 2013",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143576",
+    "created": 1562061052,
+    "updated": 1562061052,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 Sketch: 1st Llansannan branch, Colwyn.",
+        "cy": "Cystadleuaeth y Sgets \u2013 1af Cangen Llansannan, Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "g\u0175yl haf",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_474.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_474.jpg",
+            "type": "image",
+            "target_id": "1143571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

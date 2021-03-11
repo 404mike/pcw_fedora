@@ -1,0 +1,75 @@
+{
+    "id": 743376,
+    "title": {
+        "en": "Merched y Wawr Afan Branch's Victorious Swimming Team",
+        "cy": "T\u00eem nofio buddugol Merched y Wawr Cangen Afan"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743376",
+    "created": 1516895843,
+    "updated": 1516895843,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Afan yn derbyn tystysgrif ar \u00f4l eu buddugoliaeth mewn cystadleuaeth nofio yn Chwaraeon Cenedlaethol Merched y Wawr ym 1986. \nSiwsi Denby, Elizabeth Toghill, Cathryn Davies a Gloria Jones",
+        "cy": "Aelodau Cangen Afan yn derbyn tystysgrif ar \u00f4l eu buddugoliaeth mewn cystadleuaeth nofio yn Chwaraeon Cenedlaethol Merched y Wawr ym 1986. \nSiwsi Denby, Elizabeth Toghill, Cathryn Davies a Gloria Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Afan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Afan",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-005.jpg",
+            "type": "image",
+            "target_id": "743371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

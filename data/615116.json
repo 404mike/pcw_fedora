@@ -1,0 +1,84 @@
+{
+    "id": 615116,
+    "title": {
+        "en": "Merched y Wawr Cowbridge Branch Festival of Song",
+        "cy": " Cymanfa Ganu Merched y Wawr Cangen Y Bontfaen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615116",
+    "created": 1510755172,
+    "updated": 1510755172,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cymanfa Ganu Cangen Y Bontfaen i ddathlu Penblwydd y gangen yn 20 oed.  Capel y Ramoth, Y Bontfaen. Dydd Sul, Mawrth 1af, 1992.  Tudalen flaen",
+        "cy": "Rhaglen Cymanfa Ganu Cangen Y Bontfaen i ddathlu Penblwydd y gangen yn 20 oed.  Capel y Ramoth, Y Bontfaen. Dydd Sul, Mawrth 1af, 1992.  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.461467000000",
+            "lon": "-3.449160000000",
+            "description": {
+                "en": "Capel y Ramoth, Y Bontfaen",
+                "cy": "Capel y Ramoth, Y Bontfaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-060117-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-060117-003.jpg",
+            "type": "image",
+            "target_id": "615106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

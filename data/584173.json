@@ -1,0 +1,86 @@
+{
+    "id": 584173,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area Celebrating 25 Years",
+        "cy": "Merched y Wawr Rhanbarth Caerfyrddin Llyfryn \u2018Gwyl o G\u00e2n\u2019 i ddathlu 25 mlynedd "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584173",
+    "created": 1499870448,
+    "updated": 1499870448,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mudiad Merched y Wawr Rhanbarth Caerfyrddin Llyfryn \u2018Gwyl o G\u00e2n\u2019 i ddathlu 25 mlynedd (1969 \u2013 1994), Capel y Tabernacl, Cerfyrddin, Mai 12fed, Tudalen flaen (clawr)",
+        "cy": "Mudiad Merched y Wawr Rhanbarth Caerfyrddin Llyfryn \u2018Gwyl o G\u00e2n\u2019 i ddathlu 25 mlynedd (1969 \u2013 1994), Capel y Tabernacl, Cerfyrddin, Mai 12fed, Tudalen flaen (clawr)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Capel y Tabernacl, Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-021.jpg",
+            "type": "image",
+            "target_id": "584170"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-022.jpg",
+            "type": "image",
+            "target_id": "584171"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-023.jpg",
+            "type": "image",
+            "target_id": "584172"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

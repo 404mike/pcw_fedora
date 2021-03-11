@@ -1,0 +1,74 @@
+{
+    "id": 750496,
+    "title": {
+        "en": "Merched y Wawr Radi Thomas Competition at the Royal Welsh Show 2003",
+        "cy": "Cystadleuaeth Merched y Wawr Radi Thomas, Sioe Frenhinol 2003\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750496",
+    "created": 1516899489,
+    "updated": 1516899489,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cystadleuaeth Merched y Wawr Radi Thomas Sioe Frenhinol Cymru, Llanelwedd, 2003.  Y Testun oedd \u2018Draw dros y Don\u2019, sef portreadu gwlad dramor ac fe ddewisodd Rhanbarth Gorllewin Morgannwg Tseina, gan yn ennill yr ail wobr. \nRoedd amryw o eitemau yn cael eu beirniadu yn y gystadleuaeth \u2013 Draig gorymdeithio\u2019r Flwyddyn Newydd, Milwr terracotta, Gorchudd Potel, Tirluniu Tseineaidd, Llyfr Bach Coch ar Tseina",
+        "cy": "Cystadleuaeth Merched y Wawr Radi Thomas Sioe Frenhinol Cymru, Llanelwedd, 2003.  Y Testun oedd \u2018Draw dros y Don\u2019, sef portreadu gwlad dramor ac fe ddewisodd Rhanbarth Gorllewin Morgannwg Tseina, gan yn ennill yr ail wobr. \nRoedd amryw o eitemau yn cael eu beirniadu yn y gystadleuaeth \u2013 Draig gorymdeithio\u2019r Flwyddyn Newydd, Milwr terracotta, Gorchudd Potel, Tirluniu Tseineaidd, Llyfr Bach Coch ar Tseina"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr, Rhanbarth Gorllewin Morgannwg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-031.jpg",
+            "type": "image",
+            "target_id": "750491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

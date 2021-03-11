@@ -1,0 +1,73 @@
+{
+    "id": 600560,
+    "title": {
+        "en": "Poems by Nansi Evans, Merched y Wawr Gronw Branch",
+        "cy": "Cerddi gan Nansi Evans, Merched y Wawr Cangen Gronw  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600560",
+    "created": 1502447902,
+    "updated": 1502447902,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerddi gan Nansi Evans.  Mae Nansi yn aelod prysur a thalentog o Ferched y Wawr, Cangen Gronw.  Mae\u2019n aelod o\u2019r mudiad ers sefydlu Cangen Gronw ym 1975, wedi dal swyddi ar hyd y blynyddoedd ac yn dal i gyfrannu pob mis drwy gadw cofnodion a pharatoi adroddiadau i\u2019r Cardi Bach.",
+        "cy": "Cerddi gan Nansi Evans.  Mae Nansi yn aelod prysur a thalentog o Ferched y Wawr, Cangen Gronw.  Mae\u2019n aelod o\u2019r mudiad ers sefydlu Cangen Gronw ym 1975, wedi dal swyddi ar hyd y blynyddoedd ac yn dal i gyfrannu pob mis drwy gadw cofnodion a pharatoi adroddiadau i\u2019r Cardi Bach."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-278.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-278.jpg",
+            "type": "image",
+            "target_id": "600559"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

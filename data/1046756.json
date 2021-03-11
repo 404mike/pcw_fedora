@@ -1,0 +1,65 @@
+{
+    "id": 1046756,
+    "title": {
+        "en": "MyW Residential Weekend 2004",
+        "cy": "Penwythnos Preswyl MyW 2004 \u2013 Ysbrydoliaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046756",
+    "created": 1555590399,
+    "updated": 1555590399,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Siaradwr gwadd \u2013 Hywel Teifi Edwards. Guest Speaker \u2013 Hywel Teifi Edwards.",
+        "cy": "Siaradwr gwadd \u2013 Hywel Teifi Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2004 guest speaker",
+        "hywel teifi edwards",
+        "penwythnos preswyl myw 2004",
+        "siaradwr gwadd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_060.jpg",
+            "type": "image",
+            "target_id": "1046751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

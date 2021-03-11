@@ -1,0 +1,98 @@
+{
+    "id": 624501,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrheadr, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Llanrheadr, Glyn Maelor. Eisteddfod Genedlaethol Sir Ddinbych a\u2019r Cyffuniau - 2001."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624501",
+    "created": 1511279855,
+    "updated": 1511279855,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen o gyflwyniad Merched y Wawr Glyn Maelor yn perfformio yn Eisteddfod Genedlaethol Sir Ddinbych a\u2019r Cyffuniau - 2001. \u2018Merched yr ardal - Ddoe a Heddiw\u2019.",
+        "cy": "Rhaglen o gyflwyniad Merched y Wawr Glyn Maelor yn perfformio yn Eisteddfod Genedlaethol Sir Ddinbych a\u2019r Cyffuniau - 2001. \u2018Merched yr ardal - Ddoe a Heddiw\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrheadr",
+    "owner": "Cangen Llanrheadr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrheadr",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrheadr",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.159785000000",
+            "lon": "-3.374524000000",
+            "description": {
+                "en": "Llanrheadr",
+                "cy": "Llanrheadr"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_010.jpg",
+            "type": "image",
+            "target_id": "624481"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_011.jpg",
+            "type": "image",
+            "target_id": "624486"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_012.jpg",
+            "type": "image",
+            "target_id": "624491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

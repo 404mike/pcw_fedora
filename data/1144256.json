@@ -1,0 +1,66 @@
+{
+    "id": 1144256,
+    "title": {
+        "en": "Festival of the 5 Regions (North Wales)",
+        "cy": "G\u0175yl y 5 Rhanbarth (Gogledd Cymru)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144256",
+    "created": 1562061363,
+    "updated": 1562061363,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hywel Gwynfryn closing the Festival with anecdotes of his career.",
+        "cy": "Hywel Gwynfryn yn cloi'r diwrnod gyda'i straeaon yntau am ei yrfa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "festival of the 5 regions",
+        "North Wales",
+        "g\u0175yl y 5 rhanbarth",
+        "Gogledd Cymru",
+        "Hywel Gwynfryn"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_557.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_557.jpg",
+            "type": "image",
+            "target_id": "1144251"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

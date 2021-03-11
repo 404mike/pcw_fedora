@@ -1,0 +1,64 @@
+{
+    "id": 1048891,
+    "title": {
+        "en": "MyW Residential Weekend 2010 \u2013 Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2010- Cyfoeth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048891",
+    "created": 1555591698,
+    "updated": 1555591698,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mererid Jones, National President, welcoming the members.",
+        "cy": "Mererid Jones, Llywydd Cenedlaethol, yn croesawu'r aelodau i'r Penwythnos."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_295.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_295.jpg",
+            "type": "image",
+            "target_id": "1048886"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

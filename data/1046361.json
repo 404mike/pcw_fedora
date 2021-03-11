@@ -1,0 +1,76 @@
+{
+    "id": 1046361,
+    "title": {
+        "en": "Annual Meeting 2002",
+        "cy": "Cyfarfod Blynyddol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046361",
+    "created": 1555590180,
+    "updated": 1555590180,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 Photographs of events at the Annual Meeting 2002. i) Parc Branch, Meirioneth Region winners of the recreational competition (a Sketch). ii) Sylwen Davies, representing Parc Branch receiving a plaque for the best sketch.",
+        "cy": "2 lun o weithgareddau adeg y Cyfarfod Blynyddol ym Machynlleth 2002. i) Cangen Y Parc, Rhanbarth Meirion, enillwyr Cystadleuaeth y Sgets. ii) Sylwen Davies yn cynrychioli'r Parc yn derbyn y plac am y sgets orau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2002",
+        "meirioneth region",
+        "Sketch",
+        "plaque",
+        "cyfarfod blynyddol 2002",
+        "rhanbarth meirionydd",
+        "Machynlleth",
+        "sgets",
+        "Cangen y Parc"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_028.jpg",
+            "type": "image",
+            "target_id": "1046351"
+        },
+        {
+            "originalFilename": "df_myw_028-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_028-001.jpg",
+            "type": "image",
+            "target_id": "1046356"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

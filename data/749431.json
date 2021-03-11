@@ -1,0 +1,82 @@
+{
+    "id": 749431,
+    "title": {
+        "en": "Tabernacle Chapel, Morriston's New Defibrillator",
+        "cy": "Diffibriliwr newydd Capel y Tabernacl, Treforys\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749431",
+    "created": 1516899000,
+    "updated": 1516899000,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Teifi Davies o Ferched y Wawr Treforys yn dangos diffibriliwr newydd Capel y Tabernacl, Treforys\n\u201cAr \u00f4l clywed Jayne Davies o\u2019r British Heart Foundation yn siarad \u00e2 ni yn Merched y Wawr, aeth Teifi ac eraill ati i godi arian ar gyfer prynu un i\u2019r capel.  Mewn byr amser llwyddwyd i godi\u2019r arian trwy drefnu bore coffi, rhoddion oddi wrth C\u00f4r Rugbi a Ch\u00f4r Merched Treforys.  Mae sael person wedi derbyn hyfforddiant sut i\u2019w ddefnyddio.  Mae llawer o fudiadau yn defnyddio\u2019r capel felly mae\u2019n bwysig cael e yno.  Diolch i bawb am eu cefnogaeth.\u201d",
+        "cy": "Teifi Davies o Ferched y Wawr Treforys yn dangos diffibriliwr newydd Capel y Tabernacl, Treforys\n\u201cAr \u00f4l clywed Jayne Davies o\u2019r British Heart Foundation yn siarad \u00e2 ni yn Merched y Wawr, aeth Teifi ac eraill ati i godi arian ar gyfer prynu un i\u2019r capel.  Mewn byr amser llwyddwyd i godi\u2019r arian trwy drefnu bore coffi, rhoddion oddi wrth C\u00f4r Rugbi a Ch\u00f4r Merched Treforys.  Mae sael person wedi derbyn hyfforddiant sut i\u2019w ddefnyddio.  Mae llawer o fudiadau yn defnyddio\u2019r capel felly mae\u2019n bwysig cael e yno.  Diolch i bawb am eu cefnogaeth.\u201d"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treforys",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.663314000000",
+            "lon": "-3.925200000000",
+            "description": {
+                "en": "Capel Tabernacl, Treforys",
+                "cy": "Capel Tabernacl, Treforys"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-133.jpg",
+            "type": "image",
+            "target_id": "749421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

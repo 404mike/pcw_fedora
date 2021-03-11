@@ -1,0 +1,84 @@
+{
+    "id": 610956,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch Celebrates 21 Years",
+        "cy": "Merched y Wawr Cangen Llangadog yn Dathlu 21oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610956",
+    "created": 1510753336,
+    "updated": 1510753336,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangadog yn dathlu penblwydd yn 21oed, Neuadd Llangadog. Ruby a Phillips a Megan Evans ar y llwyfan.",
+        "cy": "Merched y Wawr Cangen Llangadog yn dathlu penblwydd yn 21oed, Neuadd Llangadog. Ruby a Phillips a Megan Evans ar y llwyfan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.937340000000",
+            "lon": "-3.883218000000",
+            "description": {
+                "en": "Neuadd Llangadog",
+                "cy": "Neuadd Llangadog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-210.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-210.jpg",
+            "type": "image",
+            "target_id": "610946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

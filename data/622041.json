@@ -1,0 +1,86 @@
+{
+    "id": 622041,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Groes Colwyn.",
+        "cy": "Cangen Merched y Wawr y Groes, Rhanbarth Colwyn. Gwyl Rhanbarth y Mudiad ym Mawrth, 1977. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622041",
+    "created": 1511279038,
+    "updated": 1511279038,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn perfformio yng Nghwyl Rhanbarth y Mudiad ym Mawrth, 1977.",
+        "cy": "Rhai o aelodau\u2019r gangen yn perfformio yng Nghwyl Rhanbarth y Mudiad ym Mawrth, 1977."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Groes",
+    "owner": "Cangen y Groes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "y Groes",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen y Groes",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.226575000000",
+            "lon": "-3.838287000000",
+            "description": {
+                "en": "y Groes",
+                "cy": "y Groes"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_Y_GROES_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_Y_GROES_006.jpg",
+            "type": "image",
+            "target_id": "622031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

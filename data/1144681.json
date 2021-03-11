@@ -1,0 +1,84 @@
+{
+    "id": 1144681,
+    "title": {
+        "en": "MyW Residential Weekend, 2014",
+        "cy": "Penwythnos Preswyl MyW 2014 yn Llanbed \u2013 &#039;Cyfaredd y Canolbarth&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144681",
+    "created": 1562062033,
+    "updated": 1562062033,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meinir Heulyn, the harpist, giving a history of her life and work through her clothes.",
+        "cy": "Meinir Heulyn, y delynores, yn rhoi hanes ei bywyd a'i gwaith drwy ei dillad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2014",
+        "penwythnos preswyl myw",
+        "Llanbed",
+        "cyfaredd y canolbarth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_607.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_607.jpg",
+            "type": "image",
+            "target_id": "1144661"
+        },
+        {
+            "originalFilename": "df_myw_608.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_608.jpg",
+            "type": "image",
+            "target_id": "1144666"
+        },
+        {
+            "originalFilename": "df_myw_609.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_609.jpg",
+            "type": "image",
+            "target_id": "1144671"
+        },
+        {
+            "originalFilename": "df_myw_610.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_610.jpg",
+            "type": "image",
+            "target_id": "1144676"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

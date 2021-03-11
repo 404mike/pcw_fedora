@@ -1,0 +1,77 @@
+{
+    "id": 1046671,
+    "title": {
+        "en": "Annual Meeting 2004",
+        "cy": "Cyfarfod Blynyddol 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046671",
+    "created": 1555590352,
+    "updated": 1555590352,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Selection of photographs showing presentations by the members in the entertainment competition.",
+        "cy": "3 llun yn dangos amrywiaeth y cyflwyniadau yn y gystadleuaeth adloniant."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2004",
+        "entertainment competition",
+        "cyfarfod blynyddol 2004",
+        "cystadleuaeth adloniant"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_054.jpg",
+            "type": "image",
+            "target_id": "1046656"
+        },
+        {
+            "originalFilename": "df_myw_054-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_054-001.jpg",
+            "type": "image",
+            "target_id": "1046661"
+        },
+        {
+            "originalFilename": "df_myw_054-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_054-002.jpg",
+            "type": "image",
+            "target_id": "1046666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

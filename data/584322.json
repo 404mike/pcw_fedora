@@ -1,0 +1,91 @@
+{
+    "id": 584322,
+    "title": {
+        "en": "Merched y Wawr, Leaflet for National President's Dinner, Southern Areas 2010",
+        "cy": "Merched y Wawr, Rhanbarthau\u2019r De, Taflen Cinio\u2019r Llywydd Cenedlaethol Esyllt Jones 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584322",
+    "created": 1499870909,
+    "updated": 1499870909,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol Esyllt Jones, Gwesty Nantyffin, Clunderwen.  Ebrill 17, 2010  Tudalen flaen",
+        "cy": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol Esyllt Jones, Gwesty Nantyffin, Clunderwen.  Ebrill 17, 2010  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol",
+        "Rhanbarthaur De"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853772000000",
+            "lon": "-4.728611000000",
+            "description": {
+                "en": "Gwesty Nantyffin, Clunderwen",
+                "cy": "Gwesty Nantyffin, Clunderwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-091.jpg",
+            "type": "image",
+            "target_id": "584319"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-092.jpg",
+            "type": "image",
+            "target_id": "584320"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

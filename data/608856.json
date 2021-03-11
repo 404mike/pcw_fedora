@@ -1,0 +1,84 @@
+{
+    "id": 608856,
+    "title": {
+        "en": "Merched y Wawr Abergorlech Branch visit St David's Hospital, Carmarthen",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Ysbyty Dewi Sant"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608856",
+    "created": 1510752837,
+    "updated": 1510752837,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Abergorlech yn ymweld ag Ysbyty Dewi Sant, Caerfyrddin, 1991",
+        "cy": "Merched y Wawr Cangen Abergorlech yn ymweld ag Ysbyty Dewi Sant, Caerfyrddin, 1991"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856400000000",
+            "lon": "-4.333939000000",
+            "description": {
+                "en": "Ysbyty Dewi Sant Caerfyrddin",
+                "cy": "Ysbyty Dewi Sant Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117007a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117007a.jpg",
+            "type": "image",
+            "target_id": "608846"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

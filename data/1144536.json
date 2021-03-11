@@ -1,0 +1,63 @@
+{
+    "id": 1144536,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Eisteddfod Genedlaethol Caerfyrddin a&#039;r Cylch 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144536",
+    "created": 1562061953,
+    "updated": 1562061953,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Shan Morgan interviewing Meryl Davies, deputy President.",
+        "cy": "Shan Morgan yn holi'r Darpar Lywydd Meryl Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_584.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_584.jpg",
+            "type": "image",
+            "target_id": "1144531"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

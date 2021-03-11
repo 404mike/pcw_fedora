@@ -1,0 +1,81 @@
+{
+    "id": 747396,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch Programme 1993-1994",
+        "cy": "Merched y Wawr Cangen Mynach Rhaglen Tymor 1993 \u2013 1994"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747396",
+    "created": 1516897715,
+    "updated": 1516897715,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Mynach Rhaglen Tymor 1993 \u2013 1994\nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Mynach Rhaglen Tymor 1993 \u2013 1994\nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-167.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-167.jpg",
+            "type": "image",
+            "target_id": "747386"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-168.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-168.jpg",
+            "type": "image",
+            "target_id": "747391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,80 @@
+{
+    "id": 745016,
+    "title": {
+        "en": "Merched y Wawr Felinfach Branch design a Christmas card",
+        "cy": "Merched y Wawr Felinfach a\u2019r Cylch yn cynllunio carden Nadolig."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745016",
+    "created": 1516896616,
+    "updated": 1516896616,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Felinfach a\u2019r Cylch o Ferched y Wawr yn cynllunio carden Nadolig.\nBu tair o aelodau Merched y Wawr Felinfach yn llwyddiannus iawn yng nghystadleuaeth cynllunio Carden Nadolig yng Ng\u0175yl Haf 2013.  Cyfansoddwyd dwy gerdd gan Betty Davies a Megan Richards i\u2019w defnyddio yn y garden.\nYn y llun mae Betty Davies, Melinda Williams a Megan Richards yn derbyn eu tystysgrifau gan Gill Griffiths, Llywydd Cenedlaethol Merched y Wawr 2012-2014.",
+        "cy": "Aelodau Cangen Felinfach a\u2019r Cylch o Ferched y Wawr yn cynllunio carden Nadolig.\nBu tair o aelodau Merched y Wawr Felinfach yn llwyddiannus iawn yng nghystadleuaeth cynllunio Carden Nadolig yng Ng\u0175yl Haf 2013.  Cyfansoddwyd dwy gerdd gan Betty Davies a Megan Richards i\u2019w defnyddio yn y garden.\nYn y llun mae Betty Davies, Melinda Williams a Megan Richards yn derbyn eu tystysgrifau gan Gill Griffiths, Llywydd Cenedlaethol Merched y Wawr 2012-2014."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Felinfach a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Felinfach ar Cylch"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-129.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-129.jpg",
+            "type": "image",
+            "target_id": "745006"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-130.jpg",
+            "type": "image",
+            "target_id": "745011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

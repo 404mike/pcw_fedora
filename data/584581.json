@@ -1,0 +1,82 @@
+{
+    "id": 584581,
+    "title": {
+        "en": "Members of Merched y Wawr Rhymney Valley Branch and South East Area create bunting to be used in the Merched y Wawr tent at a variety of Eisteddfodau from 2015 to 2018 ",
+        "cy": "Aelodau Merched y Wawr Cangen Cwm Rhymni a Rhanbarth y De-Ddwyrain yn creu baneri bach (buntings) ar gyfer Pabell Merched y Wawr yn \nEisteddfodau amrywiol, o 2015 i 2018. \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584581",
+    "created": 1499871223,
+    "updated": 1499871223,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o ffotograffau (7 llun) yn disgrifio prosiect creu baneri bach (buntings) gan Gangen Cwmn Rhymni a Rhanbarth y De-Ddwyrain ar gyfer Pabell Merched y Wawr yn \nEisteddfodau amrywiol, Eisteddfod yr Urdd Caerffili 2015, Eisteddfod Genedlaethol y Fenni 2016, Eisteddfod yr Urdd Pencoed 2017, Eisteddfod Genedlaethol Caerdydd 2018.",
+        "cy": "Casgliad o ffotograffau (7 llun) yn disgrifio prosiect creu baneri bach (buntings) gan Gangen Cwmn Rhymni a Rhanbarth y De-Ddwyrain ar gyfer Pabell Merched y Wawr yn \nEisteddfodau amrywiol, Eisteddfod yr Urdd Caerffili 2015, Eisteddfod Genedlaethol y Fenni 2016, Eisteddfod yr Urdd Pencoed 2017, Eisteddfod Genedlaethol Caerdydd 2018."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-231216-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-231216-003.jpg",
+            "type": "image",
+            "target_id": "584579"
+        },
+        {
+            "originalFilename": "Herio%27r-Cwm-adrodd-baneri-prosiect---CEFNDIR.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/Herio%2527r-Cwm-adrodd-baneri-prosiect---CEFNDIR.jpg",
+            "type": "image",
+            "target_id": "584580"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

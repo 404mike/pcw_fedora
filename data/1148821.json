@@ -1,0 +1,64 @@
+{
+    "id": 1148821,
+    "title": {
+        "en": "Celebrating 200th edition of Y Wawr \u2013 MyW's magazine at the Conrah Hotel.",
+        "cy": "Dathlu rhifyn 200 o gylchgrawn Y Wawr yng ngwesty&#039;r Conrah."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148821",
+    "created": 1562065921,
+    "updated": 1562065921,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catrin Stevens, past editor and editor of the 200th edition.",
+        "cy": "Catrin Stevens, Cyn-Olygydd a Golygydd rhifyn arbennig 200."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Y Wawr",
+        "MYW",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_080.jpg",
+            "type": "image",
+            "target_id": "1148816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

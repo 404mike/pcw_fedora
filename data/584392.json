@@ -1,0 +1,84 @@
+{
+    "id": 584392,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area - Celebration Dinner 1992",
+        "cy": "Rhanbarth Caerfyrddin Merched y Wawr - Cinio Dathlu 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584392",
+    "created": 1499870982,
+    "updated": 1499870982,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Rhanbarth Caerfyrddin \u2013 Cinio Dathlu Nan Lewis yn Llywydd Cenedlaethol Medi 11 1992, Canolfan Halliwell, Caerfyrddin\nRhes flaen \u2013 Nan Lewis, Mam Nan, Buddug Jones, Enid Jones\nAil res \u2013 Ann Roberts, Ann Williams, Beti Davies, Fanw Phillips",
+        "cy": "Merched y Wawr, Rhanbarth Caerfyrddin \u2013 Cinio Dathlu Nan Lewis yn Llywydd Cenedlaethol Medi 11 1992, Canolfan Halliwell, Caerfyrddin\nRhes flaen \u2013 Nan Lewis, Mam Nan, Buddug Jones, Enid Jones\nAil res \u2013 Ann Roberts, Ann Williams, Beti Davies, Fanw Phillips"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.858547000000",
+            "lon": "-4.328764000000",
+            "description": {
+                "en": "Canolfan Halliwell, Caerfyrddin",
+                "cy": "Canolfan Halliwell, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-045.jpg",
+            "type": "image",
+            "target_id": "584390"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

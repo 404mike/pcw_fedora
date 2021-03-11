@@ -1,0 +1,86 @@
+{
+    "id": 751326,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Blaenau Ffestiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Blaenau Ffestiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751326",
+    "created": 1516957899,
+    "updated": 1516957899,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 40 (2010). Noson yn ymweld a\u2019r Llyfrgell leol lle cafwyd darlleniadau gan y staff (a phaned a chacen!) Gwelwn: Edwina Fletcher, Morwenna Owen, Sue, Els Jones, Beti Roberts, Elizabeth Parry, Ellen Evans, Ceinwen Humphreys, Anwen Jones, (canol) Rhiannon Jones, Chris Parkinson, Megan Jones, Marian Roberts (blaen) Beryl Grattan, Rhian Williams, Margaret Williams, Pegi Williams, Neris Thomas, Mena Davies.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 40 (2010). Noson yn ymweld a\u2019r Llyfrgell leol lle cafwyd darlleniadau gan y staff (a phaned a chacen!) Gwelwn: Edwina Fletcher, Morwenna Owen, Sue, Els Jones, Beti Roberts, Elizabeth Parry, Ellen Evans, Ceinwen Humphreys, Anwen Jones, (canol) Rhiannon Jones, Chris Parkinson, Megan Jones, Marian Roberts (blaen) Beryl Grattan, Rhian Williams, Margaret Williams, Pegi Williams, Neris Thomas, Mena Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Blaenau Ffestiniog",
+    "owner": "Cangen Blaenau Ffestiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Blaenau Ffestiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Blaenau Ffestiniog",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.985611000000",
+            "lon": "-3.929878000000",
+            "description": {
+                "en": "Blaenau Ffestiniog",
+                "cy": "Blaenau Ffestiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_001.jpg",
+            "type": "image",
+            "target_id": "751316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 615681,
+    "title": {
+        "en": "Merched y Wawr Abergavenny Branch Newsletter",
+        "cy": "Taflen Newyddion Merched y Wawr Cangen y Fenni "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615681",
+    "created": 1510755312,
+    "updated": 1510755312,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Newyddion Merched y Wawr Cangen y Fenni Medi 2016.  Ym mis Medi 2016 dechreuodd Merched y Wawr Cangen Y Fenni gynhyrchu Taflen Newyddion misol i roi gwybodaeth am y gangen a digwyddiadau\u2019r mudiad yn rhanbarthol a chenedlaethol.",
+        "cy": "Taflen Newyddion Merched y Wawr Cangen y Fenni Medi 2016.  Ym mis Medi 2016 dechreuodd Merched y Wawr Cangen Y Fenni gynhyrchu Taflen Newyddion misol i roi gwybodaeth am y gangen a digwyddiadau\u2019r mudiad yn rhanbarthol a chenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Fenni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Fenni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.825266000000",
+            "lon": "-3.019545000000",
+            "description": {
+                "en": "Y Fenni",
+                "cy": "Y Fenni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-015.jpg",
+            "type": "image",
+            "target_id": "615671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

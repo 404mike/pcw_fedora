@@ -1,0 +1,105 @@
+{
+    "id": 746501,
+    "title": {
+        "en": "A local Welsh language campaign by Merched y Wawr St Dogmaels Branch",
+        "cy": "Ymgyrch leol dros y Gymraeg gan Ferched y Wawr Llandudoch "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746501",
+    "created": 1516897308,
+    "updated": 1516897308,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ymgyrch Merched y Wawr Llandudoch i gael cyd-lynydd sy\u2019n medru\u2019r Gymraeg i Ganolfan Treftadaeth pentre Llandudoch yn 2008.  Bu\u2019r ymgyrch yn lwyddiant.\nLlythyr (21\/01\/08) gan y gangen i\u2019r Pwyllgor Hanes yn s\u00f4n am yr Hysbyseb swydd uniaith Saesneg",
+        "cy": "Ymgyrch Merched y Wawr Llandudoch i gael cyd-lynydd sy\u2019n medru\u2019r Gymraeg i Ganolfan Treftadaeth pentre Llandudoch yn 2008.  Bu\u2019r ymgyrch yn lwyddiant.\nLlythyr (21\/01\/08) gan y gangen i\u2019r Pwyllgor Hanes yn s\u00f4n am yr Hysbyseb swydd uniaith Saesneg"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-019.jpg",
+            "type": "image",
+            "target_id": "746471"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-020.jpg",
+            "type": "image",
+            "target_id": "746476"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-021.jpg",
+            "type": "image",
+            "target_id": "746481"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-024.jpg",
+            "type": "image",
+            "target_id": "746486"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-025.jpg",
+            "type": "image",
+            "target_id": "746491"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-026.jpg",
+            "type": "image",
+            "target_id": "746496"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600399,
+    "title": {
+        "en": "Merched y Wawr Bro Pantycelyn Branch trip to Llanelly House and Stradey Castle 2014",
+        "cy": "Merched y Wawr Cangen Bro Pantycelyn, trip i D\u0177 Llanelli a Chastell Strade 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600399",
+    "created": 1502447696,
+    "updated": 1502447696,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Pantycelyn, trip i D\u0177 Llanelli a Chastell Strade 2014\nChwith i'r dde:\nEnid  Prothero, Enid Gealy,  Margaret Shapland,  Judith Aveson,  Mair Richards,  Nellie Arthur,  Margaret Davies,  Eleri Jones,  Lon Owen,  Margaret Lewis,  Ann Williams.",
+        "cy": "Merched y Wawr Cangen Bro Pantycelyn, trip i D\u0177 Llanelli a Chastell Strade 2014\nChwith i'r dde:\nEnid  Prothero, Enid Gealy,  Margaret Shapland,  Judith Aveson,  Mair Richards,  Nellie Arthur,  Margaret Davies,  Eleri Jones,  Lon Owen,  Margaret Lewis,  Ann Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Pantycelyn, Llanymddyfri",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Pantycelyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.680899000000",
+            "lon": "-4.160048000000",
+            "description": {
+                "en": "Llanelli",
+                "cy": "Llanelli"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-245.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-245.jpg",
+            "type": "image",
+            "target_id": "600397"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 621771,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn. Penwythnos preswyl y Mudiad, Bangor, 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621771",
+    "created": 1511278948,
+    "updated": 1511278948,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn mwynhau ym mhenwythnos preswyl y Mudiad ym Mangor, 1988. 1. Mrs Roberts, Lyn, Amy, Morfudd a Gwyneth. 2. Dinah, Morfudd, Gwyneth, Lyn ac Ann.",
+        "cy": "Rhai o aelodau\u2019r gangen yn mwynhau ym mhenwythnos preswyl y Mudiad ym Mangor, 1988. 1. Mrs Roberts, Lyn, Amy, Morfudd a Gwyneth. 2. Dinah, Morfudd, Gwyneth, Lyn ac Ann."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn",
+        "Penwythnos Preswyl Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_029.jpg",
+            "type": "image",
+            "target_id": "621761"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

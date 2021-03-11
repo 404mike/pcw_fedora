@@ -1,0 +1,89 @@
+{
+    "id": 619746,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhyl, Colwyn.",
+        "cy": "Cangen y Rhyl yn dathlu ugain mlynedd ers sefydlu y Gangen, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619746",
+    "created": 1511278217,
+    "updated": 1511278217,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen y Rhyl yn dathlu ugain mlynedd ers sefydlu y Gangen (1969) Medi 1989.",
+        "cy": "Cangen y Rhyl yn dathlu ugain mlynedd ers sefydlu y Gangen (1969) Medi 1989."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhyl",
+    "owner": "Cangen Rhyl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Rhyl",
+                "cy": "Cangen Merched y Wawr Rhyl"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhyl",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhyl",
+        "Rhanbarth Colwyn",
+        "Dathlu 20"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320901000000",
+            "lon": "-3.495205000000",
+            "description": {
+                "en": "RHYL",
+                "cy": "RHYL"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_019.jpg",
+            "type": "image",
+            "target_id": "619736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

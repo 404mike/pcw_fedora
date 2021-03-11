@@ -1,0 +1,73 @@
+{
+    "id": 1046121,
+    "title": {
+        "en": "Transfer Ceremony of National President 2000",
+        "cy": "Seremoni Trosglwyddo Llywydd Cenedlaethol 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046121",
+    "created": 1555590037,
+    "updated": 1555590037,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sulwen Davies tranferring the National President's chain of office to Catrin Stevens, August 2000. 2 photograhps showing the occasion.",
+        "cy": "Sulwen Davies yn trosglwyddo cadwyn y Llywydd Cenedlaethol i Catrin Stevens, Awst 2000."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "transfer ceremony of national president 2000",
+        "cermony",
+        "national president",
+        "seremoni trosglwyddo llywyddiaeth cenedlaethol 2000",
+        "Seremoni",
+        "trosglwyddo"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_010.jpg",
+            "type": "image",
+            "target_id": "1046111"
+        },
+        {
+            "originalFilename": "df_myw_010-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_010-001.jpg",
+            "type": "image",
+            "target_id": "1046116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

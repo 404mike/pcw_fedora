@@ -1,0 +1,75 @@
+{
+    "id": 746366,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch do yoga",
+        "cy": "Merched y Wawr Llanafan yn cael gwers yoga \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746366",
+    "created": 1516897253,
+    "updated": 1516897253,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llanafan yn cael gwers yoga yn Neuadd Llanafan yn 2008 dan arweiniad Sue Jones Davies.  \nYn yn llun \u2013 Margaret Richards, Alwena Richards, Eirionedd Baskerville, Marg Williams, Sue Jones Davies",
+        "cy": "Merched y Wawr Llanafan yn cael gwers yoga yn Neuadd Llanafan yn 2008 dan arweiniad Sue Jones Davies.  \nYn yn llun \u2013 Margaret Richards, Alwena Richards, Eirionedd Baskerville, Marg Williams, Sue Jones Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "YogaCangenLlanafan.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/YogaCangenLlanafan.jpg",
+            "type": "image",
+            "target_id": "746361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

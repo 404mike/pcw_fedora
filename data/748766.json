@@ -1,0 +1,84 @@
+{
+    "id": 748766,
+    "title": {
+        "en": "Merched y Wawr Talgarreg Branch celebrate 21 Years",
+        "cy": "Merched y Wawr Cangen Talgarreg yn dathlu penblwydd yn 21 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748766",
+    "created": 1516898700,
+    "updated": 1516898700,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Talgarreg yn dathlu 21 oed. \nNoson Dathlu\u2019r gangen,  Tachwedd 17, 1989 yn Neuadd Talgarreg.\n Taflen \u2018Atgofion Ruth Mynachlog\u2019 \u2013 cyflwynodd aelodau\u2019r gangen ddetholiad.",
+        "cy": "Merched y Wawr Cangen Talgarreg yn dathlu 21 oed. \nNoson Dathlu\u2019r gangen,  Tachwedd 17, 1989 yn Neuadd Talgarreg.\n Taflen \u2018Atgofion Ruth Mynachlog\u2019 \u2013 cyflwynodd aelodau\u2019r gangen ddetholiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Talgarreg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talgarreg",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.136830000000",
+            "lon": "-4.302740000000",
+            "description": {
+                "en": "Neuadd Talgarreg",
+                "cy": "Neuadd Talgarreg"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-057.jpg",
+            "type": "image",
+            "target_id": "748756"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

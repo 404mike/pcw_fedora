@@ -1,0 +1,91 @@
+{
+    "id": 621681,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "hanes sefydlu cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn yn 1971."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621681",
+    "created": 1511278917,
+    "updated": 1511278917,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Nodiadau am hanes sefydlu\u2019r gangen ym 1971. 2. Rhestr enwau y rhai a ddaeth i\u2019r cyfarfod sefydlu",
+        "cy": "Nodiadau am hanes sefydlu\u2019r gangen ym 1971."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_003.jpg",
+            "type": "image",
+            "target_id": "621666"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_004.jpg",
+            "type": "image",
+            "target_id": "621671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

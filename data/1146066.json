@@ -1,0 +1,63 @@
+{
+    "id": 1146066,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Eisteddfod Genedlaethol Sir Fynwy a&#039;r Cyffiniau 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146066",
+    "created": 1562063731,
+    "updated": 1562063731,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Heart Foundation Wales Stand selling MyW Accessories.",
+        "cy": "Stondin Sefydliad y Galon Cymru yn gwerthu Ategolion MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "monmouthshire and area national eisteddfod 2016",
+        "eisteddfod genedlaethol sir fynwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_756.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_756.jpg",
+            "type": "image",
+            "target_id": "1146061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 613711,
+    "title": {
+        "en": "Merched y Wawr Tumble Branch Celebrate 25 Years",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613711",
+    "created": 1510754001,
+    "updated": 1510754001,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Tymbl yn dathlu 25 mlynedd y gangen a ddechreuwyd ym 1975.  \nRhai o aelodau gwreiddiol y Gangen \u2013 Mini Jones, Mair ?, Eona Williams, ?",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn dathlu 25 mlynedd y gangen a ddechreuwyd ym 1975.  \nRhai o aelodau gwreiddiol y Gangen \u2013 Mini Jones, Mair ?, Eona Williams, ?"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_091a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_091a.jpg",
+            "type": "image",
+            "target_id": "613706"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

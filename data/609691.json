@@ -1,0 +1,84 @@
+{
+    "id": 609691,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech present 'Dim ond Dwy' (Only Two)",
+        "cy": "Cyflwyniad Merched y Wawr Bro Cennech o \u2018Dim ond Dwy\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609691",
+    "created": 1510753039,
+    "updated": 1510753039,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Rhian Morgan a Llio Silyn yng nghyflwyniad Merched y Wawr Bro Cennech o \u2018Dim ond Dwy\u2019 Hydref 20, 2011",
+        "cy": "Llun o Rhian Morgan a Llio Silyn yng nghyflwyniad Merched y Wawr Bro Cennech o \u2018Dim ond Dwy\u2019 Hydref 20, 2011"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.693610000000",
+            "lon": "-4.086570000000",
+            "description": {
+                "en": "Canolfan Gymunedol Llangennech",
+                "cy": "Canolfan Gymunedol Llangennech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-006.jpg",
+            "type": "image",
+            "target_id": "609681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

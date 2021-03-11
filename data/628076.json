@@ -1,0 +1,93 @@
+{
+    "id": 628076,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maelog, Anglesey.",
+        "cy": "Cofnodion o gyfarfod cyntaf cangen Merched y Wawr Maelog, Rhanbarth M\u00f4n. Mai 1979"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628076",
+    "created": 1511281040,
+    "updated": 1511281040,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion o gyfarfod cyntaf\/ sefydlu Cangen Maelog o fis Mai 1979, sy\u2019n nodi\u2019r Swyddogion am y flwyddyn, y trefn gwneud y t\u00ea a\u2019r rhaglen am y tymor.",
+        "cy": "Cofnodion o gyfarfod cyntaf\/ sefydlu Cangen Maelog o fis Mai 1979, sy\u2019n nodi\u2019r Swyddogion am y flwyddyn, y trefn gwneud y t\u00ea a\u2019r rhaglen am y tymor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maelog",
+    "owner": "Cangen Maelog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maelog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maelog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.224711000000",
+            "lon": "-4.513083000000",
+            "description": {
+                "en": "Maelog",
+                "cy": "Maelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYM_GOG_Mon_Maelog_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYM_GOG_Mon_Maelog_001.jpg",
+            "type": "image",
+            "target_id": "628061"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_004.jpg",
+            "type": "image",
+            "target_id": "628066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

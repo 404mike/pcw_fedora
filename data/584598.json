@@ -1,0 +1,76 @@
+{
+    "id": 584598,
+    "title": {
+        "en": "Merched y Wawr South-East Area, Christmas Service Programme 2016 ",
+        "cy": "Rhaglen Gwasanaeth Nadolig Merched y Wawr, Rhanbarth y De-Ddwyrain, 2016  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584598",
+    "created": 1499871252,
+    "updated": 1499871252,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen (clawr) Gwasanaeth Nadolig y Rhanbarth 2016 a drefnwyd gan aelodau Cangen Casnewydd.  Cynhaliwyd y Gwasanaeth yng Nghapel Bethesda, T\u0177-du  a\u2019r thema oedd \u2018Dilyn y Seren\u2019",
+        "cy": "Rhaglen (clawr) Gwasanaeth Nadolig y Rhanbarth 2016 a drefnwyd gan aelodau Cangen Casnewydd.  Cynhaliwyd y Gwasanaeth yng Nghapel Bethesda, T\u0177-du  a\u2019r thema oedd \u2018Dilyn y Seren\u2019"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-101.jpg",
+            "type": "image",
+            "target_id": "584597"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 601179,
+    "title": {
+        "en": "Triban am Ferched y Wawr Cangen Bro Alma ",
+        "cy": "Triban am Ferched y Wawr Cangen Bro Alma "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601179",
+    "created": 1502448862,
+    "updated": 1502448862,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Aeres Twigg o Gaerfyrddin yn annog Merched y Wawr Cangen Bro Alma i ysgrifennu Triban yn y flwyddyn 2000",
+        "cy": "Mrs Aeres Twigg o Gaerfyrddin yn annog Merched y Wawr Cangen Bro Alma i ysgrifennu Triban yn y flwyddyn 2000"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_070_1.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_070_1.jpg",
+            "type": "image",
+            "target_id": "601178"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

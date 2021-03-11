@@ -1,0 +1,84 @@
+{
+    "id": 612766,
+    "title": {
+        "en": "An Exhibition by Merched y Wawr Llanddarog Branch",
+        "cy": "Arddangosfa gan Ferched y Wawr Cangen Llanddarog "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612766",
+    "created": 1510753784,
+    "updated": 1510753784,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa Merched y Wawr Cangen Llanddarog yn ystod Cystadleuaeth \u2018Y pentref taclusaf yng Nghymru\u2019 yn 2002.  Yn y llun mae Carol Davies a Margaret Davies.",
+        "cy": "Arddangosfa Merched y Wawr Cangen Llanddarog yn ystod Cystadleuaeth \u2018Y pentref taclusaf yng Nghymru\u2019 yn 2002.  Yn y llun mae Carol Davies a Margaret Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Llanddarog",
+                "cy": "Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_159.jpg",
+            "type": "image",
+            "target_id": "612756"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

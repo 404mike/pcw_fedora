@@ -1,0 +1,84 @@
+{
+    "id": 615921,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club celebrate St David's Day",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn dathlu G\u0175yl Dewi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615921",
+    "created": 1510755357,
+    "updated": 1510755357,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Llygaid y Dydd o fudiad Merched y Wawr yn dathlu G\u0175yl Dewi, Mawrth 2015, yn Duck Egg Bleu yng nghwmni Christine Jones, Archdderwydd Cymru.",
+        "cy": "Clwb Gwawr Llygaid y Dydd o fudiad Merched y Wawr yn dathlu G\u0175yl Dewi, Mawrth 2015, yn Duck Egg Bleu yng nghwmni Christine Jones, Archdderwydd Cymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.482355000000",
+            "lon": "-3.211244000000",
+            "description": {
+                "en": "Bwyty Duck Egg Bleu Caerdydd",
+                "cy": "Bwyty Duck Egg Bleu Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "P1270183.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/P1270183.jpg",
+            "type": "image",
+            "target_id": "615911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

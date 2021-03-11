@@ -1,0 +1,84 @@
+{
+    "id": 609831,
+    "title": {
+        "en": "Merched y Wawr Bro Pantycelyn Branch, St David's Day Dinner 1976\/77",
+        "cy": "Cinio Gwyl Dewi 1976\/77 Merched y Wawr Cangen Bro Pantycelyn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609831",
+    "created": 1510753077,
+    "updated": 1510753077,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Gwyl Dewi 1976\/77 Merched y Wawr Cangen Bro Pantycelyn, Llanymddyfri\nOr chwith i'r dde:\nGwenno Lewis,  Eirwen Price,  Elsie Jones,  Peggy Lloyd,  Mrs Davies,  Kate Preece,  Audrey Price,  Doris Price,  Bessie James ,  Dilys Lewis,  Mair Davies,  Bethan Richards,  Eleri Jones,  Violet Evans.",
+        "cy": "Cinio Gwyl Dewi 1976\/77 Merched y Wawr Cangen Bro Pantycelyn, Llanymddyfri\nOr chwith i'r dde:\nGwenno Lewis,  Eirwen Price,  Elsie Jones,  Peggy Lloyd,  Mrs Davies,  Kate Preece,  Audrey Price,  Doris Price,  Bessie James ,  Dilys Lewis,  Mair Davies,  Bethan Richards,  Eleri Jones,  Violet Evans."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Pantycelyn, Llanymddyfri",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Pantycelyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.995851000000",
+            "lon": "-3.796862000000",
+            "description": {
+                "en": "Llanymddyfri",
+                "cy": "Llanymddyfri"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-240.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-240.jpg",
+            "type": "image",
+            "target_id": "609821"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

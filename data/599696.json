@@ -1,0 +1,118 @@
+{
+    "id": 599696,
+    "title": {
+        "en": "Merched y Wawr, Betws Garmon, Aberconwy - Minuets ",
+        "cy": "Cofnodion sefydlu\/ cyntaf cangen Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599696",
+    "created": 1502446782,
+    "updated": 1602584370,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Minuets detailing the branches\u2019 first meeting on the 28th of July, 1980",
+        "cy": "Cofnodion sefydlu cangen Betws Garmon, Rhanbarth Aberconwy 28ain o Orffennaf, 1980"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "Llyfrau Cofnodion Merched y Wawr",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_028.jpg",
+            "type": "image",
+            "target_id": "599687"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_029.jpg",
+            "type": "image",
+            "target_id": "599688"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_030.jpg",
+            "type": "image",
+            "target_id": "599689"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_031.jpg",
+            "type": "image",
+            "target_id": "599690"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_032.jpg",
+            "type": "image",
+            "target_id": "599691"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_039.jpg",
+            "type": "image",
+            "target_id": "599692"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_040.jpg",
+            "type": "image",
+            "target_id": "599693"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_041.jpg",
+            "type": "image",
+            "target_id": "599694"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

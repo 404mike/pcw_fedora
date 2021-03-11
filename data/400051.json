@@ -1,0 +1,126 @@
+{
+    "id": 400051,
+    "title": {
+        "en": "Cofnodi Cynefin Merched y Wawr Pontarddulais a'r Cylch",
+        "cy": "Cofnodi Cynefin Merched y Wawr Pontarddulais a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400051",
+    "created": 1416923922,
+    "updated": 1417016366,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In this series of pages, you will find farm names and names of housing estates for the areas listed below:\r\nSardis, Llanedi, Pontarddulais, Pontlliw, Hendy and Forest.",
+        "cy": "Yn y gyfres hon o dudalennau, cewch restri o enwau ffermydd ac ystadau tai yn yr ardaloedd a restrir isod: Sardis, Llanedi, Pontarddulais, Pontlliw, Hendy a Fforest."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "house names",
+        "Pontarddulais",
+        "Farm names",
+        "enwau tai",
+        "enwau ffermydd",
+        "Pontarddulais"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Houses and Homes",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010567.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010567.jpg",
+            "type": "image",
+            "target_id": "400042"
+        },
+        {
+            "originalFilename": "pcw0010568.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010568.jpg",
+            "type": "image",
+            "target_id": "400043"
+        },
+        {
+            "originalFilename": "pcw0010569.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010569.jpg",
+            "type": "image",
+            "target_id": "400044"
+        },
+        {
+            "originalFilename": "pcw0010570.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010570.jpg",
+            "type": "image",
+            "target_id": "400045"
+        },
+        {
+            "originalFilename": "pcw0010571.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010571.jpg",
+            "type": "image",
+            "target_id": "400046"
+        },
+        {
+            "originalFilename": "pcw0010572.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010572.jpg",
+            "type": "image",
+            "target_id": "400047"
+        },
+        {
+            "originalFilename": "pcw0010573.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010573.jpg",
+            "type": "image",
+            "target_id": "400048"
+        },
+        {
+            "originalFilename": "pcw0010574.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010574.jpg",
+            "type": "image",
+            "target_id": "400049"
+        },
+        {
+            "originalFilename": "pcw0010575.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010575.jpg",
+            "type": "image",
+            "target_id": "400050"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010567",
+    "publisher_ref": ""
+}

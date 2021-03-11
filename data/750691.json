@@ -1,0 +1,74 @@
+{
+    "id": 750691,
+    "title": {
+        "en": "Merched y Wawr Trip to Russia 1975",
+        "cy": "Taith Merched y Wawr i Rwsia 1975"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750691",
+    "created": 1516899588,
+    "updated": 1516899588,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyfarwyddiadau gan Zonia Bowen i'r aelodau oedd yn mynd ar drip Merched y Wawr i Rwsia ym mis Mai 1975.",
+        "cy": "Cyfarwyddiadau gan Zonia Bowen i'r aelodau oedd yn mynd ar drip Merched y Wawr i Rwsia ym mis Mai 1975."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Casgliad Wendy Richards, Cangen Castell Nedd a Llywydd Cenedlaethol 1976-1978)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Taith%20Rwsia%201975%20Cyfarwyddiadau%20Zonia%20Bowen%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520Rwsia%25201975%2520Cyfarwyddiadau%2520Zonia%2520Bowen%2520001.jpg",
+            "type": "image",
+            "target_id": "750686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

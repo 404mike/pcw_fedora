@@ -1,0 +1,71 @@
+{
+    "id": 1046746,
+    "title": {
+        "en": "MyW Residential Weekend 2004",
+        "cy": "Penwythnos Preswyl MyW 2004 \u2013 Ysbrydoliaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046746",
+    "created": 1555590393,
+    "updated": 1555590393,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Congregation  at the Residential Cousre 2004.",
+        "cy": "Y gynulleidfa yn y Penwythnos Preswyl 2004."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2004",
+        "congregation",
+        "penwythnos preswyl myw 2004",
+        "cynulleidfa"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_059.jpg",
+            "type": "image",
+            "target_id": "1046736"
+        },
+        {
+            "originalFilename": "df_myw_059-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_059-001.jpg",
+            "type": "image",
+            "target_id": "1046741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

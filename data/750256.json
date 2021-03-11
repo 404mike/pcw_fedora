@@ -1,0 +1,75 @@
+{
+    "id": 750256,
+    "title": {
+        "en": "Y Gwenoliaid Gwawr Club Carol Singing",
+        "cy": "Clwb Gwawr Y Gwenoliaid yn canu carolau  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750256",
+    "created": 1516899381,
+    "updated": 1516899381,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Y Gwenoliaid yn twymo ar \u00f4l canu carolau yn Rhagfyr 2012.  Casglwyd \u00a3150 ar gyfer Ymchwil Cancr.",
+        "cy": "Clwb Gwawr Y Gwenoliaid yn twymo ar \u00f4l canu carolau yn Rhagfyr 2012.  Casglwyd \u00a3150 ar gyfer Ymchwil Cancr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Y Gwenoliaid",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau yng Ng\u0175yl Haf Merched y Wawr Chlybiau",
+        "Clwb Gwawr y Gwenoliaid",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Twymo%20ar%20ol%20canu%20carolau%202012%20-%20%C2%A3150%20i%20ymchwil%20cancr%20CGGwenoliaid.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Twymo%2520ar%2520ol%2520canu%2520carolau%25202012%2520-%2520%25C2%25A3150%2520i%2520ymchwil%2520cancr%2520CGGwenoliaid.jpg",
+            "type": "image",
+            "target_id": "750251"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

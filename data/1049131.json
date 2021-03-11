@@ -1,0 +1,65 @@
+{
+    "id": 1049131,
+    "title": {
+        "en": "President's Dinner at Aberaeron 2011",
+        "cy": "Cinio&#039;r Llywydd  yng ngwesty&#039;r Plu, Aberaeron 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049131",
+    "created": 1555591797,
+    "updated": 1555591797,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sian Thomas, S4C, guest speaker; Mererid Jones, President; Meinir Heulyn, Harpist, 26 March 2011",
+        "cy": "Sian Thomas, S4C, gwraig wadd; Mererid Jones Llywydd; Meinir Heulyn, Telynores, 26 Mawrth 2011"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_321.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_321.jpg",
+            "type": "image",
+            "target_id": "1049126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

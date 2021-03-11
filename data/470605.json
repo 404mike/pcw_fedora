@@ -1,0 +1,229 @@
+{
+    "id": 470605,
+    "title": {
+        "en": "Y Garreg Wen, Ffostrasol, Cardiganshire branch of merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Y Garreg Wen, Ffostrasol, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470605",
+    "created": 1441700809,
+    "updated": 1441700809,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Y Garreg Wen, Ffostrasol, Cardiganshire of Merched y Wawr. It contains a brief description of the area; lists of farms and field names with meanings; house names in the areas of Bwlchygroes, Croeslan, Capel Cynon and Ffostrasol; poetry by local bards; photographs and maps.",
+        "cy": "Gwybodaeth am waith cangen Y Garreg Wen, Ffostrasol, Ceredigion o Ferched y Wawr. Mae'n cynnwys cyflwyniad i'r ardal; rhestr o enwau ffermydd a chaeau gyda esboniadau am ystyron; enwau tai yn Bwlchygroes; Croeslan; Capel Cynon a Ffostrasol; Cerddi gan feirdd lleol; lluniau a mapiau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings",
+        "Landscape views",
+        "Maps"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10724.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10724.jpg",
+            "type": "image",
+            "target_id": "470576"
+        },
+        {
+            "originalFilename": "pcw001_10725.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10725.jpg",
+            "type": "image",
+            "target_id": "470577"
+        },
+        {
+            "originalFilename": "pcw001_10726.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10726.jpg",
+            "type": "image",
+            "target_id": "470578"
+        },
+        {
+            "originalFilename": "pcw001_10727.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10727.jpg",
+            "type": "image",
+            "target_id": "470579"
+        },
+        {
+            "originalFilename": "pcw001_10728.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10728.jpg",
+            "type": "image",
+            "target_id": "470580"
+        },
+        {
+            "originalFilename": "pcw001_10729.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10729.jpg",
+            "type": "image",
+            "target_id": "470581"
+        },
+        {
+            "originalFilename": "pcw001_10730.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10730.jpg",
+            "type": "image",
+            "target_id": "470582"
+        },
+        {
+            "originalFilename": "pcw001_10731.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10731.jpg",
+            "type": "image",
+            "target_id": "470583"
+        },
+        {
+            "originalFilename": "pcw001_10732.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10732.jpg",
+            "type": "image",
+            "target_id": "470584"
+        },
+        {
+            "originalFilename": "pcw001_10733.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10733.jpg",
+            "type": "image",
+            "target_id": "470585"
+        },
+        {
+            "originalFilename": "pcw001_10734.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10734.jpg",
+            "type": "image",
+            "target_id": "470586"
+        },
+        {
+            "originalFilename": "pcw001_10735.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10735.jpg",
+            "type": "image",
+            "target_id": "470587"
+        },
+        {
+            "originalFilename": "pcw001_10736.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10736.jpg",
+            "type": "image",
+            "target_id": "470588"
+        },
+        {
+            "originalFilename": "pcw001_10737.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10737.jpg",
+            "type": "image",
+            "target_id": "470589"
+        },
+        {
+            "originalFilename": "pcw001_10738.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10738.jpg",
+            "type": "image",
+            "target_id": "470590"
+        },
+        {
+            "originalFilename": "pcw001_10739.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10739.jpg",
+            "type": "image",
+            "target_id": "470591"
+        },
+        {
+            "originalFilename": "pcw001_10740.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10740.jpg",
+            "type": "image",
+            "target_id": "470592"
+        },
+        {
+            "originalFilename": "pcw001_10741.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10741.jpg",
+            "type": "image",
+            "target_id": "470593"
+        },
+        {
+            "originalFilename": "pcw001_10742.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10742.jpg",
+            "type": "image",
+            "target_id": "470594"
+        },
+        {
+            "originalFilename": "pcw001_10743.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10743.jpg",
+            "type": "image",
+            "target_id": "470595"
+        },
+        {
+            "originalFilename": "pcw001_10744.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10744.jpg",
+            "type": "image",
+            "target_id": "470596"
+        },
+        {
+            "originalFilename": "pcw001_10745.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10745.jpg",
+            "type": "image",
+            "target_id": "470597"
+        },
+        {
+            "originalFilename": "pcw001_10746.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10746.jpg",
+            "type": "image",
+            "target_id": "470598"
+        },
+        {
+            "originalFilename": "pcw001_10747.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10747.jpg",
+            "type": "image",
+            "target_id": "470599"
+        },
+        {
+            "originalFilename": "pcw001_10748.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10748.jpg",
+            "type": "image",
+            "target_id": "470600"
+        },
+        {
+            "originalFilename": "pcw001_10749.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10749.jpg",
+            "type": "image",
+            "target_id": "470601"
+        },
+        {
+            "originalFilename": "pcw001_10750.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10750.jpg",
+            "type": "image",
+            "target_id": "470602"
+        },
+        {
+            "originalFilename": "pcw001_10751.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10751.jpg",
+            "type": "image",
+            "target_id": "470603"
+        },
+        {
+            "originalFilename": "pcw001_10752.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10752.jpg",
+            "type": "image",
+            "target_id": "470604"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10724",
+    "publisher_ref": ""
+}

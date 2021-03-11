@@ -1,0 +1,75 @@
+{
+    "id": 746771,
+    "title": {
+        "en": "Merched y Wawr Cangen Llangwyryfon yn cyflwyno siec i elusen LATCH ",
+        "cy": "Merched y Wawr Cangen Llangwyryfon yn cyflwyno siec i elusen LATCH "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746771",
+    "created": 1516897431,
+    "updated": 1516897431,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangwyryfon yn cyflwyno siec i fudiad LATCH \u2013 llun ac adroddiad o adroddiad bapur bro Y Ddolen, 2004.\nYn y llun mae Llinos Griffiths, Meinir Jones Griffiths, Judith Jones",
+        "cy": "Merched y Wawr Cangen Llangwyryfon yn cyflwyno siec i fudiad LATCH \u2013 llun ac adroddiad o adroddiad bapur bro Y Ddolen, 2004.\nYn y llun mae Llinos Griffiths, Meinir Jones Griffiths, Judith Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llangwyryfon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llangwyryfon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-215.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-215.jpg",
+            "type": "image",
+            "target_id": "746766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

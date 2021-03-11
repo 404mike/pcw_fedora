@@ -1,0 +1,84 @@
+{
+    "id": 610106,
+    "title": {
+        "en": "Merched y Wawr Capel Iwan Branch presenting a cheque to the Wales Air Ambulance 2010",
+        "cy": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec i Ambiwlans Awyr Cymru 2010 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610106",
+    "created": 1510753135,
+    "updated": 1510753135,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec o \u00a3120 i Ambiwlans Awyr Cymru yn Nhachwedd 2010.\nRhes gefn \u2013 Vina Phillips, Peggy Jones, Diana Bowen, Jean Jones, Linda Bowen, Sharon Currado\nRhes ganol \u2013 Helen Williams, Margaret Jones, Marion Davies, Doreen James\nRhes flaen \u2013 Myra James (cynrychiolydd o\u2019r elusen), Rita Davies, Rhian Thomas, Jane Richardson",
+        "cy": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec o \u00a3120 i Ambiwlans Awyr Cymru yn Nhachwedd 2010.\nRhes gefn \u2013 Vina Phillips, Peggy Jones, Diana Bowen, Jean Jones, Linda Bowen, Sharon Currado\nRhes ganol \u2013 Helen Williams, Margaret Jones, Marion Davies, Doreen James\nRhes flaen \u2013 Myra James (cynrychiolydd o\u2019r elusen), Rita Davies, Rhian Thomas, Jane Richardson"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Capel Iwan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Iwan",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.998612000000",
+            "lon": "-4.492446000000",
+            "description": {
+                "en": "Capel Iwan",
+                "cy": "Capel Iwan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-124.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-124.jpg",
+            "type": "image",
+            "target_id": "610096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

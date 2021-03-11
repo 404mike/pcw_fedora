@@ -1,0 +1,87 @@
+{
+    "id": 745921,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch's First Members 1972",
+        "cy": "Aelodau Cyntaf cangen Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch 1972"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745921",
+    "created": 1516897026,
+    "updated": 1516897026,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cyntaf cangen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1972.",
+        "cy": "Aelodau Cyntaf cangen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1972.  Tudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Aelodau%20MYW%20Llambed%201972a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Aelodau%2520MYW%2520Llambed%25201972a.jpg",
+            "type": "image",
+            "target_id": "745906"
+        },
+        {
+            "originalFilename": "Aelodau%20MYW%20Llambed%201972b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Aelodau%2520MYW%2520Llambed%25201972b.jpg",
+            "type": "image",
+            "target_id": "745911"
+        },
+        {
+            "originalFilename": "Aelodau%20MYW%20Llambed%201972c.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Aelodau%2520MYW%2520Llambed%25201972c.jpg",
+            "type": "image",
+            "target_id": "745916"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

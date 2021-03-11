@@ -1,0 +1,86 @@
+{
+    "id": 621861,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwytherin Colwyn.",
+        "cy": "Cangen Merched y Wawr Gwytherin, Rhanbarth Colwyn yn dathlu ei 21ain yng Nghwesty\u2019r Llew, 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621861",
+    "created": 1511278978,
+    "updated": 1511278978,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Gwytherin yn dathlu ei 21ain yng Nghwesty\u2019r Llew, 1989. Llywydd RIta Williams, gwraig gwadd Mrs Ceinwen Jones (Dinbych).",
+        "cy": "Cangen Gwytherin yn dathlu ei 21ain yng Nghwesty\u2019r Llew, 1989. Llywydd RIta Williams, gwraig gwadd Mrs Ceinwen Jones (Dinbych)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwytherin ",
+    "owner": "Cangen Gwytherin ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gwytherin",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Gwytherin",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.138601000000",
+            "lon": "-3.681605000000",
+            "description": {
+                "en": "Gwytherin ",
+                "cy": "Gwytherin "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_GWYTHERIN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_GWYTHERIN_004.jpg",
+            "type": "image",
+            "target_id": "621851"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

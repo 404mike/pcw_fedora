@@ -1,0 +1,83 @@
+{
+    "id": 625056,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Noson dathlu penblwydd Cangen Bontuchel yn 21 oed, Ebrill 1996. Merched y Wawr Rhanbarth Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625056",
+    "created": 1511280036,
+    "updated": 1511280036,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson dathlu penblwydd Cangen Bontuchel yn 21 mlwydd oed, Ebrill 1996. Bu i aelodau, gwyr a ffrindiau fynd ati i ddathlu ym Mwyty Nant y Felin, Gwelwn Margaret Jones (Llwydd Cyntaf y Gangen yn 1975),  Menna Jones (Llywydd Presennol), Alice Jones ac Olwena Evans yn torri\u2019r gacen. Mae\u2019r gangen bellach wedi cau.",
+        "cy": "Noson dathlu penblwydd Cangen Bontuchel yn 21 mlwydd oed, Ebrill 1996. Bu i aelodau, gwyr a ffrindiau fynd ati i ddathlu ym Mwyty Nant y Felin, Gwelwn Margaret Jones (Llwydd Cyntaf y Gangen yn 1975),  Menna Jones (Llywydd Presennol), Alice Jones ac Olwena Evans yn torri\u2019r gacen. Mae\u2019r gangen bellach wedi cau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_017.jpg",
+            "type": "image",
+            "target_id": "625046"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1143616,
+    "title": {
+        "en": "Urdd National Eisteddfod Pembrokeshire 2013",
+        "cy": "Eisteddfod Genedlaethol yr Urdd Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143616",
+    "created": 1562061069,
+    "updated": 1562061069,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph of MyW Stand.",
+        "cy": "Llun o Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod",
+        "Pembrokeshire",
+        "eisteddfod genedlaethol yr urdd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_478.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_478.jpg",
+            "type": "image",
+            "target_id": "1143611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

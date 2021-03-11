@@ -1,0 +1,84 @@
+{
+    "id": 743321,
+    "title": {
+        "en": "Merched y Wawr Afan Branch perfoming at an Area Festival",
+        "cy": "Merched y Wawr Afan yn perfformio mewn G\u0175yl Rhanbarth 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743321",
+    "created": 1516895822,
+    "updated": 1516895822,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Afan yn perfformio mewn g\u0175yl gan Rhanbarth Gorllewin Morgannwg, \u2018Pileri\u2019 yn Theatr Cwm Tawe ym Mhontardawe ym 1988.  \nYn y llun mae Margaret Jones, Muriel Shaw, Siwsi Denby, Angharad Davies, Rhian Denby Jones, Rae Thompson, Gloria Jones, Jean Thomas, Margaret Thomas",
+        "cy": "Merched y Wawr Cangen Afan yn perfformio mewn g\u0175yl gan Rhanbarth Gorllewin Morgannwg, \u2018Pileri\u2019 yn Theatr Cwm Tawe ym Mhontardawe ym 1988.  \nYn y llun mae Margaret Jones, Muriel Shaw, Siwsi Denby, Angharad Davies, Rhian Denby Jones, Rae Thompson, Gloria Jones, Jean Thomas, Margaret Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Afan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Afan",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.715764000000",
+            "lon": "-3.855431000000",
+            "description": {
+                "en": "Theatr Cwm Tawe, Pontardawe ",
+                "cy": "Theatr Cwm Tawe, Pontardawe "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-004.jpg",
+            "type": "image",
+            "target_id": "743311"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

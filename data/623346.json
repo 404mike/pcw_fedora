@@ -1,0 +1,86 @@
+{
+    "id": 623346,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Corwen, Glyn Maelor yn dathlu 25 mlynedd y gangen yn Neuadd Carrof, 1998. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623346",
+    "created": 1511279472,
+    "updated": 1511279472,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 25 mlynedd y gangen yn Neuadd Carrof, 1998. (blaen) Mrs Williams (Carrog), Eirlys, Dorothy, Suwen, Ann, Megan Tudur, Megan Jones, Eirlys (canol) Mrs Bryan, Dils, Gwenda H, Glenys, Elsie, Audrey, Megan, Marion, Cassie, Menna, Heulwen, Carol, Mary, (cefn) Mari, Gwladys, Kitty, Kitty, Gwladys, Freda, Liliam, Blodwen, Dorothy, Marian, Ceinwen, Olwen.",
+        "cy": "Dathlu 25ml y gangen yn Neuadd Carrof, 1998. (blaen) Mrs Williams (Carrog), Eirlys, Dorothy, Suwen, Ann, Megan Tudur, Megan Jones, Eirlys (canol) Mrs Bryan, Dils, Gwenda H, Glenys, Elsie, Audrey, Megan, Marion, Cassie, Menna, Heulwen, Carol, Mary, (cefn) Mari, Gwladys, Kitty, Kitty, Gwladys, Freda, Liliam, Blodwen, Dorothy, Marian, Ceinwen, Olwen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_003.jpg",
+            "type": "image",
+            "target_id": "623336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

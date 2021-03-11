@@ -1,0 +1,68 @@
+{
+    "id": 1046906,
+    "title": {
+        "en": "Annual Meeting 2005",
+        "cy": "Cyfarfod Blynyddol 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046906",
+    "created": 1555590598,
+    "updated": 1555590598,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition for Welsh Learners \u2013 Article for Y Wawr. Winner \u2013 Rosie Pearce, Geler Branch, Carmarthen Region.",
+        "cy": "Cystadleuaeth i'r Dysgwyr \u2013 Erthygl i'r Wawr. Cyntaf: Rosie Pearce, Cangen Geler, Rhanbarth Caerfyrddin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2005",
+        "competitoin",
+        "welsh learners",
+        "Y Wawr",
+        "cyfarfod blynyddol 2005",
+        "Cystadleuaeth",
+        "Dysgwyr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_074.jpg",
+            "type": "image",
+            "target_id": "1046901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

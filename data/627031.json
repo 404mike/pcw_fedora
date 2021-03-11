@@ -1,0 +1,87 @@
+{
+    "id": 627031,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanddeusant, Anglesey.",
+        "cy": "Sioe Llanelwedd - Celf a Chrefft. 1978. Cangen Merched y Wawr Llanddeusant, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627031",
+    "created": 1511280691,
+    "updated": 1511280691,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sioe Llanelwedd - Celf a Chrefft. 1978. Crefftwaith Jane Owen, aelod o Gangen Llanddeusant.",
+        "cy": "Sioe Llanelwedd - Celf a Chrefft. 1978. Crefftwaith Jane Owen, aelod o Gangen Llanddeusant."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddeusant",
+    "owner": "Cangen Llanddeusant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddeusant",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddeusant",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.338113000000",
+            "lon": "-4.485818000000",
+            "description": {
+                "en": "Llanddeusant",
+                "cy": "Llanddeusant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_025.jpg",
+            "type": "image",
+            "target_id": "627021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 584122,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - National Eisteddfod, St David's 2002",
+        "cy": "Merched y Wawr Cangen Maenclochog - Eisteddfod Genedlaethol, Tyddewi 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584122",
+    "created": 1499870385,
+    "updated": 1499870385,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog. 2002 Pabell MyW Eisteddfod Genedlaethol TyDdewi.  Helpu yn y babell. Manw Parry, Cei Nicholas, Eirwen Gibby, Maureen George, Gillian Phillips ac Eirianwen Thomas",
+        "cy": "Merched y Wawr Maenclochog. 2002 Pabell MyW Eisteddfod Genedlaethol TyDdewi.  Helpu yn y babell. Manw Parry, Cei Nicholas, Eirwen Gibby, Maureen George, Gillian Phillips ac Eirianwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-058.jpg",
+            "type": "image",
+            "target_id": "584121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

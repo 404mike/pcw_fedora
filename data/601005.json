@@ -1,0 +1,73 @@
+{
+    "id": 601005,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch walk the paths of T Llew Jones",
+        "cy": "Merched y Wawr Cangen Llanddarog yn ymweld ag ardal T Llew Jones"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601005",
+    "created": 1502448543,
+    "updated": 1502448543,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanddarog yn cael eu tywys ar hyd llwybrau T Llew Jones, gan Jon M O Jones.  Mae\u2019r gangen wedi ymweld \u00e2 nifer o leoliadau yn ymwneud \u00e2 beirdd a llenorion.",
+        "cy": "Merched y Wawr Cangen Llanddarog yn cael eu tywys ar hyd llwybrau T Llew Jones, gan Jon M O Jones.  Mae\u2019r gangen wedi ymweld \u00e2 nifer o leoliadau yn ymwneud \u00e2 beirdd a llenorion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_170.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_170.jpg",
+            "type": "image",
+            "target_id": "601004"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

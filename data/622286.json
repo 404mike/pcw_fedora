@@ -1,0 +1,92 @@
+{
+    "id": 622286,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Rhaglen \u2018Drama a Ch\u00e2n\u2019 cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Rhagfyr 1973. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622286",
+    "created": 1511279116,
+    "updated": 1511279116,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen \u2018Drama a Ch\u00e2n\u2019, Cangen Llansannan Rhagfyr 1973.",
+        "cy": "Rhaglen \u2018Drama a Ch\u00e2n\u2019, Cangen Llansannan Rhagfyr 1973."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_040.jpg",
+            "type": "image",
+            "target_id": "622271"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_041.jpg",
+            "type": "image",
+            "target_id": "622276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

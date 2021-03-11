@@ -1,0 +1,85 @@
+{
+    "id": 584341,
+    "title": {
+        "en": "Merched y Wawr, Leaflet for National President's Dinner, Southern Areas 2013",
+        "cy": "Merched y Wawr, Rhanbarthau\u2019r De, Taflen Cinio\u2019r Llywydd Cenedlaethol Gill Griffiths 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584341",
+    "created": 1499870929,
+    "updated": 1499870929,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol  Gill Griffiths, Gwesty Glyn Clydach, 23 Chwefror, 2013",
+        "cy": "Taflen Merched y Wawr, Rhanbarthau\u2019r De, Cinio\u2019r Llywydd Cenedlaethol  Gill Griffiths, Gwesty Glyn Clydach, 23 Chwefror, 2013"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol",
+        "Rhanbarthaur De"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.676838000000",
+            "lon": "-3.828512000000",
+            "description": {
+                "en": "Gwesty Glyn Clydach",
+                "cy": "Gwesty Glyn Clydach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-101.jpg",
+            "type": "image",
+            "target_id": "584339"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

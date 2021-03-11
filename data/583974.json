@@ -1,0 +1,82 @@
+{
+    "id": 583974,
+    "title": {
+        "en": "Merched y Wawr Stand in the National Eisteddfod in the Lliw Valley 1980",
+        "cy": "Pabell Merched y Wawr yn Eisteddfod Genedlaethol Cymru Dyffryn Lliw yn 1980"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583974",
+    "created": 1499870178,
+    "updated": 1499870178,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pabell Merched y Wawr yn Eisteddfod Genedlaethol Cymru Dyffryn Lliw yn 1980, y tro cyntaf i\u2019r Rhanbarth fod yn gyfrifol am y stondin yn yr Eisteddfod.",
+        "cy": "Pabell Merched y Wawr yn Eisteddfod Genedlaethol Cymru Dyffryn Lliw yn 1980, y tro cyntaf i\u2019r Rhanbarth fod yn gyfrifol am y stondin yn yr Eisteddfod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.668320000000",
+            "lon": "-4.042831000000",
+            "description": {
+                "en": "Dyffryn Lliw",
+                "cy": "Dyffryn Lliw"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-005.jpg",
+            "type": "image",
+            "target_id": "583972"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 614676,
+    "title": {
+        "en": " Merched y Wawr Garreg Wen Branch Celebrate 10th Anniversary",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen yn Dathlu Penblwydd yn 10 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614676",
+    "created": 1510755054,
+    "updated": 1510755054,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Garreg Wen yn dathlu 10fed penblwydd ym 1984 yn y Morlan, Aberporth.  Gwnaethpwyd y gacen gan Mrs Lil Thomas.  \nRhes gefn \u2013 Mererid James (Trefnydd Cenedlaethol 1984-1994), Dilys Colbourne, Mrs Evans Gorsaf yr Heddlu, May Jones, Betty Phillips, Joan Jones, Etta James, Margaret Owen\nRhes ganol \u2013 Elean? Colbourne, Mrs Elias,, Gwen Davies, Maud Evans, Morfudd Evans, Olwen Jones, Mag Thomas, Nannie Davies. Lil Thomas \nRhes flaen \u2013 M M Jones (?), Salli Williams, Ray Tobias, Morwen Evans",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen yn dathlu 10fed penblwydd ym 1984 yn y Morlan, Aberporth.  Gwnaethpwyd y gacen gan Mrs Lil Thomas.  \nRhes gefn \u2013 Mererid James (Trefnydd Cenedlaethol 1984-1994), Dilys Colbourne, Mrs Evans Gorsaf yr Heddlu, May Jones, Betty Phillips, Joan Jones, Etta James, Margaret Owen\nRhes ganol \u2013 Elean? Colbourne, Mrs Elias,, Gwen Davies, Maud Evans, Morfudd Evans, Olwen Jones, Mag Thomas, Nannie Davies. Lil Thomas \nRhes flaen \u2013 M M Jones (?), Salli Williams, Ray Tobias, Morwen Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.135382000000",
+            "lon": "-4.543661000000",
+            "description": {
+                "en": "Morlan, Aberporth",
+                "cy": "Morlan, Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Garreg%20Wen%20-%201984%20-%20Dathlu%27r%2010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Garreg%2520Wen%2520-%25201984%2520-%2520Dathlu%2527r%252010.jpg",
+            "type": "image",
+            "target_id": "614666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

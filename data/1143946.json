@@ -1,0 +1,87 @@
+{
+    "id": 1143946,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2013",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143946",
+    "created": 1562061216,
+    "updated": 1562061216,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation by members of Glyn Maelor \u2013 'The Anterlute'.",
+        "cy": "Cyflwyniad MyW Rhanbarth Glyn Maelor \u2013 'Yr Anterliwt'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "denbigh national eisteddfod 2013",
+        "eisteddfod genedlaethol dinbych ar cylch 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_515.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_515.jpg",
+            "type": "image",
+            "target_id": "1143921"
+        },
+        {
+            "originalFilename": "df_myw_516.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_516.jpg",
+            "type": "image",
+            "target_id": "1143926"
+        },
+        {
+            "originalFilename": "df_myw_517.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_517.jpg",
+            "type": "image",
+            "target_id": "1143931"
+        },
+        {
+            "originalFilename": "df_myw_518.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_518.jpg",
+            "type": "image",
+            "target_id": "1143936"
+        },
+        {
+            "originalFilename": "df_myw_519.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_519.jpg",
+            "type": "image",
+            "target_id": "1143941"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

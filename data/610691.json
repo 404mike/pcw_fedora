@@ -1,0 +1,75 @@
+{
+    "id": 610691,
+    "title": {
+        "en": "A poem to celebrate 40 years of Merched y Wawr Gronw Branch",
+        "cy": "Cerdd \u2018Dathlu Pedwar Deg Mlynedd\u2019 Merched y Wawr Cangen Gronw "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610691",
+    "created": 1510753270,
+    "updated": 1510753270,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd \u2018Dathlu Pedwar Deg Mlynedd\u2019 gan Mrs Nansi Evans, Penybont, Cwmfelin Mynach, ar achlysur dathlu penblwydd Merched y Wawr Cangen Gronw yn 40 mlwydd oed ar Fedi 24ain, 2015.",
+        "cy": "Cerdd \u2018Dathlu Pedwar Deg Mlynedd\u2019 gan Mrs Nansi Evans, Penybont, Cwmfelin Mynach, ar achlysur dathlu penblwydd Merched y Wawr Cangen Gronw yn 40 mlwydd oed ar Fedi 24ain, 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-281.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-281.jpg",
+            "type": "image",
+            "target_id": "610686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

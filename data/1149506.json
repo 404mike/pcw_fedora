@@ -1,0 +1,64 @@
+{
+    "id": 1149506,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2014",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149506",
+    "created": 1562066345,
+    "updated": 1562066345,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Darts \u2013 1st Beulah, Ceredigion",
+        "cy": "Dartiau \u2013 1af Beulah, Ceredigion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_150.jpg",
+            "type": "image",
+            "target_id": "1149501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

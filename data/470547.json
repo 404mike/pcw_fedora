@@ -1,0 +1,83 @@
+{
+    "id": 470547,
+    "title": {
+        "en": "Bro Ilar, Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Bro Ilar, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470547",
+    "created": 1441700784,
+    "updated": 1441700784,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Bro Ilar, Cardiganshire branch of Merched y Wawr. It contains names of farms and their field names.",
+        "cy": "Gwybodaeth am waith cangen Bro Ilar, Ceredigion o Ferched y Wawr. Mae'n cynnwys enwau ffermydd a'u caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10695.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10695.jpg",
+            "type": "image",
+            "target_id": "470542"
+        },
+        {
+            "originalFilename": "pcw001_10696.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10696.jpg",
+            "type": "image",
+            "target_id": "470543"
+        },
+        {
+            "originalFilename": "pcw001_10697.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10697.jpg",
+            "type": "image",
+            "target_id": "470544"
+        },
+        {
+            "originalFilename": "pcw001_10698.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10698.jpg",
+            "type": "image",
+            "target_id": "470545"
+        },
+        {
+            "originalFilename": "pcw001_10699.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10699.jpg",
+            "type": "image",
+            "target_id": "470546"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10695",
+    "publisher_ref": ""
+}

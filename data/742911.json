@@ -1,0 +1,75 @@
+{
+    "id": 742911,
+    "title": {
+        "en": "Merched y Wawr Abernant Branch visit 'Coal House'",
+        "cy": "Merched y Wawr Cangen Abernant yn ymweld \u00e2 Coal House 2006\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742911",
+    "created": 1516895629,
+    "updated": 1516895629,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Abernant yn ymweld \u00e2 Coal House (sef lleoliad y gyfres gan y BBC lle fu teuluoedd cyfoes yn byw dan amodau y meysydd glo slawer dydd).\nKatrina Gabillea, Lon Griffiths, Myfanwy John, Avril, Anne Thomas, Olive Marks, Caroline Brown, Anne Evans, Ann Bowen, Llinos Thomas, Rhiannon Thomas, Anita Davies, Elsie Williams, Olwen Gibbon, Margaret Jones",
+        "cy": "Cangen Abernant yn ymweld \u00e2 Coal House (sef lleoliad y gyfres gan y BBC lle fu teuluoedd cyfoes yn byw dan amodau y meysydd glo slawer dydd).\nKatrina Gabillea, Lon Griffiths, Myfanwy John, Avril, Anne Thomas, Olive Marks, Caroline Brown, Anne Evans, Ann Bowen, Llinos Thomas, Rhiannon Thomas, Anita Davies, Elsie Williams, Olwen Gibbon, Margaret Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abernant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abernant",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-110417-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CAERFYRDDIN-110417-017.jpg",
+            "type": "image",
+            "target_id": "742906"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

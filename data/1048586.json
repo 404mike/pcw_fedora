@@ -1,0 +1,65 @@
+{
+    "id": 1048586,
+    "title": {
+        "en": "Annual Meeting 2010",
+        "cy": "Cyfarfod Blynyddol 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048586",
+    "created": 1555591559,
+    "updated": 1555591559,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Deputy President, Mererid Jones presenting Sulwen Davies, Honorary President, with flowers. Also in the picture, Nan Lewis, former President.",
+        "cy": "Mererid Jones, Is-Lywydd yn cyflwyno blodau i Sulwen Davies, Llywydd Anrhydeddus. Hefyd yn y llun mae Nan Lewis, cyn-Lywydd Cenedlaethol"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_262.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_262.jpg",
+            "type": "image",
+            "target_id": "1048581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

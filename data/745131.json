@@ -1,0 +1,75 @@
+{
+    "id": 745131,
+    "title": {
+        "en": "Merched y Wawr Pembrokeshire Area raise money for the Urdd",
+        "cy": "Merched y Wawr Rhanbarth Penfro yn codi arian i&#039;r Urdd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745131",
+    "created": 1516896674,
+    "updated": 1516896674,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr (Hydref 7, 1981) oddi wrth Urdd Gobaith Cymru i ddiolch i Ferched y Wawr Preseli a De Penfro am gasglu \u00a31600 i\u2019r Urdd.\nYn y llun mae Joyce Phillips, Ysgrifennydd y Rhanbarth (ac aelod o Gangen Ffynnongroes) yn cyflwyno siec i Bob Roberts, Trysorydd Urdd Gobaith Cymru \u2013 gwnaed hyn yn Neuadd Cilgerran ar Ionawr 1982.",
+        "cy": "Llythyr (Hydref 7, 1981) oddi wrth Urdd Gobaith Cymru i ddiolch i Ferched y Wawr Preseli a De Penfro am gasglu \u00a31600 i\u2019r Urdd.\nYn y llun mae Joyce Phillips, Ysgrifennydd y Rhanbarth (ac aelod o Gangen Ffynnongroes) yn cyflwyno siec i Bob Roberts, Trysorydd Urdd Gobaith Cymru \u2013 gwnaed hyn yn Neuadd Cilgerran ar Ionawr 1982."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-110.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-110.jpg",
+            "type": "image",
+            "target_id": "745126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

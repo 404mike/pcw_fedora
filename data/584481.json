@@ -1,0 +1,85 @@
+{
+    "id": 584481,
+    "title": {
+        "en": "Merched y Wawr Ystrad Mynach Branch, Garden Festival Wales  1992\n",
+        "cy": "Merched y Wawr Cangen Ystrad Mynach, G\u0175yl Gerddi Cymru (Garden Festival Wales), 1992\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584481",
+    "created": 1499871106,
+    "updated": 1499871106,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Ystrad Mynach \u2013 Llun o grwp o aelodau o flaen arwydd yn dweud Ty\u2019r \u0174yl (Festival House), G\u0175yl Gerddi Cymru (Garden Festival Wales), Glyn Ebwy, 1992 (felly tua diwedd cyfnod bodolaeth y gangen).\nRhai o\u2019r rhai yn y llun :-\nMair Roberts, Meira Richards, Nan Jones, mam Meira Richards, Rhian Criddle, Margaret Roberts, Christine Angel, Gwyneth Davies, Nia Richards, Mary Cumpstone, Janet Cumpstone",
+        "cy": "Cangen Ystrad Mynach \u2013 Llun o grwp o aelodau o flaen arwydd yn dweud Ty\u2019r \u0174yl (Festival House), G\u0175yl Gerddi Cymru (Garden Festival Wales), Glyn Ebwy, 1992 (felly tua diwedd cyfnod bodolaeth y gangen).\nRhai o\u2019r rhai yn y llun :-\nMair Roberts, Meira Richards, Nan Jones, mam Meira Richards, Rhian Criddle, Margaret Roberts, Christine Angel, Gwyneth Davies, Nia Richards, Mary Cumpstone, Janet Cumpstone"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.747161000000",
+            "lon": "-3.195828000000",
+            "description": {
+                "en": "Ty\u2019r \u0174yl (Festival House), G\u0175yl Gerddi Cymru (Garden Festival Wales), Glyn Ebwy",
+                "cy": "Ty\u2019r \u0174yl (Festival House), G\u0175yl Gerddi Cymru (Garden Festival Wales), Glyn Ebwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-028.jpg",
+            "type": "image",
+            "target_id": "584479"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

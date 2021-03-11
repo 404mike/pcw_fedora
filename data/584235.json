@@ -1,0 +1,102 @@
+{
+    "id": 584235,
+    "title": {
+        "en": "Merched y Wawr Residential School Programme 1988 (Ein Hiaith, Elin Gwlad - Our Language, Our Country)",
+        "cy": "Rhaglen Ein Hiaith, Ein Gwlad, Ysgol Breswyl Merched y Wawr, 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584235",
+    "created": 1499870817,
+    "updated": 1499870817,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Ein Hiaith, Ein Gwlad, Ysgol Breswyl Merched y Wawr, 16-18 Medi, 1988, Coleg Prifysgol Gogledd Cymru, Bangor, Tudalen flaen",
+        "cy": "Rhaglen Ein Hiaith, Ein Gwlad, Ysgol Breswyl Merched y Wawr, 16-18 Medi, 1988, Coleg Prifysgol Gogledd Cymru, Bangor, Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.229395000000",
+            "lon": "-4.130607000000",
+            "description": {
+                "en": "Coleg Prifysgol Gogledd Cymru, Bangor",
+                "cy": "Coleg Prifysgol Gogledd Cymru, Bangor"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-034.jpg",
+            "type": "image",
+            "target_id": "584230"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-035.jpg",
+            "type": "image",
+            "target_id": "584231"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-036.jpg",
+            "type": "image",
+            "target_id": "584232"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-034_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-034_0.jpg",
+            "type": "image",
+            "target_id": "584233"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

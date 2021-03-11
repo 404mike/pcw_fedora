@@ -1,0 +1,76 @@
+{
+    "id": 1147771,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2017",
+        "cy": "Sioe Frenhinol Llanelwedd 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147771",
+    "created": 1562065500,
+    "updated": 1562065500,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mari Grug, S4C.",
+        "cy": "Mari Grug, S4C."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_950.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_950.jpg",
+            "type": "image",
+            "target_id": "1147756"
+        },
+        {
+            "originalFilename": "df_myw_951.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_951.jpg",
+            "type": "image",
+            "target_id": "1147761"
+        },
+        {
+            "originalFilename": "df_myw_952.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_952.jpg",
+            "type": "image",
+            "target_id": "1147766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

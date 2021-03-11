@@ -1,0 +1,67 @@
+{
+    "id": 1047126,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2006 2001",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf  2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047126",
+    "created": 1555590730,
+    "updated": 1555590730,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Angharad Fychan winner of the Patagonia Prize for the best article in Y Wawr.",
+        "cy": "Angharad Fychan enillydd Gwobr Patagonia am yr erthygl orau yn Y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "patagonia prize",
+        "cyfarfod blynyddol",
+        "gwobr patagonia"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_098.jpg",
+            "type": "image",
+            "target_id": "1047121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

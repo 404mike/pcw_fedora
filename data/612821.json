@@ -1,0 +1,81 @@
+{
+    "id": 612821,
+    "title": {
+        "en": "Translating the story of the Ivy Bush Hotel's 'Proverb Window' into Welsh",
+        "cy": "Cyfieithu hanes Ffenestr y Diarhebion yng Ngwesty\u2019r Llwyn Iorwg, Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612821",
+    "created": 1510753800,
+    "updated": 1510753800,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penderfynodd Pwyllgor Rhanbarth Caerfyrddin fod angen cyfieithu hanes Ffenestr y Diarhebion yng Ngwesty\u2019r Llwyn Iorwg yng Nghaerfyrddin, i\u2019r Gymraeg  - Cangen Llanddarog bu wrthi yn cyflawni\u2019r gwaith.  Yn y llun mae Sian Evans a Margaret Davies wrthi yn cyfeithu.",
+        "cy": "Penderfynodd Pwyllgor Rhanbarth Caerfyrddin fod angen cyfieithu hanes Ffenestr y Diarhebion yng Ngwesty\u2019r Llwyn Iorwg yng Nghaerfyrddin, i\u2019r Gymraeg  - Cangen Llanddarog bu wrthi yn cyflawni\u2019r gwaith.  Yn y llun mae Sian Evans a Margaret Davies wrthi yn cyfeithu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_164.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_164.jpg",
+            "type": "image",
+            "target_id": "612811"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_165.jpg",
+            "type": "image",
+            "target_id": "612816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

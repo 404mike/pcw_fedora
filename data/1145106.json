@@ -1,0 +1,65 @@
+{
+    "id": 1145106,
+    "title": {
+        "en": "President's Dinner at Victoria Hotel, Llanberis, 2015",
+        "cy": "Cinio Llywydd yn y Gogledd \u2013 Gwesty Victoria, Llanberis 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145106",
+    "created": 1562062709,
+    "updated": 1562062709,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Top Table: Steffan Rhys Hughes; Ceri  Haf Roberts; Elsi Roberts; Elinor Davies Gwyneth Griffiths; Rhianwen Roberts.",
+        "cy": "Bwrdd Top: Steffan Rhys Hughes; Ceri  Haf Roberts; Elsi Roberts; Elinor Davies Gwyneth Griffiths; Rhianwen Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Llanberis",
+        "2015",
+        "cinio llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_648.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_648.jpg",
+            "type": "image",
+            "target_id": "1145101"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

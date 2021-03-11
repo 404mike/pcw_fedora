@@ -1,0 +1,82 @@
+{
+    "id": 601305,
+    "title": {
+        "en": "Merched y Wawr Cylch y Mwnt Branch's Annual Dinner ",
+        "cy": "Cinio Blynyddol Merched y Wawr Cylch y Mwnt "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601305",
+    "created": 1502449174,
+    "updated": 1502449174,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Blynyddol Merched y Wawr Cangen Cylch y Mwnt yng nghwmni\u2019r prifardd Dic Jones, yn y Coracles, Cenarth.\nRhes Gefn - Eurian Griffiths, Iris Ramsbottom, Geinor Griffiths, Eleanor, Jones, Gwenda Jones, Sheila Bowen, Janet Evans, Davina Evans, Hildreth Owen, Ann Tudfor\nRhes flaen - Iris Davies, Eleri Jenkins, Bethan Jones, Liz Scourfield, Margaret Symmons, Dic Jones, Auriol Williams, Mag Williams, Lena Griffiths, Joan Davies",
+        "cy": "Cinio Blynyddol Merched y Wawr Cangen Cylch y Mwnt yng nghwmni\u2019r prifardd Dic Jones, yn y Coracles, Cenarth.\nRhes Gefn - Eurian Griffiths, Iris Ramsbottom, Geinor Griffiths, Eleanor, Jones, Gwenda Jones, Sheila Bowen, Janet Evans, Davina Evans, Hildreth Owen, Ann Tudfor\nRhes flaen - Iris Davies, Eleri Jenkins, Bethan Jones, Liz Scourfield, Margaret Symmons, Dic Jones, Auriol Williams, Mag Williams, Lena Griffiths, Joan Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch y Mwnt ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Cylch y Mwnt",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.048881000000",
+            "lon": "-4.531410000000",
+            "description": {
+                "en": "Coracles, Cenarth",
+                "cy": "Coracles, Cenarth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-141.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-141.jpg",
+            "type": "image",
+            "target_id": "601303"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

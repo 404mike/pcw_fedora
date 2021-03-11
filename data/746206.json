@@ -1,0 +1,84 @@
+{
+    "id": 746206,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch celebrates 25th Anniversary",
+        "cy": "Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch yn Dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746206",
+    "created": 1516897172,
+    "updated": 1516897172,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 25 mlynedd Cangen Llanbed yn 1997 yn y Kings Head:\nRhes Gefn: Barbara Jones; Mary Davies; Avril Williams; Beryl Davies; Dilwen Roderick; Mair James; Sadie Davies; Elizabeth Warmington; Eryl Jones; Gwen Jones, Ann Lewis; Janet Evans; Aerwen Griffiths; Elma Phillips; Mair Jones; Gwenda Richards.\nRhes Ganol:Margaret Jones Evans; Moyra Jones; Moyra Owen; Joan James; Lilian Band; Eunice Hughes; Glenys Morris; Olive Williams; Hazel (Twynog) Davies; Pat Davies; Sallie Davies; Bessie Jones; Margaret Roberts; Beryl Jones; Palma Stoneham; Mair Jones, Pentrebach; Noeleen Davies; Ray Jones; Menna Evans; Dorothy James; Nansi Jones; Eirlys Ffowc Elis; Mair Richards; Hazel (Noel) Davies; \nRhes Flaen: Magwen Edwards; Rhiannon Jones; Gwenda Smith; Beti Evans; Valerie James (Llywydd Cenedlaethol); Gwyneth Morgan; Gwenfyl Jones; Eirios Jones; Bessie Roberts.",
+        "cy": "Dathlu 25 mlynedd Cangen Llanbed yn 1997 yn y Kings Head:\nRhes Gefn: Barbara Jones; Mary Davies; Avril Williams; Beryl Davies; Dilwen Roderick; Mair James; Sadie Davies; Elizabeth Warmington; Eryl Jones; Gwen Jones, Ann Lewis; Janet Evans; Aerwen Griffiths; Elma Phillips; Mair Jones; Gwenda Richards.\nRhes Ganol:Margaret Jones Evans; Moyra Jones; Moyra Owen; Joan James; Lilian Band; Eunice Hughes; Glenys Morris; Olive Williams; Hazel (Twynog) Davies; Pat Davies; Sallie Davies; Bessie Jones; Margaret Roberts; Beryl Jones; Palma Stoneham; Mair Jones, Pentrebach; Noeleen Davies; Ray Jones; Menna Evans; Dorothy James; Nansi Jones; Eirlys Ffowc Elis; Mair Richards; Hazel (Noel) Davies; \nRhes Flaen: Magwen Edwards; Rhiannon Jones; Gwenda Smith; Beti Evans; Valerie James (Llywydd Cenedlaethol); Gwyneth Morgan; Gwenfyl Jones; Eirios Jones; Bessie Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112614000000",
+            "lon": "-4.077510000000",
+            "description": {
+                "en": "King's Head, Llanbed",
+                "cy": "King's Head, Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252033.jpg",
+            "type": "image",
+            "target_id": "746196"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

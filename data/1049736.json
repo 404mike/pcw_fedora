@@ -1,0 +1,82 @@
+{
+    "id": 1049736,
+    "title": {
+        "en": "Celebrating 175 years of Y Wawr",
+        "cy": "Dathlu Rhifyn 175 o&#039;r Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049736",
+    "created": 1555592026,
+    "updated": 1555592026,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Exibition of past covers of Y Wawr",
+        "cy": "Arddangosfa o gloriau'r Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Arddangosfa"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_392.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_392.jpg",
+            "type": "image",
+            "target_id": "1049716"
+        },
+        {
+            "originalFilename": "df_myw_393.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_393.jpg",
+            "type": "image",
+            "target_id": "1049721"
+        },
+        {
+            "originalFilename": "df_myw_394.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_394.jpg",
+            "type": "image",
+            "target_id": "1049726"
+        },
+        {
+            "originalFilename": "df_myw_395.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_395.jpg",
+            "type": "image",
+            "target_id": "1049731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

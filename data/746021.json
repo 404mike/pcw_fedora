@@ -1,0 +1,73 @@
+{
+    "id": 746021,
+    "title": {
+        "en": "A Member of Merched y Wawr Lampeter Branch is honoured in 'Y Wladfa'",
+        "cy": "Anrhydeddu aelod o Ferched y Wawr Llanbedr Pont Steffan a&#039;r Cylch yn y Wladfa "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746021",
+    "created": 1516897080,
+    "updated": 1516897080,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Urddo Morfudd Slaymaker, un o aelodau MYW Llambed, i\u2019r Orsedd yn y Wladfa",
+        "cy": "Urddo Morfudd Slaymaker, un o aelodau MYW Llambed, i\u2019r Orsedd yn y Wladfa"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252012.jpg",
+            "type": "image",
+            "target_id": "746016"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

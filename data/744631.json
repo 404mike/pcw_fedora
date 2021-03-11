@@ -1,0 +1,82 @@
+{
+    "id": 744631,
+    "title": {
+        "en": "Merched y Wawr Clydach Branch Concert Leaflet",
+        "cy": "Taflen Cyngerdd  Merched y Wawr Clydach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744631",
+    "created": 1516896412,
+    "updated": 1516896412,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cyngerdd dan nawdd Merched y Wawr Clydach, yn Festri Capel y Nant, Clydach",
+        "cy": "Taflen Cyngerdd dan nawdd Merched y Wawr Clydach, yn Festri Capel y Nant, Clydach"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.697056000000",
+            "lon": "-3.895656000000",
+            "description": {
+                "en": "Festri Capel y Nant, Clydach",
+                "cy": "Festri Capel y Nant, Clydach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-057.jpg",
+            "type": "image",
+            "target_id": "744621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

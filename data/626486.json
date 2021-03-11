@@ -1,0 +1,98 @@
+{
+    "id": 626486,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llangefni, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llangefni, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626486",
+    "created": 1511280507,
+    "updated": 1511280507,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; J Lloyd Jones, Mair Griffith, Jane Jones, O Owen, Helen Williams, Mair Jones, Rita Williams, Margaret Hughes, Betty Pritchard, Doreen Jones, Eira Jones, Margaret Roberts. 2. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; Morfudd Petty a Jane Jones. 3. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; Betty Pritchard, Morfudd Petty, Rita Milford Williams, Olwen Owen a Mair Jones.",
+        "cy": "1. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; J Lloyd Jones, Mair Griffith, Jane Jones, O Owen, Helen Williams, Mair Jones, Rita Williams, Margaret Hughes, Betty Pritchard, Doreen Jones, Eira Jones, Margaret Roberts. 2. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; Morfudd Petty a Jane Jones. 3. Aelodau\u2019r Gangen yn dathlu yng Nhastell Rhuthun yn 1984; Betty Pritchard, Morfudd Petty, Rita Milford Williams, Olwen Owen a Mair Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangefni",
+    "owner": "Cangen Llangefni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangefni",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangefni",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_005.jpg",
+            "type": "image",
+            "target_id": "626466"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_007.jpg",
+            "type": "image",
+            "target_id": "626471"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_007_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_007_0.jpg",
+            "type": "image",
+            "target_id": "626476"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

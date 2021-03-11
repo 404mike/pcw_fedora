@@ -1,0 +1,65 @@
+{
+    "id": 1050261,
+    "title": {
+        "en": "President's Dinner at Glyn Hotel, Clydach 2013",
+        "cy": "Cinio&#039;r Llywydd Cenedlaethol yng ngwesty&#039;r Glyn, Clydach 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050261",
+    "created": 1555592251,
+    "updated": 1555592251,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Officals' Table; Malvina Ley; Gill Griffiths; Tegwen Morris; Glenys Thomas.",
+        "cy": "Bwrdd Swyddogion: Malvina Ley; Gill Griffiths; Tegwen Morris; Glenys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "merched y wawr",
+        "MYW",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_451.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_451.jpg",
+            "type": "image",
+            "target_id": "1050256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 620846,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Arddangosfa Celf a Chrefft, Sioe Cerrig a Rhanbarth Colwyn.. Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620846",
+    "created": 1511278591,
+    "updated": 1511278591,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa Celf a Chrefft, Cangen Uwchaled yn Sioe Cerrig a Rhanbarth Colwyn.",
+        "cy": "Arddangosfa Celf a Chrefft, Cangen Uwchaled yn Sioe Cerrig a Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_034.jpg",
+            "type": "image",
+            "target_id": "620836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

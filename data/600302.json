@@ -1,0 +1,82 @@
+{
+    "id": 600302,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch competing with a float at the Drefach Felindre Carnifal",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yng ngharnifal Drefach Felindre"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600302",
+    "created": 1502447551,
+    "updated": 1502447551,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi yn cystadlu yng nghystadleuaeth y ffl\u00f4t yng ngharnifal y pentref, Drefach Felindre",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yn cystadlu yng nghystadleuaeth y ffl\u00f4t yng ngharnifal y pentref, Drefach Felindre"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.024744000000",
+            "lon": "-4.398096000000",
+            "description": {
+                "en": "Parc Puw, Drefach Felindre",
+                "cy": "Parc Puw, Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-038.jpg",
+            "type": "image",
+            "target_id": "600300"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

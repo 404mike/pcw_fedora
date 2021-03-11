@@ -1,0 +1,86 @@
+{
+    "id": 626461,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llangefni, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llangefni, Rhanbarth M\u00f4n yn dathlu cinio Nadolig ym 1974."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626461",
+    "created": 1511280498,
+    "updated": 1511280498,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn dathlu eu cinio Nadolig ym 1974.",
+        "cy": "Rhai o aelodau\u2019r gangen yn dathlu eu cinio Nadolig ym 1974."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangefni",
+    "owner": "Cangen Llangefni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangefni",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangefni",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_004.jpg",
+            "type": "image",
+            "target_id": "626451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

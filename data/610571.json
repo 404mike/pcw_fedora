@@ -1,0 +1,73 @@
+{
+    "id": 610571,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch perform in a drama competition",
+        "cy": "Merched y Wawr Cangen Gronw mewn cystadleuaeth ddrama "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610571",
+    "created": 1510753235,
+    "updated": 1510753235,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gronw yng nghystadleuaeth ddrama \u2018Saith Cyfnod ym Mywyd Merch\u2019, cystadleuaeth adloniant yn Sir Gaerfyrddin",
+        "cy": "Merched y Wawr Cangen Gronw yng nghystadleuaeth ddrama \u2018Saith Cyfnod ym Mywyd Merch\u2019, cystadleuaeth adloniant yn Sir Gaerfyrddin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-268.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-268.jpg",
+            "type": "image",
+            "target_id": "610566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 1049651,
+    "title": {
+        "en": "MyW Residential Weekend 2011, Bangor \u2013 Bwrlwm a Bantams",
+        "cy": "Penwythnos Preswyl MyW 2011, Bangor \u2013 Bwrlwm a Bantams"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049651",
+    "created": 1555591995,
+    "updated": 1555591995,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sunday entertainment by the group Clera. A Welsh Folk Group.",
+        "cy": "Adloniant bore Sul gan y griw Clera. Gr\u0175p Gwerin Cymraeg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "bwrlwm a bantams",
+        "clera"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_381.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_381.jpg",
+            "type": "image",
+            "target_id": "1049631"
+        },
+        {
+            "originalFilename": "df_myw_382.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_382.jpg",
+            "type": "image",
+            "target_id": "1049636"
+        },
+        {
+            "originalFilename": "df_myw_383.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_383.jpg",
+            "type": "image",
+            "target_id": "1049641"
+        },
+        {
+            "originalFilename": "df_myw_384.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_384.jpg",
+            "type": "image",
+            "target_id": "1049646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

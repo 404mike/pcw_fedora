@@ -1,0 +1,84 @@
+{
+    "id": 601047,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Celebrate 25 Years",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi yn dathlu penblwydd yn 25ain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601047",
+    "created": 1502448595,
+    "updated": 1502448595,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu Chwarter Canrif ym Mhlas Pantyrathro, 2014\nLlun top \u2013 Mair Thomas, trysorydd fyddlon y gangen am y bum mlynedd ar hugain, yn torri\u2019r gacen a wnaed gan Mrs Diane Davies, aelod arall.\nLlun gwaelod \u2013 Aelodau gyda g\u0175r gwadd y noson, y Canon Patrick Thomas",
+        "cy": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu Chwarter Canrif ym Mhlas Pantyrathro, 2014\nLlun top \u2013 Mair Thomas, trysorydd fyddlon y gangen am y bum mlynedd ar hugain, yn torri\u2019r gacen a wnaed gan Mrs Diane Davies, aelod arall.\nLlun gwaelod \u2013 Aelodau gyda g\u0175r gwadd y noson, y Canon Patrick Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_040.jpg",
+            "type": "image",
+            "target_id": "601045"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

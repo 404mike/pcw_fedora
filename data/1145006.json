@@ -1,0 +1,64 @@
+{
+    "id": 1145006,
+    "title": {
+        "en": "Christmas Fair 2014",
+        "cy": "Ffair Aeaf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145006",
+    "created": 1562062666,
+    "updated": 1562062666,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Chutney Competition: 1st Mary Thomas Carno branch, Maldwyn Powys.",
+        "cy": "Cystadleuaeth Catwad\/Siytni: 1af Mary Thomas, Cangen Carno, Maldwyn Powys."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Christmas Fair",
+        "2014",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_638.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_638.jpg",
+            "type": "image",
+            "target_id": "1145001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,114 @@
+{
+    "id": 600668,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch - First book of minutes",
+        "cy": "Cofnodion cyntaf Cangen Llangadog o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600668",
+    "created": 1502448056,
+    "updated": 1502448056,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Cangen Llangadog o Ferched y Wawr \u2013 Cyfarfod Sefydlu (a)\nIonawr 20fed, 1983 \u2013 Cofnodion y cyfarfod yn neuadd y YMCA i drafod sefydlu cangen yn Llangadog ac enwau\u2019r swyddogion cyntaf.",
+        "cy": "Cofnodion cyntaf Cangen Llangadog o Ferched y Wawr \u2013 Cyfarfod Sefydlu (a)\nIonawr 20fed, 1983 \u2013 Cofnodion y cyfarfod yn neuadd y YMCA i drafod sefydlu cangen yn Llangadog ac enwau\u2019r swyddogion cyntaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.937348000000",
+            "lon": "-3.883254000000",
+            "description": {
+                "en": "YMCA Llangdog",
+                "cy": "YMCA Llangdog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-228.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-228.jpg",
+            "type": "image",
+            "target_id": "600661"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-229.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-229.jpg",
+            "type": "image",
+            "target_id": "600662"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-234.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-234.jpg",
+            "type": "image",
+            "target_id": "600663"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-235.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-235.jpg",
+            "type": "image",
+            "target_id": "600664"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-232.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-232.jpg",
+            "type": "image",
+            "target_id": "600665"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-233.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-233.jpg",
+            "type": "image",
+            "target_id": "600666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1046776,
+    "title": {
+        "en": "MyW Residential Weekend 2004",
+        "cy": "Penwythnos Preswyl MyW 2004 \u2013 Ysbrydoliaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046776",
+    "created": 1555590411,
+    "updated": 1555590411,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dyffryn Tywi School of Performing Arts with their teachers Delyth Mai Nicholas and Meinir Richards.",
+        "cy": "Cyflwyniad gan Ysgol Berfformio Dyffryn Tywi dan arweiniad Delyth Mai Nicholas a Meinir Richards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2004",
+        "dyffryn tywi school of performing arts",
+        "penwythnos preswyl myw 2004",
+        "ysgol berfformio dyffryn tywi"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_062.jpg",
+            "type": "image",
+            "target_id": "1046771"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

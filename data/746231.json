@@ -1,0 +1,84 @@
+{
+    "id": 746231,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch celebrates 25th Anniversary",
+        "cy": "Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch yn Dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746231",
+    "created": 1516897182,
+    "updated": 1516897182,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 25 yn y King\u2019s Head 1997:  \nRhes Gefn: Dilwen Roderick; Gwenda Richards; Eryl Jones; Ann Lewis; Palma Stoneham; Menna Evans; Margaret Roberts, Avril Williams.\nRhes Flaen:Bessie Roberts; Beryl Jones (Ysgrifennydd Cyntaf); Beti Evans (Llywydd Cyntaf); Elizabeth Warmington (Trysorydd Cyntaf); Pat Davies.",
+        "cy": "Dathlu 25 yn y King\u2019s Head 1997:  \nRhes Gefn: Dilwen Roderick; Gwenda Richards; Eryl Jones; Ann Lewis; Palma Stoneham; Menna Evans; Margaret Roberts, Avril Williams.\nRhes Flaen:Bessie Roberts; Beryl Jones (Ysgrifennydd Cyntaf); Beti Evans (Llywydd Cyntaf); Elizabeth Warmington (Trysorydd Cyntaf); Pat Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112614000000",
+            "lon": "-4.077510000000",
+            "description": {
+                "en": "King's Head, Llanbed",
+                "cy": "King's Head, Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252035.jpg",
+            "type": "image",
+            "target_id": "746221"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

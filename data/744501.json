@@ -1,0 +1,102 @@
+{
+    "id": 744501,
+    "title": {
+        "en": "Pileri' presented by Merched y Wawr West Glamorgan Area in 1988",
+        "cy": "Taflen &#039;Pileri&#039;  gyflwynywd gan Merched y Wawr Rhanbarth Gorllewin Morgannwg ym 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744501",
+    "created": 1516896351,
+    "updated": 1516896351,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Geiriau c\u00e2n a ganwyd gan aelodau Cangen Clydach o Ferched y Wawr yng nghyflwyniad \u2018Pileri\u2019, Tachwedd 12, 1988 yn Theatr Cwmtawe o dan y penawd \u2018C\u00f4r o Fawl i Ferched y Sir\u2019.  Gwaith gan Lyn T Jones, g\u0175r aelod o\u2019r gangen ar y pryd.",
+        "cy": "Geiriau c\u00e2n a ganwyd gan aelodau Cangen Clydach o Ferched y Wawr yng nghyflwyniad \u2018Pileri\u2019, Tachwedd 12, 1988 yn Theatr Cwmtawe o dan y penawd \u2018C\u00f4r o Fawl i Ferched y Sir\u2019.  Gwaith gan Lyn T Jones, g\u0175r aelod o\u2019r gangen ar y pryd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.719927000000",
+            "lon": "-3.850188000000",
+            "description": {
+                "en": "Theatr Cwmtawe ",
+                "cy": "Theatr Cwmtawe "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-042.jpg",
+            "type": "image",
+            "target_id": "744476"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-039.jpg",
+            "type": "image",
+            "target_id": "744481"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-040.jpg",
+            "type": "image",
+            "target_id": "744486"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-041.jpg",
+            "type": "image",
+            "target_id": "744491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

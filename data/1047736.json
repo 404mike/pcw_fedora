@@ -1,0 +1,79 @@
+{
+    "id": 1047736,
+    "title": {
+        "en": "Pageant to celebrate 40 years and Singing Festival 2007",
+        "cy": "Pasiant Dathlu&#039;r Deugain a Cymanfa Ganu 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047736",
+    "created": 1555591067,
+    "updated": 1555591067,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members preparing to perform in the Pageant.",
+        "cy": "Aelodau yn paratoi i berfformio yn y Pasiant."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Pageant",
+        "singing festival",
+        "Pasiant",
+        "Cymanfa Ganu"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_165.jpg",
+            "type": "image",
+            "target_id": "1047721"
+        },
+        {
+            "originalFilename": "df_myw_166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_166.jpg",
+            "type": "image",
+            "target_id": "1047726"
+        },
+        {
+            "originalFilename": "df_myw_167.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_167.jpg",
+            "type": "image",
+            "target_id": "1047731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

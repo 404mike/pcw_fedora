@@ -1,0 +1,65 @@
+{
+    "id": 1046956,
+    "title": {
+        "en": "Eryri and Region National Eisteddfod 2005",
+        "cy": "Eisteddfod Genedlaethol Eryri a&#039;r Cyffiniau 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046956",
+    "created": 1555590632,
+    "updated": 1555590632,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand at the Eryri National Eisteddfod 2005.",
+        "cy": "Stondin MyW yn Eisteddfod Eryri a'r Cyffiniau 2005"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "eryri and district national eisteddfod 2005",
+        "myw stand",
+        "eisteddfod genedlaethol eryri ar cyffiniau 2005",
+        "stondin myw"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_078.jpg",
+            "type": "image",
+            "target_id": "1046951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

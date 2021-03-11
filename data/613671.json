@@ -1,0 +1,84 @@
+{
+    "id": 613671,
+    "title": {
+        "en": "Merched y Wawr Tumble Branch at the National Library",
+        "cy": "Merched y Wawr Cangen y Tymbl yn y Llyfrgell Genedlaethol\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613671",
+    "created": 1510753991,
+    "updated": 1510753991,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen y Tymbl yn ymweld \u00e2\u2019r Llyfrgell Genedlaethol ym Mehefin 2008.\nYn y llun mae Meryl Evans, Lydia Hughes, Bet Davies, Beth Evans, Jean Thomas, Sally Samuel, Margaret Pemberton, Esmi Lloyd, Deilwen Jones, Aerian Jones, Mona Jones",
+        "cy": "Merched y Wawr Cangen y Tymbl yn ymweld \u00e2\u2019r Llyfrgell Genedlaethol ym Mehefin 2008.\nYn y llun mae Meryl Evans, Lydia Hughes, Bet Davies, Beth Evans, Jean Thomas, Sally Samuel, Margaret Pemberton, Esmi Lloyd, Deilwen Jones, Aerian Jones, Mona Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.414335000000",
+            "lon": "-4.069132000000",
+            "description": {
+                "en": "Llyfrgell Genedlaethol",
+                "cy": "Llyfrgell Genedlaethol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_088.jpg",
+            "type": "image",
+            "target_id": "613661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1146881,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146881",
+    "created": 1562064057,
+    "updated": 1562064057,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Special stage decoration celebrating 50 years.",
+        "cy": "Addurn llwyfan arbennig i ddynodi dathlu'r 50."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2017",
+        "Celebration",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017",
+        "dathlu"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_857.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_857.jpg",
+            "type": "image",
+            "target_id": "1146876"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

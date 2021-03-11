@@ -1,0 +1,70 @@
+{
+    "id": 1047386,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed - Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047386",
+    "created": 1555590872,
+    "updated": 1555590872,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying tea\/coffee in the sun on the Saturday morning.",
+        "cy": "Aelodau yn mwynhau te\/coffi yn yr haul ar y bore Sadwrn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "members",
+        "Lampeter",
+        "dathlur deugain",
+        "Penwythnos Preswyl",
+        "aelodau",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_127.jpg",
+            "type": "image",
+            "target_id": "1047381"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 623286,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Cynwyd, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Cynwyd, Glyn Maelor yn perfformio \u201cFfair Cynwyd, 1881\u201d. Pafiliwn Corwen - Mehefin 1981."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623286",
+    "created": 1511279451,
+    "updated": 1511279451,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn perfformio \u201cFfair Cynwyd, 1881\u201d.yn Ngwyl Rhanbarthol Merched y Wawr, Glyn Maelor, ar y thema \u2018Hanes Bro\u2019 ym Mhafiliwn Corwen - Mehefin 1981.",
+        "cy": "Rhai o aelodau\u2019r gangen yn perfformio \u201cFdair Cynwyd, 1881\u201d.yn Ngwyl Rhanbarthol Merched y Wawr, Glyn Maelor, ar y thema \u2018Hanes Bro\u2019 ym Mhafiliwn Corwen - Mehefin 1981."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cynwyd,",
+    "owner": "Cangen Cynwyd,",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cynwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cynwyd",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Cynwyd",
+                "cy": "Cynwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CYNWYD_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CYNWYD_002.jpg",
+            "type": "image",
+            "target_id": "623276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

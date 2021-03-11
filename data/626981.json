@@ -1,0 +1,87 @@
+{
+    "id": 626981,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanddeusant, Anglesey.",
+        "cy": "Arddangosfa gyntaf Merched y Wawr ar Ynys Mon. Cangen Merched y Wawr Llanddeusant, Rhanbarth M\u00f4n. Sioe Porthaethwy, 1970"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626981",
+    "created": 1511280673,
+    "updated": 1511280673,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa gyntaf Merched y Wawr ar Ynys Mon ym 1970 yn Sioe Porthaethwy. Yma ceir: Elizabeth ap Thomas, Mrs Owen (Penmynydd), Elsie Williams, Mrs Hywel Thomas, Jane Owen, Wendy Williams, Mrs Rolant Jones.",
+        "cy": "Arddangosfa gyntaf Merched y Wawr ar Ynys Mon ym 1970 yn Sioe Porthaethwy. Yma ceir: Elizabeth ap Thomas, Mrs Owen (Penmynydd), Elsie Williams, Mrs Hywel Thomas, Jane Owen, Wendy Williams, Mrs Rolant Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddeusant",
+    "owner": "Cangen Llanddeusant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddeusant",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddeusant",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.338113000000",
+            "lon": "-4.485818000000",
+            "description": {
+                "en": "Llanddeusant",
+                "cy": "Llanddeusant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_013.jpg",
+            "type": "image",
+            "target_id": "626971"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

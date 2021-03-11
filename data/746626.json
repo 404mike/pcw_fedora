@@ -1,0 +1,84 @@
+{
+    "id": 746626,
+    "title": {
+        "en": "Merched y Wawr Llanfarian Branch at the Royal Welsh 1979",
+        "cy": "Merched y Wawr Llanfarian yn y Sioe Frenhinol 1979\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746626",
+    "created": 1516897364,
+    "updated": 1516897364,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llanfarian yn cynrychioli Rhanbarth Ceredigion yn y Sioe Frenhinol yn Llanelwedd yn 1979, gan ennill yr ail wobr yn y Sioe.  \nY thema oedd \u2018Swper Cynhaeaf\u2019 ac fe drefnwyd gan Mary Morris, Eluned Jones, Nesta Edwards o\u2019r gangen.",
+        "cy": "Merched y Wawr Llanfarian yn cynrychioli Rhanbarth Ceredigion yn y Sioe Frenhinol yn Llanelwedd yn 1979, gan ennill yr ail wobr yn y Sioe.  \nY thema oedd \u2018Swper Cynhaeaf\u2019 ac fe drefnwyd gan Mary Morris, Eluned Jones, Nesta Edwards o\u2019r gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157650000000",
+            "lon": "-3.406973000000",
+            "description": {
+                "en": "Royal Welsh Showground",
+                "cy": "Royal Welsh Showground"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-219.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-219.jpg",
+            "type": "image",
+            "target_id": "746616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,96 @@
+{
+    "id": 747421,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch Programme 2008-2009",
+        "cy": "Merched y Wawr Cangen Mynach Rhaglen Tymor 2008-2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747421",
+    "created": 1516897723,
+    "updated": 1516897723,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Mynach Rhaglen Tymor 2008-2009\nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Mynach Rhaglen Tymor 2008-2009\nGweithgareddau\u2019r tymor gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.371010000000",
+            "lon": "-3.857297000000",
+            "description": {
+                "en": "Ysgol Gynradd Mynach, Pontarfyrnach",
+                "cy": "Ysgol Gynradd Mynach, Pontarfyrnach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-169.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-169.jpg",
+            "type": "image",
+            "target_id": "747401"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-170.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-170.jpg",
+            "type": "image",
+            "target_id": "747406"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-171.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-171.jpg",
+            "type": "image",
+            "target_id": "747411"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

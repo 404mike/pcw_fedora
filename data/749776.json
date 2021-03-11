@@ -1,0 +1,84 @@
+{
+    "id": 749776,
+    "title": {
+        "en": "Merched y Wawr Y Dderi Branch Celebrate its 10th Anniversary",
+        "cy": "Merched y Wawr Cangen Y Dderi yn dathlu 10 mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749776",
+    "created": 1516899151,
+    "updated": 1516899151,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Dderi yn dathlu penblwydd y gangen yn 10 oed \u2013 dechreuwyd hi ym 1978.  Tynnwyd y llun yn Ysgol y Dderi.\nRhes flaen \u2013 Ethel Jones, Mary Jones (Trysorydd), Mair Spate (Ysgrifennydd), Myfanwy Thomas (Llywydd), Ray Williams (Is-Lywydd), Megan Thomas",
+        "cy": "Merched y Wawr Cangen Y Dderi yn dathlu penblwydd y gangen yn 10 oed \u2013 dechreuwyd hi ym 1978.  Tynnwyd y llun yn Ysgol y Dderi.\nRhes flaen \u2013 Ethel Jones, Mary Jones (Trysorydd), Mair Spate (Ysgrifennydd), Myfanwy Thomas (Llywydd), Ray Williams (Is-Lywydd), Megan Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen y Dderi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Dderi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157362000000",
+            "lon": "-4.038538000000",
+            "description": {
+                "en": "Ysgol y Dderi. Llangybi",
+                "cy": "Ysgol y Dderi. Llangybi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-093.jpg",
+            "type": "image",
+            "target_id": "749766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

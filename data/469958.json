@@ -1,0 +1,84 @@
+{
+    "id": 469958,
+    "title": {
+        "en": "Gaerwen branch of Merched y Wawr, Anglesey's contribution to the project on Welsh place names",
+        "cy": "Cyfraniad cangen Gaerwen, Ynys M\u00f4n i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/469958",
+    "created": 1441700544,
+    "updated": 1441700544,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Gaerwen branch, Anglesey of Merched y Wawr. It contains lists of some field names, farms and houses from the area.",
+        "cy": "Gwybodaeth am waith cangen Gaerwen, Sir F\u00f4n o Ferched y Wawr. Mae'n cynnwys rhestri o enwau caeau, ffermydd a tai o'r ardal."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_20010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20010.jpg",
+            "type": "image",
+            "target_id": "469953"
+        },
+        {
+            "originalFilename": "pcw001_20011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20011.jpg",
+            "type": "image",
+            "target_id": "469954"
+        },
+        {
+            "originalFilename": "pcw001_20012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20012.jpg",
+            "type": "image",
+            "target_id": "469955"
+        },
+        {
+            "originalFilename": "pcw001_20014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20014.jpg",
+            "type": "image",
+            "target_id": "469956"
+        },
+        {
+            "originalFilename": "pcw001_20015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20015.jpg",
+            "type": "image",
+            "target_id": "469957"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_20010",
+    "publisher_ref": ""
+}

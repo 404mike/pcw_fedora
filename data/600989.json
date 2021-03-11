@@ -1,0 +1,90 @@
+{
+    "id": 600989,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch object to English only signage in the area - the letter to the Council",
+        "cy": "Merched y Wawr yn gwrthwynebu arwyddion uniaith Saesneg yn yr ardal - y llythyr i&#039;r Cyngor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600989",
+    "created": 1502448519,
+    "updated": 1502448519,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr gan Ferched y Wawr Cangen Llanddarog, Ionawr 27, 2004, i\u2019r Adran Rheolaeth Trafnidiaeth, Cyngor Sir Gaerfyrddin yn ymateb i ymddangosiad arwyddion uniaith Saesneg yn y pentref a\u2019r cyffuniau.",
+        "cy": "Llythyr gan Ferched y Wawr Cangen Llanddarog, Ionawr 27, 2004, i\u2019r Adran Rheolaeth Trafnidiaeth, Cyngor Sir Gaerfyrddin yn ymateb i ymddangosiad arwyddion uniaith Saesneg yn y pentref a\u2019r cyffuniau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Llanddarog",
+                "cy": "Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_162.jpg",
+            "type": "image",
+            "target_id": "600986"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_163.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_163.jpg",
+            "type": "image",
+            "target_id": "600987"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

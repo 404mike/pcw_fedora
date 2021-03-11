@@ -1,0 +1,83 @@
+{
+    "id": 1147571,
+    "title": {
+        "en": "50th Celebrations at  Parc, Y Bala",
+        "cy": "Dathliadau 50 yn Y Parc, Y Bala"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147571",
+    "created": 1562065418,
+    "updated": 1562065418,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Guests at the Celebration Day at Y Parc.",
+        "cy": "Gwahoddedigion yn Y Parc diwrnod y Dathlu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "dathliadau 50",
+        "Y Parc",
+        "Y Bala"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_926.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_926.jpg",
+            "type": "image",
+            "target_id": "1147551"
+        },
+        {
+            "originalFilename": "df_myw_927.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_927.jpg",
+            "type": "image",
+            "target_id": "1147556"
+        },
+        {
+            "originalFilename": "df_myw_928.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_928.jpg",
+            "type": "image",
+            "target_id": "1147561"
+        },
+        {
+            "originalFilename": "df_myw_929.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_929.jpg",
+            "type": "image",
+            "target_id": "1147566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

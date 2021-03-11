@@ -1,0 +1,84 @@
+{
+    "id": 749071,
+    "title": {
+        "en": "Merched y Wawr Trip to Sempringham 2005",
+        "cy": "Taith Merched y Wawr i Sempringham 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749071",
+    "created": 1516898837,
+    "updated": 1516898837,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith Merched y Wawr i Sempringham, Hydref 2005, a Winnie James o Ferched y Wawr Tegryn yn chwarae\u2019r organ yn y gwsanaeth yn yr Eglwys. \nLily Phillips, Beryl George, Winnie James, Olwen Bowen",
+        "cy": "Taith Merched y Wawr i Sempringham, Hydref 2005, a Winnie James o Ferched y Wawr Tegryn yn chwarae\u2019r organ yn y gwsanaeth yn yr Eglwys. \nLily Phillips, Beryl George, Winnie James, Olwen Bowen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.882122000000",
+            "lon": "-0.356573000000",
+            "description": {
+                "en": "Sempringham",
+                "cy": "Sempringham"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-076.jpg",
+            "type": "image",
+            "target_id": "749061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

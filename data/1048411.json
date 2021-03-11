@@ -1,0 +1,66 @@
+{
+    "id": 1048411,
+    "title": {
+        "en": "MyW Residential Weekend 2009",
+        "cy": "Penwythnos Preswyl MyW 2009- Cicio&#039;r Bar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048411",
+    "created": 1555591467,
+    "updated": 1555591467,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Esyllt Jones, President welcoming members to the Weekend.",
+        "cy": "Esyllt Jones, Llywydd yn croesawu aelodau i'r Penwythnos."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "neuadd fawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_242.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_242.jpg",
+            "type": "image",
+            "target_id": "1048406"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

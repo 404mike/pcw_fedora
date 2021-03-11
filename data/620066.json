@@ -1,0 +1,89 @@
+{
+    "id": 620066,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llangwm, Colwyn.",
+        "cy": "Merched y Wawr Llangwm, Rhanbarth Colwyn. Cyflwyno baner rhan o dathliadau 25 mlwyddiant y Mudiad."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620066",
+    "created": 1511278329,
+    "updated": 1511278329,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Swyddogion y Gangen yn cyflwyno baner y Mudiad yng Ngholwyn i gynrhychiolydd o Gangen Nantglyn yn 1993 (fel rhan o dathliadau 25 mlwyddiant y Mudiad). Gwelwn: Barbara Jones, Mrs Jones, Gwyneth Jones, Gwenan Williams.",
+        "cy": "Swyddogion y Gangen yn cyflwyno baner y Mudiad yng Ngholwyn i gynrhychiolydd o Gangen Nantglyn yn 1993 (fel rhan o dathliadau 25 mlwyddiant y Mudiad). Gwelwn: Barbara Jones, Mrs Jones, Gwyneth Jones, Gwenan Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangwm",
+    "owner": "Cangen Llangwm",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llangwm",
+                "cy": "Cangen Merched y Wawr Llangwm"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "llangwm",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangwm",
+        "Rhanbarth Colwyn",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.984821000000",
+            "lon": "-3.544486000000",
+            "description": {
+                "en": "Llangwm",
+                "cy": "Llangwm"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGWM_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGWM_001.jpg",
+            "type": "image",
+            "target_id": "620056"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,74 @@
+{
+    "id": 554411,
+    "title": {
+        "en": " A letter from Sylwen Davies, President, to Merched y Wawr members, thanking them for Merched y Wawr's contribution to the Year of Reading, 1998-1999",
+        "cy": "Llythyr i\u2019r aelodau gan Sylwen Davies, Llywydd, am Gyfraniad Merched y Wawr i\u2019r Flwyddyn Ddarllen Genedlaethol 1998 \u2013 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554411",
+    "created": 1487591786,
+    "updated": 1487591786,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr i\u2019r aelodau gan Sylwen Davies, Llywydd, am Gyfraniad Merched y Wawr i\u2019r Flwyddyn Ddarllen Genedlaethol (Medi 1998 \u2013 Awst 1999) a\u2019r Ymgyrch Tocynnau Llyfrau Cymreig.",
+        "cy": "Llythyr i\u2019r aelodau gan Sylwen Davies, Llywydd, am Gyfraniad Merched y Wawr i\u2019r Flwyddyn Ddarllen Genedlaethol (Medi 1998 \u2013 Awst 1999) a\u2019r Ymgyrch Tocynnau Llyfrau Cymreig."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Sylwen Davies"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000003.jpg",
+            "type": "image",
+            "target_id": "554410"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

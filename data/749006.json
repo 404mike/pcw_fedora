@@ -1,0 +1,84 @@
+{
+    "id": 749006,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch visit Strata Florida Abbey",
+        "cy": "Merched y Wawr Tegryn yn Abaty Ystrad Fflur "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749006",
+    "created": 1516898806,
+    "updated": 1516898806,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Tegryn yn ymweld ag Abaty Ystrad Fflur ym 1978.",
+        "cy": "Merched y Wawr Tegryn yn ymweld ag Abaty Ystrad Fflur ym 1978."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.275418000000",
+            "lon": "-3.838818000000",
+            "description": {
+                "en": "Strata Florida",
+                "cy": "Strata Florida"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-070.jpg",
+            "type": "image",
+            "target_id": "748996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

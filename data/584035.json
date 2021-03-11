@@ -1,0 +1,84 @@
+{
+    "id": 584035,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting North Wales",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Gogledd Cymru\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584035",
+    "created": 1499870256,
+    "updated": 1499870256,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cafwyd arian Loteri i Gangen Maenclochog o Ferched y Wawr ymweld \u00e2 Gogledd Cymru, Mehefin 2007.  Dyma lun o aelodau cyn iddyn nhw ymweld \u00e2\u2019r Electric Mountain, Llanberis \u2013 Gorsaf Drydan Dinorwig. Rhes gefn \u2013 Eiry Phillips, Sheila Vaughan, Gina Lewis, Aerona Edwards, Mattie Lewis, Mona Lewis, Gretta Gibby, Eira Rowlands, Ogwen Phillips, Eirwen Gibby, Gillian Phillips a Vi Edwards\nRhes flaen \u2013 Maureen George, Becky Davies, Tryphena Williams, Beryl John a Mary Llewellyn",
+        "cy": "Cafwyd arian Loteri i Gangen Maenclochog o Ferched y Wawr ymweld \u00e2 Gogledd Cymru, Mehefin 2007.  Dyma lun o aelodau cyn iddyn nhw ymweld \u00e2\u2019r Electric Mountain, Llanberis \u2013 Gorsaf Drydan Dinorwig. Rhes gefn \u2013 Eiry Phillips, Sheila Vaughan, Gina Lewis, Aerona Edwards, Mattie Lewis, Mona Lewis, Gretta Gibby, Eira Rowlands, Ogwen Phillips, Eirwen Gibby, Gillian Phillips a Vi Edwards\nRhes flaen \u2013 Maureen George, Becky Davies, Tryphena Williams, Beryl John a Mary Llewellyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.118548000000",
+            "lon": "-4.121744000000",
+            "description": {
+                "en": "Electric Mountain, Llanberis",
+                "cy": "Electric Mountain, Llanberis"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-021.jpg",
+            "type": "image",
+            "target_id": "584033"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

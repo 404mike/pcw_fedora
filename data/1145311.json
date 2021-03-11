@@ -1,0 +1,65 @@
+{
+    "id": 1145311,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145311",
+    "created": 1562062797,
+    "updated": 1562062797,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 A Thank You  Email: 1st Lynne Blanchfield, Aberystwyth branch, Ceredigion.",
+        "cy": "Cystadleuaeth Ebost o Ddiolch: 1af Lynne Blanchfield, Cangen Aberystwyth, Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_669.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_669.jpg",
+            "type": "image",
+            "target_id": "1145306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

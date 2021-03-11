@@ -1,0 +1,84 @@
+{
+    "id": 600545,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch celebrate 18th Birthday",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu 18fed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600545",
+    "created": 1502447876,
+    "updated": 1502447876,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gronw yn Dathlu 18fed yng Ngwesy\u2019r Hebog, Caerfyrddin\n\nChwith i\u2019r dde:-\nBethan Richards \u2013 Llywydd Presennol\nRhoswen Llewellyn \u2013 Llywydd Cyntaf y Gangen\nTegwen James (a wnaeth y gacen)",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu 18fed yng Ngwesy\u2019r Hebog, Caerfyrddin\n\nChwith i\u2019r dde:-\nBethan Richards \u2013 Llywydd Presennol\nRhoswen Llewellyn \u2013 Llywydd Cyntaf y Gangen\nTegwen James (a wnaeth y gacen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856372000000",
+            "lon": "-4.310564000000",
+            "description": {
+                "en": "Gwesty'r Hebog, Caerfyrddin",
+                "cy": "Gwesty'r Hebog, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-270.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-270.jpg",
+            "type": "image",
+            "target_id": "600543"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600677,
+    "title": {
+        "en": "The start of Merched y Wawr Nantgaredig Branch",
+        "cy": "Dechrau Merched y Wawr Nantgaredig"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600677",
+    "created": 1502448068,
+    "updated": 1502448068,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun a dynnwyd pan ddechreuwyd Merched y Wawr Cangen Nantgaredig yn 1982 yn Ysgol Gynradd Nantgaredig.  \nYn y cyfarfod cyntaf bu Miss Norah Isac yn darlithio at y pwnc \u2018Twm o\u2019r Nant\u2019.\n\nRhes flaen \u2013 Eirwen Williams, Norah Isaac (gwestai), Elonwy Phillips, Enid Jones (gwestai), Gwyneth Walters, Hazel James, Maggie Davies\nAil Res \u2013 Bethan Charles, Wendy Lewis, Nora Jones, May Lewis, Mrs Jenkins, Mair Evans, Sylvia Daniels, May Chapman, Nia Jones \nTrydydd Res \u2013 Kitty Raymond, Dwynwen Teifi, Jennie May James, Mrs Davies, Lyn Jones, Sally Davies, Carol Jones \nRhes gefn \u2013 Iris Thomas, Gwyneth Jones, Menna Jones, Mrs Evans, Mrs Jenkins, Mrs Isaac, Christine Morris",
+        "cy": "Llun a dynnwyd pan ddechreuwyd Merched y Wawr Cangen Nantgaredig yn 1982 yn Ysgol Gynradd Nantgaredig.  \nYn y cyfarfod cyntaf bu Miss Norah Isac yn darlithio at y pwnc \u2018Twm o\u2019r Nant\u2019.\n\nRhes flaen \u2013 Eirwen Williams, Norah Isaac (gwestai), Elonwy Phillips, Enid Jones (gwestai), Gwyneth Walters, Hazel James, Maggie Davies\nAil Res \u2013 Bethan Charles, Wendy Lewis, Nora Jones, May Lewis, Mrs Jenkins, Mair Evans, Sylvia Daniels, May Chapman, Nia Jones \nTrydydd Res \u2013 Kitty Raymond, Dwynwen Teifi, Jennie May James, Mrs Davies, Lyn Jones, Sally Davies, Carol Jones \nRhes gefn \u2013 Iris Thomas, Gwyneth Jones, Menna Jones, Mrs Evans, Mrs Jenkins, Mrs Isaac, Christine Morris"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871826000000",
+            "lon": "-4.189841000000",
+            "description": {
+                "en": "Ysgol Gynradd Nantgaredig",
+                "cy": "Ysgol Gynradd Nantgaredig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-075.jpg",
+            "type": "image",
+            "target_id": "600675"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

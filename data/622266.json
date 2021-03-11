@@ -1,0 +1,86 @@
+{
+    "id": 622266,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Perfformiad cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Neuadd Bro Aled, Llansannan 1973."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622266",
+    "created": 1511279110,
+    "updated": 1511279110,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen ar y llwyfan yn perfformio y sgets \u2018Y Dynion\u2019, Beirniaid W. S Jones. Gwelwn: Ann Evans, Iorwen Roberts, Gwerfyl Jones, Gwenfron Jones, Rhiannon Parry (Awdur a Chynhyrchydd), Nlay Jones, Dilys Jones, Menna Shore, Mair Selway, Megan Roberts. Neuadd Bro Aled, Llansannan 1973.",
+        "cy": "Rhai o aelodau\u2019r gangen ar y llwyfan yn perfformio y sgets \u2018Y Dynion\u2019, Beirniaid W. S Jones. Gwelwn: Ann Evans, Iorwen Roberts, Gwerfyl Jones, Gwenfron Jones, Rhiannon Parry (Awdur a Chynhyrchydd), Nlay Jones, Dilys Jones, Menna Shore, Mair Selway, Megan Roberts. Neuadd Bro Aled, Llansannan 1973."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_037.jpg",
+            "type": "image",
+            "target_id": "622256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

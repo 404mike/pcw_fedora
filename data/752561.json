@@ -1,0 +1,86 @@
+{
+    "id": 752561,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Ganllwyd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Ganllwyd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752561",
+    "created": 1516958234,
+    "updated": 1516958234,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn ymweld a Chae\u2019r Gors, carter Kate Roberts ym mis Ebrill, 2010.",
+        "cy": "Y Gangen yn ymweld a Chae\u2019r Gors, carter Kate Roberts ym mis Ebrill, 2010."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Ganllwyd",
+    "owner": "Cangen y Ganllwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "y Ganllwyd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Ganllwyd",
+        "Rhanbarth Meirionnydd",
+        "Kate Roberts"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.804985000000",
+            "lon": "-3.889672000000",
+            "description": {
+                "en": "Y Ganllwyd",
+                "cy": "Y Ganllwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "GOG_Meirionnydd_Ganllwyd_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/GOG_Meirionnydd_Ganllwyd_006.jpg",
+            "type": "image",
+            "target_id": "752551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

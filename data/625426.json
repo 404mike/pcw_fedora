@@ -1,0 +1,86 @@
+{
+    "id": 625426,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bodedern, Anglesey.",
+        "cy": "Ymweliad \u2018Treborth Lodge\u2019, Treborth, Bangor cangen Merched y Wawr Bodedern, Rhanbarth M\u00f4n. Tua 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625426",
+    "created": 1511280158,
+    "updated": 1511280158,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn ymweld \u00e2 \u2018Treborth Lodge\u2019, Treborth, Bangor ar achlysur agoriad yr ardd i godi arian tuagat elusen Epilepsi. Tua 1992.",
+        "cy": "Rhai o aelodau\u2019r gangen yn ymweld \u00e2 \u2018Treborth Lodge\u2019, Treborth, Bangor ar achlysur agoriad yr ardd i godi arian tuagat elusen Epilepsi. Tua 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodedern",
+    "owner": "Cangen Bodedern",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodedern",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodedern",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226133000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODEDERN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODEDERN_002.jpg",
+            "type": "image",
+            "target_id": "625416"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

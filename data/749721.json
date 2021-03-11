@@ -1,0 +1,75 @@
+{
+    "id": 749721,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch's crockery",
+        "cy": "Llestri Merched y Wawr Tregaron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749721",
+    "created": 1516899132,
+    "updated": 1516899132,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Tregaron, llun y llestri a brynwyd i\u2019r gangen gydag arian y Loteri yn 2002.",
+        "cy": "Merched y Wawr Cangen Tregaron, llun y llestri a brynwyd i\u2019r gangen gydag arian y Loteri yn 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-030.jpg",
+            "type": "image",
+            "target_id": "749716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

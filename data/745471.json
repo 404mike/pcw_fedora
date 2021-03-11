@@ -1,0 +1,84 @@
+{
+    "id": 745471,
+    "title": {
+        "en": "Merched y Wawr Glyn Nedd Branch's contribution on England to 'Eurowawr'",
+        "cy": "Cyfraniad Merched y Wawr Glyn Nedd ar Loegr i \u2018Eurowawr\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745471",
+    "created": 1516896819,
+    "updated": 1516896819,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyfraniad Merched y Wawr Glyn Nedd ar Loegr ar gyfer digwyddiad,  \u2018Eurowawr\u2019 gan Rhanbarth Gorllewin Morgannwg yn Theatr Penyrheol ym 1991.",
+        "cy": "Cyfraniad Merched y Wawr Glyn Nedd ar Loegr ar gyfer digwyddiad,  \u2018Eurowawr\u2019 gan Rhanbarth Gorllewin Morgannwg yn Theatr Penyrheol ym 1991."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.674961000000",
+            "lon": "-4.041255000000",
+            "description": {
+                "en": "Theatr Penyrheol ",
+                "cy": "Theatr Penyrheol "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-029.jpg",
+            "type": "image",
+            "target_id": "745461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

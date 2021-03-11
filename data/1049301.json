@@ -1,0 +1,66 @@
+{
+    "id": 1049301,
+    "title": {
+        "en": "Annual Meeting 2011",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049301",
+    "created": 1555591865,
+    "updated": 1555591865,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition  \u2013  Decorating a Frame. 1st Ann Jones, Colwyn Bay branch, Colwyn.",
+        "cy": "Cystadleuaeth \u2013 Addurno Ffram. 1Af Ann Jones, cangen Bae Colwyn, Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_340.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_340.jpg",
+            "type": "image",
+            "target_id": "1049296"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

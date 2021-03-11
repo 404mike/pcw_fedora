@@ -1,0 +1,84 @@
+{
+    "id": 601558,
+    "title": {
+        "en": "A wall-hanging made by Merched y Wawr Barry Branch depicting the town's history",
+        "cy": "Darn o waith celf a wnaed gan Ferched y Wawr Cangen y Barri yn cofnodi hane sy dref  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601558",
+    "created": 1502449550,
+    "updated": 1502449550,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o\u2019r gwaith celf a wnaed gan aelodau Cangen y Barri o Ferched y Wawr yn gofnod o hanes y Barri.  Arddangoswyd yn y Sioe Amaethyddol tua 1981 a cyflwynwyd i Gyngor Tref y Barri ym 1982 \u2013 mae\u2019r gwaith yn parhau i fod ar y mur yn swyddfeydd Cyngor y Dref, Y neuadd Goffa, Y Barri, fel mae\u2019r llun hyn yn dangos.  \nSheila Macintosh o\u2019r Gangen oedd yn gyfrifol am wneud y gwaith, Sallie Evans wnaeth y cynllunio.",
+        "cy": "Ffotograff o\u2019r gwaith celf a wnaed gan aelodau Cangen y Barri o Ferched y Wawr yn gofnod o hanes y Barri.  Arddangoswyd yn y Sioe Amaethyddol tua 1981 a cyflwynwyd i Gyngor Tref y Barri ym 1982 \u2013 mae\u2019r gwaith yn parhau i fod ar y mur yn swyddfeydd Cyngor y Dref, Y neuadd Goffa, Y Barri, fel mae\u2019r llun hyn yn dangos.  \nSheila Macintosh o\u2019r Gangen oedd yn gyfrifol am wneud y gwaith, Sallie Evans wnaeth y cynllunio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen y Barri",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Barri",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.403823000000",
+            "lon": "-3.275016000000",
+            "description": {
+                "en": "Neuadd Goffa Y Barri",
+                "cy": "Neuadd Goffa Y Barri"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-060.jpg",
+            "type": "image",
+            "target_id": "601556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

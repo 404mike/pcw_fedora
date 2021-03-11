@@ -1,0 +1,84 @@
+{
+    "id": 746541,
+    "title": {
+        "en": "Merched y Wawr St Dogmaels Exhibition",
+        "cy": "Arddangosfa gan Ferched y Wawr Llandudoch "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746541",
+    "created": 1516897327,
+    "updated": 1516897327,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa Cangen Llandudoch o Ferched y Wawr yn Eglwys St Thomas, Llandudoch dros \u0174yl y Banc, Awst 2016.",
+        "cy": "Arddangosfa Cangen Llandudoch o Ferched y Wawr yn Eglwys St Thomas, Llandudoch dros \u0174yl y Banc, Awst 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081033000000",
+            "lon": "-4.680762000000",
+            "description": {
+                "en": "Eglwys St Thomas, Llandudoch",
+                "cy": "Eglwys St Thomas, Llandudoch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-030.jpg",
+            "type": "image",
+            "target_id": "746531"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

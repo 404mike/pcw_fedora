@@ -1,0 +1,85 @@
+{
+    "id": 755816,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. First published in 1968.  ",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr, a gyhoeddwyd am y tro cyntaf ym mis Awst 1968. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/755816",
+    "created": 1516959109,
+    "updated": 1516959109,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhifyn 73. Hanes faith I Rwsia. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968.",
+        "cy": "Rhifyn 73. Hanes faith I Rwsia. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr",
+        "Llywyddion Merched y Wawr",
+        "Teithiau Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_073_TripRwsia001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_073_TripRwsia001.jpg",
+            "type": "image",
+            "target_id": "755806"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

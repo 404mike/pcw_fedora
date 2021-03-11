@@ -1,0 +1,84 @@
+{
+    "id": 612311,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch in St Clears Carnival 1984",
+        "cy": "Merched y Wawr Cangen San Cler yn cystadlu yng Ngharnifal San Cler, 1984"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612311",
+    "created": 1510753675,
+    "updated": 1510753675,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen San Cler yn cystadlu yng Ngharnifal San Cler, Gorffennaf 1984.  Y testun oedd y G\u00eamau Olympaidd.\nO\u2019r chwith \u2013 Beti Thomas, Ann Jones, Margaret Rees, Ann Crowdie,Joan Davies, Nansi Davies, Anwen Crowdie, Einir Rees, Mair Davies, Dilwen Davies, Llinos Nelson, Merys Jones, Nerys Crowdie \nYn eistedd \u2013 Nesta Rees, Rosemond Nelson",
+        "cy": "Merched y Wawr Cangen San Cler yn cystadlu yng Ngharnifal San Cler, Gorffennaf 1984.  Y testun oedd y G\u00eamau Olympaidd.\nO\u2019r chwith \u2013 Beti Thomas, Ann Jones, Margaret Rees, Ann Crowdie,Joan Davies, Nansi Davies, Anwen Crowdie, Einir Rees, Mair Davies, Dilwen Davies, Llinos Nelson, Merys Jones, Nerys Crowdie \nYn eistedd \u2013 Nesta Rees, Rosemond Nelson"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819326000000",
+            "lon": "-4.498561000000",
+            "description": {
+                "en": "San Cler",
+                "cy": "San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-024.jpg",
+            "type": "image",
+            "target_id": "612301"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

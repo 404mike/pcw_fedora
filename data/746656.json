@@ -1,0 +1,75 @@
+{
+    "id": 746656,
+    "title": {
+        "en": "Merched y Wawr Llanfarian Branch with their 50th Anniersary Bags",
+        "cy": "Merched Y Wawr Cangen Llanfarian gyda\u2019i bagiau Dathlu 50"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746656",
+    "created": 1516897379,
+    "updated": 1516897379,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched Y Wawr Cangen Llanfarian gyda\u2019i bagiau arbennig dathlu hanner can mlynedd y mudiad, 2017\nCefn - Dora Jones, Eluned Parry, Mair Jones, Brenda Baigent, Ann Davies, Kath Evans, Margaret Morgan, Mary Parry\nCanol \u2013 Iona Mason, Valmair Davies, Margaret James, Eirwen Loosley\nBlaen \u2013 Jean James, Beti Wyn Emanuel",
+        "cy": "Merched Y Wawr Cangen Llanfarian gyda\u2019i bagiau arbennig dathlu hanner can mlynedd y mudiad, 2017\nCefn - Dora Jones, Eluned Parry, Mair Jones, Brenda Baigent, Ann Davies, Kath Evans, Margaret Morgan, Mary Parry\nCanol \u2013 Iona Mason, Valmair Davies, Margaret James, Eirwen Loosley\nBlaen \u2013 Jean James, Beti Wyn Emanuel"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-222.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-222.jpg",
+            "type": "image",
+            "target_id": "746651"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

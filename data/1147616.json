@@ -1,0 +1,77 @@
+{
+    "id": 1147616,
+    "title": {
+        "en": "Songs of Praise to celebrate 50 years of MyW at  Hen Gapel, Llanuwchlyn.",
+        "cy": "Dechrau Canu Dechrau Canmol o&#039;r Hen Gapel, Llanuwchllyn i ddathlu 50 mlynedd MyW."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147616",
+    "created": 1562065435,
+    "updated": 1562065435,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photo of the chapel.",
+        "cy": "Llun o'r Capel."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "dathliadau 50",
+        "Y Parc",
+        "Y Bala"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_933.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_933.jpg",
+            "type": "image",
+            "target_id": "1147601"
+        },
+        {
+            "originalFilename": "df_myw_934.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_934.jpg",
+            "type": "image",
+            "target_id": "1147606"
+        },
+        {
+            "originalFilename": "df_myw_935.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_935.jpg",
+            "type": "image",
+            "target_id": "1147611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

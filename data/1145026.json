@@ -1,0 +1,64 @@
+{
+    "id": 1145026,
+    "title": {
+        "en": "Christmas Fair 2014",
+        "cy": "Ffair Aeaf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145026",
+    "created": 1562062675,
+    "updated": 1562062675,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Present for a Child: 1st Eirlys Savage, St Asaph branch, Colwyn.",
+        "cy": "Cystadleuaeth Anrheg i blentyn: 1af Eirlys Savage, cangen Llanelwy, Colwyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Christmas Fair",
+        "2014",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_640.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_640.jpg",
+            "type": "image",
+            "target_id": "1145021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

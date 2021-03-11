@@ -1,0 +1,82 @@
+{
+    "id": 743886,
+    "title": {
+        "en": "Merched y Wawr Bro Ddewi Branch taking part in a Christmas Tree Competiton",
+        "cy": "Merched y Wawr Cangen Bro Ddewi yng Nghystadleuaeth Coeden Nadolig Tyddewi\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743886",
+    "created": 1516896052,
+    "updated": 1516896052,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Merched y Wawr Cangen Bro Ddewi yn cymryd rhan yng nghystadleuaeth coed Nadolig yn Neuadd y Ddinas, Tyddewi yn 2007 \u2013 mae cystadleuaeth coeden Nadolig yn digwydd yn y ddinas yn flynyddol ac mae\u2019r gangen yn cystadlu pob blwyddyn.\nYn y llun mae Elaine Price, Nan George, Val Higman, Margaret Mills, Anona Gray",
+        "cy": "Rhai o aelodau Merched y Wawr Cangen Bro Ddewi yn cymryd rhan yng nghystadleuaeth coed Nadolig yn Neuadd y Ddinas, Tyddewi yn 2007 \u2013 mae cystadleuaeth coeden Nadolig yn digwydd yn y ddinas yn flynyddol ac mae\u2019r gangen yn cystadlu pob blwyddyn.\nYn y llun mae Elaine Price, Nan George, Val Higman, Margaret Mills, Anona Gray"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ddewi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Bro Ddewi"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.880829000000",
+            "lon": "-5.263736000000",
+            "description": {
+                "en": "Neuadd y Ddinas, Tyddewi",
+                "cy": "Neuadd y Ddinas, Tyddewi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-094_2.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-094_2.jpg",
+            "type": "image",
+            "target_id": "743876"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

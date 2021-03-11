@@ -1,0 +1,84 @@
+{
+    "id": 601314,
+    "title": {
+        "en": "Merched y Wawr Cylch Emlyn Branch visits North Wales",
+        "cy": "Merched y Wawr Cylch Emlyn yn ymweld  \u00e2 Gogledd Cymru"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601314",
+    "created": 1502449185,
+    "updated": 1502449185,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Emlyn tu allan i Westy\u2019r Celt yng Nghaernarfon ar daith i\u2019r Gogledd i ymweld \u00e2 Chaernarfon, Portmeirion, Llanystumdwy a Harlech.",
+        "cy": "Merched y Wawr Cangen Cylch Emlyn tu allan i Westy\u2019r Celt yng Nghaernarfon ar daith i\u2019r Gogledd i ymweld \u00e2 Chaernarfon, Portmeirion, Llanystumdwy a Harlech."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Emlyn ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Emlyn",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.142517000000",
+            "lon": "-4.272223000000",
+            "description": {
+                "en": "Gwesty'r Celt, Caernarfon",
+                "cy": "Gwesty'r Celt, Caernarfon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-119.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-119.jpg",
+            "type": "image",
+            "target_id": "601312"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

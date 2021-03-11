@@ -1,0 +1,73 @@
+{
+    "id": 1046056,
+    "title": {
+        "en": "Thank You Dinner to Retiring National Officials 2000",
+        "cy": "Cinio Diolch i Swyddogion Cenedlaethol yn ymddeol 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046056",
+    "created": 1555589990,
+    "updated": 1555589990,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs from different angles showing national officials during the dinner.On the left, Mair Edwards; Marian Lake; Mary Roberts; Eryl Jones; Elinor Davies; Tegwen Grffiths and Sylwen Davies. On the right, Blodwen Jones;?;Eirlys Phillips; Marged Jones and Catrin Stevens.",
+        "cy": "2 lun yn dangos y swyddogion o onglau gwahanol yn y ginio. O'r chwith, Mair Edwards; Marian Lake; Mary Roberts; Eryl Jones; Elinor Davies; Tegwen Griffiths a Sylwen Davies. O'r dde, Blodwen Jones; ?; Eirlys Phillips; Marged Jones a Catrin Stevens."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "thank you dinner",
+        "2000",
+        "officials",
+        "cinio diolch 2000",
+        "diolch",
+        "swyddogion"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_005.jpg",
+            "type": "image",
+            "target_id": "1046046"
+        },
+        {
+            "originalFilename": "df_myw_005-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_005-001.jpg",
+            "type": "image",
+            "target_id": "1046051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,95 @@
+{
+    "id": 470514,
+    "title": {
+        "en": "Tregaron Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Tregaron, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470514",
+    "created": 1441700768,
+    "updated": 1441700768,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Tregaron, Cardiganshire branch of Merched y Wawr. It contains lists of farm and field names and houses.",
+        "cy": "Gwybodaeth am waith cangen Tregaron, Ceredigion o Ferched y Wawr. Mae'n cynnwys rhestri o enwau tai, ffermydd a caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10663.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10663.jpg",
+            "type": "image",
+            "target_id": "470507"
+        },
+        {
+            "originalFilename": "pcw001_10664.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10664.jpg",
+            "type": "image",
+            "target_id": "470508"
+        },
+        {
+            "originalFilename": "pcw001_10665.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10665.jpg",
+            "type": "image",
+            "target_id": "470509"
+        },
+        {
+            "originalFilename": "pcw001_10666.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10666.jpg",
+            "type": "image",
+            "target_id": "470510"
+        },
+        {
+            "originalFilename": "pcw001_10667.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10667.jpg",
+            "type": "image",
+            "target_id": "470511"
+        },
+        {
+            "originalFilename": "pcw001_10668.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10668.jpg",
+            "type": "image",
+            "target_id": "470512"
+        },
+        {
+            "originalFilename": "pcw001_10669.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10669.jpg",
+            "type": "image",
+            "target_id": "470513"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10663",
+    "publisher_ref": ""
+}

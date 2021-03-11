@@ -1,0 +1,65 @@
+{
+    "id": 1048126,
+    "title": {
+        "en": "Annual Meeting 2008",
+        "cy": "Cyfarfod Blynyddol 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048126",
+    "created": 1555591300,
+    "updated": 1555591300,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bro Ddyfi branch, Maldwyn Powys Region, winning the entertainment competition \u2013 a band depicting  any room in the house,",
+        "cy": "Cystadleuaeth Adlonant \u2013 Band o unrhyw ystafell yn y t\u0177. 1af Cangen Bro Ddyfi, rhanbarth Maldwyn Powys."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_211.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_211.jpg",
+            "type": "image",
+            "target_id": "1048121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

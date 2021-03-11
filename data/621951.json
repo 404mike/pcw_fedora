@@ -1,0 +1,86 @@
+{
+    "id": 621951,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwytherin Colwyn.",
+        "cy": "Llythyr swyddogol yn cau cangen Merched y Wawr Gwytherin, Rhanbarth Colwyn. Mehefin 2011. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621951",
+    "created": 1511279009,
+    "updated": 1511279009,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr swyddogol yn cau\u2019r gangen ym Mehefin 2011. Sefydlwyd y gangen ar y 5ed o Fawrth, 1968, ac felly\u2019n un o\u2019r rhai cynharaf. Wedi i\u2019r cangen gau fe ymunodd yr aelodau oedd yn weddill a Changen Pandy Tudur.",
+        "cy": "Llythyr swyddogol yn cau\u2019r gangen ym Mehefin 2011. Sefydlwyd y gangen ar y 5ed o Fawrth, 1968, ac felly\u2019n un o\u2019r rhai cynharaf. Wedi i\u2019r cangen gau fe ymunodd yr aelodau oedd yn weddill a Changen Pandy Tudur."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwytherin ",
+    "owner": "Cangen Gwytherin ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gwytherin",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Gwytherin",
+        "Cangen Pandy Tudur"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.138601000000",
+            "lon": "-3.681605000000",
+            "description": {
+                "en": "Gwytherin ",
+                "cy": "Gwytherin "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_GWYTHERIN_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_GWYTHERIN_010.jpg",
+            "type": "image",
+            "target_id": "621941"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

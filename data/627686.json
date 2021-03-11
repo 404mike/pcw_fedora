@@ -1,0 +1,85 @@
+{
+    "id": 627686,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Fali, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627686",
+    "created": 1511280914,
+    "updated": 1511280914,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau cangen y Fali yn mwynhau BBQ yng ngardd un o\u2019u cyd-aelodau - Haf 1990.",
+        "cy": "Aelodau cangen y Fali yn mwynhau BBQ yng ngardd un o\u2019u cyd-aelodau - Haf 1990."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_013.jpg",
+            "type": "image",
+            "target_id": "627676"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

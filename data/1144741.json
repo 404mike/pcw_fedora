@@ -1,0 +1,70 @@
+{
+    "id": 1144741,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2014",
+        "cy": "Sioe Frenhinol Llanelwedd 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144741",
+    "created": 1562062312,
+    "updated": 1562062312,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lilwen Thomas, Carmarthenshire, receiving the Trophy from Dereck Brockway S4C for 1st prize Flower Arranging.",
+        "cy": "Lilwen Thomas, Rhanbarth Caerfyrddin, yn derbyn y Cwpan oddi wrth Dereck Brockway, S4C, am ennill y Trefniant Blodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_578.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_578.jpg",
+            "type": "image",
+            "target_id": "1144491"
+        },
+        {
+            "originalFilename": "df_myw_579_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_579_0.jpg",
+            "type": "image",
+            "target_id": "1144736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

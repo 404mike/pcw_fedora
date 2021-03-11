@@ -1,0 +1,71 @@
+{
+    "id": 470562,
+    "title": {
+        "en": "Y Dderi, Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Y Dderi, Ceredigion, i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470562",
+    "created": 1441700795,
+    "updated": 1441700795,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Y Dderi, Cardiganshire branch of Merched y Wawr. It contains a list house, farms and field names.",
+        "cy": "Gwybodaeth am waith cangen Y Dderi, Ceredigion o Ferched y Wawr. Mae'n cynnwys rhestri o enwau tai, ffermydd a chaeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10709.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10709.jpg",
+            "type": "image",
+            "target_id": "470559"
+        },
+        {
+            "originalFilename": "pcw001_10710.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10710.jpg",
+            "type": "image",
+            "target_id": "470560"
+        },
+        {
+            "originalFilename": "pcw001_10711.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10711.jpg",
+            "type": "image",
+            "target_id": "470561"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10709",
+    "publisher_ref": ""
+}

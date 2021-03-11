@@ -1,0 +1,69 @@
+{
+    "id": 1144396,
+    "title": {
+        "en": "MyW Residential Weekend 2013 Cardiff",
+        "cy": "Penwythnos Preswyl MyW 2013 Caerdydd \u2013 Hanes a Hamdden"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144396",
+    "created": 1562061768,
+    "updated": 1562061768,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying the dinner.",
+        "cy": "Aelodau yn mwynhau y ginio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2013 cardiff",
+        "penwythnos preswyl myw 2013 caerdydd - hanes a hamdden"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_528_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_528_0.jpg",
+            "type": "image",
+            "target_id": "1144386"
+        },
+        {
+            "originalFilename": "df_myw_529_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_529_0.jpg",
+            "type": "image",
+            "target_id": "1144391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

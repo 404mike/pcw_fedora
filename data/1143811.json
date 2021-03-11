@@ -1,0 +1,66 @@
+{
+    "id": 1143811,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143811",
+    "created": 1562061157,
+    "updated": 1562061157,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Remeberance stone at the entrance to the village of Efailwen where the first tollgate was destroyed.",
+        "cy": "Carreg goffa wrth fynediad pentref Efailwen lle cafodd y tollborth cyntaf ei ddifrodi."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "efailwen",
+        "taith myw",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_500.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_500.jpg",
+            "type": "image",
+            "target_id": "1143806"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,126 @@
+{
+    "id": 750436,
+    "title": {
+        "en": "Merched y Wawr Booklet on Drying Flowers",
+        "cy": "Llyfryn Sychu Blodau Merched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750436",
+    "created": 1516899457,
+    "updated": 1516899457,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn Sychu Blodau, llyfryn gan Gweneirys Jones a oedd yn fuddugol mewn cystadleuaeth a drefnwyd gan Ferched y Wawr.",
+        "cy": "Llyfryn Sychu Blodau, llyfryn gan Gweneirys Jones a oedd yn fuddugol mewn cystadleuaeth a drefnwyd gan Ferched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU001.jpg",
+            "type": "image",
+            "target_id": "750386"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU002.jpg",
+            "type": "image",
+            "target_id": "750391"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU003.jpg",
+            "type": "image",
+            "target_id": "750396"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU004.jpg",
+            "type": "image",
+            "target_id": "750401"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU005.jpg",
+            "type": "image",
+            "target_id": "750406"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU006.jpg",
+            "type": "image",
+            "target_id": "750411"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU007.jpg",
+            "type": "image",
+            "target_id": "750416"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU008.jpg",
+            "type": "image",
+            "target_id": "750421"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU009.jpg",
+            "type": "image",
+            "target_id": "750426"
+        },
+        {
+            "originalFilename": "MYW-DE-SYCHUBLODAU010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-SYCHUBLODAU010.jpg",
+            "type": "image",
+            "target_id": "750431"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

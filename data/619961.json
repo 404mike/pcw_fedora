@@ -1,0 +1,89 @@
+{
+    "id": 619961,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr St Asaph, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanelwy, Rhanbarth Colwyn. Ngwyl Gwanwyn MyW yn y Wyddgrug"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619961",
+    "created": 1511278293,
+    "updated": 1511278293,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yng Ngwyl Gwanwyn MyW yn y Wyddgrug, ger yr arddangosfa ar y thema \u2018Beth yw\u2019r H\u00e2f\u2019. Gwelwn Eirwen Roberts, Mair Davies a Alice Jones.",
+        "cy": "Rhai o aelodau\u2019r gangen yng Ngwyl Gwanwyn MyW yn y Wyddgrug, ger yr arddangosfa ar y thema \u2018Beth yw\u2019r H\u00e2f\u2019. Gwelwn Eirwen Roberts, Mair Davies a Alice Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanelwy",
+    "owner": "Cangen Llanelwy",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llanelwy",
+                "cy": "Cangen Merched y Wawr Llanelwy"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "St Asaph",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanelwy",
+        "Rhanbarth Colwyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.257851000000",
+            "lon": "-3.440893000000",
+            "description": {
+                "en": "Llanelwy",
+                "cy": "Llanelwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANELWY_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANELWY_013.jpg",
+            "type": "image",
+            "target_id": "619951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

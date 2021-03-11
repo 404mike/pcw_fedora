@@ -1,0 +1,122 @@
+{
+    "id": 752731,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glanrafon, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Glanrafon, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752731",
+    "created": 1516958279,
+    "updated": 1516958279,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf\/ sefydlu y Gangen o Medi, 1972.",
+        "cy": "Cofnodion cyntaf\/ sefydlu y Gangen o Medi, 1972."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Glanrafon",
+    "owner": "Cangen Glanrafon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glanrafon",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glanrafon",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.971516000000",
+            "lon": "-3.458562000000",
+            "description": {
+                "en": "Glanrafon",
+                "cy": "Glanrafon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_010.jpg",
+            "type": "image",
+            "target_id": "752691"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_011.jpg",
+            "type": "image",
+            "target_id": "752696"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_012.jpg",
+            "type": "image",
+            "target_id": "752701"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_013.jpg",
+            "type": "image",
+            "target_id": "752706"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_014.jpg",
+            "type": "image",
+            "target_id": "752711"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_015.jpg",
+            "type": "image",
+            "target_id": "752716"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_GLANRAFON_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_GLANRAFON_016.jpg",
+            "type": "image",
+            "target_id": "752721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

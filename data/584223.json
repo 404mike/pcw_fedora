@@ -1,0 +1,102 @@
+{
+    "id": 584223,
+    "title": {
+        "en": "Merched y Wawr Residential School Programme 1991 (Blas ar Fyw - Taste for Life)",
+        "cy": "Rhaglen Blas ar Fyw, Ysgol Breswyl Merched y Wawr, 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584223",
+    "created": 1499870806,
+    "updated": 1499870806,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Blas ar Fyw, Ysgol Breswyl Merched y Wawr, 18-20 Medi, 1987, Coleg Prifysgol Cymru, Penglais, Aberystwyth Tudalen Flaen",
+        "cy": "Rhaglen Blas ar Fyw, Ysgol Breswyl Merched y Wawr, 18-20 Medi, 1987, Coleg Prifysgol Cymru, Penglais, Aberystwyth Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.415606000000",
+            "lon": "-4.063769000000",
+            "description": {
+                "en": "Coleg Prifysgol Cymru, Aberystwyth",
+                "cy": "Coleg Prifysgol Cymru, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-030.jpg",
+            "type": "image",
+            "target_id": "584218"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-031.jpg",
+            "type": "image",
+            "target_id": "584219"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-032.jpg",
+            "type": "image",
+            "target_id": "584220"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-033.jpg",
+            "type": "image",
+            "target_id": "584221"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

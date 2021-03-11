@@ -1,0 +1,75 @@
+{
+    "id": 747071,
+    "title": {
+        "en": "Merched y Wawr L\u00f4n Las Branch Receive First Aid Training ",
+        "cy": "Merched y Wawr Cangen L\u00f4n Las yn cael hyfforddiant Cymorth Cyntaf"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747071",
+    "created": 1516897567,
+    "updated": 1516897567,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen L\u00f4n Las yn derbyn hyfforddiant Cymorth Cyntaf gan ddwy o aelodau\u2019r gangen, Betty Lloyd a Rachel Williams, a oedd yn ddwy nyrs, yn Hydref 1968",
+        "cy": "Merched y Wawr Cangen L\u00f4n Las yn derbyn hyfforddiant Cymorth Cyntaf gan ddwy o aelodau\u2019r gangen, Betty Lloyd a Rachel Williams, a oedd yn ddwy nyrs, yn Hydref 1968"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-050.jpg",
+            "type": "image",
+            "target_id": "747066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

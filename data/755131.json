@@ -1,0 +1,95 @@
+{
+    "id": 755131,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. November, 1968.  ",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr. Tachwedd 1968. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/755131",
+    "created": 1516958917,
+    "updated": 1516958917,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Tachwedd, 1968. Rhifyn 2",
+        "cy": "Cylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Tachwedd, 1968. Rhifyn 2"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_002.jpg",
+            "type": "image",
+            "target_id": "755111"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_002_KR_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_002_KR_001.jpg",
+            "type": "image",
+            "target_id": "755116"
+        },
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_002_KR_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_002_KR_002.jpg",
+            "type": "image",
+            "target_id": "755121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

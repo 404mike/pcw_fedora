@@ -1,0 +1,90 @@
+{
+    "id": 601261,
+    "title": {
+        "en": "Merched y Wawr Bro Cranogwen Branch Programme 2016 - 2017",
+        "cy": "Rhaglen Merched y Wawr Bro Cranogwen 2016 \u2013 2017\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601261",
+    "created": 1502449100,
+    "updated": 1502449100,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Bro Cranogwen am y flwyddyn 2016 \u2013 2017 \u2013 \u2018Ymlaen i\u2019r Dyfodol\u2019 \nClawr \/ Cefn yn cynnwys enwau\u2019r Swyddogion",
+        "cy": "Rhaglen Merched y Wawr Bro Cranogwen am y flwyddyn 2016 \u2013 2017 \u2013 \u2018Ymlaen i\u2019r Dyfodol\u2019 \nClawr \/ Cefn yn cynnwys enwau\u2019r Swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cranogwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cranogwen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.159754000000",
+            "lon": "-4.433080000000",
+            "description": {
+                "en": "Neuadd Goffa Pontgarreg",
+                "cy": "Neuadd Goffa Pontgarreg"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-114.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-114.jpg",
+            "type": "image",
+            "target_id": "601258"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-115.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-115.jpg",
+            "type": "image",
+            "target_id": "601259"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

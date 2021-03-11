@@ -1,0 +1,75 @@
+{
+    "id": 744566,
+    "title": {
+        "en": "Photo of Merched y Wawr Clydach Branch placed in Merched y Wawr's Time Capsule ",
+        "cy": "Llun Cangen Clydach a roddwyd yn Capsiwl Amser Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744566",
+    "created": 1516896382,
+    "updated": 1516896382,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau Cangen Clydach a roddwyd yn Capsiwl Amser Merched y Wawr yn ystod Eisteddfod Genedlaethol y Bala 2009.\nRhai o\u2019r rhai sydd yn y llun:-\nBlaen \u2013 Mary Davies, Josi Jones, Enfys Dix, Jean Walker, Myra Lloyd, Nesta Hopkinson, Rhiannydd Williams, Audrey James\nAil Res \u2013 Fenal Roberts, Viv John, Margaret Cousins, Brenda Evans, Annette Hughes, Mary Davies\nTrydydd Res \u2013 Bronwen James\nCefn \u2013 Edwina, Elonwy Rowlans, Iris Williams, Elaine Waghorn, Myra James, Mair Williams, Catherine Evans, Doreen Hopkins",
+        "cy": "Llun o aelodau Cangen Clydach a roddwyd yn Capsiwl Amser Merched y Wawr yn ystod Eisteddfod Genedlaethol y Bala 2009.\nRhai o\u2019r rhai sydd yn y llun:-\nBlaen \u2013 Mary Davies, Josi Jones, Enfys Dix, Jean Walker, Myra Lloyd, Nesta Hopkinson, Rhiannydd Williams, Audrey James\nAil Res \u2013 Fenal Roberts, Viv John, Margaret Cousins, Brenda Evans, Annette Hughes, Mary Davies\nTrydydd Res \u2013 Bronwen James\nCefn \u2013 Edwina, Elonwy Rowlans, Iris Williams, Elaine Waghorn, Myra James, Mair Williams, Catherine Evans, Doreen Hopkins"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-051.jpg",
+            "type": "image",
+            "target_id": "744561"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

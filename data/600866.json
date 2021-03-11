@@ -1,0 +1,82 @@
+{
+    "id": 600866,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch Banner",
+        "cy": "Baner Merched y Wawr Cangen Rhydaman a\u2019r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600866",
+    "created": 1502448349,
+    "updated": 1502448349,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Cangen Rhydaman a\u2019r Cylch",
+        "cy": "Baner Merched y Wawr Cangen Rhydaman a\u2019r Cylch"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792829000000",
+            "lon": "-3.988327000000",
+            "description": {
+                "en": "Rhydaman",
+                "cy": "Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_143157.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_143157.jpg",
+            "type": "image",
+            "target_id": "600864"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 1047026,
+    "title": {
+        "en": "MyW Residential Weekend 2005",
+        "cy": "Penwythnos Preswyl MyW 2005 \u2013 Dinasyddiaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047026",
+    "created": 1555590671,
+    "updated": 1555590671,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Group of the members at the Welsh Assembly.",
+        "cy": "Gr\u0175p o'r aelodau yn ymweld \u00e2 'r Cynulliad yn ystod y Penwythnos."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2005",
+        "penwythnos preswyl myw 2005"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_086.jpg",
+            "type": "image",
+            "target_id": "1047011"
+        },
+        {
+            "originalFilename": "df_myw_087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_087.jpg",
+            "type": "image",
+            "target_id": "1047016"
+        },
+        {
+            "originalFilename": "df_myw_088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_088.jpg",
+            "type": "image",
+            "target_id": "1047021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

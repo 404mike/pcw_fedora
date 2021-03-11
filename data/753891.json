@@ -1,0 +1,85 @@
+{
+    "id": 753891,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhydymain, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhydymain, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753891",
+    "created": 1516958592,
+    "updated": 1516958592,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem bowl deg y Gangen yn 2009. Gwelwn: Rhiannwen Evans, Nia Evans, Gwyneth Lewids, Bethan Jones, Nia Smith a Ceri Lloyd Jones.",
+        "cy": "T\u00eem bowl deg y Gangen yn 2009. Gwelwn: Rhiannwen Evans, Nia Evans, Gwyneth Lewids, Bethan Jones, Nia Smith a Ceri Lloyd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhydymain",
+    "owner": "Cangen Rhydymain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhydymain",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydymain",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.783358000000",
+            "lon": "-3.772938000000",
+            "description": {
+                "en": "Rhydymain",
+                "cy": "Rhydymain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_006.jpg",
+            "type": "image",
+            "target_id": "753881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

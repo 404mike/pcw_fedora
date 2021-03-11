@@ -1,0 +1,92 @@
+{
+    "id": 623516,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Parti Dawnsio gwerin cangen Merched y Wawr Corwen, Glyn Maelor. Pafiliwn Corwen yn 1979. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623516",
+    "created": 1511279529,
+    "updated": 1511279529,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Dawnsio gwerin Cangen Corwen yn cymeryd rhan yng Nghwyl Rhanbarth, ym Mhafiliwn Corwen yn 1979.",
+        "cy": "Parti Dawnsio gwerin Cangen Corwen yn cymeryd rhan yng Nghwyl Rhanbarth, ym Mhafiliwn Corwen yn 1979."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_020.jpg",
+            "type": "image",
+            "target_id": "623501"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_021.jpg",
+            "type": "image",
+            "target_id": "623506"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 748491,
+    "title": {
+        "en": "A poem by Harri Williams to Merched y wawr Pontarddulais Branch",
+        "cy": "Cerdd gan Harri Williams i Ferched y Wawr Pontarddulais a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748491",
+    "created": 1516898578,
+    "updated": 1516898578,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd gan Harri Williams i Ferched y Wawr Pontarddulais wrth iddyn nhw ddathlu Deugain Mlynedd y Gangen yn 2015",
+        "cy": "Cerdd gan Harri Williams i Ferched y Wawr Pontarddulais wrth iddyn nhw ddathlu Deugain Mlynedd y Gangen yn 2015"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-100.jpg",
+            "type": "image",
+            "target_id": "748486"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

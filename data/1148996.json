@@ -1,0 +1,64 @@
+{
+    "id": 1148996,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2002",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148996",
+    "created": 1562066020,
+    "updated": 1562066020,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rownders \u2013 1st Clwb Gwawr y Cwenod, Ceredigion",
+        "cy": "Rownderi \u2013 1af Clwb Gwawr y Cwenod, Ceredigion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_099.jpg",
+            "type": "image",
+            "target_id": "1148991"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

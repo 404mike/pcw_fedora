@@ -1,0 +1,63 @@
+{
+    "id": 1046486,
+    "title": {
+        "en": "MyW Residential Weekend 2002",
+        "cy": "Penwythnos Preswyl MyW 2002 \u2013 Llais a Llun"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046486",
+    "created": 1555590254,
+    "updated": 1555590254,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying their coffee in the sun at the Residential  Weekend Lampeter 2002",
+        "cy": "Aelodau yn mwynhau eu coffi yn yr haul ym Mhenwythnos Llanbed 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2002",
+        "penwythnos preswyl myw 2002"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_038.jpg",
+            "type": "image",
+            "target_id": "1046481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

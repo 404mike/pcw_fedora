@@ -1,0 +1,75 @@
+{
+    "id": 610991,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch Dinner 2000",
+        "cy": "Cinio Merched y Wawr Cangen Llangadog, 2000\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610991",
+    "created": 1510753346,
+    "updated": 1510753346,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Merched y Wawr Cangen Llangadog, Mawrth 2000\nChwith \u2013 Ruby Phillips, Morfydd James, Tegwen Morris, Eluned Walters, Joan Jones\nDde- Manon Bowen, Megan Evans, Eurwen Bowen",
+        "cy": "Cinio Merched y Wawr Cangen Llangadog, Mawrth 2000\nChwith \u2013 Ruby Phillips, Morfydd James, Tegwen Morris, Eluned Walters, Joan Jones\nDde- Manon Bowen, Megan Evans, Eurwen Bowen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-213.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-213.jpg",
+            "type": "image",
+            "target_id": "610986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

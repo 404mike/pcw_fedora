@@ -1,0 +1,84 @@
+{
+    "id": 600671,
+    "title": {
+        "en": "A letter of thanks from St David's Hospital Carmarthen to Merched y Wawr Llangadog Branch",
+        "cy": "Llythyr o ddiolch oddi wrth Ysbyty Dewi Sant, Caerfyrddin i Gangen Merched y Wawr Llangadog "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600671",
+    "created": 1502448060,
+    "updated": 1502448060,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr oddi wrth Uned Iechyd Meddwl, Ysbyty Dewi Sant, Caerfyrddin yn diolch i Gangen Merched y Wawr Llangadog am  ddanfon rhodd o \u00a325 i\u2019w ddefnyddio er lles y cleifion.  11 Awst 1992.\nRoedd y gangen yn ymwneud yn reolaidd gyda\u2019r Ysbyty ac hefyd yn gwahodd cleifon i\u2019r gangen i gael te.",
+        "cy": "Llythyr oddi wrth Uned Iechyd Meddwl, Ysbyty Dewi Sant, Caerfyrddin yn diolch i Gangen Merched y Wawr Llangadog am  ddanfon rhodd o \u00a325 i\u2019w ddefnyddio er lles y cleifion.  11 Awst 1992.\nRoedd y gangen yn ymwneud yn reolaidd gyda\u2019r Ysbyty ac hefyd yn gwahodd cleifon i\u2019r gangen i gael te."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856272000000",
+            "lon": "-4.334101000000",
+            "description": {
+                "en": "Ysbyty Dewi Sant, Caerfyrddin",
+                "cy": "Ysbyty Dewi Sant, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-236.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-236.jpg",
+            "type": "image",
+            "target_id": "600669"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

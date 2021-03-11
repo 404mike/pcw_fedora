@@ -1,0 +1,86 @@
+{
+    "id": 752136,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dolgellau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Dolgellau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752136",
+    "created": 1516958114,
+    "updated": 1516958114,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun cynnar o\u2019r Gangen 70au canol. Dwi gwybodaeth pellach.",
+        "cy": "Llun cynnar o\u2019r Gangen 70au canol. Dwi gwybodaeth pellach."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dolgellau",
+    "owner": "Cangen Dolgellau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dolgellau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dolgellau",
+        "DolgellauMerched y Wawr",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.741992000000",
+            "lon": "-3.887413000000",
+            "description": {
+                "en": "Dolgellau",
+                "cy": "Dolgellau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_012.jpg",
+            "type": "image",
+            "target_id": "752126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

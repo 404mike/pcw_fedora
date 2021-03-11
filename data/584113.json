@@ -1,0 +1,84 @@
+{
+    "id": 584113,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting the Merched y Wawr Headquarters 2011",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Chanolfan Genedlaethol Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584113",
+    "created": 1499870371,
+    "updated": 1499870371,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog\nMedi 2011, Ymweld \u00e2\u2019r Ganolfan Genedlaethol, Aberystwyth.  Yn y cefndir mae paneli a wnaed gan Rhanbarth Penfro ar gyfer Dathlu\u2019r Rhuddem.  Rhes gefn \u2013 Eira Rowlands, Eiry Phillips, Sheila Vaughan, Ann Morris, Vi Edwards, Eirwen Gibby\nRhes ganol \u2013 Llinos Edwards, Tegwen Morris (Cyfarwyddwr Cenedlaethol), Beryl John, Mary Llewellyn, Eirianwen Thomas ac Aerona Edwards\nRhes flaen \u2013 Gretta Gibby, Ogwen Phillips, Lena Evans, Peggy Phillips",
+        "cy": "Merched y Wawr Maenclochog\nMedi 2011, Ymweld \u00e2\u2019r Ganolfan Genedlaethol, Aberystwyth.  Yn y cefndir mae paneli a wnaed gan Rhanbarth Penfro ar gyfer Dathlu\u2019r Rhuddem.  Rhes gefn \u2013 Eira Rowlands, Eiry Phillips, Sheila Vaughan, Ann Morris, Vi Edwards, Eirwen Gibby\nRhes ganol \u2013 Llinos Edwards, Tegwen Morris (Cyfarwyddwr Cenedlaethol), Beryl John, Mary Llewellyn, Eirianwen Thomas ac Aerona Edwards\nRhes flaen \u2013 Gretta Gibby, Ogwen Phillips, Lena Evans, Peggy Phillips"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413270000000",
+            "lon": "-4.087338000000",
+            "description": {
+                "en": "Canolfan Merched y Wawr Aberystwyth",
+                "cy": "Canolfan Merched y Wawr Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-053.jpg",
+            "type": "image",
+            "target_id": "584111"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

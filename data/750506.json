@@ -1,0 +1,74 @@
+{
+    "id": 750506,
+    "title": {
+        "en": "Cushions made by the West Glamorgan Area for display in the Merched y Wawr tent at the National Eisteddfod 2006",
+        "cy": "Clustogau ar gyfer arddangosfa Rhanbarth Gorllewin Morgannwg, Pabell Merched y Wawr, Eisteddfod Abertawe 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750506",
+    "created": 1516899494,
+    "updated": 1516899494,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clustogau ar gyfer arddangosfa Rhanbarth Gorllewin Morgannwg ym  Mhabell Merched y Wawr yn Eisteddfod Abertawe 2006.  Clwb Cwiltio Pontarddulais oedd yn gyfrifol am wneud y waith \u2013 oll yn aelodau o Ferched y Wawr!\nYn y llun \u2013 Jean Bollon, Hilary Miles (tiwtor), Iris Thomas, Esyllt Jones, Enid Morris, Gwenda Miles, Mair Davies, Moira Jones",
+        "cy": "Clustogau ar gyfer arddangosfa Rhanbarth Gorllewin Morgannwg ym  Mhabell Merched y Wawr yn Eisteddfod Abertawe 2006.  Clwb Cwiltio Pontarddulais oedd yn gyfrifol am wneud y waith \u2013 oll yn aelodau o Ferched y Wawr!\nYn y llun \u2013 Jean Bollon, Hilary Miles (tiwtor), Iris Thomas, Esyllt Jones, Enid Morris, Gwenda Miles, Mair Davies, Moira Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr, Rhanbarth Gorllewin Morgannwg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-040.jpg",
+            "type": "image",
+            "target_id": "750501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

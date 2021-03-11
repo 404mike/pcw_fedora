@@ -1,0 +1,73 @@
+{
+    "id": 749091,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch on a trip to Cardiff",
+        "cy": "Merched y Wawr Tegryn ar daith i Gaerdydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749091",
+    "created": 1516898848,
+    "updated": 1516898848,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Tegryn yn y Senedd ar daith i Gaerdydd.  Arianwyd y daith gan arian \u2018Arian i Bawb\u2019\nBlaen \u2013 Margaret Thomas, Dawn Thomas, Brenda Lewis, Winnie James, Olwen Bowen, Gwenda Mathias, Jean George, Tywysydd, Ceridwen James",
+        "cy": "Merched y Wawr Tegryn yn y Senedd ar daith i Gaerdydd.  Arianwyd y daith gan arian \u2018Arian i Bawb\u2019\nBlaen \u2013 Margaret Thomas, Dawn Thomas, Brenda Lewis, Winnie James, Olwen Bowen, Gwenda Mathias, Jean George, Tywysydd, Ceridwen James"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-078.jpg",
+            "type": "image",
+            "target_id": "749086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

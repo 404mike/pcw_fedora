@@ -1,0 +1,75 @@
+{
+    "id": 599707,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Betws Garmon, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599707",
+    "created": 1502446796,
+    "updated": 1602584261,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hanes ymweliad y Gangen \u00e2 Llaeth y Llan, Mehefin 1998.",
+        "cy": "Hanes ymweliad y Gangen \u00e2 Llaeth y Llan, Mehefin 1998."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "Llyfrau Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_050.jpg",
+            "type": "image",
+            "target_id": "599705"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

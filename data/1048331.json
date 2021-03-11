@@ -1,0 +1,71 @@
+{
+    "id": 1048331,
+    "title": {
+        "en": "Annual Meeting 2009",
+        "cy": "Cyfarfod Blynyddol 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048331",
+    "created": 1555591417,
+    "updated": 1555591417,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A presentation of 'Bro a Bra'.",
+        "cy": "Cyflwyniad 'Bro a Bra'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_233.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_233.jpg",
+            "type": "image",
+            "target_id": "1048321"
+        },
+        {
+            "originalFilename": "df_myw_234.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_234.jpg",
+            "type": "image",
+            "target_id": "1048326"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

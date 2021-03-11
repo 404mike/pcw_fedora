@@ -1,0 +1,90 @@
+{
+    "id": 600691,
+    "title": {
+        "en": "G\u0175yl o G\u00e2n (Feast of Song) Leaflet",
+        "cy": "Taflen G\u0175yl o G\u00e2n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600691",
+    "created": 1502448088,
+    "updated": 1502448088,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen G\u0175yl o G\u00e2n, cymanfa fodern i ddathlu penblwydd Merched y Wawr Cangen Nangtgaredig yn Chwarter Canrif (1982 \u2013 2007), Hydref 21, 2007, Capel Siloam, Pontargothi.  \nTudalen flaen",
+        "cy": "Taflen G\u0175yl o G\u00e2n, cymanfa fodern i ddathlu penblwydd Merched y Wawr Cangen Nangtgaredig yn Chwarter Canrif (1982 \u2013 2007), Hydref 21, 2007, Capel Siloam, Pontargothi.  \nTudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.874388000000",
+            "lon": "-4.171212000000",
+            "description": {
+                "en": "Capel Siloam, Pontargothi",
+                "cy": "Capel Siloam, Pontargothi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-080.jpg",
+            "type": "image",
+            "target_id": "600688"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-081.jpg",
+            "type": "image",
+            "target_id": "600689"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

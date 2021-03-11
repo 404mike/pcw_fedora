@@ -1,0 +1,82 @@
+{
+    "id": 615971,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club enjoy a Picnic in the Park",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cael Picnic yn y Parc"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615971",
+    "created": 1510755370,
+    "updated": 1510755370,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Aelodau Clwb Gwawr Llygaid y Dydd yn cael Picnic yn y Parc, yn gyfle i fwynhau\u2019r haul a chwmni da ar noson ola\u2019r tymor.\nYn y llun mae Elin Angharad, Bethan Jones, Gwawr James, Wendy Owen, Gwennan Evans",
+        "cy": "Merched y Wawr Aelodau Clwb Gwawr Llygaid y Dydd yn cael Picnic yn y Parc, yn gyfle i fwynhau\u2019r haul a chwmni da ar noson ola\u2019r tymor.\nYn y llun mae Elin Angharad, Bethan Jones, Gwawr James, Wendy Owen, Gwennan Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "image2.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/image2.jpg",
+            "type": "image",
+            "target_id": "615961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

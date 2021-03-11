@@ -1,0 +1,86 @@
+{
+    "id": 625746,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "Tim rowderi cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n. 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625746",
+    "created": 1511280258,
+    "updated": 1511280258,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem o Walis - aelodau o d\u00eem rowderi y gangen yn barod i chwarae yn 1991.",
+        "cy": "T\u00eem o Walis - aelodau o d\u00eem rowderi y gangen yn barod i chwarae yn 1991."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_015.jpg",
+            "type": "image",
+            "target_id": "625736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

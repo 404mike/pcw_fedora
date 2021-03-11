@@ -1,0 +1,71 @@
+{
+    "id": 1047336,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed - Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047336",
+    "created": 1555590842,
+    "updated": 1555590842,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Price, President addressing the members.",
+        "cy": "Mary Price, Llywydd yn annerch yr aelodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "president",
+        "members",
+        "residential weekend",
+        "Lampeter",
+        "llywydd",
+        "aelodau",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_121.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_121.jpg",
+            "type": "image",
+            "target_id": "1047331"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

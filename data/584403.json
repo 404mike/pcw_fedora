@@ -1,0 +1,82 @@
+{
+    "id": 584403,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch Programme 1968-79",
+        "cy": "Rhaglen Cangen Caerfyrddin Merched y Wawr 1968-69  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584403",
+    "created": 1499870997,
+    "updated": 1499870997,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdyn Aelodaeth a Rhaglen Cangen Caerfyrddin 1968-69  CLAWR",
+        "cy": "Cerdyn Aelodaeth a Rhaglen Cangen Caerfyrddin 1968-69  CLAWR"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Cangen Caerfyrddin"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-050.jpg",
+            "type": "image",
+            "target_id": "584401"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-051.jpg",
+            "type": "image",
+            "target_id": "584402"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 601264,
+    "title": {
+        "en": "An article from the Merched y Wawr magazine about the Cylch Teifi Branch",
+        "cy": "Erthygl o gylchgrawn Merched y Wawr am Gangen Cylch Teifi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601264",
+    "created": 1502449105,
+    "updated": 1502449105,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "rthygl a llun \u2018Ein Cangen Ni\u2019 o gylchgrawn Y Wawr ynglyn \u00e2 Merched y Wawr Cylch Teifi yn s\u00f4n am weithgaredd y gangen ym 1977.",
+        "cy": "rthygl a llun \u2018Ein Cangen Ni\u2019 o gylchgrawn Y Wawr ynglyn \u00e2 Merched y Wawr Cylch Teifi yn s\u00f4n am weithgaredd y gangen ym 1977."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.083909000000",
+            "lon": "-4.660560000000",
+            "description": {
+                "en": "Aberteifi",
+                "cy": "Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-122.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-122.jpg",
+            "type": "image",
+            "target_id": "601262"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

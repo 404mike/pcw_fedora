@@ -1,0 +1,92 @@
+{
+    "id": 625316,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Benllech Anglesey.",
+        "cy": "Gwibdaith  cangen Merched y Wawr Benllech, Rhanbarth M\u00f4n. Cofeb Gwenllian yn Sempringham, Ebrill 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625316",
+    "created": 1511280122,
+    "updated": 1511280122,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith cangen Benllech i cofeb Gwenllian yn Sempringham, Ebrill 2001. Eira Jones, Marian Lloyd, Gwladys Parry, Nance Williams, Eleri W Jones, Mair Williams, Ann Gibbard, Mair Roberts, Ann Elfed, Maira Hughes, Peggy Jones, Nerys Hughes.",
+        "cy": "Gwibdaith cangen Benllech i cofeb Gwenllian yn Sempringham, Ebrill 2001. Eira Jones, Marian Lloyd, Gwladys Parry, Nance Williams, Eleri W Jones, Mair Williams, Ann Gibbard, Mair Roberts, Ann Elfed, Maira Hughes, Peggy Jones, Nerys Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Benllech",
+    "owner": "Cangen Benllech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Benllech",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Benllech",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.879429000000",
+            "lon": "-0.353669000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_007.jpg",
+            "type": "image",
+            "target_id": "625301"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_008.jpg",
+            "type": "image",
+            "target_id": "625306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

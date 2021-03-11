@@ -1,0 +1,86 @@
+{
+    "id": 627811,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llangefni, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llangefni, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627811",
+    "created": 1511280959,
+    "updated": 1511280959,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o Gangen Llangefni - yma ceir criw yn ymarfer sgets yn ogystal \u00e2 llun o swyddogion y Gangen o 1987.",
+        "cy": "Casgliad o luniau o Gangen Llangefni - yma ceir criw yn ymarfer sgets yn ogystal \u00e2 llun o swyddogion y Gangen o 1987."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangefni ",
+    "owner": "Cangen Llangefni ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangefni",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangefni",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHANBARTH_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHANBARTH_007.jpg",
+            "type": "image",
+            "target_id": "627801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

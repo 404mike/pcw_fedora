@@ -1,0 +1,75 @@
+{
+    "id": 600757,
+    "title": {
+        "en": "A Sampler by Enid Jones, Merched y Wawr Carmarthen Area  ",
+        "cy": "Sampler o waith Enid Jones i Ferched y Wawr Rhanbarth Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600757",
+    "created": 1502448195,
+    "updated": 1502448195,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sampler o waith Enid Jones fel rhodd i\u2018r Rhanbarth gydag enwau\u2019r swyddogion a fu yn Rhanbarth Caerfyrddin o\u2019r dechrau.  Cafodd ei lunio ar gyfer Eisteddfod Genedlaethol Bro Dinefwr 1996.",
+        "cy": "Sampler o waith Enid Jones fel rhodd i\u2018r Rhanbarth gydag enwau\u2019r swyddogion a fu yn Rhanbarth Caerfyrddin o\u2019r dechrau.  Cafodd ei lunio ar gyfer Eisteddfod Genedlaethol Bro Dinefwr 1996."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-141.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-141.jpg",
+            "type": "image",
+            "target_id": "600756"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

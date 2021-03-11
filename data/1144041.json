@@ -1,0 +1,63 @@
+{
+    "id": 1144041,
+    "title": {
+        "en": "Third Sector Awards Cymru 2013",
+        "cy": "Gwobrau Trydydd Sector Cymru 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144041",
+    "created": 1562061272,
+    "updated": 1562061272,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW on the shortlist of Organisations who had raised money for good causes.",
+        "cy": "MyW ar y rhestr fer am Fudiadau oedd wedi codi arian at achosion da."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "third sector awards cymru 2013",
+        "gwobrau trydydd sector cymru 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_534.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_534.jpg",
+            "type": "image",
+            "target_id": "1144036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

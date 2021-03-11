@@ -1,0 +1,128 @@
+{
+    "id": 599908,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanddoged, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanddoged, Rhanbarth Aberconwy "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599908",
+    "created": 1502447028,
+    "updated": 1502447028,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Images from Llanddoged\u2019s scrap book.",
+        "cy": "Lluniau o lyfr llofion cangen Llanddoged (1991- 1992). Yma dangosir Llanddoged ar fap o Gymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddoged",
+    "owner": "Cangen Llanddoged",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddoged",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen LLanddoged",
+        "Rhanbarth Aberconwy",
+        "llyfr llofion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.156861000000",
+            "lon": "-3.787097000000",
+            "description": {
+                "en": "Llandoged",
+                "cy": "Llandoged"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_011.jpg",
+            "type": "image",
+            "target_id": "599899"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_012.jpg",
+            "type": "image",
+            "target_id": "599900"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_013.jpg",
+            "type": "image",
+            "target_id": "599901"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_014.jpg",
+            "type": "image",
+            "target_id": "599902"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_015.jpg",
+            "type": "image",
+            "target_id": "599903"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_016.jpg",
+            "type": "image",
+            "target_id": "599904"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_017.jpg",
+            "type": "image",
+            "target_id": "599905"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_018.jpg",
+            "type": "image",
+            "target_id": "599906"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1147526,
+    "title": {
+        "en": "50 Celebrations at  Parc, Y Bala",
+        "cy": "Dathliadau 50 yn Y Parc, Y Bala"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147526",
+    "created": 1562065401,
+    "updated": 1562065401,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Past Editors of Y Wawr: Mair Edwards; Rhiannon Parry; Wendy Lloyd Jones.",
+        "cy": "Cyn Olygyddion Y Wawr: Mair Edwards; Rhiannon Parry; Wendy Lloyd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "dathliadau 50",
+        "Y Parc",
+        "Y Bala"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_923.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_923.jpg",
+            "type": "image",
+            "target_id": "1147521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

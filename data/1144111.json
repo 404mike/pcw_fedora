@@ -1,0 +1,63 @@
+{
+    "id": 1144111,
+    "title": {
+        "en": "Day Craft Course in the South 2014",
+        "cy": "Cwrs Crefft yn y De 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144111",
+    "created": 1562061300,
+    "updated": 1562061300,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Jewellry Course \u2013 Bethan Frost.",
+        "cy": "Gweithdy Gemwaith \u2013 Bethan Frost."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "day craft course",
+        "cwrs crefft"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_542.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_542.jpg",
+            "type": "image",
+            "target_id": "1144106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

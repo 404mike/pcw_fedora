@@ -1,0 +1,84 @@
+{
+    "id": 749306,
+    "title": {
+        "en": "Merched y Wawr Treboeth Branch Christmas Dinner 2011",
+        "cy": "Cinio Nadolig Merched y Wawr Cangen Treboeth, 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749306",
+    "created": 1516898947,
+    "updated": 1516898947,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Nadolig Merched y Wawr Cangen Treboeth, Rhagfyr 9, 2011 yn Nhafarn \u2018Yr Eagle\u2019 Treboeth  \nTair yn y blaen \u2013 Miriam Evans, Val Balch, Betty Owen\nYn y cefn \u2013 Marion Morris, Mair Mort, Brenda Fisher, Beth Marks, Iris Hammett, Sheila Kenna, Llinos Owen, Elizabeth Morgan, Christine Matthews, Denise Rees, Rita Daniels",
+        "cy": "Cinio Nadolig Merched y Wawr Cangen Treboeth, Rhagfyr 9, 2011 yn Nhafarn \u2018Yr Eagle\u2019 Treboeth  \nTair yn y blaen \u2013 Miriam Evans, Val Balch, Betty Owen\nYn y cefn \u2013 Marion Morris, Mair Mort, Brenda Fisher, Beth Marks, Iris Hammett, Sheila Kenna, Llinos Owen, Elizabeth Morgan, Christine Matthews, Denise Rees, Rita Daniels"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treboeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treboeth",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.657006000000",
+            "lon": "-3.949111000000",
+            "description": {
+                "en": "Tafarn 'Yr Eagle'. Treboeth",
+                "cy": "Tafarn 'Yr Eagle'. Treboeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-128.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-128.jpg",
+            "type": "image",
+            "target_id": "749296"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

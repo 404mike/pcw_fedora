@@ -1,0 +1,81 @@
+{
+    "id": 584252,
+    "title": {
+        "en": "Merched y Wawr National Festival Leaflet, 1975",
+        "cy": "Taflen G\u0175yl Genedlaethol Merched y Wawr, 1975 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584252",
+    "created": 1499870834,
+    "updated": 1499870834,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen G\u0175yl Genedlaethol Merched y Wawr, Aberystwyth, Hydref 4, 1975, Tudalen Flaen",
+        "cy": "Taflen G\u0175yl Genedlaethol Merched y Wawr, Aberystwyth, Hydref 4, 1975, Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-050.jpg",
+            "type": "image",
+            "target_id": "584250"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-051.jpg",
+            "type": "image",
+            "target_id": "584251"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

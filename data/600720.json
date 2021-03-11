@@ -1,0 +1,82 @@
+{
+    "id": 600720,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch go Bowling",
+        "cy": "Aelodau o Gangen Pencader Merched y Wawr yn Bowlio Deg \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600720",
+    "created": 1502448142,
+    "updated": 1502448142,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o Gangen Pencader Merched y Wawr yn Bowlio Deg yn Canaston Bowls, Sir Benfro, 2006\nRhes gefn \u2013 Ina Morgan, Caryl Jones, Jane Tuge, Mair Williams, Betty Prytherch, Ray Harries, Betsan Thomas, Yvonne Griffiths, Jean James\nRhes flaen \u2013 Irene Davies, Marina Davies, Pegi Davies",
+        "cy": "Aelodau o Gangen Pencader Merched y Wawr yn Bowlio Deg yn Canaston Bowls, Sir Benfro, 2006\nRhes gefn \u2013 Ina Morgan, Caryl Jones, Jane Tuge, Mair Williams, Betty Prytherch, Ray Harries, Betsan Thomas, Yvonne Griffiths, Jean James\nRhes flaen \u2013 Irene Davies, Marina Davies, Pegi Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.773705000000",
+            "lon": "-4.796351000000",
+            "description": {
+                "en": "Canaston Bowls, Sir Benfro",
+                "cy": "Canaston Bowls, Sir Benfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-099.jpg",
+            "type": "image",
+            "target_id": "600718"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

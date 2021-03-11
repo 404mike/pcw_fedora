@@ -1,0 +1,84 @@
+{
+    "id": 614461,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Banner",
+        "cy": "Baner Merched y Wawr Cangen Llandysul a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614461",
+    "created": 1510755011,
+    "updated": 1510755011,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyn-lywydd Merched y Wawr Llandysul a\u2019r Cylch Megan Foulkes yn trosglwyddo baner y gangen  i\u2019r Llywydd presennol Carys Evans.  Hefyd yn y llun mae Eirian Davies a wnaeth y faner a Beth Davies fu yn cynorthwyo (cynlluniwyd y faner gan Kathleen Davies).  Rhagfyr 1993.\nYn y llun mae Megan Foulkes, Kathleen Davies, Eirian Davies, Beth Davies, Mattie Jones (Ysgrifenyddes), Carys Evans (Llywydd).  Trysorydd y Gangen, Gwenda Evans, yn absennol.",
+        "cy": "Cyn-lywydd Merched y Wawr Llandysul a\u2019r Cylch Megan Foulkes yn trosglwyddo baner y gangen  i\u2019r Llywydd presennol Carys Evans.  Hefyd yn y llun mae Eirian Davies a wnaeth y faner a Beth Davies fu yn cynorthwyo (cynlluniwyd y faner gan Kathleen Davies).  Rhagfyr 1993.\nYn y llun mae Megan Foulkes, Kathleen Davies, Eirian Davies, Beth Davies, Mattie Jones (Ysgrifenyddes), Carys Evans (Llywydd).  Trysorydd y Gangen, Gwenda Evans, yn absennol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.041624000000",
+            "lon": "-4.309177000000",
+            "description": {
+                "en": "Llandysul",
+                "cy": "Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-156.jpg",
+            "type": "image",
+            "target_id": "614451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,91 @@
+{
+    "id": 619761,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhyl, Colwyn.",
+        "cy": "Penwythnos Preswyl Merched y Wawr - Llanbedr Pont Steffan, Medi 1992. Merched y Wawr Rhyl, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619761",
+    "created": 1511278222,
+    "updated": 1511278222,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Cangen y Rhyl ym mhenwythnos Preswyl Merched y Wawr - Llanbedr Pont Steffan, Medi 1992. Gwelwn: (cefn) Elin Owen, Eirlys Lewis Evans, Olwen Griffiths, Eunice Hughes, Joan Davies, (canol) Elna Willimas, Ann Elwyn Jones, Enid Harris, Meirys Hughes Jones, Margareth Roberts (Dyserth), (blaen) Glenys Thomas.",
+        "cy": "Rhai o aelodau Cangen y Rhyl ym mhenwythnos Preswyl Merched y Wawr - Llanbedr Pont Steffan, Medi 1992. Gwelwn: (cefn) Elin Owen, Eirlys Lewis Evans, Olwen Griffiths, Eunice Hughes, Joan Davies, (canol) Elna Willimas, Ann Elwyn Jones, Enid Harris, Meirys Hughes Jones, Margareth Roberts (Dyserth), (blaen) Glenys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhyl",
+    "owner": "Cangen Rhyl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Rhyl",
+                "cy": "Cangen Merched y Wawr Rhyl"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhyl",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhyl",
+        "Rhanbarth Colwyn",
+        "Penwythnos Preswyl",
+        "Cangen Dyserth",
+        "Penwythnos Preswyl Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320901000000",
+            "lon": "-3.495205000000",
+            "description": {
+                "en": "RHYL",
+                "cy": "RHYL"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_021.jpg",
+            "type": "image",
+            "target_id": "619751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

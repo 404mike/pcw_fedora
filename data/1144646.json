@@ -1,0 +1,72 @@
+{
+    "id": 1144646,
+    "title": {
+        "en": "MyW Residential Weekend, 2014",
+        "cy": "Penwythnos Preswyl MyW 2014 yn Llanbed \u2013 &#039;Cyfaredd y Canolbarth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144646",
+    "created": 1562062022,
+    "updated": 1562062022,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00f4r y Wiber with their conductor Angharad Tomos.",
+        "cy": "C\u00f4r y Wiber gyda'u harweinydd Angharad Tomos yn diddanu nos Wener."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2014",
+        "penwythnos preswyl myw",
+        "Llanbed",
+        "cyfaredd y canolbarth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_604.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_604.jpg",
+            "type": "image",
+            "target_id": "1144636"
+        },
+        {
+            "originalFilename": "df_myw_605.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_605.jpg",
+            "type": "image",
+            "target_id": "1144641"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

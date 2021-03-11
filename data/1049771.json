@@ -1,0 +1,65 @@
+{
+    "id": 1049771,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049771",
+    "created": 1555592041,
+    "updated": 1555592041,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elwyn Jones,Director of the Books Council' Sylwen Davies, Honorary President; Meri Huws, Comisioner for the Welsh Language; Meleri Wyn James, Editor; Mererid Jones, President; Tegwen  Morris, Director MyW. Launching of MyW book.",
+        "cy": "Elwyn Jones, Prifweithredwr Cyngor Llyfrau; Sylwen Davies, Llywydd Anrhydeddus; Meri Huws, Comisiynydd y Gymraeg; Meleri Wyn James, Golygydd y Gyfrol; Mererid Jones, Llywydd a Tegwen Morris, Cyfarwyddwr MyW. Lansio Llyfr MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_399.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_399.jpg",
+            "type": "image",
+            "target_id": "1049766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

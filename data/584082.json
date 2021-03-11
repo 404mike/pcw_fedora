@@ -1,0 +1,84 @@
+{
+    "id": 584082,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch with the Merched y Wawr Baner during the Quarter Century Celebrations in 1992",
+        "cy": "Merched y Wawr Cangen Maenclochog gyda Baner y Dathlu, Chwarter Canrif Merched y Wawr yn 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584082",
+    "created": 1499870329,
+    "updated": 1499870329,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Maenclochog yn cludo Baner y Dathlu (Chwarter Canrif mudiad Merched y Wawr) i Efailwen i\u2019w throsglwyddo i aelodau Cangen Beca ym 1992.  Tu fas Ysgol Maenclochog.  Bu\u2019r faner o gwympas pob cangen yn y Rhanbarth. O\u2019r Chwith: Heather Jenkins, Maureen George, Beth Howells, Rhiannon Edwards, Ann Morris, Non Davies, Mai Jones  a Gwenno Wyn",
+        "cy": "Aelodau Merched y Wawr Maenclochog yn cludo Baner y Dathlu (Chwarter Canrif mudiad Merched y Wawr) i Efailwen i\u2019w throsglwyddo i aelodau Cangen Beca ym 1992.  Tu fas Ysgol Maenclochog.  Bu\u2019r faner o gwympas pob cangen yn y Rhanbarth. O\u2019r Chwith: Heather Jenkins, Maureen George, Beth Howells, Rhiannon Edwards, Ann Morris, Non Davies, Mai Jones  a Gwenno Wyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.913781000000",
+            "lon": "-4.790059000000",
+            "description": {
+                "en": "Ysgol Maenclochog",
+                "cy": "Ysgol Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-040.jpg",
+            "type": "image",
+            "target_id": "584080"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

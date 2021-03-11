@@ -1,0 +1,81 @@
+{
+    "id": 744606,
+    "title": {
+        "en": "Jewellery box, a gift to Wendy Richards, Merched y Wawr National President 1976 - 1978",
+        "cy": "Blwch tlysau, rhodd i Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744606",
+    "created": 1516896401,
+    "updated": 1516896401,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Blwch pren i ddal tlysau o waith y Parchedig T. Alwyn Williams, tad Annette Hughes, aelod a chyn-ysgrifennydd Cangen Clydach.  Roedd y bocs yn rhodd o Rhanbarth Gorllewin Morgannwg i Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) ar ei llywyddiaeth.  \nLlythyr o ddiolch oddiwrth Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) i\u2019r Parchedig T. Alwyn Williams am ei waith yn gwneud blwch pren i ddal tlysau ar ran Rhanbarth Gorllewin Morgannwg fel rhodd i Wendy ar ei llywyddiaeth.  Roedd y Parchedig yn dad i Annette Hughes, aelod o Gangen Clydach ac yn un o aelodau mwyaf gweithgar Gorllewin Morgannwg.",
+        "cy": "Blwch pren i ddal tlysau o waith y Parchedig T. Alwyn Williams, tad Annette Hughes, aelod a chyn-ysgrifennydd Cangen Clydach.  Roedd y bocs yn rhodd o Rhanbarth Gorllewin Morgannwg i Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) ar ei llywyddiaeth.  \nLlythyr o ddiolch oddiwrth Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) i\u2019r Parchedig T. Alwyn Williams am ei waith yn gwneud blwch pren i ddal tlysau ar ran Rhanbarth Gorllewin Morgannwg fel rhodd i Wendy ar ei llywyddiaeth.  Roedd y Parchedig yn dad i Annette Hughes, aelod o Gangen Clydach ac yn un o aelodau mwyaf gweithgar Gorllewin Morgannwg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170215_130623.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170215_130623.jpg",
+            "type": "image",
+            "target_id": "744596"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-055.jpg",
+            "type": "image",
+            "target_id": "744601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

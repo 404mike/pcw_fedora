@@ -1,0 +1,86 @@
+{
+    "id": 620701,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Erthygl o \u2018Y Wawr\u2019 yn cyflwyno hanes cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620701",
+    "created": 1511278542,
+    "updated": 1511278542,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o \u2018Y Wawr\u2019 yn cyflwyno hanes Cangen Uwchaled ar ei deng mlwyddiant yn 1982 gan Bethan Roberts.",
+        "cy": "Erthygl o \u2018Y Wawr\u2019 yn cyflwyno hanes Cangen Uwchaled ar ei deng mlwyddiant yn 1982 gan Bethan Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_009.jpg",
+            "type": "image",
+            "target_id": "620691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

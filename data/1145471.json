@@ -1,0 +1,64 @@
+{
+    "id": 1145471,
+    "title": {
+        "en": "Urdd National Eisteddfod Caerphilly and District 2015",
+        "cy": "Eisteddfod yr Urdd Caerffili a&#039;r Cylch 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145471",
+    "created": 1562062874,
+    "updated": 1562062874,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand.",
+        "cy": "Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod caerphilly and district",
+        "2015",
+        "eisteddfod yr urdd caerffili ar cylch"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_685.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_685.jpg",
+            "type": "image",
+            "target_id": "1145466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

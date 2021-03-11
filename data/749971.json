@@ -1,0 +1,75 @@
+{
+    "id": 749971,
+    "title": {
+        "en": "Merched y Wawr Y Gwter Fawr Branch Banner",
+        "cy": "Baner Merched y Wawr Cangen Y Gwter Fawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749971",
+    "created": 1516899246,
+    "updated": 1516899246,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Cangen Y Gwter Fawr, Brynaman \u2013 gwnaed hi tua dechrau\u2019r 1990au",
+        "cy": "Baner Merched y Wawr Cangen Y Gwter Fawr, Brynaman \u2013 gwnaed hi tua dechrau\u2019r 1990au"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Y Gwter Fawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Gwter Fawr",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170215_150230.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170215_150230.jpg",
+            "type": "image",
+            "target_id": "749966"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

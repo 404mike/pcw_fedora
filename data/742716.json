@@ -1,0 +1,75 @@
+{
+    "id": 742716,
+    "title": {
+        "en": "Merched y Wawr Neath Branch Celebrates 25 Years",
+        "cy": "Merched y Wawr Cangen Castell Need yn Dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742716",
+    "created": 1516895178,
+    "updated": 1516895178,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Castell Nedd yn dathlu 25 mlynedd yn 1993.",
+        "cy": "Merched y Wawr Castell Nedd yn dathlu 25 mlynedd yn 1993."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "1993_25%20Penblwydd%20Hapus_7x5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/1993_25%2520Penblwydd%2520Hapus_7x5.jpg",
+            "type": "image",
+            "target_id": "742711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

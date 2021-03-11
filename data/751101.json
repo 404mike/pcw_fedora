@@ -1,0 +1,86 @@
+{
+    "id": 751101,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandderfel, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llandderfel, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751101",
+    "created": 1516899788,
+    "updated": 1516899788,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd yn dathlu penblwydd y gangen yn 21 mlwydd oed yn 1989. Awdur yn ddi-arwybod.",
+        "cy": "Cerdd yn dathlu penblwydd y gangen yn 21 mlwydd oed yn 1989. Awdur yn ddi-arwybod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen LLandderfel",
+    "owner": "Cangen LLandderfel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd",
+        "Barddoniaeth Marched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_002.jpg",
+            "type": "image",
+            "target_id": "751091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

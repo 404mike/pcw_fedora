@@ -1,0 +1,82 @@
+{
+    "id": 600467,
+    "title": {
+        "en": "Merched y Wawr Geler Branch - Float at the local carnival in Saron",
+        "cy": "Merched y Wawr Cangen Geler yn y carnifal lleol yn Saron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600467",
+    "created": 1502447776,
+    "updated": 1502447776,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Geler yn y carnifal lleol, carnifal Saron, yn portreadu Bywyd Ann Griffiths \nYn y llun mae Eurwen, Heiddwen, Beti, Valmai, Doreen, Beti, Hannah, Eurwen, Selina, Neli, Yvonne, Doreen, Bronwen, Mair, Eiry, Ray, Beti Jones, Nansi, Valmai",
+        "cy": "Merched y Wawr Cangen Geler yn y carnifal lleol, carnifal Saron, yn portreadu Bywyd Ann Griffiths \nYn y llun mae Eurwen, Heiddwen, Beti, Valmai, Doreen, Beti, Hannah, Eurwen, Selina, Neli, Yvonne, Doreen, Bronwen, Mair, Eiry, Ray, Beti Jones, Nansi, Valmai"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.017489000000",
+            "lon": "-4.370202000000",
+            "description": {
+                "en": "Saron (Llandysul)",
+                "cy": "Saron (Llandysul)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-270217-013.jpg",
+            "type": "image",
+            "target_id": "600465"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

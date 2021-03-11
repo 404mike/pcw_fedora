@@ -1,0 +1,75 @@
+{
+    "id": 614906,
+    "title": {
+        "en": "Merched y Wawr Cardiff Branch supporting Welsh learners",
+        "cy": "Merched y Wawr Cangen Caerdydd yn helpu dysgwyr Cymraeg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614906",
+    "created": 1510755128,
+    "updated": 1510755128,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catherine Watkin Thomas, Cangen Caerdydd o Ferched y Wawr, yn siarad efo dysgwyr yr iaith Gymraeg, diwedd y 60au.",
+        "cy": "Catherine Watkin Thomas, Cangen Caerdydd o Ferched y Wawr, yn siarad efo dysgwyr yr iaith Gymraeg, diwedd y 60au."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerdydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerdydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-050117-003.jpg",
+            "type": "image",
+            "target_id": "614901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

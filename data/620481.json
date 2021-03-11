@@ -1,0 +1,87 @@
+{
+    "id": 620481,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Abergele, Colwyn.",
+        "cy": "Dathliadau 25 mlwyddiant y Mudiad yn Chwefror 1992.Cangen Merched y Wawr Abergele, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620481",
+    "created": 1511278469,
+    "updated": 1511278469,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meria Roberts a Beryl Mortimer (aelodau\u2019r gangen) yn gweithio\u2019n brysur ar Faner Rhanbarth Colwyn  fel rhan o ddathliadau 25 mlwyddiant y Mudiad yn Chwefror 1992.",
+        "cy": "Meria Roberts a Beryl Mortimer (aelodau\u2019r gangen) yn gweithio\u2019n brysur ar Faner Rhanbarth Colwyn  fel rhan o ddathliadau 25 mlwyddiant y Mudiad yn Chwefror 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Abergele",
+    "owner": "Cangen Abergele",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Abergele",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergele",
+        "Rhanbarth Colwyn",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284463000000",
+            "lon": "-3.583610000000",
+            "description": {
+                "en": "Abergele",
+                "cy": "Abergele"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_ABERGELE_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_ABERGELE_006.jpg",
+            "type": "image",
+            "target_id": "620471"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

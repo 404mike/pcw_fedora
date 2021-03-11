@@ -1,0 +1,98 @@
+{
+    "id": 621551,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henllan, Colwyn.",
+        "cy": "Esamplau o waith celf rhai o aelodau cangen Merched y Wawr Henllan, Rhanbarth Colwyn. Sioe Llanelwedd ym 1991. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621551",
+    "created": 1511278874,
+    "updated": 1511278874,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Esamplau o waith celf rhai o aelodau Cangen Henllan. 1. Arddangosfa buddugol o Sioe Llanelwedd. 2. Arddangosfa yn dathlu penblwydd Sioe Llanelwedd yn 100 mlwydd oed yn 2014. 3. Fe ddaeth yr arddangosfa gyda fflag Cymru yn ail yn Sioe Llanelwedd ym 1991.",
+        "cy": "Esamplau o waith celf rhai o aelodau Cangen Henllan. 1. Arddangosfa buddugol o Sioe Llanelwedd. 2. Arddangosfa yn dathlu penblwydd Sioe Llanelwedd yn 100 mlwydd oed yn 2014."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henllan",
+    "owner": "Cangen Henllan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Henllan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Henllan",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.200626000000",
+            "lon": "-3.461812000000",
+            "description": {
+                "en": "Henllan",
+                "cy": "Henllan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_020.jpg",
+            "type": "image",
+            "target_id": "621531"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_022.jpg",
+            "type": "image",
+            "target_id": "621536"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_023.jpg",
+            "type": "image",
+            "target_id": "621541"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

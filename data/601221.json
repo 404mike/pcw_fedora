@@ -1,0 +1,126 @@
+{
+    "id": 601221,
+    "title": {
+        "en": "First Set Minutes From Merched y Wawr Aberporth Branch",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Aberporth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601221",
+    "created": 1502449047,
+    "updated": 1502449047,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion  - Cyfarfod sefydlu\u2019r gangen \u2013 Medi 10, 1971\nTud 1",
+        "cy": "Cofnodion  - Cyfarfod sefydlu\u2019r gangen \u2013 Medi 10, 1971\nTud 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.132488000000",
+            "lon": "-4.541683000000",
+            "description": {
+                "en": "Aberporth",
+                "cy": "Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-084_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-084_0.jpg",
+            "type": "image",
+            "target_id": "601212"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-085_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-085_0.jpg",
+            "type": "image",
+            "target_id": "601213"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-086_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-086_0.jpg",
+            "type": "image",
+            "target_id": "601214"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-087_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-087_0.jpg",
+            "type": "image",
+            "target_id": "601215"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-088_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-088_0.jpg",
+            "type": "image",
+            "target_id": "601216"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-089_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-089_0.jpg",
+            "type": "image",
+            "target_id": "601217"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-090_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-090_0.jpg",
+            "type": "image",
+            "target_id": "601218"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-091_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-091_0.jpg",
+            "type": "image",
+            "target_id": "601219"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,77 @@
+{
+    "id": 584431,
+    "title": {
+        "en": "Merchedy Wawr Sponsored National Bike Ride, 1999 - in Carmarthen",
+        "cy": "Taith Feiciau Noddedig Genedlaethol Merched y Wawr 2005 - Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584431",
+    "created": 1499871039,
+    "updated": 1499871039,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cefnogi Achosion Da, Cangen Caerfyrddin yn cefnogi Taith Feiciau Noddedig Genedlaethol Merched y Wawr o F\u00f4n i Gaerdydd yn 2005 (Einir, Elsie a Meryl oedd yn seiclo!)",
+        "cy": "Cefnogi Achosion Da, Cangen Caerfyrddin yn cefnogi Taith Feiciau Noddedig Genedlaethol Merched y Wawr o F\u00f4n i Gaerdydd yn 2005 (Einir, Elsie a Meryl oedd yn seiclo!)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Cangen Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-070.jpg",
+            "type": "image",
+            "target_id": "584430"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,62 @@
+{
+    "id": 400018,
+    "title": {
+        "en": "Field Names in Glyn Ceiriog",
+        "cy": "Enwau Caeau yng Nglyn Ceiriog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400018",
+    "created": 1416923860,
+    "updated": 1416923860,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "list of farm names in Glyn Ceiriog",
+        "cy": "Rhestr o enwau caeau yn Glyn Ceiriog"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names",
+        "Glyn Ceiriog",
+        "enwau caeau"
+    ],
+    "when": [],
+    "what": [
+        "Houses and Homes",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010551.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010551.jpg",
+            "type": "image",
+            "target_id": "400017"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010551",
+    "publisher_ref": ""
+}

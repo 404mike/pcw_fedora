@@ -1,0 +1,85 @@
+{
+    "id": 747016,
+    "title": {
+        "en": "The story of Merched y Wawr Llwynpiod Branch",
+        "cy": "Hanes Merched y Wawr Cangen Llwynpiod"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747016",
+    "created": 1516897544,
+    "updated": 1516897544,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Crynodeb o withgareddau Merched y Wawr Cangen Llwynpiod o 1972 ymlaen",
+        "cy": "Crynodeb o withgareddau Merched y Wawr Cangen Llwynpiod o 1972 ymlaen\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llwynpiod ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llwynpiod",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-079.jpg",
+            "type": "image",
+            "target_id": "747001"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-080.jpg",
+            "type": "image",
+            "target_id": "747006"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-081.jpg",
+            "type": "image",
+            "target_id": "747011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

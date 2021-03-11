@@ -1,0 +1,82 @@
+{
+    "id": 584635,
+    "title": {
+        "en": "Hand-written copy of the Programme and Membership Card for the Cardiff Branch of Merched y Wawr 1969-70\n\n",
+        "cy": "Copi mewn llawysgrifen o Gerdyn Aelodaeth a Rhaglen Cangen Caerdydd Merched y Wawr 1969-70\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584635",
+    "created": 1499871296,
+    "updated": 1499871296,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Fersiwn papur mewn llawysgrifen o Gerdyn Aelodaeth a Rhaglen Cangen Caerdydd, 1969-70\nEnwau\u2019r swyddogion \u2013 tudalen flaen\nCopi gwreiddiol y rhaglen \u2013 mewn llawysgrifen \u2013 yn barod i fynd a\u2019w argraffu",
+        "cy": "Fersiwn papur mewn llawysgrifen o Gerdyn Aelodaeth a Rhaglen Cangen Caerdydd, 1969-70\nEnwau\u2019r swyddogion \u2013 tudalen flaen\nCopi gwreiddiol y rhaglen \u2013 mewn llawysgrifen \u2013 yn barod i fynd a\u2019w argraffu"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerdydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerfydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-008.jpg",
+            "type": "image",
+            "target_id": "584633"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-009.jpg",
+            "type": "image",
+            "target_id": "584634"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

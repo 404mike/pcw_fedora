@@ -1,0 +1,120 @@
+{
+    "id": 469970,
+    "title": {
+        "en": "Llanddeusant branch of Merched y Wawr Angleysey's contribution to the project on Welsh place names",
+        "cy": "Cyfraniad cangen Llanddeusant, Sir F\u00f4n, i brosiect Merched y Wawr ar gasglu enwau caeau a lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/469970",
+    "created": 1441700548,
+    "updated": 1441700548,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanddeusant, Anglesey, of Merched y Wawr. It contains lists of field names, farms and houses in the area.",
+        "cy": "Gwybodaeth am waith cangen Llanddeusant o Ferched y Wawr. Mae'n cynnwys rhestri o enwau caeau, ffermydd a tai o'r ardal."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_20016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20016.jpg",
+            "type": "image",
+            "target_id": "469959"
+        },
+        {
+            "originalFilename": "pcw001_20017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20017.jpg",
+            "type": "image",
+            "target_id": "469960"
+        },
+        {
+            "originalFilename": "pcw001_20018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20018.jpg",
+            "type": "image",
+            "target_id": "469961"
+        },
+        {
+            "originalFilename": "pcw001_20019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20019.jpg",
+            "type": "image",
+            "target_id": "469962"
+        },
+        {
+            "originalFilename": "pcw001_20020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20020.jpg",
+            "type": "image",
+            "target_id": "469963"
+        },
+        {
+            "originalFilename": "pcw001_20021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20021.jpg",
+            "type": "image",
+            "target_id": "469964"
+        },
+        {
+            "originalFilename": "pcw001_20022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20022.jpg",
+            "type": "image",
+            "target_id": "469965"
+        },
+        {
+            "originalFilename": "pcw001_20023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20023.jpg",
+            "type": "image",
+            "target_id": "469966"
+        },
+        {
+            "originalFilename": "pcw001_20024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20024.jpg",
+            "type": "image",
+            "target_id": "469967"
+        },
+        {
+            "originalFilename": "pcw001_20025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20025.jpg",
+            "type": "image",
+            "target_id": "469968"
+        },
+        {
+            "originalFilename": "pcw001_20026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_20026.jpg",
+            "type": "image",
+            "target_id": "469969"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_20016",
+    "publisher_ref": ""
+}

@@ -1,0 +1,91 @@
+{
+    "id": 627541,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Rhosmeirch, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhosmeirch, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627541",
+    "created": 1511280864,
+    "updated": 1511280864,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Merched y Wawr, Rhosmeirch yn mynd ati yng Nghwanwyn 2002, i blannu bylbiau Cennin Pedr (rhan o ymgyrch Cenedlaethol y Mudiad). 2. Gwaith caled Merched y Wawr, Rhosmeirch yw weld yn amlwg yng Nghwanwyn 2002, wedi iddynt fynd ati i blannu bylbiau Cennin Pedr yn y Pentref (fel rhan o ymgyrch Cenedlaethol y Mudiad).",
+        "cy": "1. Merched y Wawr, Rhosmeirch yn mynd ati yng Nghwanwyn 2002, i blannu bylbiau Cennin Pedr (rhan o ymgyrch Cenedlaethol y Mudiad). 2. Gwaith caled Merched y Wawr, Rhosmeirch yw weld yn amlwg yng Nghwanwyn 2002, wedi iddynt fynd ati i blannu bylbiau Cennin Pedr yn y Pentref (fel rhan o ymgyrch Cenedlaethol y Mudiad)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhosmeirch",
+    "owner": "Cangen Rhosmeirch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhosmeirch Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhosmeirch",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275049000000",
+            "lon": "-4.311482000000",
+            "description": {
+                "en": "Rhosmeirch",
+                "cy": "Rhosmeirch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH017.jpg",
+            "type": "image",
+            "target_id": "627526"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH021.jpg",
+            "type": "image",
+            "target_id": "627531"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

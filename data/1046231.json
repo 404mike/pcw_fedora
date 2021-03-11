@@ -1,0 +1,67 @@
+{
+    "id": 1046231,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2001",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046231",
+    "created": 1555590107,
+    "updated": 1555590107,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catrin Stevens presenting Tegwen Morris (former Griffiths), National Organiser, with a wedding present.",
+        "cy": "Catrin Stevens yn cyflwyno anrheg priodas i Tegwen Morris (Griffiths gynt), Trefnydd Cenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presenting",
+        "wedding present",
+        "presentation",
+        "cyflwyno",
+        "anrheg priodas",
+        "2001"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_019.jpg",
+            "type": "image",
+            "target_id": "1046226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

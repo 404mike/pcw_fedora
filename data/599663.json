@@ -1,0 +1,75 @@
+{
+    "id": 599663,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Betws Garmon, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr, Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599663",
+    "created": 1502446755,
+    "updated": 1602584300,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ennillwyr Llyfr Llofion, Gwyl Ddiwylliannol y Mudiad ym Mhont Rhydfendigaid, 4ydd o Orffennaf, 1992. Marian Roberts, Menna Williams, Gwyneth Jones Gwinger, Mair Jones",
+        "cy": "Ennillwyr Llyfr Llofion, Gwyl Ddiwylliannol y Mudiad ym Mhont Rhydfendigaid, 4ydd o Orffennaf, 1992. Marian Roberts, Menna Williams, Gwyneth Jones Gwinger, Mair Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "llyfr llofion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_003.jpg",
+            "type": "image",
+            "target_id": "599661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

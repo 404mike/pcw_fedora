@@ -1,0 +1,91 @@
+{
+    "id": 627656,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Rhaglen Gwasanaeth Nadolig. Cangen Merched y Wawr y Fali, Rhanbarth M\u00f4n. 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627656",
+    "created": 1511280903,
+    "updated": 1511280903,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Gwasanaeth Nadolig Merched y Wawr, M\u00f4n er budd Hosbis yn y Cartref, Gwynedd a Man a Cymdeiths St\u00f4c Gwynedd a M\u00f4n - 2014.",
+        "cy": "Rhaglen Gwasanaeth Nadolig Merched y Wawr, M\u00f4n er budd Hosbis yn y Cartref, Gwynedd a Man a Cymdeiths St\u00f4c Gwynedd a M\u00f4n - 2014."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_009.jpg",
+            "type": "image",
+            "target_id": "627641"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_010.jpg",
+            "type": "image",
+            "target_id": "627646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

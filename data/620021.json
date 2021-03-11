@@ -1,0 +1,88 @@
+{
+    "id": 620021,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr St Asaph, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanelwy, Rhanbarth Colwyn. Gwyl Ddewi, 2017. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620021",
+    "created": 1511278314,
+    "updated": 1511278314,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen a\u2019u bagiau Dathlu\u2019r Aur - tra\u2019n dathlu Gwyl Ddewi, 2017.",
+        "cy": "Rhai o aelodau\u2019r gangen a\u2019u bagiau Dathlu\u2019r Aur - tra\u2019n dathlu Gwyl Ddewi, 2017."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanelwy",
+    "owner": "Cangen Llanelwy",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llanelwy",
+                "cy": "Cangen Merched y Wawr Llanelwy"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "St Asaph",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanelwy",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.257851000000",
+            "lon": "-3.440893000000",
+            "description": {
+                "en": "Llanelwy",
+                "cy": "Llanelwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANELWY_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANELWY_019.jpg",
+            "type": "image",
+            "target_id": "620011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

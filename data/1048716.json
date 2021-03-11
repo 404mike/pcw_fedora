@@ -1,0 +1,65 @@
+{
+    "id": 1048716,
+    "title": {
+        "en": "Ceredigion Urdd National Eisteddfod 2010 at  Llanerchaeron",
+        "cy": "Eisteddfod yr Urdd Ceredifgion 2010 yn Llanerchaeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048716",
+    "created": 1555591619,
+    "updated": 1555591619,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Esyllt Jones, National President, presenting the book Rwy'n Swil to Hywel Jones, Director of Mudiad Meithrin",
+        "cy": "Esyllt Jones, Llywydd, yn cyflwyno'r llyfr Rwy'n Swil i Hywel Jones, Cyfarwyddwr Mudiad Meithrin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod",
+        "eisteddfod yr urdd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_275.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_275.jpg",
+            "type": "image",
+            "target_id": "1048711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1049671,
+    "title": {
+        "en": "President's Dinner at Halfway, Nantgaredig 2012",
+        "cy": "Cinio&#039;r Llywydd  yn yr Hanner Ffordd, Nantgaredig 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049671",
+    "created": 1555592005,
+    "updated": 1555592005,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tegwen Morris, Director, registering the members as they arrive.",
+        "cy": "Tegwen Morris, Cyfarwyddwr, yn cofnodi'r aelodau fel maent yn cyrraedd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_386.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_386.jpg",
+            "type": "image",
+            "target_id": "1049666"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

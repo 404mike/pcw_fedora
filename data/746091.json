@@ -1,0 +1,75 @@
+{
+    "id": 746091,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch Singing Festival",
+        "cy": "Cymanfa Ganu Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746091",
+    "created": 1516897117,
+    "updated": 1516897117,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cymanfa ganu MYW Llambed i godi arian i Eisteddfod yr Urdd Ceredigion a\u2019r Sioe Frenhinol 2009 \u2013 o\u2019r chwith i\u2019r dde (cefn): Aerwen Griffiths, Dafydd Williams (g\u0175r Catherine, llywydd y noson), Morfudd Slaymaker, Margaret Jones (organydd), Elma Phillips (organydd), Noeleen Davies. (rhes flaen): Elin Williams (llefarydd), Catherine Williams, Cricieth (llywydd y noson), Rhiannon Lewis (arweinydd), Janet Evans, Carys Lewis (unawdydd",
+        "cy": "Cymanfa ganu MYW Llambed i godi arian i Eisteddfod yr Urdd Ceredigion a\u2019r Sioe Frenhinol 2009 \u2013 o\u2019r chwith i\u2019r dde (cefn): Aerwen Griffiths, Dafydd Williams (g\u0175r Catherine, llywydd y noson), Morfudd Slaymaker, Margaret Jones (organydd), Elma Phillips (organydd), Noeleen Davies. (rhes flaen): Elin Williams (llefarydd), Catherine Williams, Cricieth (llywydd y noson), Rhiannon Lewis (arweinydd), Janet Evans, Carys Lewis (unawdydd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252020.jpg",
+            "type": "image",
+            "target_id": "746086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

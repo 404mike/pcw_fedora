@@ -1,0 +1,110 @@
+{
+    "id": 599648,
+    "title": {
+        "en": "A collection of photographs of MyW Betws y Coed\u2019s craft and cookery competition entry\u2019s",
+        "cy": "Casgliad o luniau o waith crefft a choginio MyW Betws y Coed (cystadlu)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599648",
+    "created": 1502446739,
+    "updated": 1502446739,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cystadlu yn Sioe Wledig Llanrwst",
+        "cy": "Cystadlu yn Sioe Wledig Llanrwst"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "Craft Competition",
+        "Cookery Competition",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy",
+        "Sioe Wledig Llanrwst",
+        "Crefft",
+        "Cystadleuthau Crefft Merched y Wawr",
+        "Coginio",
+        "Cystadleuaethau Coginio Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_019.jpg",
+            "type": "image",
+            "target_id": "599643"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_020.jpg",
+            "type": "image",
+            "target_id": "599644"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_021.jpg",
+            "type": "image",
+            "target_id": "599645"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_022.jpg",
+            "type": "image",
+            "target_id": "599646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

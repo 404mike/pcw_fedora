@@ -1,0 +1,84 @@
+{
+    "id": 613046,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Celebrate 10 Years",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi yn dathlu penblwydd yn 10 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613046",
+    "created": 1510753856,
+    "updated": 1510753856,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau Merched y Wawr Llannau\u2019r Tywi, dathlu penblwydd y gangen yn 10 oed, 1999, yn Nhafarn Pantyrathro.  Y gwestai oedd Mrs Valerie James (Llywydd Cenedlaethol 1996 \u2013 1998) ac ar y noson cyflwynodd Valerie rodd i Mair Griffiths am ei gwaith diflino fel trysoryddes y gangen ers y cychwyn cyntaf.",
+        "cy": "Lluniau Merched y Wawr Llannau\u2019r Tywi, dathlu penblwydd y gangen yn 10 oed, 1999, yn Nhafarn Pantyrathro.  Y gwestai oedd Mrs Valerie James (Llywydd Cenedlaethol 1996 \u2013 1998) ac ar y noson cyflwynodd Valerie rodd i Mair Griffiths am ei gwaith diflino fel trysoryddes y gangen ers y cychwyn cyntaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795656000000",
+            "lon": "-4.367744000000",
+            "description": {
+                "en": "Tafarn Pantyrathro",
+                "cy": "Tafarn Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_036.jpg",
+            "type": "image",
+            "target_id": "613036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

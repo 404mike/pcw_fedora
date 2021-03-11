@@ -1,0 +1,64 @@
+{
+    "id": 1148811,
+    "title": {
+        "en": "Celebrating 200th edition of Y Wawr \u2013 MyW's magazine at the Conrah Hotel.",
+        "cy": "Dathlu rhifyn 200 o gylchgrawn Y Wawr yng ngwesty&#039;r Conrah."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148811",
+    "created": 1562065917,
+    "updated": 1562065917,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sandra Morris Jones welcoming the guests to the occasion \u2013 a special afternoon tea.",
+        "cy": "Sandra Morris Jones yn croesawu aelodau i'r achlysur, sef Te Prynhawn arbennig."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Y Wawr",
+        "MYW",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_079.jpg",
+            "type": "image",
+            "target_id": "1148806"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

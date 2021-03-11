@@ -1,0 +1,75 @@
+{
+    "id": 749871,
+    "title": {
+        "en": "Ticket for the presentation of the drama 'A Calonnau'",
+        "cy": "Tocyn ar gyfer cyflwyniad o ddrama \u2018A Calonnau\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749871",
+    "created": 1516899201,
+    "updated": 1516899201,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen ar gyfer cyflwyniad o ddrama \u2018A Calonnau\u2019 gan Rhiannon Parry gan Ferched y Wawr Cangen y Gwter Fawr a Chwmni Drama\u2019r Gwter Fawr yn Aelwyd Amanw, Nos Fercher, Medi 20, 2015.",
+        "cy": "Taflen ar gyfer cyflwyniad o ddrama \u2018A Calonnau\u2019 gan Rhiannon Parry gan Ferched y Wawr Cangen y Gwter Fawr a Chwmni Drama\u2019r Gwter Fawr yn Aelwyd Amanw, Nos Fercher, Medi 20, 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Y Gwter Fawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Gwter Fawr",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-123.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-123.jpg",
+            "type": "image",
+            "target_id": "749866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

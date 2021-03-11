@@ -1,0 +1,84 @@
+{
+    "id": 615381,
+    "title": {
+        "en": "Merched y Wawr Bridgend Branch Lunching Out 1990",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr yn cael cinio 1990"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615381",
+    "created": 1510755238,
+    "updated": 1510755238,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Penybont ar Ogwr yn cael cinio yn Nhafarn y Bush, San Hilari, mis Mai 1990\nYn y llun mae Sheila Adams, Marilyn Morgan, Mair Workman ac Eirlys Thomas",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr yn cael cinio yn Nhafarn y Bush, San Hilari, mis Mai 1990\nYn y llun mae Sheila Adams, Marilyn Morgan, Mair Workman ac Eirlys Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Penybont ar Ogwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penybont ar Ogwr",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.450112000000",
+            "lon": "-3.417844000000",
+            "description": {
+                "en": "Tafarn y Bush, San Hilari",
+                "cy": "Tafarn y Bush, San Hilari"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-004.jpg",
+            "type": "image",
+            "target_id": "615371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

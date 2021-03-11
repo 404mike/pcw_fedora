@@ -1,0 +1,75 @@
+{
+    "id": 745931,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch 1998-1999 Term",
+        "cy": "Merched y Wawr Cangen Llanbedr Pont Steffan a&#039;r Cylch Tymor 1998-1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745931",
+    "created": 1516897032,
+    "updated": 1516897032,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Medi 1998-1999. Swyddogion ac aelodau pwyllgor MYW Llanbedr Pont Steffan a\u2019r Cylch. O\u2019r chwith i\u2019r dde: Gwenda Richards, Nancy Jones, Nel Jones, Gwen Jones, Ann Lewis, Janet Evans, Mair jones, Rhiannon Jones (llywydd), Margaret Richards, Pat Davies, Myra Jones, Eryl Jones, Joan James.",
+        "cy": "Medi 1998-1999. Swyddogion ac aelodau pwyllgor MYW Llanbedr Pont Steffan a\u2019r Cylch. O\u2019r chwith i\u2019r dde: Gwenda Richards, Nancy Jones, Nel Jones, Gwen Jones, Ann Lewis, Janet Evans, Mair jones, Rhiannon Jones (llywydd), Margaret Richards, Pat Davies, Myra Jones, Eryl Jones, Joan James."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%201.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%25201.jpg",
+            "type": "image",
+            "target_id": "745926"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

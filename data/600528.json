@@ -1,0 +1,85 @@
+{
+    "id": 600528,
+    "title": {
+        "en": "Unveiling a Memorial to Beti Gwynno, Merched y Wawr President 1972 - 1974",
+        "cy": "Dadorchuddio cofeb i Beti Gwynno (Llywydd Cenedlaethol Merched y Wawr 1992 = 1974)\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600528",
+    "created": 1502447851,
+    "updated": 1502447851,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r rhai gymerodd rhan yn yr achlysur o ddadorchuddio cofeb i Beti Gwynno yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974. \n\nDisgyblion a chyn-ddisgyblion Ysgol Cwmbach gyda\u2019r Prifathro Mr Dafydd Evans",
+        "cy": "Llun o\u2019r rhai gymerodd rhan yn yr achlysur o ddadorchuddio cofeb i Beti Gwynno yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974. \n\nDisgyblion a chyn-ddisgyblion Ysgol Cwmbach gyda\u2019r Prifathro Mr Dafydd Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.707593000000",
+            "lon": "-3.412907000000",
+            "description": {
+                "en": "Cwmbach",
+                "cy": "Cwmbach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-259.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-259_0.jpg",
+            "type": "image",
+            "target_id": "600526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

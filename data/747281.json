@@ -1,0 +1,73 @@
+{
+    "id": 747281,
+    "title": {
+        "en": "Merched y Wawr Melindwr Branch donating to Bronglais Hospital",
+        "cy": "Merched y Wawr Melindwr yn cyfrannu arian tuag at Ysbyty Bronglais  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747281",
+    "created": 1516897659,
+    "updated": 1516897659,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Melindwr yn cyflwyno siec o \u00a3700 i Dr Walters tuag at Ward Angharad, Ysbyty Bronglais.",
+        "cy": "Merched y Wawr Melindwr yn cyflwyno siec o \u00a3700 i Dr Walters tuag at Ward Angharad, Ysbyty Bronglais."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Melindwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Melindwr"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-019.jpg",
+            "type": "image",
+            "target_id": "747276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

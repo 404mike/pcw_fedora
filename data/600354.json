@@ -1,0 +1,75 @@
+{
+    "id": 600354,
+    "title": {
+        "en": "Radi Thomas Competition 2015",
+        "cy": "Cystadleuaeth Radi Thomas 2015 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600354",
+    "created": 1502447628,
+    "updated": 1502447628,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ymgais Jayne Hughes, Merched y Wawr Cangen Bro Cennech  ar gyfer Cystadleuaeth Radi Thomas 2015 \u2013 Clytwaith ar y thema Ar y Ffin",
+        "cy": "Ymgais Jayne Hughes, Merched y Wawr Cangen Bro Cennech  ar gyfer Cystadleuaeth Radi Thomas 2015 \u2013 Clytwaith ar y thema Ar y Ffin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-004.jpg",
+            "type": "image",
+            "target_id": "600353"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

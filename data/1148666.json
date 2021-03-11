@@ -1,0 +1,65 @@
+{
+    "id": 1148666,
+    "title": {
+        "en": "The Celebratory Panels celebrating 50 years of Merched y Wawr",
+        "cy": "Paneli Dathlu 50 mlynedd Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148666",
+    "created": 1562065853,
+    "updated": 1562065853,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glyn Maelor",
+        "cy": "Rhanbarth Glyn Maelor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "celebrating 50 years",
+        "Dathlu 50",
+        "MYW",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_063.jpg",
+            "type": "image",
+            "target_id": "1148661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

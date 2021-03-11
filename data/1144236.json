@@ -1,0 +1,66 @@
+{
+    "id": 1144236,
+    "title": {
+        "en": "Festival of the 5 Regions (North Wales)",
+        "cy": "G\u0175yl y 5 Rhanbarth (Gogledd Cymru)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144236",
+    "created": 1562061355,
+    "updated": 1562061355,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Myrddin ap Dafydd reading his poems.",
+        "cy": "Myrddin ap Dafydd yn darllen ei gerddi."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "festival of the 5 regions",
+        "North Wales",
+        "Myrddin ap Dafydd",
+        "g\u0175yl y 5 rhanbarth",
+        "Gogledd Cymru"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_555.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_555.jpg",
+            "type": "image",
+            "target_id": "1144231"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

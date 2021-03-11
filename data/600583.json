@@ -1,0 +1,75 @@
+{
+    "id": 600583,
+    "title": {
+        "en": "A poem to mark Merched y Wawr Llandeilo Branch celebrating a Quarter Century",
+        "cy": "Cerdd am Ferched y Wawr Cangen Llandeilo yn dathlu Chwarter Canrif. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600583",
+    "created": 1502447940,
+    "updated": 1502447940,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd gan Enid Jones (20 Hydref, 1994) ar achlysur Merched y Wawr Cangen Llandeilo yn dathlu Chwarter Canrif.",
+        "cy": "Cerdd gan Enid Jones (20 Hydref, 1994) ar achlysur Merched y Wawr Cangen Llandeilo yn dathlu Chwarter Canrif."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-017.jpg",
+            "type": "image",
+            "target_id": "600582"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

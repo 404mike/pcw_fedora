@@ -1,0 +1,64 @@
+{
+    "id": 1144131,
+    "title": {
+        "en": "President's Dinner at Stradey Park Hotel, Llanelli",
+        "cy": "Cinio&#039;r Llywydd  yng ngwesty Parc y Strade, Llanelli"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144131",
+    "created": 1562061310,
+    "updated": 1562061310,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Officials \u2013 Nan Lewis; Valerie James; Glenys Thomas; Margarette Huws \u2013 past Presidents, and Liz Scourfield on behalf of Carmarthenshire.",
+        "cy": "Cyn-Lywyddion \u2013 Nan Lewis; Valerie James; Glenys Thomas; Margarette Huws. A Liz Scourfield ar ran Rhanbarth Caerfyrddin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Llanelli",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_544.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_544.jpg",
+            "type": "image",
+            "target_id": "1144126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

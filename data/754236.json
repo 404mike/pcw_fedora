@@ -1,0 +1,85 @@
+{
+    "id": 754236,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Trawsfynydd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Trawsfynydd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754236",
+    "created": 1516958689,
+    "updated": 1516958689,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti dawns gwerin y gangen yn Eisteddod Sir Feirionnydd, 1993. Gwelwn: Greta Ellis, Anna Lock, Margaret Ephraim, Catherine Williams, Olwen Williams, Linda Jones, Linda Edwards, Eirlys Ellis.",
+        "cy": "Parti dawns gwerin y gangen yn Eisteddod Sir Feirionnydd, 1993. Gwelwn: Greta Ellis, Anna Lock, Margaret Ephraim, Catherine Williams, Olwen Williams, Linda Jones, Linda Edwards, Eirlys Ellis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Trawsfynydd",
+    "owner": "Cangen Trawsfynydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Trawsfynydd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trawsfynydd",
+        "Drama Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902317000000",
+            "lon": "-3.923549000000",
+            "description": {
+                "en": "Trawsfynydd",
+                "cy": "Trawsfynydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_008.jpg",
+            "type": "image",
+            "target_id": "754226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

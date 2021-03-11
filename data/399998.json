@@ -1,0 +1,74 @@
+{
+    "id": 399998,
+    "title": {
+        "en": "East Regwm Hendy-gwyn Farm",
+        "cy": "Fferm East Regwm Hendy-gwyn "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/399998",
+    "created": 1416923810,
+    "updated": 1416923810,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hand drawn Map of field names in East Regwm, Hendy-gwyn - Parc y Pownd, Parc yr Eithin, Parc Melyn - Ann James, Hendy gwyn, Carmarthen",
+        "cy": "Map wedi ei wneud gyda llaw o enwau caeau East Regwm, Hendy-gwyn - Parc y Pownd, Parc yr Eithin, Parc Melyn - Ann James, Hendy gwyn, Carmarthen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names",
+        "East Regwm",
+        "Whitland",
+        "Enwau caeau ar fferm East Regwm"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819677000000",
+            "lon": "-4.614613000000",
+            "description": {
+                "en": "East Regwm Farm, Whitland",
+                "cy": "Fferm East Regwm Hendy-gwyn, "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010550.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010550.jpg",
+            "type": "image",
+            "target_id": "399996"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010539",
+    "publisher_ref": ""
+}

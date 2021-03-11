@@ -1,0 +1,82 @@
+{
+    "id": 554480,
+    "title": {
+        "en": "Merched y Wawr Coedybryn branch celebrates 20 years",
+        "cy": "Cangen Coedybryn Merched y Wawr yn Dathlu 20 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554480",
+    "created": 1487592019,
+    "updated": 1487592019,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "LLythyr wrth Eluned Morgan (Maesllyn) i Mrs Jones yn estyn croeso i ddathliad 20 oed Cangen Coedybryn, Medi 18 (dim blwyddyn wedi nodi ond sefydlwyd Cangen Coedybryn yng nghyfnod cynnar y Mudiad)",
+        "cy": "LLythyr wrth Eluned Morgan (Maesllyn) i Mrs Jones yn estyn croeso i ddathliad 20 oed Cangen Coedybryn, Medi 18 (dim blwyddyn wedi nodi ond sefydlwyd Cangen Coedybryn yng nghyfnod cynnar y Mudiad)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Coedybryn"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.079040000000",
+            "lon": "-4.402839000000",
+            "description": {
+                "en": "Coedybryn",
+                "cy": "Coedybryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000036.jpg",
+            "type": "image",
+            "target_id": "554478"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

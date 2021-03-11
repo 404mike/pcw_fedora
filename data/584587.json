@@ -1,0 +1,77 @@
+{
+    "id": 584587,
+    "title": {
+        "en": "Booklet Celebrating 40th Anniversary of Merched y Wawr Newport Branch (originally Gwent Branch) ",
+        "cy": "Llyfryn Dathlu 40 Merched y Wawr Cangen Casnewydd (Cangen Gwen yn wreiddiolt)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584587",
+    "created": 1499871237,
+    "updated": 1499871237,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn Dathlu 40 Merched y Wawr Cangen Casnewydd yn adrodd hanes y gangen. Cangen Gwent oedd yr enw ar y gangen ar y cychwyn yn 1975. Mae\u2019n cynnwys ffotograffau a gyfranwyd gan yr aelodau presennol ac hefyd dogfennau a rhaglenni a ffotograffwyd gan Bronwen Green o'r Gangen.",
+        "cy": "Llyfryn Dathlu 40 Merched y Wawr Cangen Casnewydd yn adrodd hanes y gangen. Cangen Gwent oedd yr enw ar y gangen ar y cychwyn yn 1975. Mae\u2019n cynnwys ffotograffau a gyfranwyd gan yr aelodau presennol ac hefyd dogfennau a rhaglenni a ffotograffwyd gan Bronwen Green o'r Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Cangen Gwent",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Llyfryn%20Dathlu%2040%20Merched%20y%20Wawr%20Cangen%20Casnewydd.pdf",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/Llyfryn%2520Dathlu%252040%2520Merched%2520y%2520Wawr%2520Cangen%2520Casnewydd.pdf",
+            "type": "office_doc",
+            "target_id": "584586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

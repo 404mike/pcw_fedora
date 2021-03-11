@@ -1,0 +1,75 @@
+{
+    "id": 745361,
+    "title": {
+        "en": "A greetings card featuring Merched y Wawr 25th Anniversary Celebration Quilt",
+        "cy": "Darlun o Gwilt Dathlu penblwydd Merched y Wawr ar garden cyfarchion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745361",
+    "created": 1516896775,
+    "updated": 1516896775,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Darlun o Gwilt Dathlu penblwydd Merched y Wawr yn 25ain oed ym 1992 ar garden a gynhyrchwyd gan y mudiad.  Buddug Thomas, Cangen Genau\u2019r Glyn ac Enid James, Cangen Talybont, bu wrthi\u2019n gwneud sgw\u00e2r Ceredigion.",
+        "cy": "Darlun o Gwilt Dathlu penblwydd Merched y Wawr yn 25ain oed ym 1992 ar garden a gynhyrchwyd gan y mudiad.  Buddug Thomas, Cangen Genau\u2019r Glyn ac Enid James, Cangen Talybont, bu wrthi\u2019n gwneud sgw\u00e2r Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gennau&#039;r Glyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Gennaur Glyn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-013.jpg",
+            "type": "image",
+            "target_id": "745356"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1047746,
+    "title": {
+        "en": "Pageant to celebrate 40 years and Singing Festival 2007",
+        "cy": "Pasiant Dathlu&#039;r Deugain a Cymanfa Ganu 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047746",
+    "created": 1555591074,
+    "updated": 1555591074,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of Meirionethshire Region performing 'Y Dechrau'.",
+        "cy": "Aelodau o Ranbarth Meirionnydd yn cyflwyno 'Y Dechrau'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Pageant",
+        "singing festival",
+        "Pasiant",
+        "Cymanfa Ganu",
+        "y dechrau"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_168.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_168.jpg",
+            "type": "image",
+            "target_id": "1047741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

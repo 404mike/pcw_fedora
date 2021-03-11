@@ -1,0 +1,65 @@
+{
+    "id": 1144296,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2014",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144296",
+    "created": 1562061380,
+    "updated": 1562061380,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Winner of the Learners Competition \u2013          E-mail to a Friend. 1st Denice Jaunzens.",
+        "cy": "Enillydd Cystadleuaeth y Dysgwyr \u2013        E-bost i Ffrind. 1af Denivce Jaunzens."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "summer festival",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_561.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_561.jpg",
+            "type": "image",
+            "target_id": "1144291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

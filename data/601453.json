@@ -1,0 +1,75 @@
+{
+    "id": 601453,
+    "title": {
+        "en": "Merched y Wawr Cowbridge Branch perform a drama",
+        "cy": "Merched y Wawr Cangen Y Bontfaen yn perfformio drama\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601453",
+    "created": 1502449395,
+    "updated": 1502449395,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o ddrama a berfformiwyd gan yr aelodau Merched y Wawr Cangen Y Bontfaen ym 1973.  \nYn y llun \u2013 Menai Richards, Phillys Murphy, Sheilah Nealy, Mary Crandon, Elinor Elias-Jones, Mair Meredith, Mary Isaac",
+        "cy": "Ffotograff o ddrama a berfformiwyd gan yr aelodau Merched y Wawr Cangen Y Bontfaen ym 1973.  \nYn y llun \u2013 Menai Richards, Phillys Murphy, Sheilah Nealy, Mary Crandon, Elinor Elias-Jones, Mair Meredith, Mary Isaac"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-060117-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-060117-004.jpg",
+            "type": "image",
+            "target_id": "601452"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

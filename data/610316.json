@@ -1,0 +1,82 @@
+{
+    "id": 610316,
+    "title": {
+        "en": "Handmade apron by a member of Merched y Wawr Geler Branch",
+        "cy": "Ffedog gan aelod o Gangen Geler o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610316",
+    "created": 1510753180,
+    "updated": 1510753180,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffedog o waith llaw y diweddar Ajah Scofield a oedd wedi pwytho\u2019r blodau ac enwau aelodau Cangen Geler o Ferched y Wawr gyda llaw",
+        "cy": "Ffedog o waith llaw y diweddar Ajah Scofield a oedd wedi pwytho\u2019r blodau ac enwau aelodau Cangen Geler o Ferched y Wawr gyda llaw"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.017489000000",
+            "lon": "-4.370202000000",
+            "description": {
+                "en": "Saron\/Llangeler",
+                "cy": "Saron\/Llangeler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-019.jpg",
+            "type": "image",
+            "target_id": "610306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 626196,
+    "title": {
+        "en": "Elen Roger Jones\u2019 personal collection of Merched y Wawr memorabilia ",
+        "cy": "Llythyr yn rhoi manylion am y daith Merched y Wawr i Rhufain, 1978."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626196",
+    "created": 1511280410,
+    "updated": 1511280410,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr yn rhoi manylion am y daith Merched y Wawr i Rhufain, 1978.",
+        "cy": "Casgliad Elen Roger Jones, aelod selog a gweithgar o F\u00f4n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Elen Roger Jones",
+    "owner": "Casgliad Elen Roger Jones",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Elen Roger Jones",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Teithiau Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255816000000",
+            "lon": "-4.312139000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERJONES_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERJONES_013.jpg",
+            "type": "image",
+            "target_id": "626186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

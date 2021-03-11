@@ -1,0 +1,86 @@
+{
+    "id": 624856,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Wuddgrug, Glyn Maelor. Eisteddfod Genedlaethol y Rhyl, 1985."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624856",
+    "created": 1511279970,
+    "updated": 1511279970,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau'r gangen yn Eisteddfod Genedlaethol y Rhyl, 1985, can iddynt berfformio \u2018 Merched Wrth eu Gwaith\u2019. Gwelwn, Mairwen Roberts, Menai Thomas (penlinio), Myra Parry, Delyth Williams, Catherine Richards, Ann Roberts, Enid James, Alwena Lewis, Sheila Huws, Margaret Hogg, Glenys Ll. Jones, Jane Roberts, Beryl Davies, Mary Roberts, Eirlys Gruffydd Evans, Morfudd Roberts.",
+        "cy": "Aelodau'r gangen yn Eisteddfod Genedlaethol y Rhyl, 1985, can iddynt berfformio \u2018 Merched Wrth eu Gwaith\u2019. Gwelwn, Mairwen Roberts, Menai Thomas (penlinio), Myra Parry, Delyth Williams, Catherine Richards, Ann Roberts, Enid James, Alwena Lewis, Sheila Huws, Margaret Hogg, Glenys Ll. Jones, Jane Roberts, Beryl Davies, Mary Roberts, Eirlys Gruffydd Evans, Morfudd Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_006.jpg",
+            "type": "image",
+            "target_id": "624846"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

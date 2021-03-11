@@ -1,0 +1,84 @@
+{
+    "id": 743626,
+    "title": {
+        "en": "Merched y Wawr Pembrokeshire visits Llyn Brianne",
+        "cy": "Merched y Wawr Rhanbarth Penfro yn Llyn Brianne"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743626",
+    "created": 1516895953,
+    "updated": 1516895953,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Rhanbarth Penfro o Ferched y Wawr yn ymweld \u00e2 Llyn Brianne yn ystod Penwythnos Merched y Wawr yn y flwyddyn 2000.\nYn eu mysg mae Eilir Davies a Mefin Lewis o Gangen Beca, gyda\u2019r gweddill o Gangen Bro Ddewi, Tyddewi.",
+        "cy": "Aelodau Rhanbarth Penfro o Ferched y Wawr yn ymweld \u00e2 Llyn Brianne yn ystod Penwythnos Merched y Wawr yn y flwyddyn 2000.\nYn eu mysg mae Eilir Davies a Mefin Lewis o Gangen Beca, gyda\u2019r gweddill o Gangen Bro Ddewi, Tyddewi."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.122031000000",
+            "lon": "-3.765319000000",
+            "description": {
+                "en": "Llyn Brianne",
+                "cy": "Llyn Brianne"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-053.jpg",
+            "type": "image",
+            "target_id": "743616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 625361,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Benllech Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Benllech, Rhanbarth M\u00f4n. Dathlu Gwyl Dewi yn 2014."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625361",
+    "created": 1511280137,
+    "updated": 1511280137,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Benllech y dathlu Gwyl Dewi yn 2014. (1af) Ann Elfed Jones, Maira Hughes, Marian Lloyd, Marian Williams, Rhianwen Parry, Anne Thomas, Magdalen Jones (2ail) Grace Jones, Jane Roberts, Ann Bowen, Gwyneth Haf Jones, Eira Jones, Margaret Humphries, (3ydd) Gwyneth Davies, Owena Hughes, Glynwen Williams, Elizabeth Japheth, Ann Thomas, Gwen George, Catherine Jones, Mair Williams (cefn) Mair Roberts, Eleri Jones, Beryl Hughes Jones, Marian Roberts, Lena Evans, Nerys Hughes, Gwladys Parry, Myra Jones.",
+        "cy": "Cangen Benllech y dathlu Gwyl Dewi yn 2014. (1af) Ann Elfed Jones, Maira Hughes, Marian Lloyd, Marian Williams, Rhianwen Parry, Anne Thomas, Magdalen Jones (2ail) Grace Jones, Jane Roberts, Ann Bowen, Gwyneth Haf Jones, Eira Jones, Margaret Humphries, (3ydd) Gwyneth Davies, Owena Hughes, Glynwen Williams, Elizabeth Japheth, Ann Thomas, Gwen George, Catherine Jones, Mair Williams (cefn) Mair Roberts, Eleri Jones, Beryl Hughes Jones, Marian Roberts, Lena Evans, Nerys Hughes, Gwladys Parry, Myra Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Benllech",
+    "owner": "Cangen Benllech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Benllech",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Benllech",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226137000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_012.jpg",
+            "type": "image",
+            "target_id": "625351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

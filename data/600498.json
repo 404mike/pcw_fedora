@@ -1,0 +1,82 @@
+{
+    "id": 600498,
+    "title": {
+        "en": "Merched y Wawr Glannau Pibwr Branch - Entry into a Jigsaw Competition",
+        "cy": "Merched y Wawr Cangen Glannau Pibwr, Cystadleuaeth Jig-so."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600498",
+    "created": 1502447810,
+    "updated": 1502447810,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Glannau Pibwr, Cystadleuaeth Jig-so. Roedd y gangen yn gydradd gyntaf gyda\u2019r ymgais \u2018Cwilt\u2019 \u2013 2 (fersiwn mwy tynn o\u2019r uchod)",
+        "cy": "Merched y Wawr Cangen Glannau Pibwr, Cystadleuaeth Jig-so. Roedd y gangen yn gydradd gyntaf gyda\u2019r ymgais \u2018Cwilt\u2019 \u2013 2 (fersiwn mwy tynn o\u2019r uchod)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen  Glannau Pibwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glannau Pibwr",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.782068000000",
+            "lon": "-4.295906000000",
+            "description": {
+                "en": "Llandyfaelog",
+                "cy": "Llandyfaelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_173733.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_173733.jpg",
+            "type": "image",
+            "target_id": "600496"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

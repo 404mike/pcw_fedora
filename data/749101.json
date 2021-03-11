@@ -1,0 +1,75 @@
+{
+    "id": 749101,
+    "title": {
+        "en": "Merched y Wawr Stand at the 1995 Urdd Eisteddfod",
+        "cy": "Stondin Merched y Wawr yn Eisteddfod yr Urdd Bro&#039;r Preseli"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749101",
+    "created": 1516898853,
+    "updated": 1516898853,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Tegryn, Rhanbarth Penfro yn helpu gyda\u2019r te a coffi stondin Merched y Wawr yn Eisteddfod Bro\u2019r Preseli 1995.\nYn y llun mae Mer John, Olwen Bowen, Vie James ac Ann Davies",
+        "cy": "Merched y Wawr Tegryn, Rhanbarth Penfro yn helpu gyda\u2019r te a coffi stondin Merched y Wawr yn Eisteddfod Bro\u2019r Preseli 1995.\nYn y llun mae Mer John, Olwen Bowen, Vie James ac Ann Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-079.jpg",
+            "type": "image",
+            "target_id": "749096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,94 @@
+{
+    "id": 584458,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch - Scrapbook, 1986 Onwards",
+        "cy": "Cangen Caerfyrddin Merched y Wawr \u2013 Llyfr Lloffion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584458",
+    "created": 1499871083,
+    "updated": 1499871083,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr Lloffion Cangen Caerfyrddin o Ferched y Wawr, 1986 ymlaen. Y Clawr",
+        "cy": "Llyfr Lloffion Cangen Caerfyrddin o Ferched y Wawr, 1986 ymlaen. Y Clawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Cangen Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-120.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-120.jpg",
+            "type": "image",
+            "target_id": "584454"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-131.jpg",
+            "type": "image",
+            "target_id": "584455"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-132.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-132.jpg",
+            "type": "image",
+            "target_id": "584456"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-133.jpg",
+            "type": "image",
+            "target_id": "584457"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

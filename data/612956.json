@@ -1,0 +1,76 @@
+{
+    "id": 612956,
+    "title": {
+        "en": "Merched y Wawr Llanau'r Tywi Programme 1989-1990",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi, Rhaglen 1989-1990"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612956",
+    "created": 1510753837,
+    "updated": 1510753837,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llannau\u2019r Tywi, Rhaglen 1989-1990",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi, Rhaglen 1989-1990"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s",
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_021.jpg",
+            "type": "image",
+            "target_id": "612951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1046156,
+    "title": {
+        "en": "Annual Meeting 2001",
+        "cy": "Cyfarfod Blynyddol 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046156",
+    "created": 1555590062,
+    "updated": 1555590062,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Annual Meeting at the Tabarnacle, Machynlleth, June, 2001. Seated: Gwyneth Morus Jones; Tegwen Griffiths; Catrin Stevens(National President); Mary Roberts; Eirlys Phillips.",
+        "cy": "Cyfarfod Blynyddol yn y Tabernacl, Machynlleth, Mehefin 2001. Eistedd:  Gwyneth Morus Jones; Tegwen Griffiths; Catrin Stevens(Llywydd Cenedlaethol); Mary Roberts; Eirlys Phillips."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "myw annual meeting",
+        "Tabernacle",
+        "machynlleth june 2001",
+        "cyfarfod blynyddol myw yn y tabernacl",
+        "Machynlleth",
+        "mehefin 2001"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_013.jpg",
+            "type": "image",
+            "target_id": "1046151"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

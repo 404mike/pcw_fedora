@@ -1,0 +1,86 @@
+{
+    "id": 751086,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandderfel, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llandderfel, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751086",
+    "created": 1516899783,
+    "updated": 1516899783,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cacen dathlu y gangen yn 25 ym 1993.",
+        "cy": "Cacen dathlu y gangen yn 25 ym 1993."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen LLandderfel",
+    "owner": "Cangen LLandderfel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_001.jpg",
+            "type": "image",
+            "target_id": "751076"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

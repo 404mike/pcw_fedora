@@ -1,0 +1,106 @@
+{
+    "id": 400063,
+    "title": {
+        "en": "Pandy Tudur field names in 2012, and in 1840",
+        "cy": "Enwau caeau Pandy Tudur yn 2012, ac yn 1840"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400063",
+    "created": 1416923944,
+    "updated": 1417016371,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "List of field names on the following farms from 2012: Fron Deg, Hafod Fawr, Nant Erw, Pant Manus, Ty'n y Ffynnon and Llwyn Llydan, Pandy Tudur, Bodrach, Nant y Wrach Bach, Nant y Wrach Fawr, Ty'n Dd\u00f4l, Plas y Blaenau.\r\nList of field names on the following farms from Tithe maps in 1840: Nant y Wrach Bach, Foel Fawr, Llwyn Du Uchaf, Pen'r ardor (Penddaeardor), Ty'n y Twll (Ty'n Twll), T\u0177 Gwyn, Llwyn Llydan, T\u0177 cellen (T\u0177 Celyn), Hendre (Hendre Blaenau), Bryniau Pair Ucha, Pen y Bryn, Fy'n y Ffynnon, Plas yn Blaenau, Hafodty, T\u0177 Hir, Ty'n Dd\u00f4l, Buarth Cerrig, Tan Lan",
+        "cy": "Rhestr o enwau caeau ar ffermydd yn 2012: Fron Deg, Hafod Fawr, Nant Erw, Pant Manus, Ty'n y Ffynnon and Llwyn Llydan, Pandy Tudur, Bodrach, Nant y Wrach Bach, Nant y Wrach Fawr, Ty'n Dd\u00f4l, Plas y Blaenau.\r\nRhestr o enwau caeau ar y ffermydd canlynol a gasglwd o'r Mapiau Degwm yn 1840: Nant y Wrach Bach, Foel Fawr, Llwyn Du Uchaf, Pen'r ardor (Penddaeardor), Ty'n y Twll (Ty'n Twll), T\u0177 Gwyn, Llwyn Llydan, T\u0177 cellen (T\u0177 Celyn), Hendre (Hendre Blaenau), Bryniau Pair Ucha, Pen y Bryn, Fy'n y Ffynnon, Plas yn Blaenau, Hafodty, T\u0177 Hir, Ty'n Dd\u00f4l, Buarth Cerrig, Tan Lan"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Pandy Tudur Fields names 2012",
+        "Caeau Pandy Tudur 2012"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.164173000000",
+            "lon": "-3.722595000000",
+            "description": {
+                "en": "Pandy Tudur, Colwyn",
+                "cy": "Pandy Tudur, Colwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010580.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010580.jpg",
+            "type": "image",
+            "target_id": "400057"
+        },
+        {
+            "originalFilename": "pcw0010581.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010581.jpg",
+            "type": "image",
+            "target_id": "400058"
+        },
+        {
+            "originalFilename": "pcw0010582.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010582.jpg",
+            "type": "image",
+            "target_id": "400059"
+        },
+        {
+            "originalFilename": "pcw0010583.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010583.jpg",
+            "type": "image",
+            "target_id": "400060"
+        },
+        {
+            "originalFilename": "pcw0010584.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010584.jpg",
+            "type": "image",
+            "target_id": "400061"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010580",
+    "publisher_ref": ""
+}

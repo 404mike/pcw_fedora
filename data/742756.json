@@ -1,0 +1,82 @@
+{
+    "id": 742756,
+    "title": {
+        "en": "Merched y Wawr Neath Branch visiting the Gnoll Park",
+        "cy": "Merched y Wawr Castell Nedd yn ymweld \u00e2 Pharc y Gnoll"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742756",
+    "created": 1516895195,
+    "updated": 1516895195,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Castell Nedd yn Parc y Gnoll, Castell-nedd yn dysgu am hanes T\u0177\u2019r Gnoll gyda arweinydd Gwyn Rowlands\nEnwau:\nFfrynt: Eleri Rowlands, Nancy Freak, Nora Hendra, Nancy Jenkins, Phyllis Davies, Rita Rosser, Phoebe Phillips, Heulwen Richards.\nCefn: Gwyn Rowlands, Elizabeth Widlake, Ogwen Hopkins, Janette Jones, Gwenda Lloyd, Marilyn Jeffreys, Patti Webber, Undeg Griffiths.",
+        "cy": "Merched y Wawr Cangen Castell Nedd yn Parc y Gnoll, Castell-nedd yn dysgu am hanes T\u0177\u2019r Gnoll gyda arweinydd Gwyn Rowlands\nEnwau:\nFfrynt: Eleri Rowlands, Nancy Freak, Nora Hendra, Nancy Jenkins, Phyllis Davies, Rita Rosser, Phoebe Phillips, Heulwen Richards.\nCefn: Gwyn Rowlands, Elizabeth Widlake, Ogwen Hopkins, Janette Jones, Gwenda Lloyd, Marilyn Jeffreys, Patti Webber, Undeg Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.663619000000",
+            "lon": "-3.784821000000",
+            "description": {
+                "en": "Parc y Gnoll ",
+                "cy": "Parc y Gnoll "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "05.05%20Gnoll%20Castell%20Nedd.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/05.05%2520Gnoll%2520Castell%2520Nedd.jpg",
+            "type": "image",
+            "target_id": "742746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

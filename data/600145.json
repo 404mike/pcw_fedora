@@ -1,0 +1,85 @@
+{
+    "id": 600145,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrwst, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanrwst, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600145",
+    "created": 1502447306,
+    "updated": 1502447306,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl yn nodi canlyniadau Eisteddfod Dathlu G\u0175yl Dewi, 4ydd o Fawrth, 1975.",
+        "cy": "Erthygl yn nodi canlyniadau Eisteddfod Dathlu G\u0175yl Dewi, 4ydd o Fawrth, 1975."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrwst",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrwst",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799720000000",
+            "description": {
+                "en": "Llanrwst",
+                "cy": "Llanrwst"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_039.jpg",
+            "type": "image",
+            "target_id": "600143"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

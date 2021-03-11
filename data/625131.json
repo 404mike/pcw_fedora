@@ -1,0 +1,92 @@
+{
+    "id": 625131,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Amlwch, Anglesey.",
+        "cy": "Gwibdaith h\u00e2f cangen Merched y Wawr Amlwch, Rhanbarth M\u00f4n. Capel Salem, 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625131",
+    "created": 1511280059,
+    "updated": 1511280059,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith h\u00e2f y gangen i Gapel Salem yn 2016 0 ble darlunwyd y llun gweriddiol gan Syndney Curnew Vosper (1908).",
+        "cy": "Gwibdaith h\u00e2f y gangen i Gapel Salem yn 2016 0 ble darlunwyd y llun gweriddiol gan Syndney Curnew Vosper (1908)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Amwlch",
+    "owner": "Cangen Amwlch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Amlwch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Amwlch",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411193000000",
+            "lon": "-4.343023000000",
+            "description": {
+                "en": "Amlwch",
+                "cy": "Amlwch "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_002.jpg",
+            "type": "image",
+            "target_id": "625116"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_001.jpg",
+            "type": "image",
+            "target_id": "625121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

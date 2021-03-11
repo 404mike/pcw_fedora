@@ -1,0 +1,88 @@
+{
+    "id": 600904,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch Fun Quiz Team",
+        "cy": "T\u00eem Cwis Hwyl Merched y Wawr Cangen San Cler "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600904",
+    "created": 1502448400,
+    "updated": 1502448400,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem o Ferched y Wawr Cangen San Cler a ddaeth yn ail yn genedlaethol yng Nghwis Hwyl 2009.\nSally Davies, Iona Morgan, Nest Williams, Beti-Wyn James",
+        "cy": "T\u00eem o Ferched y Wawr Cangen San Cler a ddaeth yn ail yn genedlaethol yng Nghwis Hwyl 2009.\nSally Davies, Iona Morgan, Nest Williams, Beti-Wyn James"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-034.jpg",
+            "type": "image",
+            "target_id": "600901"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-035.jpg",
+            "type": "image",
+            "target_id": "600902"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-036.jpg",
+            "type": "image",
+            "target_id": "600903"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

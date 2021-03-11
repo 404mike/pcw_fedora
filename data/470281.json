@@ -1,0 +1,83 @@
+{
+    "id": 470281,
+    "title": {
+        "en": "Llanddoged, Aberconwy branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanddoged, Aberconwy i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470281",
+    "created": 1441700677,
+    "updated": 1441700677,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanddoged, Aberconwy branch of Merched y Wawr. It contains lists of farms and their field names.",
+        "cy": "Gwybodaeth am waith cangen Llanddoged, Aberconwy o Ferched y Wawr. Mae'n cynnwys rhestri o enwau ffermydd a'r caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10449.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10449.jpg",
+            "type": "image",
+            "target_id": "470276"
+        },
+        {
+            "originalFilename": "pcw001_10450.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10450.jpg",
+            "type": "image",
+            "target_id": "470277"
+        },
+        {
+            "originalFilename": "pcw001_10451.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10451.jpg",
+            "type": "image",
+            "target_id": "470278"
+        },
+        {
+            "originalFilename": "pcw001_10452.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10452.jpg",
+            "type": "image",
+            "target_id": "470279"
+        },
+        {
+            "originalFilename": "pcw001_10453.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10453.jpg",
+            "type": "image",
+            "target_id": "470280"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10449",
+    "publisher_ref": ""
+}

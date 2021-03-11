@@ -1,0 +1,75 @@
+{
+    "id": 749171,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch knitting",
+        "cy": "Merched y Wawr Cangen Tegryn yn gwau blanced "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749171",
+    "created": 1516898890,
+    "updated": 1516898890,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Tegryn yn gwau sgwariau a\u2019u gwn\u00efo i wneud blancedi ar gyfer eu danfon allan i Rwmania. \nYn y llun mae Olwen Bowen, Ray Samson, Von Evans, Buddug Ward",
+        "cy": "Aelodau Merched y Wawr Cangen Tegryn yn gwau sgwariau a\u2019u gwn\u00efo i wneud blancedi ar gyfer eu danfon allan i Rwmania. \nYn y llun mae Olwen Bowen, Ray Samson, Von Evans, Buddug Ward"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-086.jpg",
+            "type": "image",
+            "target_id": "749166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

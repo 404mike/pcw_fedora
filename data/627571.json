@@ -1,0 +1,85 @@
+{
+    "id": 627571,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Rhosmeirch, Anglesey.",
+        "cy": "Erthygl o &#039;Y Wawr\u2019, dathliadau can mlwyddiant Mrs Ann Mary Williams. Cangen Merched y Wawr Rhosmeirch, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627571",
+    "created": 1511280875,
+    "updated": 1511280875,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o 'Y Wawr\u2019 yn nodi dathliad can mlwyddiant Mrs Ann Mary Williams, o gangen Rhosmeirch yng nghwmni Sian Arwel Davies (Llywydd Rh. Mon) a Megan Pritchard (Is-Lywydd Rh. Mon).",
+        "cy": "Erthygl o 'Y Wawr\u2019 yn nodi dathliad can mlwyddiant Mrs Ann Mary Williams, o gangen Rhosmeirch yng nghwmni Sian Arwel Davies (Llywydd Rh. Mon) a Megan Pritchard (Is-Lywydd Rh. Mon)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhosmeirch",
+    "owner": "Cangen Rhosmeirch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhosmeirch Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhosmeirch",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275049000000",
+            "lon": "-4.311482000000",
+            "description": {
+                "en": "Rhosmeirch",
+                "cy": "Rhosmeirch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH020.jpg",
+            "type": "image",
+            "target_id": "627561"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

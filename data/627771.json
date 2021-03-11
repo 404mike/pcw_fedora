@@ -1,0 +1,87 @@
+{
+    "id": 627771,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llangoed, Anglesey.",
+        "cy": "Llun o gangen cyntaf Ynys M\u00f4n, cangen Merched y Wawr Llangoed, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627771",
+    "created": 1511280944,
+    "updated": 1511280944,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dyma lun o gangen 1af o Ferched y Wawr ar Ynys M\u00f4n, sef cangen Llangoed a sefydlwyd ar y 23ain o Dachwedd, 1967 yn Ysgoldy Rhyd, Llangoed. Swyddogion: Mrs Owen, Perth-y-Gog, Llywydd, Mrs Roberts, Lynton, Ysgrifennydd, Mrs Roberts, Llanfaes Newydd, Is-lywydd, Mrs Evans, Cerrig Duon, Trysorydd. Dyma lun o\u2019r gangen yn dathlu ei phenblwydd yn 10, ym 1977. (cefn) Diarwybod, Mrs Megan Moel Jones, Mrs Helen Ramage, Mrs Eddie Jones, Mrs Pinion Jones, Miss Lizzie Roberts, Miss Dora Roberts, Mrs Bedwyr Lewis Jones, Miss Gwyneth Roberts (blaen) Mrs Margaret Williams, Mrs Roberts Cichle, Diarwybod, Mrs W. R. Williiams, Llew Llwydiarth, Mrs Elizabeth Owen, Mrs Eirwen Roberts, Mrs Evans (Is-Lywydd 1af).",
+        "cy": "Dyma lun o gangen 1af o Ferched y Wawr ar Ynys M\u00f4n, sef cangen Llangoed a sefydlwyd ar y 23ain o Dachwedd, 1967 yn Ysgoldy Rhyd, Llangoed. Swyddogion: Mrs Owen, Perth-y-Gog, Llywydd, Mrs Roberts, Lynton, Ysgrifennydd, Mrs Roberts, Llanfaes Newydd, Is-lywydd, Mrs Evans, Cerrig Duon, Trysorydd. Dyma lun o\u2019r gangen yn dathlu ei phenblwydd yn 10, ym 1977. (cefn) Diarwybod, Mrs Megan Moel Jones, Mrs Helen Ramage, Mrs Eddie Jones, Mrs Pinion Jones, Miss Lizzie Roberts, Miss Dora Roberts, Mrs Bedwyr Lewis Jones, Miss Gwyneth Roberts (blaen) Mrs Margaret Williams, Mrs Roberts Cichle, Diarwybod, Mrs W. R. Williiams, Llew Llwydiarth, Mrs Elizabeth Owen, Mrs Eirwen Roberts, Mrs Evans (Is-Lywydd 1af)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangoed",
+    "owner": "Cangen Llangoed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangoed",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangoed",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293996000000",
+            "lon": "-4.087619000000",
+            "description": {
+                "en": "Llangoed",
+                "cy": "Llangoed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGOED_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGOED_001.jpg",
+            "type": "image",
+            "target_id": "627761"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

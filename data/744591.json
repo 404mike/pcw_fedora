@@ -1,0 +1,81 @@
+{
+    "id": 744591,
+    "title": {
+        "en": "A letter of thanks to Clydach Branch from Wendy Richards, Merched y Wawr National President 1976 - 1978",
+        "cy": "Llythyr diolch wrth Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) i Gangen Clydach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744591",
+    "created": 1516896394,
+    "updated": 1516896394,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr o ddiolch oddiwrth Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) i Gangen Clydach am y gefnogaeth ac hefyd am y rhodd o flwch pren i ddal tlysau o waith y Parchedig T. Alwyn Williams, tad Annette Hughes, aelod a chyn-ysgrifennydd y Gangen.  Dyddiad y llythyr \u2013 Hydref 13, 1976.  Roedd y bocs yn rhodd o\u2019r Rhanbarth i Wendy ar ei llywyddiaeth.  Tudalen 1",
+        "cy": "Llythyr o ddiolch oddiwrth Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) i Gangen Clydach am y gefnogaeth ac hefyd am y rhodd o flwch pren i ddal tlysau o waith y Parchedig T. Alwyn Williams, tad Annette Hughes, aelod a chyn-ysgrifennydd y Gangen.  Dyddiad y llythyr \u2013 Hydref 13, 1976.  Roedd y bocs yn rhodd o\u2019r Rhanbarth i Wendy ar ei llywyddiaeth.  Tudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-053.jpg",
+            "type": "image",
+            "target_id": "744581"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-054.jpg",
+            "type": "image",
+            "target_id": "744586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

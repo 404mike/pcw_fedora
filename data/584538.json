@@ -1,0 +1,109 @@
+{
+    "id": 584538,
+    "title": {
+        "en": "Merched y Wawr, Porthcawl Branch, Treasurer's Record 1970\/71",
+        "cy": "Merched y Wawr Cangen Porthcawl, Record y Trysorydd 1970\/71 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584538",
+    "created": 1499871167,
+    "updated": 1499871167,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnod o record y Trysorydd am y flwyddyn 1970\/71 y flwyddyn dechreuwyd Cangen Porthcawl o Ferched y Wawr.\nTud 1.  Rhoi enwau\u2019r Trysoryddion Cenedlaethol\/Sirol ar y pryd",
+        "cy": "Cofnod o record y Trysorydd am y flwyddyn 1970\/71 y flwyddyn dechreuwyd Cangen Porthcawl o Ferched y Wawr.\nTud 1.  Rhoi enwau\u2019r Trysoryddion Cenedlaethol\/Sirol ar y pryd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Porthcawl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Porthcawl",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.479091000000",
+            "lon": "-3.702864000000",
+            "description": {
+                "en": "Porthcawl ",
+                "cy": "Porthcawl "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-053.jpg",
+            "type": "image",
+            "target_id": "584532"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-054.jpg",
+            "type": "image",
+            "target_id": "584533"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-056.jpg",
+            "type": "image",
+            "target_id": "584534"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-057.jpg",
+            "type": "image",
+            "target_id": "584535"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-058.jpg",
+            "type": "image",
+            "target_id": "584536"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

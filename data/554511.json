@@ -1,0 +1,82 @@
+{
+    "id": 554511,
+    "title": {
+        "en": "Merched y Wawr Capel Newydd Branch at the Royal Welsh Show 2007",
+        "cy": "Cangen Capel Newydd Merched y Wawr yn Sioe Llanelwedd 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554511",
+    "created": 1487592140,
+    "updated": 1487592140,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nAelodau Cangen Capel Newydd, Penfro, ar stondin Merched y Wawr yn Sioe Llanelwedd 2007 Yn y llun mae Glenys, Beryl, Myfanwy",
+        "cy": "Aelodau Cangen Capel Newydd, Penfro, ar stondin Merched y Wawr yn Sioe Llanelwedd 2007 Yn y llun mae Glenys, Beryl, Myfanwy"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157850000000",
+            "lon": "-3.407204000000",
+            "description": {
+                "en": "Sioe Frenhinol Cymru, Llanelwedd",
+                "cy": "Sioe Frenhinol Cymru, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-171016-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-171016-006.jpg",
+            "type": "image",
+            "target_id": "554509"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

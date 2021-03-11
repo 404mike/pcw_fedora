@@ -1,0 +1,97 @@
+{
+    "id": 554420,
+    "title": {
+        "en": "Festival and Leisure Day school 1999",
+        "cy": "Ysgol Undydd Gwyl a Hamdden 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554420",
+    "created": 1487591824,
+    "updated": 1487591824,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Ysgol Undydd Gwyl a Hamdden 1999, Cyrsiau Celf a Chrefft a Cyrsiau Chwaraeon",
+        "cy": "Taflen Ysgol Undydd Gwyl a Hamdden 1999, Cyrsiau Celf a Chrefft a Cyrsiau Chwaraeon"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000005.jpg",
+            "type": "image",
+            "target_id": "554415"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000006.jpg",
+            "type": "image",
+            "target_id": "554416"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000007.jpg",
+            "type": "image",
+            "target_id": "554417"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000008.jpg",
+            "type": "image",
+            "target_id": "554418"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000010.jpg",
+            "type": "image",
+            "target_id": "554419"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,78 @@
+{
+    "id": 1049591,
+    "title": {
+        "en": "MyW Residential Weekend 2011, Bangor \u2013 Bwrlwm a Bantams",
+        "cy": "Penwythnos Preswyl MyW 2011, Bangor \u2013 Bwrlwm a Bantams"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049591",
+    "created": 1555591974,
+    "updated": 1555591974,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members feasting.",
+        "cy": "Aelodau yn gwledda."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "bwrlwm a bantams"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_374.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_374.jpg",
+            "type": "image",
+            "target_id": "1049576"
+        },
+        {
+            "originalFilename": "df_myw_375.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_375.jpg",
+            "type": "image",
+            "target_id": "1049581"
+        },
+        {
+            "originalFilename": "df_myw_376.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_376.jpg",
+            "type": "image",
+            "target_id": "1049586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,80 @@
+{
+    "id": 750706,
+    "title": {
+        "en": "A diary entry of the Merched y Wawr trip to Russia 1975",
+        "cy": "Dyddiadur Wendy Richards ar daith Rwsia Merched y Wawr 1975"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750706",
+    "created": 1516899596,
+    "updated": 1516899596,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tudalennau dyddiadur Wendy Richards yn cofnodi trip Merched y Wawr i Rwsia ym mis Mai, 1975.",
+        "cy": "Tudalennau dyddiadur Wendy Richards yn cofnodi trip Merched y Wawr i Rwsia ym mis Mai, 1975."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Casgliad Wendy Richards, Cangen Castell Nedd a Llywydd Cenedlaethol 1976-1978)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Taith%20Rwsia%201975%20Darn%20o%20ddyddiadur%20Wendy%20Richards%20%28i%29%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520Rwsia%25201975%2520Darn%2520o%2520ddyddiadur%2520Wendy%2520Richards%2520%2528i%2529%2520001.jpg",
+            "type": "image",
+            "target_id": "750696"
+        },
+        {
+            "originalFilename": "Taith%20Rwsia%201975%20darn%20o%20dyddiadur%20Wendy%20Richards%20%28ii%29%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520Rwsia%25201975%2520darn%2520o%2520dyddiadur%2520Wendy%2520Richards%2520%2528ii%2529%2520001.jpg",
+            "type": "image",
+            "target_id": "750701"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

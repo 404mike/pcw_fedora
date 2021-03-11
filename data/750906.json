@@ -1,0 +1,110 @@
+{
+    "id": 750906,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, y Bala, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bala, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750906",
+    "created": 1516899723,
+    "updated": 1516899723,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr cofnodion ariannol cyntaf y Gangen o 1968. Sefydlwyd y gangen nos Iau, Chwefror, 28ain, 1968. Ceir yma hefyd rhestr llawn o\u2019r aelodau cyntaf.",
+        "cy": "Llyfr cofnodion ariannol cyntaf y Gangen o 1968. Sefydlwyd y gangen nos Iau, Chwefror, 28ain, 1968. Ceir yma hefyd rhestr llawn o\u2019r aelodau cyntaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bala",
+    "owner": "Cangen y Bala",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bala",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bala",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.909665000000",
+            "lon": "-3.599882000000",
+            "description": {
+                "en": "Y Bala",
+                "cy": "Y Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_001.jpg",
+            "type": "image",
+            "target_id": "750876"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_002.jpg",
+            "type": "image",
+            "target_id": "750881"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_003.jpg",
+            "type": "image",
+            "target_id": "750886"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_007.jpg",
+            "type": "image",
+            "target_id": "750891"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_009.jpg",
+            "type": "image",
+            "target_id": "750896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

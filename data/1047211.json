@@ -1,0 +1,73 @@
+{
+    "id": 1047211,
+    "title": {
+        "en": "Swansea and District National Eisteddfod 2006",
+        "cy": "Eisteddfod Genedlaethol Abertawe a&#039;r cylch 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047211",
+    "created": 1555590772,
+    "updated": 1555590772,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand at the Swansea National Eisteddfod 2006",
+        "cy": "Stondin MyW yn Eisteddfod Abertawe 2006"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "SWANSEA",
+        "national eisteddfod",
+        "stand",
+        "Eisteddfod Genedlaethol",
+        "abertawe",
+        "stondin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_107.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_107.jpg",
+            "type": "image",
+            "target_id": "1047201"
+        },
+        {
+            "originalFilename": "df_myw_108.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_108.jpg",
+            "type": "image",
+            "target_id": "1047206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 744686,
+    "title": {
+        "en": "Merched y Wawr Clydach and Morriston Branches at the Sports Fun Day",
+        "cy": "Merched y Wawr Cangen Clydach a Cangen Treforys yn y Chwaraeon Hwyl \nAnnette Thomas (Clydach), Elaine John (Treforys), Kathryn Evans (Treforys), ?, Heulwen Hunt (Clydach), Helen Roberts, Heulwen Jones (Clydach)\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744686",
+    "created": 1516896437,
+    "updated": 1516896437,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Clydach a Cangen Treforys yn y Chwaraeon Hwyl yn Rhanbarth ar ddiwedd y 1980au.\nAnnette Thomas (Clydach), Elaine John (Treforys), Kathryn Evans (Treforys), ?, Heulwen Hunt (Clydach), Helen Roberts, Heulwen Jones (Clydach)",
+        "cy": "Merched y Wawr Cangen Clydach a Cangen Treforys yn y Chwaraeon Hwyl yn Rhanbarth ar ddiwedd y 1980au.\nAnnette Thomas (Clydach), Elaine John (Treforys), Kathryn Evans (Treforys), ?, Heulwen Hunt (Clydach), Helen Roberts, Heulwen Jones (Clydach)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-077.jpg",
+            "type": "image",
+            "target_id": "744681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

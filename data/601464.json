@@ -1,0 +1,73 @@
+{
+    "id": 601464,
+    "title": {
+        "en": "Merched y Wawr Cangen Cwm Rhymni yn Gwledda",
+        "cy": "Merched y Wawr Cangen Cwm Rhymni yn Gwledda"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601464",
+    "created": 1502449411,
+    "updated": 1502449411,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Cwm Rhymni yn mwynhau cinio Dathlu Gwyl Dewi yn ardal Bassaleg.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     1.   Rhian Huws\n2.   Sian John\n3.   Mari Mills\n4.   Dorothy Morgan\n5.   Maureen Potter\n6.   Elin Jones\n7.   Dilys Williams\n8.   Judith Griffiths\n9.   Janet Cumpstone\n10.   Marian Fairclough\n11.  Ann Walker\n12.  Jenni Jones Annetts\n13.  Anwen Hill\n14.  Sian Griffiths\n15.  Janet Lewis\n16.  Eirlys Thomas\n17.  Wilma Davies\n18.  Gaynor Williams\n17.  Margaret Griffiths\n18.  Gwyneth Davies",
+        "cy": "Aelodau Cangen Cwm Rhymni yn mwynhau cinio Dathlu Gwyl Dewi yn ardal Bassaleg.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     1.   Rhian Huws\n2.   Sian John\n3.   Mari Mills\n4.   Dorothy Morgan\n5.   Maureen Potter\n6.   Elin Jones\n7.   Dilys Williams\n8.   Judith Griffiths\n9.   Janet Cumpstone\n10.   Marian Fairclough\n11.  Ann Walker\n12.  Jenni Jones Annetts\n13.  Anwen Hill\n14.  Sian Griffiths\n15.  Janet Lewis\n16.  Eirlys Thomas\n17.  Wilma Davies\n18.  Gaynor Williams\n17.  Margaret Griffiths\n18.  Gwyneth Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cwm%20Rhymni%20-%20Gwledda.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/Cwm%2520Rhymni%2520-%2520Gwledda.jpg",
+            "type": "image",
+            "target_id": "601463"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

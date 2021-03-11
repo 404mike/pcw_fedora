@@ -1,0 +1,82 @@
+{
+    "id": 600425,
+    "title": {
+        "en": "Merched y Wawr Capel Iwan Branch - Baner ",
+        "cy": "Baner Merched y Wawr Cangen Capel Iwan  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600425",
+    "created": 1502447728,
+    "updated": 1502447728,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Cangen Capel Iwan o Ferched y Wawr.  Saif pentref Capel Iwan ger cwm serth Cwm Cuch.  Coedwigedd sydd ar ochrau\u2019r cwm, does dim lle ar ei waelod i ddim ond afon a heol ac ambell dd\u00f4l hirfain.  Dyma Glyn Cuch ble bu Pwyll Pendefig Dyfed yn hela.  Mae\u2019r faner yn dangos Pwyll yn cyfarfod \u00e2 Rhiannon am y tro cyntaf.  \nMrs Eulwen Jenkins a gynlluniodd a frodiodd y faner.",
+        "cy": "Baner Cangen Capel Iwan o Ferched y Wawr.  Saif pentref Capel Iwan ger cwm serth Cwm Cuch.  Coedwigedd sydd ar ochrau\u2019r cwm, does dim lle ar ei waelod i ddim ond afon a heol ac ambell dd\u00f4l hirfain.  Dyma Glyn Cuch ble bu Pwyll Pendefig Dyfed yn hela.  Mae\u2019r faner yn dangos Pwyll yn cyfarfod \u00e2 Rhiannon am y tro cyntaf.  \nMrs Eulwen Jenkins a gynlluniodd a frodiodd y faner."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Capel Iwan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Iwan",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.998612000000",
+            "lon": "-4.492446000000",
+            "description": {
+                "en": "Capel Iwan",
+                "cy": "Capel Iwan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-117.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-117.jpg",
+            "type": "image",
+            "target_id": "600423"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 753226,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753226",
+    "created": 1516958416,
+    "updated": 1516958416,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen yn cymeryd rhan yng Ngharnifal Llan, wedi\u2019u gwisgo fel dawnswyr Morris. Tua diwedd yr 80au. Gwelwn: Megan, Gwenda, iola, Helen, (\u00f4l) Eurwen, Mai P, Myfanwy, Claudia, Gwenda Roberts, Mair.",
+        "cy": "Rhai o aelodau\u2019r Gangen yn cymeryd rhan yng Ngharnifal Llan, wedi\u2019u gwisgo fel dawnswyr Morris. Tua diwedd yr 80au. Gwelwn: Megan, Gwenda, iola, Helen, (\u00f4l) Eurwen, Mai P, Myfanwy, Claudia, Gwenda Roberts, Mair."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd",
+        "Drama Meirionnydd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932342000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_013.jpg",
+            "type": "image",
+            "target_id": "753216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

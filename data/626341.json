@@ -1,0 +1,86 @@
+{
+    "id": 626341,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gaerwen, Anglesey.",
+        "cy": "Aelodau cyntaf  cangen Merched y Wawr Gaerwen, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626341",
+    "created": 1511280458,
+    "updated": 1511280458,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau cyntaf Cangen Gaerwen a sefydlwyd yn 1970. (Cefn) Mrs Howells (ty\u2019r ysgol), Mrs Jones (Dolwar), Miss Helen Davies (Maes Merddyn), Mrs AO Roberts (Tros y Marian), Mrs Jones (Tyn Rardd), Mrs Mair Jones (Erw Deg), Mrs G Jones (Rhos Wen), Mrs Efrys Jones (Mornest), Mrs Griffiths (Perthi), Mrs M Jones (Bodgwilym), Mrs Humphreys (Fron Dirion), Mrs Owen (Tai Newydd, Pentre Berw), Mrs Jones (Bryn Esceifiog), Mrs K Jones (Gorslwyn), Mrs Jones (Bron Heulog, Llanddaniel Fab), Mrs K WIlliams (Berw Cottage), Mrs Wright (Bron Heulog) Mrs Davies (Llys Awen) (Eistedd) Mrs Rowlands (Noddfa), Mrs Owen (Callen) Mrs M Williams (Paradwys), Mrs Lorna J Owen (Llwyn Hudol), MRs Evelyn Holland (Derlyn) Mrs Ann Evans (Ryan), Mrs William (Becws Vron), Aelodau eraill ond ddim yn y llun - Mrs Danials (Nant y Glyn), Mes Evans (Tyn Pwll), Mrs Griffith (Maes Merddyn), Mrs Hughes (Refail), Mrs Hudson (Stryd Capel), Mrs Jones (Biwmares), Mrs Roberts (Maes Merddyn), Mrs Roberts (Llyn Iolen) Mrs Thompson, Bryn Goleu), Mrs Webster (Gaerwen Uchaf), Mrs Williams (Maes Merddyn).",
+        "cy": "Aelodau cyntaf Cangen Gaerwen a sefydlwyd yn 1970. (Cefn) Mrs Howells (ty\u2019r ysgol), Mrs Jones (Dolwar), Miss Helen Davies (Maes Merddyn), Mrs AO Roberts (Tros y Marian), Mrs Jones (Tyn Rardd), Mrs Mair Jones (Erw Deg), Mrs G Jones (Rhos Wen), Mrs Efrys Jones (Mornest), Mrs Griffiths (Perthi), Mrs M Jones (Bodgwilym), Mrs Humphreys (Fron Dirion), Mrs Owen (Tai Newydd, Pentre Berw), Mrs Jones (Bryn Esceifiog), Mrs K Jones (Gorslwyn), Mrs Jones (Bron Heulog, Llanddaniel Fab), Mrs K WIlliams (Berw Cottage), Mrs Wright (Bron Heulog) Mrs Davies (Llys Awen) (Eistedd) Mrs Rowlands (Noddfa), Mrs Owen (Callen) Mrs M Williams (Paradwys), Mrs Lorna J Owen (Llwyn Hudol), MRs Evelyn Holland (Derlyn) Mrs Ann Evans (Ryan), Mrs William (Becws Vron), Aelodau eraill ond ddim yn y llun - Mrs Danials (Nant y Glyn), Mes Evans (Tyn Pwll), Mrs Griffith (Maes Merddyn), Mrs Hughes (Refail), Mrs Hudson (Stryd Capel), Mrs Jones (Biwmares), Mrs Roberts (Maes Merddyn), Mrs Roberts (Llyn Iolen) Mrs Thompson, Bryn Goleu), Mrs Webster (Gaerwen Uchaf), Mrs Williams (Maes Merddyn)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gaerwen",
+    "owner": "Cangen Gaerwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gaerwen",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gaerwen",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.222982000000",
+            "lon": "-4.280288000000",
+            "description": {
+                "en": "Gaerwen",
+                "cy": "Gaerwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Gaerwen_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Gaerwen_009.jpg",
+            "type": "image",
+            "target_id": "626331"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

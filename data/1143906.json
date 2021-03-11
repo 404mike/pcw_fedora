@@ -1,0 +1,75 @@
+{
+    "id": 1143906,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2013",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143906",
+    "created": 1562061203,
+    "updated": 1562061203,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW stand.",
+        "cy": "Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "denbigh national eisteddfod 2013",
+        "eisteddfod genedlaethol dinbych ar cylch 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_511.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_511.jpg",
+            "type": "image",
+            "target_id": "1143891"
+        },
+        {
+            "originalFilename": "df_myw_512.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_512.jpg",
+            "type": "image",
+            "target_id": "1143896"
+        },
+        {
+            "originalFilename": "df_myw_513.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_513.jpg",
+            "type": "image",
+            "target_id": "1143901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

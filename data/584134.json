@@ -1,0 +1,84 @@
+{
+    "id": 584134,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - North Wales Trip 2014",
+        "cy": "Merched y Wawr Cangen Maenclochog - Taith i Ogledd Cymru 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584134",
+    "created": 1499870399,
+    "updated": 1499870399,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y wawr Maenclochog, Mehefin 2014.  Arianwyd y daith i Ogledd Gymru gan arian loteri.\nYn yr ardd, cartref Lloyd George, Llanystumdwy.  Cefn \u2013 Beryl John, Aerona Edwards, Mary Llewellyn, Myfanwy Bowen, Vi Edwards\nBlaen \u2013 Eira Rowlands, Eirwen Gibby a Maureen George",
+        "cy": "Merched y wawr Maenclochog, Mehefin 2014.  Arianwyd y daith i Ogledd Gymru gan arian loteri.\nYn yr ardd, cartref Lloyd George, Llanystumdwy.  Cefn \u2013 Beryl John, Aerona Edwards, Mary Llewellyn, Myfanwy Bowen, Vi Edwards\nBlaen \u2013 Eira Rowlands, Eirwen Gibby a Maureen George"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.921603000000",
+            "lon": "-4.269602000000",
+            "description": {
+                "en": "Llanystumdwy, Cartref Lloyd George",
+                "cy": "Llanystumdwy, Cartref Lloyd George"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-064.jpg",
+            "type": "image",
+            "target_id": "584132"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,59 @@
+{
+    "id": 470230,
+    "title": {
+        "en": "Dinas, Arfon branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Dinas, Arfon i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470230",
+    "created": 1441700657,
+    "updated": 1441700657,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Dinas, Arfon branch of Merched y Wawr. It contains a list of field names from Cefn Hendre Farm, Llanwnda.",
+        "cy": "Gwybodaeth am waith cangen Dinas, Arfon o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau o Fferm Cefn Hendre, Llanwnda."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10406.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10406.jpg",
+            "type": "image",
+            "target_id": "470229"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10406",
+    "publisher_ref": ""
+}

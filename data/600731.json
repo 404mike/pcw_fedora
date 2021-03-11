@@ -1,0 +1,84 @@
+{
+    "id": 600731,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch 21st Birthday Celebration Programme",
+        "cy": "Rhaglen Cymanfa Dathlu Merched y Wawr Cangen Pencader a\u2019r Cylch yn 21 oed.\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600731",
+    "created": 1502448161,
+    "updated": 1502448161,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Pencader a\u2019r Cylch, rhaglen Cymanfa Dathlu penblwydd y gangen yn 21 oed.\nCapel Gwyddgrug, Ebrill 22, 1990",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch, rhaglen Cymanfa Dathlu penblwydd y gangen yn 21 oed.\nCapel Gwyddgrug, Ebrill 22, 1990"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.997966000000",
+            "lon": "-4.237724000000",
+            "description": {
+                "en": "Capel Gwyddgrug",
+                "cy": "Capel Gwyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-105.jpg",
+            "type": "image",
+            "target_id": "600729"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

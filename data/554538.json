@@ -1,0 +1,87 @@
+{
+    "id": 554538,
+    "title": {
+        "en": "Programme of a 1995 Event to Celebrate the twenty fifth anniversary of the formation of the Merched y Wawr Pembrokeshire Area Committee ",
+        "cy": "Taflen Rhaglen Nodwedd 1995 i Ddathlu Chwarter Canrif Ffurfio Pwyllgor Rhanbarth Presli a Deau Penfro Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554538",
+    "created": 1487592224,
+    "updated": 1487592224,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nTaflen Rhaglen Nodwedd gan Gangen Ffynnongroes yn Theatr y Gromlech, Ysgol y Preseli, Tachwedd 15, 1995 i Ddathlu Chwarter Canrif Ffurfio Pwyllgor Rhanbarth Presli a Deau Penfro (Ionawr 21, 1970).\nClawr",
+        "cy": "Taflen Rhaglen Nodwedd gan Gangen Ffynnongroes yn Theatr y Gromlech, Ysgol y Preseli, Tachwedd 15, 1995 i Ddathlu Chwarter Canrif Ffurfio Pwyllgor Rhanbarth Presli a Deau Penfro (Ionawr 21, 1970).\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.970413000000",
+            "lon": "-4.648785000000",
+            "description": {
+                "en": "Theatr y Gromlech, Ysgol Preseli, Crymych",
+                "cy": "Theatr y Gromlech, Ysgol Preseli, Crymych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-015.jpg",
+            "type": "image",
+            "target_id": "554535"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-016.jpg",
+            "type": "image",
+            "target_id": "554536"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

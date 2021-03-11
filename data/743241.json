@@ -1,0 +1,75 @@
+{
+    "id": 743241,
+    "title": {
+        "en": "Merched y Wawr Calendar' Comedy sketch by the Aberystwyth Branch",
+        "cy": "Sgets \u2018Calendar Merched y Wawr\u2019 Cangen Aberystwyth "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743241",
+    "created": 1516895783,
+    "updated": 1516895783,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sgets \u2018Calendar Merched y Wawr\u2019 gan Gangen Aberystwyth yng nghystadleuaeth \u2018Hysbyseb Wreiddiol\u2019 G\u0175yl Haf 2005.\nCalendar Mis Awst \u2013 ac mae Bethan Bryn - wedi diosg ei gwn nos i ddangos ei bicini, gyda Mairwen Williams yn dal y ffram!",
+        "cy": "Sgets \u2018Calendar Merched y Wawr\u2019 gan Gangen Aberystwyth yng nghystadleuaeth \u2018Hysbyseb Wreiddiol\u2019 G\u0175yl Haf 2005.\nCalendar Mis Awst \u2013 ac mae Bethan Bryn - wedi diosg ei gwn nos i ddangos ei bicini, gyda Mairwen Williams yn dal y ffram!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Aberystwyth"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-092.jpg",
+            "type": "image",
+            "target_id": "743236"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1148916,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2001",
+        "cy": "Chwaraeon Cenedlaethol MyW, Machynlleth 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148916",
+    "created": 1562065970,
+    "updated": 1562065970,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bowls \u2013  1st Tregaron, Ceredigion",
+        "cy": "Bowlio \u2013 1af Tregaron, Ceredigion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_091.jpg",
+            "type": "image",
+            "target_id": "1148911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

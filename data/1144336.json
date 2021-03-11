@@ -1,0 +1,65 @@
+{
+    "id": 1144336,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2014",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144336",
+    "created": 1562061398,
+    "updated": 1562061398,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Morgan, Cylch Wyre branch, Ceredigion, winner of the Microstory Competition.",
+        "cy": "Mary Morgan, cangen Cylch Wyre, Ceredigion, enillydd y Stori Feicro."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "summer festival",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_565.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_565.jpg",
+            "type": "image",
+            "target_id": "1144331"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

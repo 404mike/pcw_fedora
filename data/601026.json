@@ -1,0 +1,108 @@
+{
+    "id": 601026,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Branch, First Book of Minutes",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, cofnodion cyntaf y gangen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601026",
+    "created": 1502448569,
+    "updated": 1502448569,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi, cofnodion cyntaf y gangen, Tudalen 1\nChwefror 21, 1989, cyfarfod sefydlu\u2019r gangen yn Neuadd Llangain.",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, cofnodion cyntaf y gangen, Tudalen 1\nChwefror 21, 1989, cyfarfod sefydlu\u2019r gangen yn Neuadd Llangain."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.817786000000",
+            "lon": "-4.347300000000",
+            "description": {
+                "en": "Neuadd Llangain",
+                "cy": "Neuadd Llangain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_022.jpg",
+            "type": "image",
+            "target_id": "601020"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_023.jpg",
+            "type": "image",
+            "target_id": "601021"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_024.jpg",
+            "type": "image",
+            "target_id": "601022"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_025.jpg",
+            "type": "image",
+            "target_id": "601023"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_026.jpg",
+            "type": "image",
+            "target_id": "601024"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

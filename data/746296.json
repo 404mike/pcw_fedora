@@ -1,0 +1,75 @@
+{
+    "id": 746296,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch Carol Singing ",
+        "cy": "Merched y Wawr Llanafan yn Canu Carolau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746296",
+    "created": 1516897222,
+    "updated": 1516897222,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llanafan yn paratoi i fynd i ganu carolau o amgylch yr ardal, Nadolig 1994.\nYn y llun mae Winnie Evans, Mair Williams, Verona Davies, Hawys Hughes, Alwena Richards, Cassie Williams, Glenda Davies, Enid Evans, Margaret Williams",
+        "cy": "Merched y Wawr Llanafan yn paratoi i fynd i ganu carolau o amgylch yr ardal, Nadolig 1994.\nYn y llun mae Winnie Evans, Mair Williams, Verona Davies, Hawys Hughes, Alwena Richards, Cassie Williams, Glenda Davies, Enid Evans, Margaret Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-178.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-178.jpg",
+            "type": "image",
+            "target_id": "746291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

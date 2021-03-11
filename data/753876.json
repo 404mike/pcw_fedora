@@ -1,0 +1,85 @@
+{
+    "id": 753876,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhydymain, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhydymain, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753876",
+    "created": 1516958588,
+    "updated": 1516958588,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Ceri Lloyd Davies a ddaeth yn fuddugol yng nghystadleuaeth celf a chrefft yn y Ffair Aeaf am ei Dyn Eira.",
+        "cy": "Llun o Ceri Lloyd Davies a ddaeth yn fuddugol yng nghystadleuaeth celf a chrefft yn y Ffair Aeaf am ei Dyn Eira."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhydymain",
+    "owner": "Cangen Rhydymain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhydymain",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydymain",
+        "Celf a Chrefft Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.783358000000",
+            "lon": "-3.772938000000",
+            "description": {
+                "en": "Rhydymain",
+                "cy": "Rhydymain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_005.jpg",
+            "type": "image",
+            "target_id": "753866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

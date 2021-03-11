@@ -1,0 +1,67 @@
+{
+    "id": 1046436,
+    "title": {
+        "en": "St David's National Eisteddfod 2002",
+        "cy": "Eisteddfod Genedlaethol Tyddewi 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046436",
+    "created": 1555590223,
+    "updated": 1555590223,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand at the St David's National Eisteddfod 2002",
+        "cy": "Arddangosfa Rhanbarth Penfro ym mhabell MyW yn Eisteddfod Genedlaethol Tyddewi 2002"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "st davids national eisteddfod 2002",
+        "exhibition",
+        "stand",
+        "eisteddfod genedlaethol tyddewi 2002",
+        "Arddangosfa",
+        "stondin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_034.jpg",
+            "type": "image",
+            "target_id": "1046431"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

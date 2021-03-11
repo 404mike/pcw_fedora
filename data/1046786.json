@@ -1,0 +1,66 @@
+{
+    "id": 1046786,
+    "title": {
+        "en": "MyW Residential Weekend 2004",
+        "cy": "Penwythnos Preswyl MyW 2004 \u2013 Ysbrydoliaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046786",
+    "created": 1555590417,
+    "updated": 1555590417,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Harpist Catrin Finch performing during the weekend.",
+        "cy": "Datganiad gan y delynores Catrin Finch yn ystod y Penwythnos 2004."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2004",
+        "harp",
+        "catrin finch",
+        "penwythnos preswyl myw 2004",
+        "telyn"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_063.jpg",
+            "type": "image",
+            "target_id": "1046781"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

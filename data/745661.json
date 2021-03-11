@@ -1,0 +1,75 @@
+{
+    "id": 745661,
+    "title": {
+        "en": "A write up about creating the new banner for Merched y Wawr West Glamorgan Area",
+        "cy": "Addroddiad am lunio baner Merched y Wawr Rhanbarth Gorllewin Morgannwg "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745661",
+    "created": 1516896911,
+    "updated": 1516896911,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Addroddiad gan Bethan Williams am hanes llunio baner Rhanbarth Gorllewin Morgannwg gan Mary Jones, aelod o Ferched y Wawr Gwaun Gors ym 1992",
+        "cy": "Addroddiad gan Bethan Williams am hanes llunio baner Rhanbarth Gorllewin Morgannwg gan Mary Jones, aelod o Ferched y Wawr Gwaun Gors ym 1992"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gwaun Gors",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwaun Gors",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-071.jpg",
+            "type": "image",
+            "target_id": "745656"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

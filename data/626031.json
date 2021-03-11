@@ -1,0 +1,86 @@
+{
+    "id": 626031,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Caergybi, Holyhead, Anglesey.",
+        "cy": "Cangen Merched y Wawr Caergybi, Rhanbarth M\u00f4n yn dathlu yn ei cinio Nadolig."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626031",
+    "created": 1511280353,
+    "updated": 1511280353,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Caergybi yn dathlu yn ei cinio Nadolig. Joan Jones, Mair Humphries, Mena Lloyd Jones, Enid Williams, Betty Jones, Ceri Owen, Branwen Williams, Gwyneth Owen, Mrs James Newyr, Mair Jones, Eirys Rhys Griffith, Elma Williams, Mrs Scott Taylor, Linda Barton, Joyce Jones, Mair Williams.",
+        "cy": "Cangen Caergybi yn dathlu yn ei cinio Nadolig. Joan Jones, Mair Humphries, Mena Lloyd Jones, Enid Williams, Betty Jones, Ceri Owen, Branwen Williams, Gwyneth Owen, Mrs James Newyr, Mair Jones, Eirys Rhys Griffith, Elma Williams, Mrs Scott Taylor, Linda Barton, Joyce Jones, Mair Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Caergybi",
+    "owner": "Cangen Caergybi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holyhead",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caergybi",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.316229000000",
+            "lon": "-4.644301000000",
+            "description": {
+                "en": "Caergybi",
+                "cy": "Caergybi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CAERGYBI_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CAERGYBI_016.jpg",
+            "type": "image",
+            "target_id": "626021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

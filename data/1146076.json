@@ -1,0 +1,63 @@
+{
+    "id": 1146076,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Eisteddfod Genedlaethol Sir Fynwy a&#039;r Cyffniau 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146076",
+    "created": 1562063736,
+    "updated": 1562063736,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies, President, introducing the Accessories Fashion Show.",
+        "cy": "Meryl Davies, Llywydd yn cyflwyno y Sioe Ffasiwn Ategolion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "monmouthshire and area national eisteddfod 2016",
+        "eisteddfod genedlaethol sir fynwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_757.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_757.jpg",
+            "type": "image",
+            "target_id": "1146071"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

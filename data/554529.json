@@ -1,0 +1,82 @@
+{
+    "id": 554529,
+    "title": {
+        "en": "Merched y Wawr, Capel Newydd Branch - Royal Welsh Show entry 1986",
+        "cy": "Merched y Wawr, Cangen Capel Newydd.  Gwaith aelod yn Sioe Llanelwedd 1986 \u2013 Cystadleuaeth Santes Dwynwen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554529",
+    "created": 1487592193,
+    "updated": 1487592193,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nMerched y Wawr, Cangen Capel Newydd, Penfro.  Gwaith Beryl George yn Sioe Llanelwedd, Gorffennaf 1986 yn cynrychioli Preseli a De Penfro \u2013 Cystadleuaeth Santes Dwynwen",
+        "cy": "Merched y Wawr, Cangen Capel Newydd, Penfro.  Gwaith Beryl George yn Sioe Llanelwedd, Gorffennaf 1986 yn cynrychioli Preseli a De Penfro \u2013 Cystadleuaeth Santes Dwynwen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157850000000",
+            "lon": "-3.407204000000",
+            "description": {
+                "en": "Llanelwedd \/ Capel Newydd",
+                "cy": "Llanelwedd \/ Capel Newydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-008.jpg",
+            "type": "image",
+            "target_id": "554527"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

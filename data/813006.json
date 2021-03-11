@@ -1,0 +1,549 @@
+{
+    "id": 813006,
+    "title": {
+        "en": "Hendy-Gwyn Ar Daf Branch scrapbook",
+        "cy": "Llyfr lloffion Cangen Hendy-Gwyn Ar Daf"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/813006",
+    "created": 1523359846,
+    "updated": 1523359846,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Hendy-Gwyn Ar Daf",
+    "owner": "Cangen Hendy-Gwyn Ar Daf",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Hendygwyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Hendy00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00001.jpg",
+            "type": "image",
+            "target_id": "812606"
+        },
+        {
+            "originalFilename": "Hendy00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00002.jpg",
+            "type": "image",
+            "target_id": "812611"
+        },
+        {
+            "originalFilename": "Hendy00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00003.jpg",
+            "type": "image",
+            "target_id": "812616"
+        },
+        {
+            "originalFilename": "Hendy00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00004.jpg",
+            "type": "image",
+            "target_id": "812621"
+        },
+        {
+            "originalFilename": "Hendy00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00005.jpg",
+            "type": "image",
+            "target_id": "812626"
+        },
+        {
+            "originalFilename": "Hendy00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00006.jpg",
+            "type": "image",
+            "target_id": "812631"
+        },
+        {
+            "originalFilename": "Hendy00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00007.jpg",
+            "type": "image",
+            "target_id": "812636"
+        },
+        {
+            "originalFilename": "Hendy00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00008.jpg",
+            "type": "image",
+            "target_id": "812641"
+        },
+        {
+            "originalFilename": "Hendy00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00009.jpg",
+            "type": "image",
+            "target_id": "812646"
+        },
+        {
+            "originalFilename": "Hendy00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00010.jpg",
+            "type": "image",
+            "target_id": "812651"
+        },
+        {
+            "originalFilename": "Hendy00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00011.jpg",
+            "type": "image",
+            "target_id": "812656"
+        },
+        {
+            "originalFilename": "Hendy00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00012.jpg",
+            "type": "image",
+            "target_id": "812661"
+        },
+        {
+            "originalFilename": "Hendy00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00013.jpg",
+            "type": "image",
+            "target_id": "812666"
+        },
+        {
+            "originalFilename": "Hendy00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00014.jpg",
+            "type": "image",
+            "target_id": "812671"
+        },
+        {
+            "originalFilename": "Hendy00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00015.jpg",
+            "type": "image",
+            "target_id": "812676"
+        },
+        {
+            "originalFilename": "Hendy00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00016.jpg",
+            "type": "image",
+            "target_id": "812681"
+        },
+        {
+            "originalFilename": "Hendy00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00017.jpg",
+            "type": "image",
+            "target_id": "812686"
+        },
+        {
+            "originalFilename": "Hendy00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00018.jpg",
+            "type": "image",
+            "target_id": "812691"
+        },
+        {
+            "originalFilename": "Hendy00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00019.jpg",
+            "type": "image",
+            "target_id": "812696"
+        },
+        {
+            "originalFilename": "Hendy00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00020.jpg",
+            "type": "image",
+            "target_id": "812701"
+        },
+        {
+            "originalFilename": "Hendy00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00021.jpg",
+            "type": "image",
+            "target_id": "812706"
+        },
+        {
+            "originalFilename": "Hendy00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00022.jpg",
+            "type": "image",
+            "target_id": "812711"
+        },
+        {
+            "originalFilename": "Hendy00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00023.jpg",
+            "type": "image",
+            "target_id": "812716"
+        },
+        {
+            "originalFilename": "Hendy00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00024.jpg",
+            "type": "image",
+            "target_id": "812721"
+        },
+        {
+            "originalFilename": "Hendy00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00025.jpg",
+            "type": "image",
+            "target_id": "812726"
+        },
+        {
+            "originalFilename": "Hendy00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00026.jpg",
+            "type": "image",
+            "target_id": "812731"
+        },
+        {
+            "originalFilename": "Hendy00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00027.jpg",
+            "type": "image",
+            "target_id": "812736"
+        },
+        {
+            "originalFilename": "Hendy00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00028.jpg",
+            "type": "image",
+            "target_id": "812741"
+        },
+        {
+            "originalFilename": "Hendy00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00029.jpg",
+            "type": "image",
+            "target_id": "812746"
+        },
+        {
+            "originalFilename": "Hendy00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00030.jpg",
+            "type": "image",
+            "target_id": "812751"
+        },
+        {
+            "originalFilename": "Hendy00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00031.jpg",
+            "type": "image",
+            "target_id": "812756"
+        },
+        {
+            "originalFilename": "Hendy00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00032.jpg",
+            "type": "image",
+            "target_id": "812761"
+        },
+        {
+            "originalFilename": "Hendy00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00033.jpg",
+            "type": "image",
+            "target_id": "812766"
+        },
+        {
+            "originalFilename": "Hendy00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00034.jpg",
+            "type": "image",
+            "target_id": "812771"
+        },
+        {
+            "originalFilename": "Hendy00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00035.jpg",
+            "type": "image",
+            "target_id": "812776"
+        },
+        {
+            "originalFilename": "Hendy00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00036.jpg",
+            "type": "image",
+            "target_id": "812781"
+        },
+        {
+            "originalFilename": "Hendy00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00037.jpg",
+            "type": "image",
+            "target_id": "812786"
+        },
+        {
+            "originalFilename": "Hendy00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00038.jpg",
+            "type": "image",
+            "target_id": "812791"
+        },
+        {
+            "originalFilename": "Hendy00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00039.jpg",
+            "type": "image",
+            "target_id": "812796"
+        },
+        {
+            "originalFilename": "Hendy00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00040.jpg",
+            "type": "image",
+            "target_id": "812801"
+        },
+        {
+            "originalFilename": "Hendy00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00041.jpg",
+            "type": "image",
+            "target_id": "812806"
+        },
+        {
+            "originalFilename": "Hendy00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00042.jpg",
+            "type": "image",
+            "target_id": "812811"
+        },
+        {
+            "originalFilename": "Hendy00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00043.jpg",
+            "type": "image",
+            "target_id": "812816"
+        },
+        {
+            "originalFilename": "Hendy00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00044.jpg",
+            "type": "image",
+            "target_id": "812821"
+        },
+        {
+            "originalFilename": "Hendy00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00045.jpg",
+            "type": "image",
+            "target_id": "812826"
+        },
+        {
+            "originalFilename": "Hendy00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00046.jpg",
+            "type": "image",
+            "target_id": "812831"
+        },
+        {
+            "originalFilename": "Hendy00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00047.jpg",
+            "type": "image",
+            "target_id": "812836"
+        },
+        {
+            "originalFilename": "Hendy00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00048.jpg",
+            "type": "image",
+            "target_id": "812841"
+        },
+        {
+            "originalFilename": "Hendy00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00049.jpg",
+            "type": "image",
+            "target_id": "812846"
+        },
+        {
+            "originalFilename": "Hendy00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00050.jpg",
+            "type": "image",
+            "target_id": "812851"
+        },
+        {
+            "originalFilename": "Hendy00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00051.jpg",
+            "type": "image",
+            "target_id": "812856"
+        },
+        {
+            "originalFilename": "Hendy00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00052.jpg",
+            "type": "image",
+            "target_id": "812861"
+        },
+        {
+            "originalFilename": "Hendy00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00053.jpg",
+            "type": "image",
+            "target_id": "812866"
+        },
+        {
+            "originalFilename": "Hendy00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00054.jpg",
+            "type": "image",
+            "target_id": "812871"
+        },
+        {
+            "originalFilename": "Hendy00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00055.jpg",
+            "type": "image",
+            "target_id": "812876"
+        },
+        {
+            "originalFilename": "Hendy00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00056.jpg",
+            "type": "image",
+            "target_id": "812881"
+        },
+        {
+            "originalFilename": "Hendy00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00057.jpg",
+            "type": "image",
+            "target_id": "812886"
+        },
+        {
+            "originalFilename": "Hendy00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00058.jpg",
+            "type": "image",
+            "target_id": "812891"
+        },
+        {
+            "originalFilename": "Hendy00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00059.jpg",
+            "type": "image",
+            "target_id": "812896"
+        },
+        {
+            "originalFilename": "Hendy00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00060.jpg",
+            "type": "image",
+            "target_id": "812901"
+        },
+        {
+            "originalFilename": "Hendy00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00061.jpg",
+            "type": "image",
+            "target_id": "812906"
+        },
+        {
+            "originalFilename": "Hendy00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00062.jpg",
+            "type": "image",
+            "target_id": "812911"
+        },
+        {
+            "originalFilename": "Hendy00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00063.jpg",
+            "type": "image",
+            "target_id": "812916"
+        },
+        {
+            "originalFilename": "Hendy00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00064.jpg",
+            "type": "image",
+            "target_id": "812921"
+        },
+        {
+            "originalFilename": "Hendy00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00065.jpg",
+            "type": "image",
+            "target_id": "812926"
+        },
+        {
+            "originalFilename": "Hendy00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00066.jpg",
+            "type": "image",
+            "target_id": "812931"
+        },
+        {
+            "originalFilename": "Hendy00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00067.jpg",
+            "type": "image",
+            "target_id": "812936"
+        },
+        {
+            "originalFilename": "Hendy00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00068.jpg",
+            "type": "image",
+            "target_id": "812941"
+        },
+        {
+            "originalFilename": "Hendy00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00069.jpg",
+            "type": "image",
+            "target_id": "812946"
+        },
+        {
+            "originalFilename": "Hendy00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00070.jpg",
+            "type": "image",
+            "target_id": "812951"
+        },
+        {
+            "originalFilename": "Hendy00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00071.jpg",
+            "type": "image",
+            "target_id": "812956"
+        },
+        {
+            "originalFilename": "Hendy00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00072.jpg",
+            "type": "image",
+            "target_id": "812961"
+        },
+        {
+            "originalFilename": "Hendy00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00073.jpg",
+            "type": "image",
+            "target_id": "812966"
+        },
+        {
+            "originalFilename": "Hendy00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00074.jpg",
+            "type": "image",
+            "target_id": "812971"
+        },
+        {
+            "originalFilename": "Hendy00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00075.jpg",
+            "type": "image",
+            "target_id": "812976"
+        },
+        {
+            "originalFilename": "Hendy00076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00076.jpg",
+            "type": "image",
+            "target_id": "812981"
+        },
+        {
+            "originalFilename": "Hendy00077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00077.jpg",
+            "type": "image",
+            "target_id": "812986"
+        },
+        {
+            "originalFilename": "Hendy00078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00078.jpg",
+            "type": "image",
+            "target_id": "812991"
+        },
+        {
+            "originalFilename": "Hendy00079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00079.jpg",
+            "type": "image",
+            "target_id": "812996"
+        },
+        {
+            "originalFilename": "Hendy00080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Hendy00080.jpg",
+            "type": "image",
+            "target_id": "813001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 621696,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Stondin y Mudiad yn Neuadd Llansannan. Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621696",
+    "created": 1511278923,
+    "updated": 1511278923,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Stondin y Mudiad yn Neuadd Llansannan. Gwelwn dair o'r aelodau a drafodwyd sefydlu cangen yn y wledd briodas nol yn Hydref, 1971. Sef: Kit Jones, (Llywydd 1af y Gangen - 1af ar y chwirh). Elisabeth Williams (3ydd ar y chwith), Edna Davies (5ed ar y chwith). Gwelir hefyd Eurwen Roberts a Mair Owen.",
+        "cy": "Stondin y Mudiad yn Neuadd Llansannan. Gwelwn dair o'r aelodau a drafodwyd sefydlu cangen yn y wledd briodas nol yn Hydref, 1971. Sef: Kit Jones, (Llywydd 1af y Gangen - 1af ar y chwirh). Elisabeth Williams (3ydd ar y chwith), Edna Davies (5ed ar y chwith). Gwelir hefyd Eurwen Roberts a Mair Owen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_005.jpg",
+            "type": "image",
+            "target_id": "621686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,87 @@
+{
+    "id": 584298,
+    "title": {
+        "en": "Merched y Wawr Feature Programme - National Eisteddfod 1989, Conway ",
+        "cy": "Eisteddfod Genedlaethol Cymru Dyffryn Conwy a\u2019r Cyffuniau, 1989.  Rhaglen Nodwedd Merched y Wawr, Theatr y Maes."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584298",
+    "created": 1499870883,
+    "updated": 1499870883,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eisteddfod Genedlaethol Cymru Dyffryn Conwy a\u2019r Cyffuniau, 1989.   9fed Awst, 1989.  Rhaglen Nodwedd Merched y Wawr, Theatr y Maes. Perfformiad  \u2018Yn Fy MyW\u2019.  Tudalen flaen",
+        "cy": "Eisteddfod Genedlaethol Cymru Dyffryn Conwy a\u2019r Cyffuniau, 1989.   9fed Awst, 1989.  Rhaglen Nodwedd Merched y Wawr, Theatr y Maes. Perfformiad  \u2018Yn Fy MyW\u2019.  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-078.jpg",
+            "type": "image",
+            "target_id": "584295"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-079.jpg",
+            "type": "image",
+            "target_id": "584296"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-080.jpg",
+            "type": "image",
+            "target_id": "584297"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

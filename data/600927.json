@@ -1,0 +1,85 @@
+{
+    "id": 600927,
+    "title": {
+        "en": "Merched y Wawr Trip to Paris 1981",
+        "cy": "Trip Merched y Wawr i Baris 1981"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600927",
+    "created": 1502448432,
+    "updated": 1502448432,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o Gangen Gwendraeth ar drip Merched y Wawr i Baris ym 1981.  Yn y llun mae Gloria ?, Betty Lewis, Nora Williams, Betty Beynon, Glenys Morgan, Mrs Jones",
+        "cy": "Aelodau o Gangen Gwendraeth ar drip Merched y Wawr i Baris ym 1981.  Yn y llun mae Gloria ?, Betty Lewis, Nora Williams, Betty Beynon, Glenys Morgan, Mrs Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gwendraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwendraeth",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "48.856347000000",
+            "lon": "2.351394000000",
+            "description": {
+                "en": "Paris",
+                "cy": "Paris"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_104.jpg",
+            "type": "image",
+            "target_id": "600925"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

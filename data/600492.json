@@ -1,0 +1,124 @@
+{
+    "id": 600492,
+    "title": {
+        "en": "An Album giving the History of  Merched y Wawr Glannau Pibwr Branch",
+        "cy": "Albwm yn rhoi hanes Merched y Wawr Cangen Glannau Pibwr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600492",
+    "created": 1502447801,
+    "updated": 1502447801,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Albwm yn rhoi hanes Merched y Wawr Cangen Glannau Pibwr \u2013 Clawr",
+        "cy": "Albwm yn rhoi hanes Merched y Wawr Cangen Glannau Pibwr \u2013 Clawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glannau Pibwr",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.781968000000",
+            "lon": "-4.296256000000",
+            "description": {
+                "en": "Llandyfaelog",
+                "cy": "Llandyfaelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170128_173407.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_173407.jpg",
+            "type": "image",
+            "target_id": "600483"
+        },
+        {
+            "originalFilename": "20170128_173430.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_173430.jpg",
+            "type": "image",
+            "target_id": "600484"
+        },
+        {
+            "originalFilename": "20170128_173447.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_173447.jpg",
+            "type": "image",
+            "target_id": "600485"
+        },
+        {
+            "originalFilename": "20170128_180005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_180005.jpg",
+            "type": "image",
+            "target_id": "600486"
+        },
+        {
+            "originalFilename": "20170128_180013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_180013.jpg",
+            "type": "image",
+            "target_id": "600487"
+        },
+        {
+            "originalFilename": "20170128_180039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_180039.jpg",
+            "type": "image",
+            "target_id": "600488"
+        },
+        {
+            "originalFilename": "20170128_180044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_180044.jpg",
+            "type": "image",
+            "target_id": "600489"
+        },
+        {
+            "originalFilename": "20170128_180129.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/20170128_180129.jpg",
+            "type": "image",
+            "target_id": "600490"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

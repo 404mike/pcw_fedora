@@ -1,0 +1,86 @@
+{
+    "id": 620421,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Abergele, Colwyn.",
+        "cy": "Dathlu deng mlwyddiant yng Ngwesty\u2019r Westminister, Rhyl, 1978. Cangen Merched y Wawr Abergele, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620421",
+    "created": 1511278450,
+    "updated": 1511278450,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei deng mlwyddiant yng Ngwesty\u2019r Westminister, Rhyl ym 1978 - gwelwn Mrs H.T. Jones Llywydd Cyntaf y gangen yn torri\u2019r gacen gyda Meira Roberts, Llywydd y Gangen yn 1978.",
+        "cy": "Y Gangen yn dathlu ei deng mlwyddiant yng Ngwesty\u2019r Westminister, Rhyl ym 1978 - gwelwn Mrs H.T. Jones Llywydd Cyntaf y gangen yn torri\u2019r gacen gyda Meira Roberts, Llywydd y Gangen yn 1978."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Abergele",
+    "owner": "Cangen Abergele",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Abergele",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergele",
+        "Rhanbarth Colwyn",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284463000000",
+            "lon": "-3.583610000000",
+            "description": {
+                "en": "Abergele",
+                "cy": "Abergele"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_ABERGELE_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_ABERGELE_002.jpg",
+            "type": "image",
+            "target_id": "620411"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584066,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Celebrating the branch's 40th anniversary ",
+        "cy": "Merched y Wawr Cangen Maenclochog - Dathlu\u2019r Deugain Hydref 2011 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584066",
+    "created": 1499870307,
+    "updated": 1499870307,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Merched y Wawr Maenclochog yn Dathlu\u2019r Deugain Hydref 2011 yn Neuadd Maenclochog.  Cyflwynwyd pl\u00e2t pyrograffeg o waith Ken Thomas i\u2019r dair wraig wadd (Mererid Jones (LLywydd Cenedlaethol), Margaret Bowen Rees (Llywydd cyntaf) ac Aeres James (Llywydd y Rhanbarth), plat oedd yn cynnwys pennill o waith Eirwyn George.",
+        "cy": "Cangen Merched y Wawr Maenclochog yn Dathlu\u2019r Deugain Hydref 2011 yn Neuadd Maenclochog.  Cyflwynwyd pl\u00e2t pyrograffeg o waith Ken Thomas i\u2019r dair wraig wadd (Mererid Jones (LLywydd Cenedlaethol), Margaret Bowen Rees (Llywydd cyntaf) ac Aeres James (Llywydd y Rhanbarth), plat oedd yn cynnwys pennill o waith Eirwyn George."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.910505000000",
+            "lon": "-4.791803000000",
+            "description": {
+                "en": "Neuadd Gymunedol Maenclochog",
+                "cy": "Neuadd Gymunedol Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-034.jpg",
+            "type": "image",
+            "target_id": "584064"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

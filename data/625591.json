@@ -1,0 +1,86 @@
+{
+    "id": 625591,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Brynsiencyn, Anglesey.",
+        "cy": "Cangen Merched y Wawr Brynsiencyn, Rhanbarth M\u00f4n. Medi, 1981."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625591",
+    "created": 1511280209,
+    "updated": 1511280209,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o gangen Brynsiencyn ym mis Medi, 1981. (cefn) Nansi Gadd, Megan Williams, Jane Jones, Gwen Pritchard, Mair Williams, Ann Holland, Rhiannon Mercer (canol) Mair Parry, Jennie Jones, Dr Mair Humphrey Jones, June Francis, Morfudd Williams, Ann Rowlands, Nel Francis, Luned\u00ec Jones, Emily Jones (blaen) Mair Jones, Nellie Jones, Katie Rogers, Myfanwy Roberts, Eirwen Jones, Ellen P Williams, Evelyn Jones.",
+        "cy": "Llun o gangen Brynsiencyn ym mis Medi, 1981. (cefn) Nansi Gadd, Megan Williams, Jane Jones, Gwen Pritchard, Mair Williams, Ann Holland, Rhiannon Mercer (canol) Mair Parry, Jennie Jones, Dr Mair Humphrey Jones, June Francis, Morfudd Williams, Ann Rowlands, Nel Francis, Luned\u00ec Jones, Emily Jones (blaen) Mair Jones, Nellie Jones, Katie Rogers, Myfanwy Roberts, Eirwen Jones, Ellen P Williams, Evelyn Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Brynsiencyn",
+    "owner": "Cangen Brynsiencyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Brynsiencyn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Brynsiencyn",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178433000000",
+            "lon": "-4.274895000000",
+            "description": {
+                "en": "Brynsiencyn",
+                "cy": "Brynsiencyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BRYNSIENCYN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BRYNSIENCYN_004.jpg",
+            "type": "image",
+            "target_id": "625581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

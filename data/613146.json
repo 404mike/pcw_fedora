@@ -1,0 +1,84 @@
+{
+    "id": 613146,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi compete at the Carmarthen Area 'Hwyl Ebrill' ('April Fun') Event",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi yn cystadlu Hwyl Ebrill Rhanbarth Caerfyrddin\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613146",
+    "created": 1510753882,
+    "updated": 1510753882,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi yn mentro i fyd yr eisteddfod trwy gystadlu yn Ysgol Maes yr Yrfa yn Hwyl Ebrill Rhanbarth Caerfyrddin yn y flwyddyn 2006.  Ond, nid yr un llwyddiant i\u2019r cystadleuwyr hyn yn anffodus wrth lefaru \u2018Dysgu Tedi\u2019 \u2013 cam gan y beirniad heb os!\nYn y llun \u2013 Tilley, Jill, Marlene, Mair, Rhiannon (yn dal y tedi) a Jill yn llefaru \u2018Dysgu Tedi\u2019 (yn absennol o\u2019r llun mae Anne Evans)",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi yn mentro i fyd yr eisteddfod trwy gystadlu yn Ysgol Maes yr Yrfa yn Hwyl Ebrill Rhanbarth Caerfyrddin yn y flwyddyn 2006.  Ond, nid yr un llwyddiant i\u2019r cystadleuwyr hyn yn anffodus wrth lefaru \u2018Dysgu Tedi\u2019 \u2013 cam gan y beirniad heb os!\nYn y llun \u2013 Tilley, Jill, Marlene, Mair, Rhiannon (yn dal y tedi) a Jill yn llefaru \u2018Dysgu Tedi\u2019 (yn absennol o\u2019r llun mae Anne Evans)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.803365000000",
+            "lon": "-4.090310000000",
+            "description": {
+                "en": "Ysgol Maes yr Yrfa",
+                "cy": "Ysgol Maes yr Yrfa"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_044.jpg",
+            "type": "image",
+            "target_id": "613136"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

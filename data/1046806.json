@@ -1,0 +1,63 @@
+{
+    "id": 1046806,
+    "title": {
+        "en": "President's Dinner in South Wales 2005",
+        "cy": "Cinio&#039;r Llywydd yn y De 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046806",
+    "created": 1555590427,
+    "updated": 1555590427,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "President's Dinner at Ty Glyn Aeron, 2005. Gwenda John, Pembrokeshire; Dylan Iorwerth, guest speaker; Glenys Thomas, President; Elfair Jones, deputy Treasurer.",
+        "cy": "Yng nghinio'r Llywydd yn Nhyglyn Aeron 2004. Gwenda John, sir Benfro; Dylan Iorwerth, siaradwr gwadd; Glenys Thomas, Llywydd; Elfair Jones, Is-drysorydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2005",
+        "cinior llywydd yn y de 2005"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_065.jpg",
+            "type": "image",
+            "target_id": "1046801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

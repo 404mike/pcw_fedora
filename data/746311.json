@@ -1,0 +1,81 @@
+{
+    "id": 746311,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch Programme 1983-1984",
+        "cy": "Merched y Wawr Cangen Llanafan Rhaglen 1983 \u2013 1984"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746311",
+    "created": 1516897229,
+    "updated": 1516897229,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanafan Rhaglen 1983 \u2013 1984\nGweithgareddau\u2019r tymor gan gynnwys enw\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Llanafan Rhaglen 1983 \u2013 1984\nGweithgareddau\u2019r tymor gan gynnwys enw\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-179.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-179.jpg",
+            "type": "image",
+            "target_id": "746301"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-180.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-180.jpg",
+            "type": "image",
+            "target_id": "746306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

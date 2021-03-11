@@ -1,0 +1,65 @@
+{
+    "id": 1047096,
+    "title": {
+        "en": "President Dinner in South Wales 2006",
+        "cy": "Cinio&#039;r Llywydd yn y De 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047096",
+    "created": 1555590712,
+    "updated": 1555590712,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwawr Edwards, soloist at the Dinner.",
+        "cy": "Gwawr Edwards , unawdydd, yn diddori'r aelodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "merched y wawr",
+        "MYW",
+        "cinio llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_095.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_095.jpg",
+            "type": "image",
+            "target_id": "1047091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 600118,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrwst, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanrwst, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600118",
+    "created": 1502447273,
+    "updated": 1502447273,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf canteen Llanrwst, 2ail o Ebrill, 1972.",
+        "cy": "Cofnodion cyntaf canteen Llanrwst, 2ail o Ebrill, 1972."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrwst",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrwst",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799720000000",
+            "description": {
+                "en": "Llanrwst",
+                "cy": "Llanrwst"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_029.jpg",
+            "type": "image",
+            "target_id": "600116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

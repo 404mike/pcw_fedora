@@ -1,0 +1,64 @@
+{
+    "id": 1049366,
+    "title": {
+        "en": "Urdd National Eisteddfod West Glamorgan 2011",
+        "cy": "Eisteddfod yr Urdd Gorllewin Morgannwg 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049366",
+    "created": 1555591892,
+    "updated": 1555591892,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Wawrathon \u2013 Marathon reading event by former MyW Presidents to raise money for MyW. Glenys Thomas and Gwyneth Morris Jones doing their one hour stint.",
+        "cy": "Wawrathon \u2013 marathon darllen llyfrau gan y cyn Lywyddion Cenedlaethol i godi arian i'r Mudiad. Glenys Thomas a Gwyneth Morris Jones yn gwneud eu hawr nhw."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_347.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_347.jpg",
+            "type": "image",
+            "target_id": "1049361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

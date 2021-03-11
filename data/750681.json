@@ -1,0 +1,74 @@
+{
+    "id": 750681,
+    "title": {
+        "en": "A postcard from the Merched y Wawr trip to Russia",
+        "cy": "Cerdyn Post o daith Merched y Wawr i Rwsia"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750681",
+    "created": 1516899583,
+    "updated": 1516899583,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith Merched y Wawr i Rwsia, Mis Mai 1975, cerdyn post gan Wendy Richards (ddaeth yn Lywydd Cenedlaethol ym 1976), at ei gwr, Bryn Richards.",
+        "cy": "Taith Merched y Wawr i Rwsia, Mis Mai 1975, cerdyn post gan Wendy Richards (ddaeth yn Lywydd Cenedlaethol ym 1976), at ei gwr, Bryn Richards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Casgliad Wendy Richards, Cangen Castell Nedd a Llywydd Cenedlaethol 1976-1978)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Taith%20Rwsia%201975%20Cerdyn%20post%20Wendy%20Richards%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520Rwsia%25201975%2520Cerdyn%2520post%2520Wendy%2520Richards%2520001.jpg",
+            "type": "image",
+            "target_id": "750676"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

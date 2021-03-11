@@ -1,0 +1,78 @@
+{
+    "id": 749036,
+    "title": {
+        "en": "Merched y Wawr Tegryn presenting a cheque to the Charity Bobath",
+        "cy": "Merched y Wawr Tegryn yn cyflwyno siec i elusen Bobath"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749036",
+    "created": 1516898822,
+    "updated": 1516898822,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Tegryn yn cyflwyno siec i elusen Bobath yn 2007.\nCynhaliwyd bore coffi yng nghartref y llywydd, Winnie James, i godi arian i Bobath \u2013 codwyd dros \u00a3575 ac roedd Banc Barclays yn ychwangu i\u2019r swm yn eu cynllun \u2018punt am bunt\u2019.",
+        "cy": "Merched y Wawr Tegryn yn cyflwyno siec i elusen Bobath yn 2007.\nCynhaliwyd bore coffi yng nghartref y llywydd, Winnie James, i godi arian i Bobath \u2013 codwyd dros \u00a3575 ac roedd Banc Barclays yn ychwangu i\u2019r swm yn eu cynllun \u2018punt am bunt\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Hefin Parry Roberts",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Hefin Parry Roberts",
+                "cy": "Hefin Parry Roberts"
+            },
+            "year": "2007",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-073.jpg",
+            "type": "image",
+            "target_id": "749031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

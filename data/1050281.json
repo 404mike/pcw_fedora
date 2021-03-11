@@ -1,0 +1,65 @@
+{
+    "id": 1050281,
+    "title": {
+        "en": "President's Dinner at Glyn Hotel, Clydach 2013",
+        "cy": "Cinio&#039;r Llywydd Cenedlaethol yng ngwesty&#039;r Glyn, Clydach 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050281",
+    "created": 1555592260,
+    "updated": 1555592260,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tegwen Morris Trophy: Glenys Thomas receiving the shield for the increase in membership on behalf of Carmarthen branch.",
+        "cy": "Tlws Tegwen Morris: Glenys Thomas yn derbyn tarian ar ran cangen Caerfyrddin am y cynnydd mwya mewn aelodaeth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "merched y wawr",
+        "MYW",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_453.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_453.jpg",
+            "type": "image",
+            "target_id": "1050276"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

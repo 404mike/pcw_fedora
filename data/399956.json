@@ -1,0 +1,93 @@
+{
+    "id": 399956,
+    "title": {
+        "en": "Field names in Rhydypennau and Bow Street 1850 and 2012",
+        "cy": "Enwau Caeau yn ardal Rhydypennau a Bow Street 1850 a 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/399956",
+    "created": 1416923750,
+    "updated": 1417184207,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Field names in Rhydypennau and Bow Street 1850, a list of Welsh names on houses, and names of estates in the village",
+        "cy": "Enwau Caeau yn ardal Rhydypennau a Bow Street 1850, rhestr o enwau Cymraeg ar dai, a enwau ystadau tai y pentre"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names",
+        "rhydypennau",
+        "bow street",
+        "enwau caeau"
+    ],
+    "when": [],
+    "what": [
+        "Houses and Homes",
+        "Cities, towns & villages",
+        "Farms and smallholdings",
+        "Maps"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010135.jpg",
+            "type": "image",
+            "target_id": "399952"
+        },
+        {
+            "originalFilename": "pcw0010136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010136.jpg",
+            "type": "image",
+            "target_id": "399953"
+        },
+        {
+            "originalFilename": "pcw0010137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010137.jpg",
+            "type": "image",
+            "target_id": "399954"
+        },
+        {
+            "originalFilename": "pcw0010138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010138.jpg",
+            "type": "image",
+            "target_id": "399955"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010135",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 745491,
+    "title": {
+        "en": "Merched y Waw Glyn Nedd Branch Stand in 'Garddwest'",
+        "cy": "Stondin Merched y Wawr Glyn Nedd yn Garddwest"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745491",
+    "created": 1516896830,
+    "updated": 1516896830,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Stondin Merched y Wawr Glyn Nedd yn Garddwest Rhanbarth Gorllewin Morgannwg yng ngardd Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) yn y 1970au.  \nCynthia Walters, Gwyneth Edwards, ? \u2013 pawb yn gyrls i gyd!",
+        "cy": "Stondin Merched y Wawr Glyn Nedd yn Garddwest Rhanbarth Gorllewin Morgannwg yng ngardd Wendy Richards (Llywydd Cenedlaethol Merched y Wawr 1976-1978) yn y 1970au.  \nCynthia Walters, Gwyneth Edwards, ? \u2013 pawb yn gyrls i gyd!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-031.jpg",
+            "type": "image",
+            "target_id": "745486"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

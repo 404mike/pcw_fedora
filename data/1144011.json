@@ -1,0 +1,63 @@
+{
+    "id": 1144011,
+    "title": {
+        "en": "Christmas Fair 2013",
+        "cy": "Ffair Aeaf 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144011",
+    "created": 1562061259,
+    "updated": 1562061259,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 Bell. 1st Dilys Richards, Bridgend branch.",
+        "cy": "Cystadleuaeth \u2013 Cloch. 1af Dilys Richards, cangen Pen-y-bont ar Ogwr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "christmas fair 2013",
+        "ffair aeaf 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_531.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_531.jpg",
+            "type": "image",
+            "target_id": "1144006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

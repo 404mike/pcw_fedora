@@ -1,0 +1,75 @@
+{
+    "id": 584414,
+    "title": {
+        "en": "Merched y Wawr, Carmarthen Area - Feature Programme 1983",
+        "cy": "Rhaglen Nodwedd Merched y Wawr, Rhanbarth Caerfyrddin 1983"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584414",
+    "created": 1499871016,
+    "updated": 1499871016,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Nodwedd Merched y Wawr, Rhanbarth Caerfyrddin, \u2018Duw a Greodd Wraig\u2019 gan Rhoswen Llywelyn, 1983, Tabernacl, Hendygwyn ar Daf.  Yn y llun mae Enid Jones, Margarette Hughes, Nan Lewis, ymysg eraill.",
+        "cy": "Rhaglen Nodwedd Merched y Wawr, Rhanbarth Caerfyrddin, \u2018Duw a Greodd Wraig\u2019 gan Rhoswen Llywelyn, 1983, Tabernacl, Hendygwyn ar Daf.  Yn y llun mae Enid Jones, Margarette Hughes, Nan Lewis, ymysg eraill."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-056.jpg",
+            "type": "image",
+            "target_id": "584413"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

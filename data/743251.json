@@ -1,0 +1,75 @@
+{
+    "id": 743251,
+    "title": {
+        "en": "Merched y Wawr Aberystwyth 'Ruby Revelry' Sketch",
+        "cy": "Sgets \u2018Rhialtwch y Rhuddem\u2019 gan Ferched y Wawr Aberystwyth "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743251",
+    "created": 1516895789,
+    "updated": 1516895789,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sgets \u2018Rhialtwch y Rhuddem\u2019 gan Ferched y Wawr Aberystwyth yng Nghystadleuaeth G\u0175yl Haf, Mai 2007.\nRhes gefn \u2013 Mair Jenkins, Mairwen Williams, Delyth Fletcher, Eleri Davies, Beryl Jones, Mary C Jones, Rona Davies, Eluned Richards\nRhes flaen \u2013 Bethan Bryn, Elenid Hughes, Lona Jones, Dulcie James, Eira Williams, Beryl Llewellyn, Delyth Evans",
+        "cy": "Sgets \u2018Rhialtwch y Rhuddem\u2019 gan Ferched y Wawr Aberystwyth yng Nghystadleuaeth G\u0175yl Haf, Mai 2007.\nRhes gefn \u2013 Mair Jenkins, Mairwen Williams, Delyth Fletcher, Eleri Davies, Beryl Jones, Mary C Jones, Rona Davies, Eluned Richards\nRhes flaen \u2013 Bethan Bryn, Elenid Hughes, Lona Jones, Dulcie James, Eira Williams, Beryl Llewellyn, Delyth Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Aberystwyth"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-093.jpg",
+            "type": "image",
+            "target_id": "743246"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

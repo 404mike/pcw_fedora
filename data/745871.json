@@ -1,0 +1,81 @@
+{
+    "id": 745871,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch Programme 1994-1995",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch 1994-1995"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745871",
+    "created": 1516897001,
+    "updated": 1516897001,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1994-1995.  Gweithgaeddau'r gangen gan gynnwys enwau'r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1994-1995.  Gweithgaeddau'r gangen gan gynnwys enwau'r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%2094-95%20b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%252094-95%2520b.jpg",
+            "type": "image",
+            "target_id": "745861"
+        },
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%2094-95%20a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%252094-95%2520a.jpg",
+            "type": "image",
+            "target_id": "745866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

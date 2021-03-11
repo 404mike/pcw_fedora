@@ -1,0 +1,75 @@
+{
+    "id": 743046,
+    "title": {
+        "en": "A letter to West Glamorgan Director of Education from Merched y Wawr Swansea Branch",
+        "cy": "Llythyr at Gyfarwyddwr Addysg Gorllewin Morgannwg gan Ferched y Wawr Cangen Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743046",
+    "created": 1516895699,
+    "updated": 1516895699,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr at Gyfarwyddwr Addysg Gorllewin Morgannwg gan Ferched y Wawr Cangen Abertawe yn galw am drydedd ysgol Gymraeg yn ninas Abertawe.",
+        "cy": "Llythyr at Gyfarwyddwr Addysg Gorllewin Morgannwg gan Ferched y Wawr Cangen Abertawe yn galw am drydedd ysgol Gymraeg yn ninas Abertawe."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-012.jpg",
+            "type": "image",
+            "target_id": "743041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

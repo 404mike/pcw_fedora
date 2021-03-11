@@ -1,0 +1,90 @@
+{
+    "id": 610076,
+    "title": {
+        "en": "Merched y Wawr Capel Iwan Branch, Programme of activities 2006-2007",
+        "cy": "Merched y Wawr Cangen Capel Iwan Rhaglen 2006 \u2013 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610076",
+    "created": 1510753128,
+    "updated": 1510753128,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Capel Iwan Rhaglen 2006 - 2007. Tudalen Flaen",
+        "cy": "Merched y Wawr Cangen Capel Iwan Rhaglen 2006 - 2007. Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Capel Iwan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Iwan",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.998612000000",
+            "lon": "-4.492446000000",
+            "description": {
+                "en": "Capel Iwan",
+                "cy": "Capel Iwan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-121.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-121.jpg",
+            "type": "image",
+            "target_id": "610061"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-122.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-122.jpg",
+            "type": "image",
+            "target_id": "610066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

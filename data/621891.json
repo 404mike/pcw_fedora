@@ -1,0 +1,86 @@
+{
+    "id": 621891,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwytherin Colwyn.",
+        "cy": "Cofnodion cyntaf cangen Merched y Wawr Gwytherin, Rhanbarth Colwyn. 5ed o Fawrth 1968. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621891",
+    "created": 1511278988,
+    "updated": 1511278988,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o gofnodion cyntaf y gangen, 5ed o Fawrth 1968.",
+        "cy": "Copi o gofnodion cyntaf y gangen, 5ed o Fawrth 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwytherin ",
+    "owner": "Cangen Gwytherin ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gwytherin",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Gwytherin",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.138601000000",
+            "lon": "-3.681605000000",
+            "description": {
+                "en": "Gwytherin ",
+                "cy": "Gwytherin "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_GWYTHERIN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_GWYTHERIN_006.jpg",
+            "type": "image",
+            "target_id": "621881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

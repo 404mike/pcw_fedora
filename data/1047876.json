@@ -1,0 +1,67 @@
+{
+    "id": 1047876,
+    "title": {
+        "en": "MyW Residential Weekend 2007 \u2013 Bangor",
+        "cy": "Penwythnos Preswyl MyW 2007 \u2013 Rialtwch y Rhuddem"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047876",
+    "created": 1555591161,
+    "updated": 1555591161,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dafydd Iwan entertaining the members at P. J. Hall, Bangor.",
+        "cy": "Dafydd Iwan yn diddori'r gynulleidfa yn Neuadd P.J., Bangor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Bangor",
+        "Penwythnos Preswyl",
+        "Dafydd Iwan"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_185.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_185.jpg",
+            "type": "image",
+            "target_id": "1047871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

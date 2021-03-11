@@ -1,0 +1,75 @@
+{
+    "id": 749666,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch Annual Trip",
+        "cy": "Trip blynyddol Merched y Wawr Cangen Tregaron. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749666",
+    "created": 1516899106,
+    "updated": 1516899106,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip blynyddol Merched y Wawr Cangen Tregaron. \nYn 2000 aeth y gangen i ardal Trawsfynydd \u2013 diwrnod oer a gwylb ond pawb yn w\u00ean o glust i glust.",
+        "cy": "Trip blynyddol Merched y Wawr Cangen Tregaron. \nYn 2000 aeth y gangen i ardal Trawsfynydd \u2013 diwrnod oer a gwylb ond pawb yn w\u00ean o glust i glust."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-025.jpg",
+            "type": "image",
+            "target_id": "749661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600900,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch Book Club",
+        "cy": "Clwb Darllen Merched y Wawr Cangen San Cler "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600900",
+    "created": 1502448395,
+    "updated": 1502448395,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Glwb Darllen Merched y Wawr Cangen San Cler gyda\u2019r awdur, Caryl Lewis, ym mis Medi 2009.  \nRhes gefn \u2013 Daphne Walters, Sally Davies, Caryl Lewis, Nes Williams, Beti-Wyn James\nRhes flaen \u2013 Lilwen Thomas, Doris Evans, Beti Thomas",
+        "cy": "Llun o Glwb Darllen Merched y Wawr Cangen San Cler gyda\u2019r awdur, Caryl Lewis, ym mis Medi 2009.  \nRhes gefn \u2013 Daphne Walters, Sally Davies, Caryl Lewis, Nes Williams, Beti-Wyn James\nRhes flaen \u2013 Lilwen Thomas, Doris Evans, Beti Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819326000000",
+            "lon": "-4.498561000000",
+            "description": {
+                "en": "San Cler",
+                "cy": "San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-030.jpg",
+            "type": "image",
+            "target_id": "600898"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

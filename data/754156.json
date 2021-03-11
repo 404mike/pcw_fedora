@@ -1,0 +1,91 @@
+{
+    "id": 754156,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Trawsfynydd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Trawsfynydd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754156",
+    "created": 1516958667,
+    "updated": 1516958667,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1973 - 1974",
+        "cy": "Rhaglen Tymor 1973 - 1974"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Trawsfynydd",
+    "owner": "Cangen Trawsfynydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Trawsfynydd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trawsfynydd",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902317000000",
+            "lon": "-3.923549000000",
+            "description": {
+                "en": "Trawsfynydd",
+                "cy": "Trawsfynydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_001.jpg",
+            "type": "image",
+            "target_id": "754141"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_002.jpg",
+            "type": "image",
+            "target_id": "754146"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

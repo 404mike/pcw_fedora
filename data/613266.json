@@ -1,0 +1,84 @@
+{
+    "id": 613266,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi - Trips",
+        "cy": "Tripiau Merched y Wawr Llannau&#039;r Tywi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613266",
+    "created": 1510753914,
+    "updated": 1510753914,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi\nYn 2012-13 trwy ddyfalbarhad y Llywydd ar y pryd, Anne Evans, derbyniodd y Gangen grant gan y Loteri.  Defnyddiwyd yr arian i brynu gliniadur ac argraffydd, camera digidol ac offer swyddfa er mwyn hwyluso gwaith y Swyddogion.  Defnyddiwyd y gweddill i dalu am sawl taith ddiddorol.  \nBu\u2019r gangen i Ganolfan Gwilitiau Jen Jones yn Llanbed, i Felin Tregwynt, Porthgain a Th\u0177 Ddewi, a\u2019r uchafbwynt oedd y daith i Fae Caerdydd ac i Ganolfan y Mileniwm i gwynhau perfformiad o\u2019r sioe \u2018Hairspray\u2019.\nLlun o\u2019r aelodau tu allan i Ganolfan y Mileniwm, Gorffennaf 2013",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi\nYn 2012-13 trwy ddyfalbarhad y Llywydd ar y pryd, Anne Evans, derbyniodd y Gangen grant gan y Loteri.  Defnyddiwyd yr arian i brynu gliniadur ac argraffydd, camera digidol ac offer swyddfa er mwyn hwyluso gwaith y Swyddogion.  Defnyddiwyd y gweddill i dalu am sawl taith ddiddorol.  \nBu\u2019r gangen i Ganolfan Gwilitiau Jen Jones yn Llanbed, i Felin Tregwynt, Porthgain a Th\u0177 Ddewi, a\u2019r uchafbwynt oedd y daith i Fae Caerdydd ac i Ganolfan y Mileniwm i gwynhau perfformiad o\u2019r sioe \u2018Hairspray\u2019.\nLlun o\u2019r aelodau tu allan i Ganolfan y Mileniwm, Gorffennaf 2013"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.464843000000",
+            "lon": "-3.164003000000",
+            "description": {
+                "en": "Canolfan y Mileniwm",
+                "cy": "Canolfan y Mileniwm"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_057.jpg",
+            "type": "image",
+            "target_id": "613256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

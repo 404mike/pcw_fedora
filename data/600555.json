@@ -1,0 +1,73 @@
+{
+    "id": 600555,
+    "title": {
+        "en": "Poems by Morfydd James, Merched y Wawr Gronw Branch",
+        "cy": "Cerddi gan Morfydd James, Merched y Wawr Cangen Gronw  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600555",
+    "created": 1502447895,
+    "updated": 1502447895,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerddi gan Morfydd James.  Roedd y diweddar Morfydd James yn aelod gweithgar i Gangen Gronw o Ferched y Wawr ac yn fardd  Casgliad o gerddi sydd yma, gan gynnwys y pennill wnaeth ennill cystadleuaeth cerdyn Nadolig y mudid rhai blynyddoedd yn \u00f4l.",
+        "cy": "Cerddi gan Morfydd James.  Roedd y diweddar Morfydd James yn aelod gweithgar i Gangen Gronw o Ferched y Wawr ac yn fardd  Casgliad o gerddi sydd yma, gan gynnwys y pennill wnaeth ennill cystadleuaeth cerdyn Nadolig y mudid rhai blynyddoedd yn \u00f4l."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-276.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-276.jpg",
+            "type": "image",
+            "target_id": "600554"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

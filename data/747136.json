@@ -1,0 +1,75 @@
+{
+    "id": 747136,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch win a Dyfed Libraries Competition",
+        "cy": "Merched y Wawr Cangen Maenclochog yn ennill gwobr Llyfrgell Dyfed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747136",
+    "created": 1516897600,
+    "updated": 1516897600,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog yn ennill gwobr Llyfrgell Dyfed am gynhyrchu deunydd ar gyfer cylchrgrawn y mudiad, \u2018Y Wawr\u2019, ym 1979.",
+        "cy": "Merched y Wawr Cangen Maenclochog yn ennill gwobr Llyfrgell Dyfed am gynhyrchu deunydd ar gyfer cylchrgrawn y mudiad, \u2018Y Wawr\u2019, ym 1979."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Maenclochog ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Maenclochog"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-002.jpg",
+            "type": "image",
+            "target_id": "747131"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

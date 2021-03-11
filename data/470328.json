@@ -1,0 +1,65 @@
+{
+    "id": 470328,
+    "title": {
+        "en": "Henryd, Aberconwy branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Henryd, Aberconwy i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470328",
+    "created": 1441700699,
+    "updated": 1441700699,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Henryd, Aberconwy branch of Merched y Wawr. It contains a list of names of houses, farms and small holdings in the Henryd and Tynygroes area collected by Mary C Hughes.",
+        "cy": "Gwybodaeth am waith cangen Henryd, Aberconwy o Ferched y Wawr. Mae'n cynnwys rhestr o enwau tai, tyddynnod a ffermydd yn ardal Henryd a Thynygroes. Casglwyd gan Mary C Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10494.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10494.jpg",
+            "type": "image",
+            "target_id": "470326"
+        },
+        {
+            "originalFilename": "pcw001_10495.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10495.jpg",
+            "type": "image",
+            "target_id": "470327"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10494",
+    "publisher_ref": ""
+}

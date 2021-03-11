@@ -1,0 +1,85 @@
+{
+    "id": 624216,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dyffryn Ceiriog, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Dyffryn Ceiriog, Glyn Maelor. Cofeb Sempringham, Mai 2000."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624216",
+    "created": 1511279764,
+    "updated": 1511279764,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen wrth Cofeb Sempringham, Mai 2000. Eirian Austin, Margaret Humphries, Iola Evans (yn cuddio!), Falmai Parry, Delyth, Anne Evans, Glenys Morris, Llinos Kilfoil.",
+        "cy": "Rhai o aelodau\u2019r Gangen wrth Cofeb Sempringham, Mai 2000. Eirian Austin, Margaret Humphries, Iola Evans (yn cuddio!), Falmai Parry, Delyth, Anne Evans, Glenys Morris, Llinos Kilfoil."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Llinos Kilfoil ",
+    "owner": "Casgliad Llinos Kilfoil ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dyffryn Ceiriog",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dyffryn Ceiriog",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1920s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.887562000000",
+            "lon": "-3.251440000000",
+            "description": {
+                "en": "Dyffryn Ceiriog",
+                "cy": "Dyffryn Ceiriog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DYFFRYNCEIRIOG_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DYFFRYNCEIRIOG_006.jpg",
+            "type": "image",
+            "target_id": "624206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

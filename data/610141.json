@@ -1,0 +1,75 @@
+{
+    "id": 610141,
+    "title": {
+        "en": "Merched y Wawr, Geler Branch win the Dyfed Book Quiz in 1978",
+        "cy": "T\u00eem Merched y Wawr Cangen Geler yn ennill Cwis Llyfrau Dyfed ym 1978"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610141",
+    "created": 1510753145,
+    "updated": 1510753145,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem Merched y Wawr Cangen Geler yn ennill Cwis Llyfrau Dyfed ym 1978 - bu'r gangen yn fuddugol yn y gystadleuaeth am dair mlynedd yn olynol, 1978, 1979 a 1980.  Yn y llun mae Eurwen Jones, Heiddwen Jones, Beti Jenkins,Valmai Owen, Doreen Thomas",
+        "cy": "T\u00eem Merched y Wawr Cangen Geler yn ennill Cwis Llyfrau Dyfed ym 1978 - bu'r gangen yn fuddugol yn y gystadleuaeth am dair mlynedd yn olynol, 1978, 1979 a 1980.  Yn y llun mae Eurwen Jones, Heiddwen Jones, Beti Jenkins,Valmai Owen, Doreen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-003.jpg",
+            "type": "image",
+            "target_id": "610136"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

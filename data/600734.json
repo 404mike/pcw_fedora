@@ -1,0 +1,82 @@
+{
+    "id": 600734,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch Baner",
+        "cy": "Baner Merched y Wawr Cangen Pencader a\u2019r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600734",
+    "created": 1502448165,
+    "updated": 1502448165,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Cangen Pencader a\u2019r Cylch\nCynlluniwyd y faner gan Meinir Ffransis, gyda brodwaith cywrain Morfudd Jones",
+        "cy": "Baner Merched y Wawr Cangen Pencader a\u2019r Cylch\nCynlluniwyd y faner gan Meinir Ffransis, gyda brodwaith cywrain Morfudd Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.000865000000",
+            "lon": "-4.265584000000",
+            "description": {
+                "en": "Pencader",
+                "cy": "Pencader"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-106.jpg",
+            "type": "image",
+            "target_id": "600732"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

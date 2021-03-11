@@ -1,0 +1,92 @@
+{
+    "id": 600122,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrwst, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanrwst, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600122",
+    "created": 1502447277,
+    "updated": 1502447277,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llanrwst yn dathlu ei 30. Dyma luna o Megan Roberts (Ysg. cyntaf) a Rona Jones (Llywydd cyntaf) yn torri\u2019r gacen.",
+        "cy": "Cangen Llanrwst yn dathlu ei 30. Dyma luna o Megan Roberts (Ysg. cyntaf) a Rona Jones (Llywydd cyntaf) yn torri\u2019r gacen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrwst",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrwst",
+        "Rhanbarth Aberconwy",
+        "Dathlu 30"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799720000000",
+            "description": {
+                "en": "Llanrwst",
+                "cy": "Llanrwst"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_030.jpg",
+            "type": "image",
+            "target_id": "600119"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_031.jpg",
+            "type": "image",
+            "target_id": "600120"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

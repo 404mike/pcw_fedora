@@ -1,0 +1,90 @@
+{
+    "id": 584244,
+    "title": {
+        "en": "Merched y Wawr Residential School Programme 1976 (Myfyr a Mwyniant - Contemplation and Pleasure)",
+        "cy": "Rhaglen Myfyr a Mwyniant, Ysgol Breswyl Merched y Wawr, 1976"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584244",
+    "created": 1499870826,
+    "updated": 1499870826,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Myfyr a Mwyniant, Ysgol Breswyl Merched y Wawr, 10-12 Medi, 1976, Neuadd Pantycelyn, Penglais, Aberystwyth.  Tudalen Flaen",
+        "cy": "Rhaglen Myfyr a Mwyniant, Ysgol Breswyl Merched y Wawr, 10-12 Medi, 1976, Neuadd Pantycelyn, Penglais, Aberystwyth.  Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.416867000000",
+            "lon": "-4.069398000000",
+            "description": {
+                "en": "Neuadd Pantycelyn, Penglais, Aberystwyth",
+                "cy": "Neuadd Pantycelyn, Penglais, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-045.jpg",
+            "type": "image",
+            "target_id": "584241"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-046.jpg",
+            "type": "image",
+            "target_id": "584242"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

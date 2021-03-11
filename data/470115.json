@@ -1,0 +1,90 @@
+{
+    "id": 470115,
+    "title": {
+        "en": "Tonysguboriau (Talbot Green) branch, the South East's contribution to the Merched y Wawr project on Welsh place names.",
+        "cy": " Cyfraniad cangen Tonysguboriau, rhanbarth y De Ddwyrain i brosiect Merched y Wawr ar Gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470115",
+    "created": 1441700601,
+    "updated": 1441700601,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Tonysguboriau (Talbot Green) branch, the South East region of Merched y Wawr. It contains street names; some farms; new estates.",
+        "cy": "Gwybodaeth am waith cangen Tonysguboriau, rhanbarth y De Ddwyrain o Ferched y Wawr. Mae'n cynnwys enwau strydoedd, ffermydd a stadau newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10300.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10300.jpg",
+            "type": "image",
+            "target_id": "470109"
+        },
+        {
+            "originalFilename": "pcw001_10301.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10301.jpg",
+            "type": "image",
+            "target_id": "470110"
+        },
+        {
+            "originalFilename": "pcw001_10302.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10302.jpg",
+            "type": "image",
+            "target_id": "470111"
+        },
+        {
+            "originalFilename": "pcw001_10303.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10303.jpg",
+            "type": "image",
+            "target_id": "470112"
+        },
+        {
+            "originalFilename": "pcw001_10304.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10304.jpg",
+            "type": "image",
+            "target_id": "470113"
+        },
+        {
+            "originalFilename": "pcw001_10305.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10305.jpg",
+            "type": "image",
+            "target_id": "470114"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10300",
+    "publisher_ref": ""
+}

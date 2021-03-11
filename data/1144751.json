@@ -1,0 +1,63 @@
+{
+    "id": 1144751,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Carmarthen National Eisteddfod 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144751",
+    "created": 1562062398,
+    "updated": 1562062398,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies the new President being inaugurated by Gill Griffiths.",
+        "cy": "Meryl Davies yn cael ei hurddo yn Llywydd newydd MyW gan Gill Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_596_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_596_0.jpg",
+            "type": "image",
+            "target_id": "1144746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

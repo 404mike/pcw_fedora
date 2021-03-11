@@ -1,0 +1,130 @@
+{
+    "id": 599780,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandudno Junction, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Cyffordd Llandudno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599780",
+    "created": 1502446878,
+    "updated": 1502446878,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating Merched y Wawr\u2019s 25th Birthday in 1992",
+        "cy": "Cangen Cyffordd Llandudno ym Mherenidod y Parc, Mai 1992. Dyma Mrs M Jones a Mrs A Hughes yn mwynhau paned can gorymdeithio drwy\u2019r Bala."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cyffordd Llandudno",
+    "owner": "Cangen Cyffordd Llandudno",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandudno Junction Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cyffordd Llandudno",
+        "Rhanbarth Aberconwy",
+        "Aberconwy",
+        "Y Parc",
+        "Pererindod y Parc",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890693000000",
+            "lon": "-3.672062000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_018.jpg",
+            "type": "image",
+            "target_id": "599771"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_019.jpg",
+            "type": "image",
+            "target_id": "599772"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_020.jpg",
+            "type": "image",
+            "target_id": "599773"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_021.jpg",
+            "type": "image",
+            "target_id": "599774"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_022.jpg",
+            "type": "image",
+            "target_id": "599775"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_023.jpg",
+            "type": "image",
+            "target_id": "599776"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_024.jpg",
+            "type": "image",
+            "target_id": "599777"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_025.jpg",
+            "type": "image",
+            "target_id": "599778"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

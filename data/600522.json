@@ -1,0 +1,80 @@
+{
+    "id": 600522,
+    "title": {
+        "en": "Remembering Beti Gwynno', Merched y Wawr President 1972 - 1974",
+        "cy": "Cofio Beti Gwynno\u2019, Llywydd Cenedlaethol Merched y Wawr 1972 - 1974 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600522",
+    "created": 1502447843,
+    "updated": 1502447843,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofio \u2018Beti Gwynno\u2019 dofgen yn rhoi hanes achlysur a gynhaliwyd i ddadorchuddio cofeb i Beti Gwynno yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974.\nTudalen 1",
+        "cy": "Cofio \u2018Beti Gwynno\u2019 dofgen yn rhoi hanes achlysur a gynhaliwyd i ddadorchuddio cofeb i Beti Gwynno yng Nghwmbach, Gorffennaf 23, 1994.  Roedd Beti yn Lywydd Cenedlaethol Merched y Wawr o 1972 i 1974.\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-257.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-257.jpg",
+            "type": "image",
+            "target_id": "600520"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-258.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-258.jpg",
+            "type": "image",
+            "target_id": "600521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

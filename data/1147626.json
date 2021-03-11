@@ -1,0 +1,66 @@
+{
+    "id": 1147626,
+    "title": {
+        "en": "Songs of Praise to celebrate 50 years of MyW at  Hen Gapel, Llanuwchlyn.",
+        "cy": "Dechrau Canu Dechrau Canmol o&#039;r Hen Gapel, Llanuwchllyn i ddathlu 50 mlynedd MyW."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147626",
+    "created": 1562065440,
+    "updated": 1562065440,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The Minister welcoming the congregation.",
+        "cy": "Y Gweinidog yn croesawu'r gynulleidfa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "songs of praise",
+        "dechrau canu dechrau canmol",
+        "dathliadau 50",
+        "Llanuwchllyn"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_936.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_936.jpg",
+            "type": "image",
+            "target_id": "1147621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

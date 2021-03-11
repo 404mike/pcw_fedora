@@ -1,0 +1,67 @@
+{
+    "id": 1143656,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143656",
+    "created": 1562061087,
+    "updated": 1562061087,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tasting the wine.",
+        "cy": "Blasu'r gwin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "cwmderi vineyards",
+        "taith myw",
+        "Sir Benfro",
+        "gwinllan cwmderi"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_482.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_482.jpg",
+            "type": "image",
+            "target_id": "1143651"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

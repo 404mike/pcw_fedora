@@ -1,0 +1,71 @@
+{
+    "id": 1145991,
+    "title": {
+        "en": "President's Dinner at the Ivy Bush, Carmarthen",
+        "cy": "Cinio&#039;r Llywydd yn y De yng ngwesty&#039;r Llwyn Iorwg, Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145991",
+    "created": 1562063090,
+    "updated": 1562063090,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Nan Lewis presenting a cheque for \u00a31,000 towards the Heart Foundation Wales collection \u2013 money raised from the performance of her pageant at the Lyric Carmarthen.",
+        "cy": "Nan Lewis yn cyflwyno siec o \u00a31,000 tuag at gasgliad Sefydliad y Galon, Cymru \u2013 arian a godwyd o berfformiad ei Phasiant yn y Lyric Caerfyrddin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Carmarthen",
+        "cinior llywydd",
+        "Caerfyrddin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_746.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_746.jpg",
+            "type": "image",
+            "target_id": "1145981"
+        },
+        {
+            "originalFilename": "df_myw_747.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_747.jpg",
+            "type": "image",
+            "target_id": "1145986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

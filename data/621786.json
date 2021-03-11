@@ -1,0 +1,85 @@
+{
+    "id": 621786,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn. Gwibdaith y gangen, Haf 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621786",
+    "created": 1511278953,
+    "updated": 1511278953,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y gangen, Haf 2007 i ymweld \u00e2 hofrenydd yr Heddlu ger Rhuddlan. Mair Jones, Morfudd Williams, Catherine Williams, Bet Pierce, Dianah Roberts, Eluned Jones, Mair Owen, Mafona Kirkham, Any Evans, Ann Davies, Lloyd Hughes, Margaret Evans, Elinor Davies, Edna Davies.",
+        "cy": "Gwibdaith y gangen, Haf 2007 i ymweld \u00e2 hofrenydd yr Heddlu ger Rhuddlan. Mair Jones, Morfudd Williams, Catherine Williams, Bet Pierce, Dianah Roberts, Eluned Jones, Mair Owen, Mafona Kirkham, Any Evans, Ann Davies, Lloyd Hughes, Margaret Evans, Elinor Davies, Edna Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_031.jpg",
+            "type": "image",
+            "target_id": "621776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

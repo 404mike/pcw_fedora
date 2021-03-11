@@ -1,0 +1,87 @@
+{
+    "id": 1146126,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Eisteddfod Genedlaethol Sir Fynwy a&#039;r Cyffniau 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146126",
+    "created": 1562063751,
+    "updated": 1562063751,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "History of the collections made by MyW since 2006. 1) The Bras in 2006 2) Collecting Shoes 3) Collecting Bags 4) Collecting Accessories 5) Collecting Heritage Items and information for future reference.",
+        "cy": "Hanes y Casgliadau a wnaed gan MyW ers 2006. 1) Casglu Bras 2006 2) Casglu Bagiau  3) Casglu Bagiau 4) Casglu Ategolion 5) Casglu Eitemau a gwybodaeth Treftadaeth y Mudiad er mwyn y dyfodol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "monmouthshire and area national eisteddfod 2016",
+        "eisteddfod genedlaethol sir fynwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_761.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_761.jpg",
+            "type": "image",
+            "target_id": "1146101"
+        },
+        {
+            "originalFilename": "df_myw_762.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_762.jpg",
+            "type": "image",
+            "target_id": "1146106"
+        },
+        {
+            "originalFilename": "df_myw_763.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_763.jpg",
+            "type": "image",
+            "target_id": "1146111"
+        },
+        {
+            "originalFilename": "df_myw_764.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_764.jpg",
+            "type": "image",
+            "target_id": "1146116"
+        },
+        {
+            "originalFilename": "df_myw_765.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_765.jpg",
+            "type": "image",
+            "target_id": "1146121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

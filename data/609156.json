@@ -1,0 +1,74 @@
+{
+    "id": 609156,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area Marquee at the National Eisteddfod 1974",
+        "cy": "Pabell Merched y Wawr Rhanbarth Caerfyrddin yn Eisteddfod Genedlaethol 1974 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609156",
+    "created": 1510752914,
+    "updated": 1510752914,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pabell Merched y Wawr Rhanbarth Caerfyrddin yn Eisteddfod Genedlaethol Caerfyrddin 1974 ac eglurhad am y trefniadau yno.",
+        "cy": "Pabell Merched y Wawr Rhanbarth Caerfyrddin yn Eisteddfod Genedlaethol Caerfyrddin 1974 ac eglurhad am y trefniadau yno."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Elfed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117012.jpg",
+            "type": "image",
+            "target_id": "609151"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

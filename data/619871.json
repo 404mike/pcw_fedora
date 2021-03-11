@@ -1,0 +1,88 @@
+{
+    "id": 619871,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr St Asaph, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanelwy, Eisteddfod Rhyl a\u2019r Cyffuniau yn 1985. Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619871",
+    "created": 1511278260,
+    "updated": 1511278260,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen a\u2019u plant yn Eisteddfod Rhyl a\u2019r Cyffuniau yn 1985 yn perfformio ar Theatr y Maes, \u2018Gwyliau a\u2019r Lan y M\u00f4r\u2019. (cefn) Eirlys Jones, Rhian Davies, Eirwen Williams, Mari Williams, Ffion Davies, Menna Williams, Medwen Willimas Eirlys Savage (3ydd) Glenys Williams, Eleri Jones, Beryl Jones, Jean Salisbury (2ail) Ceri Rowlands, Rhian Salisbury, Elin Lewis Jones (blaen) Arwyn Jones, Dyfan Tudur, Meinir Llwyd, Delyth Jones.",
+        "cy": "Rhai o aelodau\u2019r gangen a\u2019u plant yn Eisteddfod Rhyl a\u2019r Cyffuniau yn 1985 yn perfformio ar Theatr y Maes, \u2018Gwyliau a\u2019r Lan y M\u00f4r\u2019. (cefn) Eirlys Jones, Rhian Davies, Eirwen Williams, Mari Williams, Ffion Davies, Menna Williams, Medwen Willimas Eirlys Savage (3ydd) Glenys Williams, Eleri Jones, Beryl Jones, Jean Salisbury (2ail) Ceri Rowlands, Rhian Salisbury, Elin Lewis Jones (blaen) Arwyn Jones, Dyfan Tudur, Meinir Llwyd, Delyth Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanelwy",
+    "owner": "Cangen Llanelwy",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llanelwy",
+                "cy": "Cangen Merched y Wawr Llanelwy"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "St Asaph",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanelwy",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.257851000000",
+            "lon": "-3.440893000000",
+            "description": {
+                "en": "Llanelwy",
+                "cy": "Llanelwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANELWY_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANELWY_003.jpg",
+            "type": "image",
+            "target_id": "619861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

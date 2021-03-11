@@ -1,0 +1,76 @@
+{
+    "id": 1046291,
+    "title": {
+        "en": "President Dinner in South Wales 2002",
+        "cy": "Cinio Llywydd yn y De 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046291",
+    "created": 1555590140,
+    "updated": 1555590140,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The National President, Catrin Stevens with her guests, Malvina Ley and Gwenda Owen. This was the first President's Dinner in the South and it was held at Pant yr Athro Hotel, Llanstephan, March 2002.",
+        "cy": "Catrin Stevens, Llywydd Cenedlaethol, gyda'i gwesteion, Malvina Ley (Ysgrifennydd Rhanbarth) a Gwenda Owen (Swyddog Datblygu). Dyma'r Cinio Llywydd cyntaf I'w drefnu yn y De ac fe'i cyhaliwyd yng ngwesty Pant yr Athro, Llansteffan yn 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "south wales",
+        "march 2002",
+        "Llanstephan",
+        "Cinio",
+        "llywydd cenedlaethol cyntaf yn y de",
+        "mawrth 2002",
+        "Llansteffan",
+        "Catrin Stevens"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_023.jpg",
+            "type": "image",
+            "target_id": "1046281"
+        },
+        {
+            "originalFilename": "df_myw_023-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_023-001.jpg",
+            "type": "image",
+            "target_id": "1046286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

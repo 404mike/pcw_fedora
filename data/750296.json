@@ -1,0 +1,76 @@
+{
+    "id": 750296,
+    "title": {
+        "en": "A Card from Gorseinon Branch to Esyllt Jones, Merched y Wawr National President 2008-2010",
+        "cy": "Carden gan Cangen Gorseinon i Esyllt Jones Llywyddiaeth Cenedlaethol Merched y Wawr 2008-2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750296",
+    "created": 1516899402,
+    "updated": 1516899402,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Carden a roddwyd i Esyllt Jones gan aelodau ei changen, sef Cangen Gorseion, ar achlysur ei Llywyddiaeth Cenedlaethol o Ferched y Wawr, 2008-2010.",
+        "cy": "Carden a roddwyd i Esyllt Jones gan aelodau ei changen, sef Cangen Gorseion, ar achlysur ei Llywyddiaeth Cenedlaethol o Ferched y Wawr, 2008-2010."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol",
+        "Cangen Gorseinon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-032.jpg",
+            "type": "image",
+            "target_id": "750291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

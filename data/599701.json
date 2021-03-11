@@ -1,0 +1,104 @@
+{
+    "id": 599701,
+    "title": {
+        "en": "Merched y Wawr, Betws Garmon, Aberconwy - Minuets ",
+        "cy": "Cofnodion cangen Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599701",
+    "created": 1502446788,
+    "updated": 1502446788,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating the branch\u2019s 10th birthday",
+        "cy": "Cofnodion cangen Betws Garmon, Rhanbarth Aberconwy. Dathlu penblwydd y Gangen yn 10, 1990. Pennillion cyfarch gan Myrddin ap Dafydd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "Llyfrau Cofnodion Merched y Wawr",
+        "Cofnodion Merched y Wawr",
+        "Dathlu 10",
+        "Penblwydd Merched y Mawr",
+        "Cerddi Merched y Wawr",
+        "Barddoniaeth Merched y Wawr",
+        "Myrddin ap Dafydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_042.jpg",
+            "type": "image",
+            "target_id": "599697"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_043.jpg",
+            "type": "image",
+            "target_id": "599698"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_044.jpg",
+            "type": "image",
+            "target_id": "599699"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

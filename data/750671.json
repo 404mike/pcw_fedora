@@ -1,0 +1,83 @@
+{
+    "id": 750671,
+    "title": {
+        "en": "Mercher y Wawr 25th Anniversary - Celebratory Dinner 1967-1992",
+        "cy": "Chwarter Canrif Merched y Wawr - Rhaglen Cinio\u2019r Dathlu1967-1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750671",
+    "created": 1516899577,
+    "updated": 1516899577,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Blaen rhaglen Cinio\u2019r Dathlu 1967-92 yn Llanbedr pont Steffan.  Dyma gopi Wendy Richards, Llywydd Cenedlaethol Merched y Wawr 1976-1978 ac ar y clawr cefn ceir enwau\u2019 allofnodion y llywyddion a\u2019r swyddogion cenedlaethol",
+        "cy": "Blaen rhaglen Cinio\u2019r Dathlu 1967-92 yn Llanbedr pont Steffan.  Dyma gopi Wendy Richards, Llywydd Cenedlaethol Merched y Wawr 1976-1978 ac ar y clawr cefn ceir enwau\u2019 allofnodion y llywyddion a\u2019r swyddogion cenedlaethol"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Casgliad Wendy Richards, Cangen Castell Nedd a Llywydd Cenedlaethol 1976-1978)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.114012000000",
+            "lon": "-4.076559000000",
+            "description": {
+                "en": "Coleg y Brifysgol, Llanbedr Pont Steffan",
+                "cy": "Coleg y Brifysgol, Llanbedr Pont Steffan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Copi%20Wendy%20Richards%20Cinio%27r%20Dathlu%201992%20%28i%29%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Copi%2520Wendy%2520Richards%2520Cinio%2527r%2520Dathlu%25201992%2520%2528i%2529%2520001.jpg",
+            "type": "image",
+            "target_id": "750661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

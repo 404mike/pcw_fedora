@@ -1,0 +1,65 @@
+{
+    "id": 1049101,
+    "title": {
+        "en": "Xmas Fair 2010",
+        "cy": "Ffair Aeaf 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049101",
+    "created": 1555591785,
+    "updated": 1555591785,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition for packing a Xmas parcel. Winner -  Dewina George, Capel Newydd Branch, Pembrokeshire.",
+        "cy": "Cystadleuaeth lapio parsel Nadolig. Cyntaf \u2013 Dewina George, cangen Capel Newydd, Rhanbarth Penfro."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "xmas fair",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_318.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_318.jpg",
+            "type": "image",
+            "target_id": "1049096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

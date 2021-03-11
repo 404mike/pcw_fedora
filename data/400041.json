@@ -1,0 +1,72 @@
+{
+    "id": 400041,
+    "title": {
+        "en": "Capel Curig Field names",
+        "cy": "Caeau Ffermydd Capel Curig"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400041",
+    "created": 1416923905,
+    "updated": 1416923905,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Capel Curig field names in farms Tal Braich Isaf, Tal Braich Uchaf, Glan llugwy, Bodesi yn Capel Curig, Aberconwy",
+        "cy": "Enwau Caeau Ffermydd Capel Curig - Tal Braich Isaf, Tal Braich Uchaf, Glan Llugwy, Bodesi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Capel Curig Field names",
+        "Caeau Pandy Tudur"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.106152000000",
+            "lon": "-3.912360000000",
+            "description": {
+                "en": "Capel Curig, Aberconwy",
+                "cy": "Capel Curig, Aberconwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010566.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010566.jpg",
+            "type": "image",
+            "target_id": "400039"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010566",
+    "publisher_ref": ""
+}

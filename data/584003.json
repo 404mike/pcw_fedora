@@ -1,0 +1,84 @@
+{
+    "id": 584003,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth (Newport) Branch - The Oldest Member  ",
+        "cy": "Merched y Wawr Cangen Trefdraeth - Yr Aelod Hynaf"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584003",
+    "created": 1499870216,
+    "updated": 1499870216,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Gwladys Evans yn torri cacen dathlu 30 mlynedd Cangen Trefdraeth o Ferched y Wawr yn \u2018Highbury\u2019 Aberteifi ar \u00f4l ymweld \u00e2\u2019r Llyfrgell Genedlaethol yn Aberystwyth, Awst 30, 2007",
+        "cy": "Mrs Gwladys Evans yn torri cacen dathlu 30 mlynedd Cangen Trefdraeth o Ferched y Wawr yn \u2018Highbury\u2019 Aberteifi ar \u00f4l ymweld \u00e2\u2019r Llyfrgell Genedlaethol yn Aberystwyth, Awst 30, 2007"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": " Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trefdraeth",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.085694000000",
+            "lon": "-4.658638000000",
+            "description": {
+                "en": "Highbury, Aberteifi",
+                "cy": "Highbury, Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-006.jpg",
+            "type": "image",
+            "target_id": "584001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

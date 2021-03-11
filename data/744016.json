@@ -1,0 +1,75 @@
+{
+    "id": 744016,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch in Llanilar Carnival",
+        "cy": " Merched y Wawr Cangen Bro Ilar yng Ngharnifal Llanilar "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744016",
+    "created": 1516896111,
+    "updated": 1516896111,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Bro Ilar yn portreadu ffermio y nawdegau ar ddiwrnod Carnifal Llanilar, Blwyddyn y Mileniwm, Awst 28, 2000.\nYn y llun mae Mary James, Jean Evans, Ada Evans, Brenda Parry-Owen, Ruth Morris, Margaret Morris, Rhiannon Parry, Olivia Lewis",
+        "cy": "Aelodau Merched y Wawr Cangen Bro Ilar yn portreadu ffermio y nawdegau ar ddiwrnod Carnifal Llanilar, Blwyddyn y Mileniwm, Awst 28, 2000.\nYn y llun mae Mary James, Jean Evans, Ada Evans, Brenda Parry-Owen, Ruth Morris, Margaret Morris, Rhiannon Parry, Olivia Lewis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-102.jpg",
+            "type": "image",
+            "target_id": "744011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

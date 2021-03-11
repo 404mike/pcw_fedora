@@ -1,0 +1,84 @@
+{
+    "id": 747806,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Merched y Wawr Cangen Cylch Wyre yn Dathlu&#039;r Deg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747806",
+    "created": 1516898186,
+    "updated": 1516898186,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Cylch Wyre gyda\u2019r Llywydd Cenedlaethol, Eirlys Peris Davies, yn dathlu degfed penblwydd y gangen yng Ngwesty\u2019r Marine Aberystwyth, Medi 21, 1985.  \nRhes flaen \u2013 Enid Jones, Ann Davies, Jean Morgan, Eirlys Davies, Ydwen Williams, Maureen Evans, Ann Selwood, Katie Morgan, Ruth Evans\nRhes ganol \u2013 Gwen Morgan, Elizabeth Jones, Mrs Jones, Myfanwy Thomas, Annie Rogers, Myfi Evans, Margaret Evans, Nansi Powell, Margaret Eiry Evans, Eileen Hopkins, Emma Richards, Joyce Jones\nRhes gefn \u2013 Mari Evans, Mari Morgan, Eluned Jones, Mair Hughes, Anthea Jones, Caroline Moore, Beti Davies, Mair Owens",
+        "cy": "Aelodau Merched y Wawr Cangen Cylch Wyre gyda\u2019r Llywydd Cenedlaethol, Eirlys Peris Davies, yn dathlu degfed penblwydd y gangen yng Ngwesty\u2019r Marine Aberystwyth, Medi 21, 1985.  \nRhes flaen \u2013 Enid Jones, Ann Davies, Jean Morgan, Eirlys Davies, Ydwen Williams, Maureen Evans, Ann Selwood, Katie Morgan, Ruth Evans\nRhes ganol \u2013 Gwen Morgan, Elizabeth Jones, Mrs Jones, Myfanwy Thomas, Annie Rogers, Myfi Evans, Margaret Evans, Nansi Powell, Margaret Eiry Evans, Eileen Hopkins, Emma Richards, Joyce Jones\nRhes gefn \u2013 Mari Evans, Mari Morgan, Eluned Jones, Mair Hughes, Anthea Jones, Caroline Moore, Beti Davies, Mair Owens"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Wyre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Cylch Wyre"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.418587000000",
+            "lon": "-4.084291000000",
+            "description": {
+                "en": "Gwesty'r Marine, Aberystwyth",
+                "cy": "Gwesty'r Marine, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-194_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-194_0.jpg",
+            "type": "image",
+            "target_id": "747796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

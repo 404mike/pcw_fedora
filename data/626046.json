@@ -1,0 +1,87 @@
+{
+    "id": 626046,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Club Gwawr y Goes Goch, Anglesey.",
+        "cy": "Gwybdaith cangen Clwb Gwawr y Goes Goch, Rhanbarth M\u00f4n. I chof-golofn Gwenllian yn Sempringham, Ebrill 2008."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626046",
+    "created": 1511280359,
+    "updated": 1511280359,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o clwb Gwawr y Gors Goch ar ei gwybdaith i chof-golofn Gwenllian yn Sempringham, Ebrill 2008, ynghyd \u00e2 dau wr aeth basio\u2019r criw ar ei beics ac ymuno \u00e2\u2019r llun! Yma ceir: (cefn) Margaret, Dorothy, Glynwen, Margaret, Phillis, Linda (blaen) Miriam, Bet, Glenys, Edwina, Anette, Delyth, Linda, Amanda, Mandy.",
+        "cy": "Llun o clwb Gwawr y Gors Goch ar ei gwybdaith i chof-golofn Gwenllian yn Sempringham, Ebrill 2008, ynghyd \u00e2 dau wr aeth basio\u2019r criw ar ei beics ac ymuno \u00e2\u2019r llun! Yma ceir: (cefn) Margaret, Dorothy, Glynwen, Margaret, Phillis, Linda (blaen) Miriam, Bet, Glenys, Edwina, Anette, Delyth, Linda, Amanda, Mandy."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Clwb Gwawr y Gors Goch",
+    "owner": "Clwb Gwawr y Gors Goch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Y Goes Goch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr y Gors Goch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Cofeb Gwenllian"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.300238000000",
+            "lon": "-4.236423000000",
+            "description": {
+                "en": "Llanbedrgoch",
+                "cy": "Llanbedrgoch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CG_YGORSGOCH_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CG_YGORSGOCH_001.jpg",
+            "type": "image",
+            "target_id": "626036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

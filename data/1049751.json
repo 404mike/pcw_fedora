@@ -1,0 +1,71 @@
+{
+    "id": 1049751,
+    "title": {
+        "en": "Launching a book relating the history of Merched y Wawr.",
+        "cy": "Lansio Llyfr Merched y Wawr yn olrhain hanes y Mudiad."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049751",
+    "created": 1555592032,
+    "updated": 1555592032,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mererid Jones, President, speaking at the launch at the Books Festival at Bala.",
+        "cy": "Mererid Jones, Llywydd yn siarad yn ystod lansio'r llyfr yn y Fedwen Lyfrau, Y Bala. Golygwyd y llyfr gan Meleri Wyn James."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "lansio",
+        "llyfr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_396.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_396.jpg",
+            "type": "image",
+            "target_id": "1049741"
+        },
+        {
+            "originalFilename": "df_myw_397.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_397.jpg",
+            "type": "image",
+            "target_id": "1049746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

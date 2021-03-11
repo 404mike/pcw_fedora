@@ -1,0 +1,82 @@
+{
+    "id": 610756,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch with their banner",
+        "cy": "Merched y Wawr Cangen Llandeilo a&#039;r Faner"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610756",
+    "created": 1510753286,
+    "updated": 1510753286,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mererid James a Morfudd James, Merched y Wawr Cangen Llandeilo o flaen baner y gangen",
+        "cy": "Mererid James a Morfudd James, Merched y Wawr Cangen Llandeilo o flaen baner y gangen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.884599000000",
+            "lon": "-3.991395000000",
+            "description": {
+                "en": "Llandeilo",
+                "cy": "Llandeilo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-015.jpg",
+            "type": "image",
+            "target_id": "610746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,72 @@
+{
+    "id": 470181,
+    "title": {
+        "en": "Canoldir, maldwyn Powys branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen y Canoldir, Maldwyn Powys i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470181",
+    "created": 1441700628,
+    "updated": 1441700628,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by the Canoldir , Maldwyn Powys branch of Merched y Wawr. It contains names of places including fields in the Llangadfan and Croesor areas.",
+        "cy": "Gwybodaeth am waith cangen y Canoldir, Maldwyn Powys o Ferched y Wawr. Mae'n cynnwys enwau tai a chaeau yn ardaloedd Llangadfan a Chroesor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10363.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10363.jpg",
+            "type": "image",
+            "target_id": "470178"
+        },
+        {
+            "originalFilename": "pcw001_10364.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10364.jpg",
+            "type": "image",
+            "target_id": "470179"
+        },
+        {
+            "originalFilename": "pcw001_10365.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10365.jpg",
+            "type": "image",
+            "target_id": "470180"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10363",
+    "publisher_ref": ""
+}

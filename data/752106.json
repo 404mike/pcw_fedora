@@ -1,0 +1,87 @@
+{
+    "id": 752106,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dolgellau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Dolgellau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752106",
+    "created": 1516958106,
+    "updated": 1516958106,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o\u2019r gangen yn ymuno a Catrin Stevens, Llywydd y Mudiad ar thaith gerdded o amgylch Cymru. Gwelwn; Mary Jones, Annette Davies, Eirwen Owen, Menna Roberts, Beryl Hughes, Gwyneth Meredith, Gwen P Jones, Meirwen Owen, Iola Davies, Myfi Hughes, Doreen Thomas, Mona Hughes.",
+        "cy": "Rhai o\u2019r gangen yn ymuno a Catrin Stevens, Llywydd y Mudiad ar thaith gerdded o amgylch Cymru. Gwelwn; Mary Jones, Annette Davies, Eirwen Owen, Menna Roberts, Beryl Hughes, Gwyneth Meredith, Gwen P Jones, Meirwen Owen, Iola Davies, Myfi Hughes, Doreen Thomas, Mona Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dolgellau",
+    "owner": "Cangen Dolgellau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dolgellau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dolgellau",
+        "DolgellauMerched y Wawr",
+        "Rhanbarth Meirionnydd",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.741992000000",
+            "lon": "-3.887413000000",
+            "description": {
+                "en": "Dolgellau",
+                "cy": "Dolgellau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_007.jpg",
+            "type": "image",
+            "target_id": "752096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

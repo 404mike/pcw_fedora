@@ -1,0 +1,86 @@
+{
+    "id": 624656,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Treffynnon, Glyn Maelor",
+        "cy": "Parti Dawnsio Gwerin cangen Merched y Wawr Treffynnon, Glyn Maelor. 1976"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624656",
+    "created": 1511279904,
+    "updated": 1511279904,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Dawnsio Gwerin y Gangen ym 1976\nEnwau Rhes Gefn: Mena Evans,Dilys Wynne, Eurwen Hulmnston, Roberta Owen, \u00a0\u00a0\u00a0Rhes Ganol: Rhydwena Evans, Glenys Davies, Ceinwen Williams, Morfudd Williams,Wenna Stokes Rhes Flaen: Ann Hooks, Eirlys Tomos,Beti Jones",
+        "cy": "Parti Dawnsio Gwerin y Gangen ym 1976\nEnwau Rhes Gefn: Mena Evans,Dilys Wynne, Eurwen Hulmnston, Roberta Owen, \u00a0\u00a0\u00a0Rhes Ganol: Rhydwena Evans, Glenys Davies, Ceinwen Williams, Morfudd Williams,Wenna Stokes Rhes Flaen: Ann Hooks, Eirlys Tomos,Beti Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Treffynnon",
+    "owner": "Cangen Treffynnon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holywell",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treffynnon",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275636000000",
+            "lon": "-3.215419000000",
+            "description": {
+                "en": "Holywell",
+                "cy": "Treffynnon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_TREFFYNNON_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_TREFFYNNON_002.jpg",
+            "type": "image",
+            "target_id": "624646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

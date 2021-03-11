@@ -1,0 +1,75 @@
+{
+    "id": 746416,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch do 'The Haka'",
+        "cy": "\u2018Haka Llanafan\u2019 gan Ferched y Wawr Cangen Llanafan"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746416",
+    "created": 1516897279,
+    "updated": 1516897279,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Haka Llanafan\u2019 - Merched y Wawr Cangen Llanafan yn dathlu Coron Drifflyg Cymru 2005 yng nghystadleuaeth adloniant yr \u0174yl Haf (mis Mai) \/ Cystadleuaeth y Sir, Felinfach (mis Ebrill)\nYn y llun mae Gaynor Evans, Glenda Davies, Sonia Richards, Enid Richards (ail res), Einir Rattray, Enid Evans",
+        "cy": "\u2018Haka Llanafan\u2019 - Merched y Wawr Cangen Llanafan yn dathlu Coron Drifflyg Cymru 2005 yng nghystadleuaeth adloniant yr \u0174yl Haf (mis Mai) \/ Cystadleuaeth y Sir, Felinfach (mis Ebrill)\nYn y llun mae Gaynor Evans, Glenda Davies, Sonia Richards, Enid Richards (ail res), Einir Rattray, Enid Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Haka%20Adloniant%20y%20Rhanbarth%20Llanafan.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Haka%2520Adloniant%2520y%2520Rhanbarth%2520Llanafan.jpg",
+            "type": "image",
+            "target_id": "746411"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,88 @@
+{
+    "id": 599642,
+    "title": {
+        "en": "A collection of photographs of MyW Betws y Coed lobbying Parliament",
+        "cy": "Casgliad o luniau o MyW Betws y Coed yn lobio"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599642",
+    "created": 1502446733,
+    "updated": 1502446733,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Rali\u2019r Iaith Gymraeg yng Nghaerdydd; Megan Jones, Dilys Thomas, Anwen Hughes, Enid Davies, Eleri Thomas, Bessie Roberts, Blodwen Jones, Lilliam Forrest. 2. Rali\u2019r iaith eto; Eleri Williams, Lillian Forrest, Bessie Roberts, Joan Goodwin, Dilys Thomas, Enid Davies, Anwen Thomas. 3. Lobio y T\u0177 Cyffredin yn galw am Ddeddf Iaith Newedd, Mehefin 1990; Anwen Parry, Helga Martin, Dilys Thomas",
+        "cy": "1. Rali\u2019r Iaith Gymraeg yng Nghaerdydd; Megan Jones, Dilys Thomas, Anwen Hughes, Enid Davies, Eleri Thomas, Bessie Roberts, Blodwen Jones, Lilliam Forrest. 2. Rali\u2019r iaith eto; Eleri Williams, Lillian Forrest, Bessie Roberts, Joan Goodwin, Dilys Thomas, Enid Davies, Anwen Thomas. 3. Lobio y T\u0177 Cyffredin yn galw am Ddeddf Iaith Newedd, Mehefin 1990; Anwen Parry, Helga Martin, Dilys Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy",
+        "Rali Iaith",
+        "Deddf Iaith Gymraeg"
+    ],
+    "when": [
+        "1980s",
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_018.jpg",
+            "type": "image",
+            "target_id": "599640"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

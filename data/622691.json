@@ -1,0 +1,87 @@
+{
+    "id": 622691,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhiwlas, Glyn Maelor",
+        "cy": "Dathlu 25mlwyddiant y Mudiad yn y Parc, Mai 1992. Cangen Merched y Wawr Rhiwlas, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622691",
+    "created": 1511279254,
+    "updated": 1511279254,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 25mlwyddiant y Mudiad yn y Parc, Mai 1992. Dyma'r gangen yn sefyll o flaen y maes parcio. Rowena, Pheobe, Iola,Ann Pridwen, Ceinwen, Jinni, Muriel, Brenda a (plant) Rhian Griffiths ac Awel Jones.",
+        "cy": "Dathlu 25mlwyddiant y Mudiad yn y Parc, Mai 1992. Dyma'r gangen yn sefyll o flaen y maes parcio. Rowena, Pheobe, Iola,Ann Pridwen, Ceinwen, Jinni, Muriel, Brenda a (plant) Rhian Griffiths ac Awel Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhiwlas",
+    "owner": "Cangen Rhiwlas",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhiwlas",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhiwlas",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890690000000",
+            "lon": "-3.672105000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_004.jpg",
+            "type": "image",
+            "target_id": "622681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

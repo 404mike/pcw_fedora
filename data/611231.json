@@ -1,0 +1,84 @@
+{
+    "id": 611231,
+    "title": {
+        "en": "Eirlys Lewis, Llangadog Branch, speaking to Catrin Stevens at the Merched y Wawr Residential Weekend, 2015",
+        "cy": "Eirlys Lewis, Cangen Llangadog, yn siarad \u00e2 Catrin Stevens ym Mhenwythnos Preswyl Merched y Wawr yn 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611231",
+    "created": 1510753396,
+    "updated": 1510753396,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eirlys Lewis o Gangen Llangadog yn siarad \u00e2 Catrin Stevens (a oedd wedi bod yn Llywydd 2000-2002) yn ystod Penwythnos Preswyl Merched y Wawr 2015 yn Llanbed am ei phrofiad, a hynny fel merch, o weithio mewn ffatr\u00efoedd.  Bu Eirlys yn gweithio mewn ffatr\u00efoedd niferus yn ne Cymru, gan ddechrau fel Gweithredwr Peiriannau (Machine Operator) cyn mynd ymlaen wedyn i osod y peiriannau \u2013 yn gyfarfal \u00e2 dynion am y tro cyntaf yng Nghaerdydd.  \n(Yn 2017 wnaeth Catrin Steven gyhoeddi llyfr, \u2018Voices from the Factory Floor\u2019, a oedd yn olrhain profiadau merched yn gweithio mewn ffatr\u00efoedd yng Nghymru o 1945 \u2013 1975)",
+        "cy": "Eirlys Lewis o Gangen Llangadog yn siarad \u00e2 Catrin Stevens (a oedd wedi bod yn Llywydd 2000-2002) yn ystod Penwythnos Preswyl Merched y Wawr 2015 yn Llanbed am ei phrofiad, a hynny fel merch, o weithio mewn ffatr\u00efoedd.  Bu Eirlys yn gweithio mewn ffatr\u00efoedd niferus yn ne Cymru, gan ddechrau fel Gweithredwr Peiriannau (Machine Operator) cyn mynd ymlaen wedyn i osod y peiriannau \u2013 yn gyfarfal \u00e2 dynion am y tro cyntaf yng Nghaerdydd.  \n(Yn 2017 wnaeth Catrin Steven gyhoeddi llyfr, \u2018Voices from the Factory Floor\u2019, a oedd yn olrhain profiadau merched yn gweithio mewn ffatr\u00efoedd yng Nghymru o 1945 \u2013 1975)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112971000000",
+            "lon": "-4.078629000000",
+            "description": {
+                "en": "Llanbed",
+                "cy": "Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-238.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-238.jpg",
+            "type": "image",
+            "target_id": "611221"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

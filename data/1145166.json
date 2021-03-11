@@ -1,0 +1,65 @@
+{
+    "id": 1145166,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145166",
+    "created": 1562062737,
+    "updated": 1562062737,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Invitation to the Urdd Eisteddfod, Caerffili and District \u2013 Bronwen Green.",
+        "cy": "Gwahoddiad i Eisteddfod yr Urdd Caerffili a'r cylch \u2013 Bronwen Green."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_654.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_654.jpg",
+            "type": "image",
+            "target_id": "1145161"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

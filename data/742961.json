@@ -1,0 +1,73 @@
+{
+    "id": 742961,
+    "title": {
+        "en": "How to Start a Branch' Leaflet",
+        "cy": "Taflen \u2018Sut i Gychwyn Cangen\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742961",
+    "created": 1516895655,
+    "updated": 1516895655,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen \u2018Sut i Gychwyn Cangen\u2019  a ddanfonwyd ar ddechrau\u2019r broses o sefydlu Merched y Wawr Abertawe",
+        "cy": "Taflen \u2018Sut i Gychwyn Cangen\u2019  a ddanfonwyd ar ddechrau\u2019r broses o sefydlu Merched y Wawr Abertawe"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-001.jpg",
+            "type": "image",
+            "target_id": "742956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

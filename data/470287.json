@@ -1,0 +1,83 @@
+{
+    "id": 470287,
+    "title": {
+        "en": "Llanrwst, Aberconwy branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanrwst, Aberconwy i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470287",
+    "created": 1441700680,
+    "updated": 1441700680,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanrwst, Aberconwy branch of Merched y Wawr. It contains lists of farm with their field names in the Carmel; Melin y Coed area. Some have explanations for field names.",
+        "cy": "Gwybodaeth am waith cangen Llanrwst, Aberconwy o Ferched y Wawr. Mae'n cynnwys rhestri o enwau ffermydd a chaeau yn ardal Carmel a Melin y Coed. Rhai yn cynnig esboniadau ar enwau'r caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10454.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10454.jpg",
+            "type": "image",
+            "target_id": "470282"
+        },
+        {
+            "originalFilename": "pcw001_10455.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10455.jpg",
+            "type": "image",
+            "target_id": "470283"
+        },
+        {
+            "originalFilename": "pcw001_10456.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10456.jpg",
+            "type": "image",
+            "target_id": "470284"
+        },
+        {
+            "originalFilename": "pcw001_10457.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10457.jpg",
+            "type": "image",
+            "target_id": "470285"
+        },
+        {
+            "originalFilename": "pcw001_10458.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10458.jpg",
+            "type": "image",
+            "target_id": "470286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10454",
+    "publisher_ref": ""
+}

@@ -1,0 +1,92 @@
+{
+    "id": 753381,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753381",
+    "created": 1516958460,
+    "updated": 1516958460,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Myferi Hughes, un o aelodau gwreiddiol\/ cyntaf y Gangen yn torri cacen penblwydd Cangen Llan Ffestiniog yn 25 ym 1995. Creuwyd y lliain bwrdd dathlu 25 yn arbennig gan Myferi a\u2019r gacen gan Elwen Roberts.",
+        "cy": "Llun o Myferi Hughes, un o aelodau gwreiddiol\/ cyntaf y Gangen yn torri cacen penblwydd Cangen Llan Ffestiniog yn 25 ym 1995. Creuwyd y lliain bwrdd dathlu 25 yn arbennig gan Myferi a\u2019r gacen gan Elwen Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932342000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_030.jpg",
+            "type": "image",
+            "target_id": "753366"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_031.jpg",
+            "type": "image",
+            "target_id": "753371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

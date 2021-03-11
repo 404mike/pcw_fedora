@@ -1,0 +1,86 @@
+{
+    "id": 620861,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Colwyn Bae, Colwyn.",
+        "cy": "Cofnodion cyntaf cangen Merched y Wawr Bae Colwyn, Rhanbarth Colwyn. 28ain o Hydref, 1969. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620861",
+    "created": 1511278597,
+    "updated": 1511278597,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o gofnodion cyntaf y Gangen pan sefydlwyd hi ar y 28ain o Hydref, 1969. Sy\u2019n cynnwys rhestr o\u2019r Swyddogion cyntaf.",
+        "cy": "Copi o gofnodion cyntaf y Gangen pan sefydlwyd hi ar y 28ain o Hydref, 1969. Sy\u2019n cynnwys rhestr o\u2019r Swyddogion cyntaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bae Colwyn",
+    "owner": "Cangen Bae Colwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Colwyn Bae",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bae Colwyn",
+        "Rhanbarth Colwyn",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.295463000000",
+            "lon": "-3.728684000000",
+            "description": {
+                "en": "Bae Colwyn",
+                "cy": "Bae Colwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_BAE_COLWYN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_BAE_COLWYN_001.jpg",
+            "type": "image",
+            "target_id": "620851"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

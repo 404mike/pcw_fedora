@@ -1,0 +1,67 @@
+{
+    "id": 1049111,
+    "title": {
+        "en": "Xmas Fair 2010",
+        "cy": "Ffair Aeaf 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049111",
+    "created": 1555591789,
+    "updated": 1555591789,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 An Angel in any medium. Winner \u2013 Dilys Richards, Bridgend branch , Glamorgan.",
+        "cy": "Cystadleuaeth \u2013 Angel unrhyw gyfrwng. Cyntaf \u2013 Dilys Richards, Cangen Pen-y-bont ar Ogwr, Morgannwg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "xmas fair",
+        "Competition",
+        "Ffair Aeaf",
+        "Cystadleuaeth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_319.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_319.jpg",
+            "type": "image",
+            "target_id": "1049106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,101 @@
+{
+    "id": 470453,
+    "title": {
+        "en": "Bala, Meirionethshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Y Bala, Meirionnydd i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470453",
+    "created": 1441700743,
+    "updated": 1441700743,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Bala, Meirionethshire branch of Merched y Wawr. It contains a list of farm and field names in the Llidiardau, Maesywaun and Rhyduchaf area.",
+        "cy": "Gwybodaeth am waith a gasglwyd gan gangen Y Bala, Meirionnydd o Ferched y Wawr. Mae'n cynnwys rhestri o enwau ffermydd a'u caeau yn ardal Llidiardau, Maesywaun a Rhyduchaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10606.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10606.jpg",
+            "type": "image",
+            "target_id": "470445"
+        },
+        {
+            "originalFilename": "pcw001_10607.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10607.jpg",
+            "type": "image",
+            "target_id": "470446"
+        },
+        {
+            "originalFilename": "pcw001_10608.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10608.jpg",
+            "type": "image",
+            "target_id": "470447"
+        },
+        {
+            "originalFilename": "pcw001_10609.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10609.jpg",
+            "type": "image",
+            "target_id": "470448"
+        },
+        {
+            "originalFilename": "pcw001_10610.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10610.jpg",
+            "type": "image",
+            "target_id": "470449"
+        },
+        {
+            "originalFilename": "pcw001_10611.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10611.jpg",
+            "type": "image",
+            "target_id": "470450"
+        },
+        {
+            "originalFilename": "pcw001_10612.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10612.jpg",
+            "type": "image",
+            "target_id": "470451"
+        },
+        {
+            "originalFilename": "pcw001_10613.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10613.jpg",
+            "type": "image",
+            "target_id": "470452"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10606",
+    "publisher_ref": ""
+}

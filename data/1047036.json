@@ -1,0 +1,66 @@
+{
+    "id": 1047036,
+    "title": {
+        "en": "MyW Residential Weekend 2005",
+        "cy": "Penwythnos Preswyl MyW 2005 \u2013 Dinasyddiaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047036",
+    "created": 1555590676,
+    "updated": 1555590676,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Concert given by Cardiff Choir at the Llandaf Cathedral.",
+        "cy": "Cyngerdd gan G\u00f4r Caerdydd yn yr Eglwys Gadeiriol, Llandaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2005",
+        "cardiff choir",
+        "penwythnos preswyl myw 2005",
+        "Llandaf",
+        "c\u00f4r caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_089.jpg",
+            "type": "image",
+            "target_id": "1047031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 554499,
+    "title": {
+        "en": "Merched y Wawr - Saturday Discussions ('Sadwrn Trafod') 1986",
+        "cy": "Sadwrn Trafod Merched y Wawr 1986."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554499",
+    "created": 1487592100,
+    "updated": 1487592100,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Amserlen Sadwrn Trafod Merched y Wawr, Plas Gregynog, 12 Gorffennaf, 1986.",
+        "cy": "Amserlen Sadwrn Trafod Merched y Wawr, Plas Gregynog, 12 Gorffennaf, 1986."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000046.jpg",
+            "type": "image",
+            "target_id": "554498"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

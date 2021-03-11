@@ -1,0 +1,65 @@
+{
+    "id": 1145776,
+    "title": {
+        "en": "MyW Residential Weekend 2015",
+        "cy": "Penwythnos Preswyl MyW 2015 \u2013 Croesi Pontydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145776",
+    "created": 1562063005,
+    "updated": 1562063005,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip to Cardigan Castle. Being greeted by Non Griffiths.",
+        "cy": "Ymweld  \u00e2 Chastell Aberteifi. Cael croeso gan Non Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2015",
+        "penwythnos preswyl myw",
+        "croesi pontydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_721.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_721.jpg",
+            "type": "image",
+            "target_id": "1145771"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

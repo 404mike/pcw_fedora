@@ -1,0 +1,72 @@
+{
+    "id": 1146311,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Penwythnos Preswyl MyW 2016 Abertawe \u2013 SA1 \u2013 Bae Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146311",
+    "created": 1562063825,
+    "updated": 1562063825,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying the dinner.",
+        "cy": "Aelodau yn mwynhau y swper."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2016",
+        "SWANSEA",
+        "penwythnos preswyl myw",
+        "abertawe"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_786.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_786.jpg",
+            "type": "image",
+            "target_id": "1146301"
+        },
+        {
+            "originalFilename": "df_myw_787.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_787.jpg",
+            "type": "image",
+            "target_id": "1146306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

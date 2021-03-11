@@ -1,0 +1,74 @@
+{
+    "id": 608726,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Penmachno, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Penmachno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608726",
+    "created": 1510752792,
+    "updated": 1602584196,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Nadolig cangen Penmachno a changen Betws Garmon yn y Waterloo, Betws y Coes. 2016. Olwen, Eluned, Heulwen, Ellen, Catherine, Gwyneth, Dulys, Jane, Iola, Tamara, Angharad, Ann, Margaret, Eleri, Menna, Gwyneth, Sue, Anwen, Mair (Llywydd y G.) Blodwen, Olwen G, Anwen G, Alys, Ann Marie, Mary, Ann P, Sian Rhun.",
+        "cy": "Cinio Nadolig cangen Penmachno a changen Betws Garmon yn y Waterloo, Betws y Coes. 2016. Olwen, Eluned, Heulwen, Ellen, Catherine, Gwyneth, Dulys, Jane, Iola, Tamara, Angharad, Ann, Margaret, Eleri, Menna, Gwyneth, Sue, Anwen, Mair (Llywydd y G.) Blodwen, Olwen G, Anwen G, Alys, Ann Marie, Mary, Ann P, Sian Rhun."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Penmachno ",
+    "owner": "Cangen Penmachno ",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Penmachno",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penmachno",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.039303000000",
+            "lon": "-3.806502000000",
+            "description": {
+                "en": "Penmachno ",
+                "cy": "Penmachno "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_PENMACHNO_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_ABERCONWY_PENMACHNO_006.jpg",
+            "type": "image",
+            "target_id": "608716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

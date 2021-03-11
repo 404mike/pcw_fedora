@@ -1,0 +1,83 @@
+{
+    "id": 750871,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maesywaun, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Maesywaen, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750871",
+    "created": 1516899711,
+    "updated": 1516899711,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen ar daith gerdded noddedig yn Llandudno ym Mehefin, 2010. Gwelwn: Glenys Jones, Dilys Evans, Glenda Jones, Medwen Charles, Rowena Evans, Beryl Davies.",
+        "cy": "Rhai o aelodau\u2019r Gangen ar daith gerdded noddedig yn Llandudno ym Mehefin, 2010. Gwelwn: Glenys Jones, Dilys Evans, Glenda Jones, Medwen Charles, Rowena Evans, Beryl Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maesywaen",
+    "owner": "Cangen Maesywaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maesywaen",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maesywaen",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.038999000000",
+            "lon": "-3.809175000000",
+            "description": {
+                "en": "Maesywaen",
+                "cy": "Maesywaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAESYWAEUN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAESYWAEUN_004.jpg",
+            "type": "image",
+            "target_id": "750861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

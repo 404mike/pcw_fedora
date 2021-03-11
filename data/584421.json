@@ -1,0 +1,85 @@
+{
+    "id": 584421,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch at the Organisations 25th Anniversary Celebrations",
+        "cy": "Merched y Wawr Cangen Caerfyrddin yn Nathliadau Chwarter Canrif y Mudiad "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584421",
+    "created": 1499871027,
+    "updated": 1499871027,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Caerfyrddin o Ferched y Wawr yn y Parc, y Bala, Mai 1992, yn dathlu\u2019r 25ain y Mudiad.",
+        "cy": "Aelodau Cangen Caerfyrddin o Ferched y Wawr yn y Parc, y Bala, Mai 1992, yn dathlu\u2019r 25ain y Mudiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Cangen Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890720000000",
+            "lon": "-3.671748000000",
+            "description": {
+                "en": "Parc, Bala",
+                "cy": "Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-062.jpg",
+            "type": "image",
+            "target_id": "584419"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1146021,
+    "title": {
+        "en": "Urdd National Eisteddfod Fflint 2016",
+        "cy": "Eisteddfod yr Urdd Sir y Fflint 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146021",
+    "created": 1562063103,
+    "updated": 1562063103,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies wearing a variety of the accessories!",
+        "cy": "Meryl Davies yn gwisgo amrywiaeth o'r ategolion!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod fflint 2016",
+        "eisteddfod yr urdd sir y fflint 2016"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_751.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_751.jpg",
+            "type": "image",
+            "target_id": "1146016"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 743816,
+    "title": {
+        "en": "Merched y Wawr Bro Barti Ddu Branch at the National Assembly",
+        "cy": "Merched y Wawr Bro Barti Ddu yn y Cynulliad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743816",
+    "created": 1516896023,
+    "updated": 1516896023,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Barti Ddu yn cwrdd \u00e2 Mr Paul Davies, AC Penfro, ar ei ddiwrnod cyntaf yn y Cynulliad, 9fed Mai 2007.  Arianwyd trip y gangen gan arian y Loteri.  \nYn y llun:-\nMona, Janet Williams, Glenys Harries, Anita Smith, Gwen Morgan, Mr Paul Davies AC, Ann John, Eirwen Hughes, Elfeira Harries, Mary Luke, Mair Francis, Ann Davies, Myfanwy Evans, Heulwen Thomas",
+        "cy": "Merched y Wawr Cangen Bro Barti Ddu yn cwrdd \u00e2 Mr Paul Davies, AC Penfro, ar ei ddiwrnod cyntaf yn y Cynulliad, 9fed Mai 2007.  Arianwyd trip y gangen gan arian y Loteri.  \nYn y llun:-\nMona, Janet Williams, Glenys Harries, Anita Smith, Gwen Morgan, Mr Paul Davies AC, Ann John, Eirwen Hughes, Elfeira Harries, Mary Luke, Mair Francis, Ann Davies, Myfanwy Evans, Heulwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Barti Ddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Barti Ddu",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463449000000",
+            "lon": "-3.162775000000",
+            "description": {
+                "en": "Cynulliad (Senedd?), Bae Caerdydd",
+                "cy": "Cynulliad (Senedd?), Bae Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-141.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-141.jpg",
+            "type": "image",
+            "target_id": "743806"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

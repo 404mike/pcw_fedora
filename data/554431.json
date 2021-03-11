@@ -1,0 +1,101 @@
+{
+    "id": 554431,
+    "title": {
+        "en": "Merched y Wawr Eisteddfod 1999 -  Competitors",
+        "cy": "Eisteddfod Merched y Wawr 1999 - Cystadleuwyr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554431",
+    "created": 1487591860,
+    "updated": 1487591860,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Trefn y Cystadlu (rhestr cystadleuwyr), Eisteddfod Merched y Wawr 1999, 12 Mehefin, Y Pafiliwn, Llandrindod",
+        "cy": "Taflen Trefn y Cystadlu (rhestr cystadleuwyr), Eisteddfod Merched y Wawr 1999, 12 Mehefin, Y Pafiliwn, Llandrindod"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Eisteddfod"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.238983000000",
+            "lon": "-3.379924000000",
+            "description": {
+                "en": "Pafiliwn, Llandrindod",
+                "cy": "Pafiliwn, Llandrindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000012.jpg",
+            "type": "image",
+            "target_id": "554426"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000013.jpg",
+            "type": "image",
+            "target_id": "554427"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000014.jpg",
+            "type": "image",
+            "target_id": "554428"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000015.jpg",
+            "type": "image",
+            "target_id": "554429"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

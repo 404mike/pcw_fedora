@@ -1,0 +1,92 @@
+{
+    "id": 600048,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Eigiau, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Eigiau, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600048",
+    "created": 1502447188,
+    "updated": 1502447188,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 1971 -72, cangen Eigiau. Tymor cyntaf\/ sefydlu y gangen. (clawr)",
+        "cy": "Rhaglen tymor 1971 -72, cangen Eigiau. Tymor cyntaf\/ sefydlu y gangen. (clawr)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Eigiau",
+    "owner": "Cangen Eigiau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Eigiau",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Eigiau",
+        "Rhanbarth Aberconwy",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.201950000000",
+            "lon": "-3.847700000000",
+            "description": {
+                "en": "Eigiau",
+                "cy": "Eigiau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_026.jpg",
+            "type": "image",
+            "target_id": "600045"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_027.jpg",
+            "type": "image",
+            "target_id": "600046"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

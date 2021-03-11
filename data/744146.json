@@ -1,0 +1,84 @@
+{
+    "id": 744146,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch visit 'Pentre Bach'",
+        "cy": "Merched y Wawr Cangen Bro Ilar ym Mhentre Bach Sali Mali\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744146",
+    "created": 1516896165,
+    "updated": 1593632924,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Ilar ar drip i Bentre Bach Sali Mali, Blaenpennal, Mai 19, 2005.\nYn y llun:- Jane Evans, Sian Lewis, Olivia Lewis, Mair Jones, Margaret Morris, Mary James, Ruth Morris, Ada Evans, Jean Jones, Gwen & Kath Townsend, Jean Evans, Rhiannon Parry, Enfys Renee",
+        "cy": "Merched y Wawr Cangen Bro Ilar ar drip i Bentre Bach Sali Mali, Blaenpennal, Mai 19, 2005.\nYn y llun:- Jane Evans, Sian Lewis, Olivia Lewis, Mair Jones, Margaret Morris, Mary James, Ruth Morris, Ada Evans, Jean Jones, Gwen & Kath Townsend, Jean Evans, Rhiannon Parry, Enfys Renee"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.259370000000",
+            "lon": "-4.007093000000",
+            "description": {
+                "en": "Pentre Bach, Blaenpennal",
+                "cy": "Pentre Bach, Blaenpennal"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-116.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-116.jpg",
+            "type": "image",
+            "target_id": "744136"
+        }
+    ],
+    "original_item_url": {
+        "en": null,
+        "cy": null
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

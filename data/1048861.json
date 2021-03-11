@@ -1,0 +1,65 @@
+{
+    "id": 1048861,
+    "title": {
+        "en": "Blaenau Gwent National Eisteddfod 2010",
+        "cy": "Eisteddfod Genedlaethol Blaenau Gwent a&#039;r Cymoedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048861",
+    "created": 1555591685,
+    "updated": 1555591685,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying their cup of tea on the MyW stand.",
+        "cy": "Aelodau yn mwynhau paned ym mhabell MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "eisteddfod genedlaethol blaenau gwent"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_292.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_292.jpg",
+            "type": "image",
+            "target_id": "1048856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 749636,
+    "title": {
+        "en": "Merched y Wawr Tregaron Celebrates 10 Years",
+        "cy": "Merched y Wawr Cangen Tregaron yn Dathlu 10"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749636",
+    "created": 1516899091,
+    "updated": 1516899091,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Tregaron yn Dathlu 10 oed y gangen yn y Neuadd Goffa ym 1982.  \nYn eu mysg mae Cassie Davies, Llywydd Anrhydeddus, y pumed o\u2019r chwith yn y rhes flaen.\nRhes flaen \u2013 Jane Hughes, Alun Creunant, Megan Creunant Davies, Bet John, Cassie Davies, Eric Williams, Ruth Parry, WJ Gruffydd, Margaret Lewis, Elizabeth Jones, Mary Jones",
+        "cy": "Merched y Wawr Cangen Tregaron yn Dathlu 10 oed y gangen yn y Neuadd Goffa ym 1982.  \nYn eu mysg mae Cassie Davies, Llywydd Anrhydeddus, y pumed o\u2019r chwith yn y rhes flaen.\nRhes flaen \u2013 Jane Hughes, Alun Creunant, Megan Creunant Davies, Bet John, Cassie Davies, Eric Williams, Ruth Parry, WJ Gruffydd, Margaret Lewis, Elizabeth Jones, Mary Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.219681000000",
+            "lon": "-3.932571000000",
+            "description": {
+                "en": "Neuadd Goffa, Tregaron",
+                "cy": "Neuadd Goffa, Tregaron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-021.jpg",
+            "type": "image",
+            "target_id": "749626"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

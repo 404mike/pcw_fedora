@@ -1,0 +1,71 @@
+{
+    "id": 1050296,
+    "title": {
+        "en": "President's Dinner at Glyn Hotel, Clydach 2013",
+        "cy": "Cinio&#039;r Llywydd Cenedlaethol yng ngwesty&#039;r Glyn, Clydach 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050296",
+    "created": 1555592265,
+    "updated": 1555592265,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti'r Grug entertaining the members.",
+        "cy": "Parti'r Grug yn diddori'r gynulleidfa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "merched y wawr",
+        "MYW",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_454.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_454.jpg",
+            "type": "image",
+            "target_id": "1050286"
+        },
+        {
+            "originalFilename": "df_myw_455.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_455.jpg",
+            "type": "image",
+            "target_id": "1050291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

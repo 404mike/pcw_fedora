@@ -1,0 +1,70 @@
+{
+    "id": 1146861,
+    "title": {
+        "en": "President's Dinner at Crug Glas Hotel, Pembrokeshire 2017 to celebrate 50 Years.",
+        "cy": "Cinio Llywydd yn y De 2017 yng ngwesty Crug Glas, Sir Benfro i ddathlu 50 mlynedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146861",
+    "created": 1562064048,
+    "updated": 1562064048,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Entertainment Sian a Sian.",
+        "cy": "Adloniant Sian a Sian."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "cinio llywydd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_854.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_854.jpg",
+            "type": "image",
+            "target_id": "1146851"
+        },
+        {
+            "originalFilename": "df_myw_855.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_855.jpg",
+            "type": "image",
+            "target_id": "1146856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

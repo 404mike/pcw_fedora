@@ -1,0 +1,579 @@
+{
+    "id": 810651,
+    "title": {
+        "en": "Clydach Branch scrapbook",
+        "cy": "Llyfr lloffion Cangen Clydach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/810651",
+    "created": 1523359387,
+    "updated": 1523359387,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Clydach",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Clydach00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00001.jpg",
+            "type": "image",
+            "target_id": "810226"
+        },
+        {
+            "originalFilename": "Clydach00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00002.jpg",
+            "type": "image",
+            "target_id": "810231"
+        },
+        {
+            "originalFilename": "Clydach00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00003.jpg",
+            "type": "image",
+            "target_id": "810236"
+        },
+        {
+            "originalFilename": "Clydach00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00004.jpg",
+            "type": "image",
+            "target_id": "810241"
+        },
+        {
+            "originalFilename": "Clydach00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00005.jpg",
+            "type": "image",
+            "target_id": "810246"
+        },
+        {
+            "originalFilename": "Clydach00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00006.jpg",
+            "type": "image",
+            "target_id": "810251"
+        },
+        {
+            "originalFilename": "Clydach00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00007.jpg",
+            "type": "image",
+            "target_id": "810256"
+        },
+        {
+            "originalFilename": "Clydach00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00008.jpg",
+            "type": "image",
+            "target_id": "810261"
+        },
+        {
+            "originalFilename": "Clydach00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00009.jpg",
+            "type": "image",
+            "target_id": "810266"
+        },
+        {
+            "originalFilename": "Clydach00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00010.jpg",
+            "type": "image",
+            "target_id": "810271"
+        },
+        {
+            "originalFilename": "Clydach00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00011.jpg",
+            "type": "image",
+            "target_id": "810276"
+        },
+        {
+            "originalFilename": "Clydach00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00012.jpg",
+            "type": "image",
+            "target_id": "810281"
+        },
+        {
+            "originalFilename": "Clydach00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00013.jpg",
+            "type": "image",
+            "target_id": "810286"
+        },
+        {
+            "originalFilename": "Clydach00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00014.jpg",
+            "type": "image",
+            "target_id": "810291"
+        },
+        {
+            "originalFilename": "Clydach00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00015.jpg",
+            "type": "image",
+            "target_id": "810296"
+        },
+        {
+            "originalFilename": "Clydach00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00016.jpg",
+            "type": "image",
+            "target_id": "810301"
+        },
+        {
+            "originalFilename": "Clydach00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00017.jpg",
+            "type": "image",
+            "target_id": "810306"
+        },
+        {
+            "originalFilename": "Clydach00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00018.jpg",
+            "type": "image",
+            "target_id": "810311"
+        },
+        {
+            "originalFilename": "Clydach00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00019.jpg",
+            "type": "image",
+            "target_id": "810316"
+        },
+        {
+            "originalFilename": "Clydach00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00021.jpg",
+            "type": "image",
+            "target_id": "810321"
+        },
+        {
+            "originalFilename": "Clydach00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00022.jpg",
+            "type": "image",
+            "target_id": "810326"
+        },
+        {
+            "originalFilename": "Clydach00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00023.jpg",
+            "type": "image",
+            "target_id": "810331"
+        },
+        {
+            "originalFilename": "Clydach00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00024.jpg",
+            "type": "image",
+            "target_id": "810336"
+        },
+        {
+            "originalFilename": "Clydach00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00025.jpg",
+            "type": "image",
+            "target_id": "810341"
+        },
+        {
+            "originalFilename": "Clydach00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00026.jpg",
+            "type": "image",
+            "target_id": "810346"
+        },
+        {
+            "originalFilename": "Clydach00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00027.jpg",
+            "type": "image",
+            "target_id": "810351"
+        },
+        {
+            "originalFilename": "Clydach00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00028.jpg",
+            "type": "image",
+            "target_id": "810356"
+        },
+        {
+            "originalFilename": "Clydach00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00029.jpg",
+            "type": "image",
+            "target_id": "810361"
+        },
+        {
+            "originalFilename": "Clydach00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00030.jpg",
+            "type": "image",
+            "target_id": "810366"
+        },
+        {
+            "originalFilename": "Clydach00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00031.jpg",
+            "type": "image",
+            "target_id": "810371"
+        },
+        {
+            "originalFilename": "Clydach00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00032.jpg",
+            "type": "image",
+            "target_id": "810376"
+        },
+        {
+            "originalFilename": "Clydach00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00033.jpg",
+            "type": "image",
+            "target_id": "810381"
+        },
+        {
+            "originalFilename": "Clydach00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00034.jpg",
+            "type": "image",
+            "target_id": "810386"
+        },
+        {
+            "originalFilename": "Clydach00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00035.jpg",
+            "type": "image",
+            "target_id": "810391"
+        },
+        {
+            "originalFilename": "Clydach00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00036.jpg",
+            "type": "image",
+            "target_id": "810396"
+        },
+        {
+            "originalFilename": "Clydach00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00037.jpg",
+            "type": "image",
+            "target_id": "810401"
+        },
+        {
+            "originalFilename": "Clydach00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00038.jpg",
+            "type": "image",
+            "target_id": "810406"
+        },
+        {
+            "originalFilename": "Clydach00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00039.jpg",
+            "type": "image",
+            "target_id": "810411"
+        },
+        {
+            "originalFilename": "Clydach00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00040.jpg",
+            "type": "image",
+            "target_id": "810416"
+        },
+        {
+            "originalFilename": "Clydach00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00041.jpg",
+            "type": "image",
+            "target_id": "810421"
+        },
+        {
+            "originalFilename": "Clydach00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00042.jpg",
+            "type": "image",
+            "target_id": "810426"
+        },
+        {
+            "originalFilename": "Clydach00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00043.jpg",
+            "type": "image",
+            "target_id": "810431"
+        },
+        {
+            "originalFilename": "Clydach00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00044.jpg",
+            "type": "image",
+            "target_id": "810436"
+        },
+        {
+            "originalFilename": "Clydach00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00045.jpg",
+            "type": "image",
+            "target_id": "810441"
+        },
+        {
+            "originalFilename": "Clydach00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00046.jpg",
+            "type": "image",
+            "target_id": "810446"
+        },
+        {
+            "originalFilename": "Clydach00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00047.jpg",
+            "type": "image",
+            "target_id": "810451"
+        },
+        {
+            "originalFilename": "Clydach00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00048.jpg",
+            "type": "image",
+            "target_id": "810456"
+        },
+        {
+            "originalFilename": "Clydach00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00049.jpg",
+            "type": "image",
+            "target_id": "810461"
+        },
+        {
+            "originalFilename": "Clydach00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00050.jpg",
+            "type": "image",
+            "target_id": "810466"
+        },
+        {
+            "originalFilename": "Clydach00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00051.jpg",
+            "type": "image",
+            "target_id": "810471"
+        },
+        {
+            "originalFilename": "Clydach00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00052.jpg",
+            "type": "image",
+            "target_id": "810476"
+        },
+        {
+            "originalFilename": "Clydach00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00053.jpg",
+            "type": "image",
+            "target_id": "810481"
+        },
+        {
+            "originalFilename": "Clydach00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00054.jpg",
+            "type": "image",
+            "target_id": "810486"
+        },
+        {
+            "originalFilename": "Clydach00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00055.jpg",
+            "type": "image",
+            "target_id": "810491"
+        },
+        {
+            "originalFilename": "Clydach00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00056.jpg",
+            "type": "image",
+            "target_id": "810496"
+        },
+        {
+            "originalFilename": "Clydach00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00057.jpg",
+            "type": "image",
+            "target_id": "810501"
+        },
+        {
+            "originalFilename": "Clydach00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00058.jpg",
+            "type": "image",
+            "target_id": "810506"
+        },
+        {
+            "originalFilename": "Clydach00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00059.jpg",
+            "type": "image",
+            "target_id": "810511"
+        },
+        {
+            "originalFilename": "Clydach00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00060.jpg",
+            "type": "image",
+            "target_id": "810516"
+        },
+        {
+            "originalFilename": "Clydach00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00061.jpg",
+            "type": "image",
+            "target_id": "810521"
+        },
+        {
+            "originalFilename": "Clydach00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00062.jpg",
+            "type": "image",
+            "target_id": "810526"
+        },
+        {
+            "originalFilename": "Clydach00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00063.jpg",
+            "type": "image",
+            "target_id": "810531"
+        },
+        {
+            "originalFilename": "Clydach00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00064.jpg",
+            "type": "image",
+            "target_id": "810536"
+        },
+        {
+            "originalFilename": "Clydach00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00065.jpg",
+            "type": "image",
+            "target_id": "810541"
+        },
+        {
+            "originalFilename": "Clydach00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00066.jpg",
+            "type": "image",
+            "target_id": "810546"
+        },
+        {
+            "originalFilename": "Clydach00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00067.jpg",
+            "type": "image",
+            "target_id": "810551"
+        },
+        {
+            "originalFilename": "Clydach00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00068.jpg",
+            "type": "image",
+            "target_id": "810556"
+        },
+        {
+            "originalFilename": "Clydach00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00069.jpg",
+            "type": "image",
+            "target_id": "810561"
+        },
+        {
+            "originalFilename": "Clydach00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00070.jpg",
+            "type": "image",
+            "target_id": "810566"
+        },
+        {
+            "originalFilename": "Clydach00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00071.jpg",
+            "type": "image",
+            "target_id": "810571"
+        },
+        {
+            "originalFilename": "Clydach00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00072.jpg",
+            "type": "image",
+            "target_id": "810576"
+        },
+        {
+            "originalFilename": "Clydach00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00073.jpg",
+            "type": "image",
+            "target_id": "810581"
+        },
+        {
+            "originalFilename": "Clydach00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00074.jpg",
+            "type": "image",
+            "target_id": "810586"
+        },
+        {
+            "originalFilename": "Clydach00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00075.jpg",
+            "type": "image",
+            "target_id": "810591"
+        },
+        {
+            "originalFilename": "Clydach00076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00076.jpg",
+            "type": "image",
+            "target_id": "810596"
+        },
+        {
+            "originalFilename": "Clydach00077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00077.jpg",
+            "type": "image",
+            "target_id": "810601"
+        },
+        {
+            "originalFilename": "Clydach00078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00078.jpg",
+            "type": "image",
+            "target_id": "810606"
+        },
+        {
+            "originalFilename": "Clydach00080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00080.jpg",
+            "type": "image",
+            "target_id": "810611"
+        },
+        {
+            "originalFilename": "Clydach00081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00081.jpg",
+            "type": "image",
+            "target_id": "810616"
+        },
+        {
+            "originalFilename": "Clydach00082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00082.jpg",
+            "type": "image",
+            "target_id": "810621"
+        },
+        {
+            "originalFilename": "Clydach00083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00083.jpg",
+            "type": "image",
+            "target_id": "810626"
+        },
+        {
+            "originalFilename": "Clydach00084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00084.jpg",
+            "type": "image",
+            "target_id": "810631"
+        },
+        {
+            "originalFilename": "Clydach00085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00085.jpg",
+            "type": "image",
+            "target_id": "810636"
+        },
+        {
+            "originalFilename": "Clydach00086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00086.jpg",
+            "type": "image",
+            "target_id": "810641"
+        },
+        {
+            "originalFilename": "Clydach00087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Clydach00087.jpg",
+            "type": "image",
+            "target_id": "810646"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

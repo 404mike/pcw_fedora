@@ -1,0 +1,90 @@
+{
+    "id": 745826,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch Programme 1973-1974",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch 1973-1974"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745826",
+    "created": 1516896981,
+    "updated": 1516896981,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1973-1974.  Gweithgareddau'r Tymor",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 1973-1974.  Gweithgareddau'r Tymor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.111472000000",
+            "lon": "-4.082142000000",
+            "description": {
+                "en": "Ysgol Ffynnonbedr, Llanbed",
+                "cy": "Ysgol Ffynnonbedr, Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%2073-74%20b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%252073-74%2520b.jpg",
+            "type": "image",
+            "target_id": "745811"
+        },
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%2073-74%20a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%252073-74%2520a.jpg",
+            "type": "image",
+            "target_id": "745816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 600601,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch, 10th Anniversary, 1993",
+        "cy": "Merched y Wawr Cangen Llangadog yn Dathlu 10 mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600601",
+    "created": 1502447966,
+    "updated": 1502447966,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangadog yn dathlu penblwydd yn 10 oed ym 1993.  Haulwen Booth a Mrs Davies, Gwelfro gyda\u2019r gacen.",
+        "cy": "Merched y Wawr Cangen Llangadog yn dathlu penblwydd yn 10 oed ym 1993.  Haulwen Booth a Mrs Davies, Gwelfro gyda\u2019r gacen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-202.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-202.jpg",
+            "type": "image",
+            "target_id": "600600"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

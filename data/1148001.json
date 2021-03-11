@@ -1,0 +1,63 @@
+{
+    "id": 1148001,
+    "title": {
+        "en": "Anglesey National Eisteddfod 2017",
+        "cy": "Eisteddfod Genedlaethol Ynys M\u00f4n 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148001",
+    "created": 1562065592,
+    "updated": 1562065592,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A photograph of the President and former presidents at the end. *Mererid Jones was absent due to the fact she was in hospital.",
+        "cy": "Llun o'r Llywydd a'r cyn-Lywyddion ar y diwedd. *Mae Mererid Jones yn absennol oherwydd ei bod yn yr ysbyty."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_980.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_980.jpg",
+            "type": "image",
+            "target_id": "1147996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

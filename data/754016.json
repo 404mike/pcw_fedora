@@ -1,0 +1,86 @@
+{
+    "id": 754016,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Talsarnau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Talsarnau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754016",
+    "created": 1516958629,
+    "updated": 1516958629,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mair Penri Jones, Ella Wynne Jones, Gwenda Jones a Mai Jones ar achlysur cyflwyno rhodd i Gwenda Jones fel diolch am ei gwasanaeth fel Trysorydd y Gangen ers 21 mlynedd, Rhagfyr 1998, Gwesty Portmeirion (tra\u2019n dathlu penblwydd y Gangen yn 21).",
+        "cy": "Mair Penri Jones, Ella Wynne Jones, Gwenda Jones a Mai Jones ar achlysur cyflwyno rhodd i Gwenda Jones fel diolch am ei gwasanaeth fel Trysorydd y Gangen ers 21 mlynedd, Rhagfyr 1998, Gwesty Portmeirion (tra\u2019n dathlu penblwydd y Gangen yn 21)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Talsarnau",
+    "owner": "Cangen Talsarnau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Talsarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talsarnau",
+        "Llywyddion Merched y Wawr",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902673000000",
+            "lon": "-4.065211000000",
+            "description": {
+                "en": "Talsarnau",
+                "cy": "Talsarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TALSARNAU_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TALSARNAU_007.jpg",
+            "type": "image",
+            "target_id": "754006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

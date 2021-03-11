@@ -1,0 +1,105 @@
+{
+    "id": 747941,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Penrhyncoch 1976"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747941",
+    "created": 1516898338,
+    "updated": 1516898338,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Penrhyncoch 1976.  Manylion cyfarfod sefydlu\u2019r gangen yn Neuadd Penrhyncoch ar Hydref 19, 1976.",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Penrhyncoch 1976.  Manylion cyfarfod sefydlu\u2019r gangen yn Neuadd Penrhyncoch ar Hydref 19, 1976."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Penrhyncoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Penrhyncoch"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-249_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-249_0.jpg",
+            "type": "image",
+            "target_id": "747911"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-250_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-250_0.jpg",
+            "type": "image",
+            "target_id": "747916"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-251_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-251_0.jpg",
+            "type": "image",
+            "target_id": "747921"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-252_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-252_0.jpg",
+            "type": "image",
+            "target_id": "747926"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-253_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-253_0.jpg",
+            "type": "image",
+            "target_id": "747931"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-254_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-254_0.jpg",
+            "type": "image",
+            "target_id": "747936"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

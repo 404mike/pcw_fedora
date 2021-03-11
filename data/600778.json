@@ -1,0 +1,75 @@
+{
+    "id": 600778,
+    "title": {
+        "en": "Merched y Wawr Pumsaint Branch 30 Year Celebration Cake",
+        "cy": "Cacen Dathlu 30 Merched y Wawr Cangen Pumsaint"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600778",
+    "created": 1502448230,
+    "updated": 1502448230,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cacen o waith Esme Jones ar achlysur Merched y Wawr Cangen Pumsaint yn Dathlu 30 Mlynedd (cafwyd cyfarfod i sefydlu\u2019r gangen yn Rhagfyr 1971, gyda\u2019r cyfarfod cyntaf yn cael ei gynnal yn Ionawr 1972)",
+        "cy": "Cacen o waith Esme Jones ar achlysur Merched y Wawr Cangen Pumsaint yn Dathlu 30 Mlynedd (cafwyd cyfarfod i sefydlu\u2019r gangen yn Rhagfyr 1971, gyda\u2019r cyfarfod cyntaf yn cael ei gynnal yn Ionawr 1972)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pumsaint",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pumsaint",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-178.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-178.jpg",
+            "type": "image",
+            "target_id": "600777"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

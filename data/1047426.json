@@ -1,0 +1,67 @@
+{
+    "id": 1047426,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed \u2013 Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047426",
+    "created": 1555590898,
+    "updated": 1555590898,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Phil Dando's Jazz Band at the Botanical Gardens.",
+        "cy": "Band Jas Phil Dando yn yr Ardd Fotaneg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Lampeter",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_131.jpg",
+            "type": "image",
+            "target_id": "1047421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

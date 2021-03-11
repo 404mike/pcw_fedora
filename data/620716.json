@@ -1,0 +1,86 @@
+{
+    "id": 620716,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Dathlu\u2019r deg mlynedd yn 1982. Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620716",
+    "created": 1511278548,
+    "updated": 1511278548,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r gangen (a ddangoswyd yn \u2018Y Wawr\u2019) yn dathlu\u2019r deg yn 1982. (cefn) Clwydwen Jones, Catherine Jones, Myfanwy Davies, Mair Williams, Olwen Morris (4ydd) Eirlys Owen, Dilys Evans, Mena Jones, Eleanor Ellis, Olwen Ellis. (3ydd) Rhian Jones, Margaret Williams, Eluned Ellis, Ellen Ellis, Catrin Jones, (2ail) Winnie Williams, Eirianwen Lewis, Eleri Price, Budge Evans, Barbera Jones, Dilys Morris, Dorothy Jones, Elisabeth Jones, Margaret Hughes, Heulwen Jones (blaen), Bethan Roberts, Laura Jones, Heulwen Willians, Dora Edwards, Beryl Edwards, Dilys Edwards.",
+        "cy": "Llun o\u2019r gangen (a ddangoswyd yn \u2018Y Wawr\u2019) yn dathlu\u2019r deg yn 1982. (cefn) Clwydwen Jones, Catherine Jones, Myfanwy Davies, Mair Williams, Olwen Morris (4ydd) Eirlys Owen, Dilys Evans, Mena Jones, Eleanor Ellis, Olwen Ellis. (3ydd) Rhian Jones, Margaret Williams, Eluned Ellis, Ellen Ellis, Catrin Jones, (2ail) Winnie Williams, Eirianwen Lewis, Eleri Price, Budge Evans, Barbera Jones, Dilys Morris, Dorothy Jones, Elisabeth Jones, Margaret Hughes, Heulwen Jones (blaen), Bethan Roberts, Laura Jones, Heulwen Willians, Dora Edwards, Beryl Edwards, Dilys Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_010.jpg",
+            "type": "image",
+            "target_id": "620706"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

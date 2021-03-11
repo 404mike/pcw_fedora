@@ -1,0 +1,129 @@
+{
+    "id": 620331,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Nantglyn, Colwyn.",
+        "cy": "Cangen Merched y Wawr Nantglyn, Rhanbarth Colwyn. Dathliadau 25 mlwyddiant y Mudiad -\u2018Pererindod y Parc\u2019, Mai 1992."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620331",
+    "created": 1511278412,
+    "updated": 1511278412,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yn y Parc, Bala fel rhan o ddathliadau 25 mlwyddiant y Mudiad -\u2018Pererindod y Parc\u2019, Mai 1992.",
+        "cy": "Aelodau\u2019r gangen yn y Parc, Bala fel rhan o ddathliadau 25 mlwyddiant y Mudiad -\u2018Pererindod y Parc\u2019, Mai 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Nantglyn",
+    "owner": "Cangen Nantglyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "nantglyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantglyn",
+        "Rhanbarth Colwyn",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890716000000",
+            "lon": "-3.672062000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_015.jpg",
+            "type": "image",
+            "target_id": "620286"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_016.jpg",
+            "type": "image",
+            "target_id": "620291"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_017.jpg",
+            "type": "image",
+            "target_id": "620296"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_018.jpg",
+            "type": "image",
+            "target_id": "620301"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_019.jpg",
+            "type": "image",
+            "target_id": "620306"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_020.jpg",
+            "type": "image",
+            "target_id": "620311"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_021.jpg",
+            "type": "image",
+            "target_id": "620316"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_022.jpg",
+            "type": "image",
+            "target_id": "620321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

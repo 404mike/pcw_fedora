@@ -1,0 +1,84 @@
+{
+    "id": 750731,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Area present 'Migldi Magldi'",
+        "cy": "Aelodau Merched y Wawr Rhanbarth Gorllewin Morgannwg yn cyflwyno \u2018Migldi Magli\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750731",
+    "created": 1516899612,
+    "updated": 1516899612,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Canghennau Ystalyfera a Phontardawe o Ferched y Wawr yn cyflwyno \u2018Migldi Magldi\u2019 yng nghyflwyniad Rhanbarth Gorllewin Morgannwg o \u2018Pwt o Lawenydd\u2019 yn Neuadd Les Ystradgynlais, 4ydd Ebrill, 1981. Yr arweinydd oedd y Parch. Elfed Lewis. Yn y llun mae: Rhiannon Daniel, Rhydwen James, Brenda Evans, Dilwen Williams, (Pontardawe) a Nel Williams, Dorrie Davies, Jennie Williams, Marjorie James a Jean Rees (Ystalyfera)  (nid mewn trefn).  Caeodd cangen Ystalyfera yn ystod haf 2014. Ymunodd rhai aelodau \u00e2 changen Pontardawe.",
+        "cy": "Canghennau Ystalyfera a Phontardawe o Ferched y Wawr yn cyflwyno \u2018Migldi Magldi\u2019 yng nghyflwyniad Rhanbarth Gorllewin Morgannwg o \u2018Pwt o Lawenydd\u2019 yn Neuadd Les Ystradgynlais, 4ydd Ebrill, 1981. Yr arweinydd oedd y Parch. Elfed Lewis. Yn y llun mae: Rhiannon Daniel, Rhydwen James, Brenda Evans, Dilwen Williams, (Pontardawe) a Nel Williams, Dorrie Davies, Jennie Williams, Marjorie James a Jean Rees (Ystalyfera)  (nid mewn trefn).  Caeodd cangen Ystalyfera yn ystod haf 2014. Ymunodd rhai aelodau \u00e2 changen Pontardawe."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Rhanbarth Gorllewin Morgannwg)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Ystalyfera"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.765597000000",
+            "lon": "-3.790227000000",
+            "description": {
+                "en": "Neuadd Les Ystradgynlais",
+                "cy": "Neuadd Les Ystradgynlais"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ystalyfera%201%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ystalyfera%25201%2520001.jpg",
+            "type": "image",
+            "target_id": "750721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

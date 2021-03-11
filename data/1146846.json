@@ -1,0 +1,64 @@
+{
+    "id": 1146846,
+    "title": {
+        "en": "President's Dinner at Crug Glas Hotel, Pembrokeshire 2017 to celebrate 50 Years.",
+        "cy": "Cinio Llywydd yn y De 2017 yng ngwesty Crug Glas, Sir Benfro i ddathlu 50 mlynedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146846",
+    "created": 1562064042,
+    "updated": 1562064042,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Myrddin receiving a shield for the bigest increase in membership during the year.",
+        "cy": "Clwb Gwawr Myrddin yn derbyn tarian am y cynnydd mwyaf mewn aelodaeth yn ystod y flwyddyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "cinio llywydd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_853.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_853.jpg",
+            "type": "image",
+            "target_id": "1146841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

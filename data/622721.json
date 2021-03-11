@@ -1,0 +1,86 @@
+{
+    "id": 622721,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhiwlas, Glyn Maelor",
+        "cy": "Tim buddugol dominos cangen Merched y Wawr Rhiwlas, Glyn Maelor.  Gwyl Haf y Mudiad, 1995"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622721",
+    "created": 1511279264,
+    "updated": 1511279264,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tim buddugol dominos Cangen Rhiwlas, Gwyl Haf y Mudiad, 1995. Irene Morris a Rhianwen Jones.",
+        "cy": "Tim buddugol dominos Cangen Rhiwlas, Gwyl Haf y Mudiad, 1995. Irene Morris a Rhianwen Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhiwlas",
+    "owner": "Cangen Rhiwlas",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhiwlas",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhiwlas",
+        "Rhanbarth Glyn Maelor",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.856437000000",
+            "lon": "-3.057820000000",
+            "description": {
+                "en": "Rhiwlas",
+                "cy": "Rhiwlas"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_006.jpg",
+            "type": "image",
+            "target_id": "622711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

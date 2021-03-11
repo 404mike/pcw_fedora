@@ -1,0 +1,84 @@
+{
+    "id": 747626,
+    "title": {
+        "en": "Pontardawe Branch at a the 'Bit of Fun' '('Pwt o Lawenydd') Event Merched y Wawr West Glamorgan Area ",
+        "cy": "Cangen Pontardawe yn noson &#039;Pwt o Lawenydd&#039; Merched y Wawr Gorllewin Morgannwg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747626",
+    "created": 1516897836,
+    "updated": 1516897836,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Canghennau Pontardawe ac Ystradgynlais yn dehongli \u2018Migildi, Magildi\u2019 yn y noson \u2018Pwt o Lawenydd\u2019 gan Merched y Wawr Rhanbarth Gorllewin Morgannwg yn y Neuadd L\u00eas yn Ystradgynlais, Ebrill 4, 1981\nYn mysg y rhai yn y llun mae Rhiannon Daniel, Mary Harris, Nest Davies a Miriam Gould",
+        "cy": "Aelodau Canghennau Pontardawe ac Ystradgynlais yn dehongli \u2018Migildi, Magildi\u2019 yn y noson \u2018Pwt o Lawenydd\u2019 gan Merched y Wawr Rhanbarth Gorllewin Morgannwg yn y Neuadd L\u00eas yn Ystradgynlais, Ebrill 4, 1981\nYn mysg y rhai yn y llun mae Rhiannon Daniel, Mary Harris, Nest Davies a Miriam Gould"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.778514000000",
+            "lon": "-3.757505000000",
+            "description": {
+                "en": "Neuadd L\u00eas Ystradgynlais",
+                "cy": "Neuadd L\u00eas Ystradgynlais"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-083.jpg",
+            "type": "image",
+            "target_id": "747616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

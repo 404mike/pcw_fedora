@@ -1,0 +1,63 @@
+{
+    "id": 1146176,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Eisteddfod Genedlaethol Sir Fynwy a&#039;r Cyffniau 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146176",
+    "created": 1562063771,
+    "updated": 1562063771,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Inauguration of the new President Sandra Morris Jones by the retiring President Meryl Davies.",
+        "cy": "Urddo'r Llywydd Cenedlaethol newydd Sandra Morris Jones gan y cyn Lywydd Meryl Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "monmouthshire and area national eisteddfod 2016",
+        "eisteddfod genedlaethol sir fynwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_772.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_772.jpg",
+            "type": "image",
+            "target_id": "1146171"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

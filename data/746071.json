@@ -1,0 +1,75 @@
+{
+    "id": 746071,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch 40th Anniversary",
+        "cy": "Cacen Dathlu&#039;r Deugain Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746071",
+    "created": 1516897107,
+    "updated": 1516897107,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cacen Dathlu\u2019r Deugain MYW Llambed \u2013 Y gacen a\u2019r addurno o waith Brenda Morgan, aelod o\u2019r gangen, a wnaeth y cyfan heb dderbyn yr un t\u00e2l.",
+        "cy": "Cacen Dathlu\u2019r Deugain MYW Llambed \u2013 Y gacen a\u2019r addurno o waith Brenda Morgan, aelod o\u2019r gangen, a wnaeth y cyfan heb dderbyn yr un t\u00e2l."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252018.jpg",
+            "type": "image",
+            "target_id": "746066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 747436,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch St David's Day Cawl 1990",
+        "cy": "Cawl G\u0175yl Dewi Merched y Wawr Cangen Mynach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747436",
+    "created": 1516897728,
+    "updated": 1516897728,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cawl G\u0175yl Dewi Merched y Wawr Mynach, 1990 yn Ysgol Mynach.  Mae hwn yn ddigwyddiad blynyddol sy\u2019n parhau hyd heddiw (er nid yn yr ysgol).  \nYn y llun mae Margaret Hopkins, Mary Raw a Kathleen Williams",
+        "cy": "Cawl G\u0175yl Dewi Merched y Wawr Mynach, 1990 yn Ysgol Mynach.  Mae hwn yn ddigwyddiad blynyddol sy\u2019n parhau hyd heddiw (er nid yn yr ysgol).  \nYn y llun mae Margaret Hopkins, Mary Raw a Kathleen Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.371010000000",
+            "lon": "-3.857297000000",
+            "description": {
+                "en": "Ysgol Gynradd Mynach, Pontarfyrnach",
+                "cy": "Ysgol Gynradd Mynach, Pontarfyrnach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-172.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-172.jpg",
+            "type": "image",
+            "target_id": "747426"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

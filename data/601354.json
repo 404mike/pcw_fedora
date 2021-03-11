@@ -1,0 +1,90 @@
+{
+    "id": 601354,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Programme 2015 - 2016",
+        "cy": "Rhaglen Merched y Wawr Cangen Llandysul 2015 \u2013 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601354",
+    "created": 1502449237,
+    "updated": 1502449237,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Llandysul 2015 \u2013 2016\nClawr \/ Cefn yn cynnwys enwau\u2019r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Llandysul 2015 \u2013 2016\nClawr \/ Cefn yn cynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.041624000000",
+            "lon": "-4.309177000000",
+            "description": {
+                "en": "Llandysul",
+                "cy": "Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-172.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-172.jpg",
+            "type": "image",
+            "target_id": "601351"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-173.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-173.jpg",
+            "type": "image",
+            "target_id": "601352"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

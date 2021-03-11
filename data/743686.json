@@ -1,0 +1,84 @@
+{
+    "id": 743686,
+    "title": {
+        "en": "Merched y Wawr Blaenffos winning at the Royal Welsh Show 1982",
+        "cy": "Merched y Wawr Cangen Blaenffos yn fuddugol yn Y Sioe Frenhinol 1982"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743686",
+    "created": 1516895974,
+    "updated": 1516895974,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Blaenffos, enillwyr Cwpan Radi Thomas yn y Sioe Frenhinol, Llanelwedd yn 1982.  Thema\u2019r gystadleuaeth oedd \u2018Brethyn Cartref\u2019.  \nYn y llun \u2013 Olive Vittle, Barbara Thomas, Mary Thomas, Pat Jones, Doreen Williams, Glenys Davies, Eluned James, Helen Davies",
+        "cy": "Merched y Wawr Cangen Blaenffos, enillwyr Cwpan Radi Thomas yn y Sioe Frenhinol, Llanelwedd yn 1982.  Thema\u2019r gystadleuaeth oedd \u2018Brethyn Cartref\u2019.  \nYn y llun \u2013 Olive Vittle, Barbara Thomas, Mary Thomas, Pat Jones, Doreen Williams, Glenys Davies, Eluned James, Helen Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Blaenffos"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.158049000000",
+            "lon": "-3.407280000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-005.jpg",
+            "type": "image",
+            "target_id": "743676"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 621626,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henllan, Colwyn.",
+        "cy": "Dwy gerdd gan aelodau cangen Merched y Wawr Henllan, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621626",
+    "created": 1511278899,
+    "updated": 1511278899,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dwy gerdd gan Ceinwen Jones, aelod o Gangen Henllan.",
+        "cy": "Dwy gerdd gan Ceinwen Jones, aelod o Gangen Henllan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henllan",
+    "owner": "Cangen Henllan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Henllan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Henllan",
+        "Barddoniaeth Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.200626000000",
+            "lon": "-3.461812000000",
+            "description": {
+                "en": "Henllan",
+                "cy": "Henllan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_030.jpg",
+            "type": "image",
+            "target_id": "621616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

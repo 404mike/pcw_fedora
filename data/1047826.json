@@ -1,0 +1,67 @@
+{
+    "id": 1047826,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047826",
+    "created": 1555591132,
+    "updated": 1555591132,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebration at the Gorsedd Circle.",
+        "cy": "Dathliad yng Nghylch yr Orsedd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "myw eisteddfod genedlaethol",
+        "fflint",
+        "Cylch yr Orsedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_180.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_180.jpg",
+            "type": "image",
+            "target_id": "1047821"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

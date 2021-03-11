@@ -1,0 +1,87 @@
+{
+    "id": 626781,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfairpwll, Anglesey.",
+        "cy": "Parti dawns gwerin cangen Merched y Wawr Llanfairpwll, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626781",
+    "created": 1511280606,
+    "updated": 1511280606,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti dawns gwerin Cangen Llanfairpwll yn paratoi ar gyfer cystadlaeuaeth dawnsio gwerin MyW, Ynys Mon ym 1977. Ceir (rhes flaen) Rowenna Thomas, Olwen Hughes, Liz Edwards, Nellie Evans, Wenna Williams, Muriel Edwards, (Cefn) Eirian Williams, Sylvia Parry, Eirian Gibson, Edwen Jones, Ann (Glanrwyth), Menna Davies, Pauline Parry. (Y chai heb gapiau oedd y dynion!)",
+        "cy": "Parti dawns gwerin Cangen Llanfairpwll yn paratoi ar gyfer cystadlaeuaeth dawnsio gwerin MyW, Ynys Mon ym 1977. Ceir (rhes flaen) Rowenna Thomas, Olwen Hughes, Liz Edwards, Nellie Evans, Wenna Williams, Muriel Edwards, (Cefn) Eirian Williams, Sylvia Parry, Eirian Gibson, Edwen Jones, Ann (Glanrwyth), Menna Davies, Pauline Parry. (Y chai heb gapiau oedd y dynion!)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfairpwll",
+    "owner": "Cangen Llanfairpwll",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfairpwll",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfairpwll",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.225660000000",
+            "lon": "-4.199370000000",
+            "description": {
+                "en": "Llanfairpwll",
+                "cy": "Llanfairpwll"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYM_GOG_MON_Llanfairpwll_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYM_GOG_MON_Llanfairpwll_003.jpg",
+            "type": "image",
+            "target_id": "626771"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

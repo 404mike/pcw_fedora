@@ -1,0 +1,86 @@
+{
+    "id": 625901,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Cemaes, Anglesey.",
+        "cy": "Gwibdaith cangen Merched y Wawr Cemaes, Rhanbarth M\u00f4n. 1990au"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625901",
+    "created": 1511280310,
+    "updated": 1511280310,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Gwibdaith i Nant Gwytheyrn yn 1990au.  2. Llun o aelodau yn dathlu dydd Gwyl Dewi yn y 70au cynnar. Gwyneth Jones, Margaret Davies, Hannah Owen, Mair Hughes, Mary Peters, Mrs Tyrrel, Elspeth Pritchard.",
+        "cy": "1. Gwibdaith i Nant Gwytheyrn yn 1990au.  2. Llun o aelodau yn dathlu dydd Gwyl Dewi yn y 70au cynnar. Gwyneth Jones, Margaret Davies, Hannah Owen, Mair Hughes, Mary Peters, Mrs Tyrrel, Elspeth Pritchard."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cemaes",
+    "owner": "Cangen Cemaes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cemaes",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cemaes",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411736000000",
+            "lon": "-4.452136000000",
+            "description": {
+                "en": "Cemaes",
+                "cy": "Cemaes"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CEMAES_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CEMAES_004.jpg",
+            "type": "image",
+            "target_id": "625891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

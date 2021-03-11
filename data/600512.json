@@ -1,0 +1,75 @@
+{
+    "id": 600512,
+    "title": {
+        "en": "The original members of Merched y Wawr Gronw Branch, started in Sept 1975",
+        "cy": "Aelodau gwreiddiol Merched y Wawr Cangen Gronw"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600512",
+    "created": 1502447830,
+    "updated": 1502447830,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau gwreiddiol Merched y Wawr Cangen Gronw, a ddechreuodd yn mis Medi, 1975\n\nRhes Flaen \u2013 Meirwen Evans, Jane Evans, Meinir Saer (Eynon), Nansi Evans, Bessie Bowen\nAil Res \u2013 Gwen Blain, Ray Westron, Pat Phillips, Vanna Evans, Maisie Harris, Irene Edwards, Edith Davies, Eppie Isaac, Kate Phillips, Elvira Jones, Doris Davies, Mary Davies\nRhes Gefn \u2013 Rhoswen Llewellyn, Eiddwen Morgan, Elsie Davies, Doreen Lewis, Betty Saer, Lon Melchior",
+        "cy": "Llun aelodau gwreiddiol Merched y Wawr Cangen Gronw, a ddechreuodd yn mis Medi, 1975\n\nRhes Flaen \u2013 Meirwen Evans, Jane Evans, Meinir Saer (Eynon), Nansi Evans, Bessie Bowen\nAil Res \u2013 Gwen Blain, Ray Westron, Pat Phillips, Vanna Evans, Maisie Harris, Irene Edwards, Edith Davies, Eppie Isaac, Kate Phillips, Elvira Jones, Doris Davies, Mary Davies\nRhes Gefn \u2013 Rhoswen Llewellyn, Eiddwen Morgan, Elsie Davies, Doreen Lewis, Betty Saer, Lon Melchior"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-252.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-252.jpg",
+            "type": "image",
+            "target_id": "600511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

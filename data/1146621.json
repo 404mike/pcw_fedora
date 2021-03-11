@@ -1,0 +1,69 @@
+{
+    "id": 1146621,
+    "title": {
+        "en": "Day Craft Course in South Wales at Tyglyn Aeron 2017",
+        "cy": "Cwrs Crefft yn y De 2017 \u2013 Tyglyn Aeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146621",
+    "created": 1562063943,
+    "updated": 1562063943,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Learning the art of Flower Arranging with Glenys Morgan.",
+        "cy": "Aelodau yn dysgu Gosod Blodau o dan ofal Glenys Morgan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "craft course",
+        "cwrs crefft"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_828.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_828.jpg",
+            "type": "image",
+            "target_id": "1146611"
+        },
+        {
+            "originalFilename": "df_myw_829.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_829.jpg",
+            "type": "image",
+            "target_id": "1146616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

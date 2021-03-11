@@ -1,0 +1,82 @@
+{
+    "id": 613771,
+    "title": {
+        "en": "Facts about Merched y Wawr Nantgaredig Branch",
+        "cy": "Ffeithiau am Ferched y Wawr Cangen Nantgaredig "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613771",
+    "created": 1510754306,
+    "updated": 1510754306,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffeithiau am Ferched y Wawr Cangen Nantgaredig a ddechreuwyd ym 1982",
+        "cy": "Ffeithiau am Ferched y Wawr Cangen Nantgaredig a ddechreuwyd ym 1982"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871065000000",
+            "lon": "-4.189562000000",
+            "description": {
+                "en": "Nantgaredig",
+                "cy": "Nantgaredig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-084_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-084_0.jpg",
+            "type": "image",
+            "target_id": "613761"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

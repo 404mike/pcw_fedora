@@ -1,0 +1,85 @@
+{
+    "id": 625011,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Dathliadau chwarter canrif y Mudiad yn y Parc, Mai 1992. Merched y Wawr Rhanbarth Glyn Maelor. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625011",
+    "created": 1511280022,
+    "updated": 1511280022,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwelwn Deryl Roberts a Menna Jones yn gafael yn maner y Rhanberth yn ystod dathliadau chwarter canrif y Mudiad yn y Parc, Mai 1992.",
+        "cy": "Gwelwn Deryl Roberts a Menna Jones yn gafael yn maner y Rhanberth yn ystod dathliadau chwarter canrif y Mudiad yn y Parc, Mai 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Pererindod y Parc",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890677000000",
+            "lon": "-3.672083000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_011.jpg",
+            "type": "image",
+            "target_id": "625001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

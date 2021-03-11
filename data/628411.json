@@ -1,0 +1,87 @@
+{
+    "id": 628411,
+    "title": {
+        "en": "A collection of photographs showing the beautiful Windmills created by Merched y Wawr, Anglesey as part of their exhibition at the Royal Welsh Show in 2014. ",
+        "cy": "Casgliad o luniau o arddangosfa \u2018Melinau M\u00f4n&#039;, a greuwyd gan ganghennau Merched y Wawr, Ynys Mon yn 2014 ar gyfer Sioe Llanelwedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628411",
+    "created": 1511281151,
+    "updated": 1511281151,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o babell Merched y Wawr, Sioe Mon - Awst, 2014. Ble arddangoswyd \u2018Melinau Mon\u2019.",
+        "cy": "Llun o babell Merched y Wawr, Sioe Mon - Awst, 2014. Ble arddangoswyd \u2018Melinau Mon\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth M\u00f4n",
+    "owner": "Rhanbarth M\u00f4n",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft",
+        "Melinau Mon",
+        "Sioe Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_SIOE_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_SIOE_001.jpg",
+            "type": "image",
+            "target_id": "628401"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

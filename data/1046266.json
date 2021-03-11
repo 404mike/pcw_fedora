@@ -1,0 +1,81 @@
+{
+    "id": 1046266,
+    "title": {
+        "en": "MyW Residential Weekend 2001",
+        "cy": "Penwythnos Preswyl MyW 2001- Llwybrau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046266",
+    "created": 1555590126,
+    "updated": 1555590126,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs showing speakers at the 2001 Residential Weekend, at Trinity College, Carmarthen. Huw Rees (Huw Fash) speaking on fashion; Carys Jones, speaking on house decoration; Gareth Richards giving a cookery demonstration.",
+        "cy": "3 llun yn dangos gweithgareddau ym Mhenwythnos Preswyl MyW 2001, yng Ngholeg y Drindod, Caerfyrddin. Huw Rees (Huw Fash) ar fasiwn; Carys Jones ar addurno'r t\u0177; Gareth Richards yn coginio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Activities",
+        "residential weekend 2001",
+        "Carmarthen",
+        "trinity college",
+        "gweithgareddau",
+        "penwythnos preswyl  2001",
+        "Caerfyrddin",
+        "coleg y drindod"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_021.jpg",
+            "type": "image",
+            "target_id": "1046251"
+        },
+        {
+            "originalFilename": "df_myw_021-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_021-001.jpg",
+            "type": "image",
+            "target_id": "1046256"
+        },
+        {
+            "originalFilename": "df_myw_021-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_021-002.jpg",
+            "type": "image",
+            "target_id": "1046261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

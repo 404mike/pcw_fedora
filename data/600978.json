@@ -1,0 +1,75 @@
+{
+    "id": 600978,
+    "title": {
+        "en": "Letter thanking the Llanddarog community for the Warm Welcome received by Prince Charles during his visit.  ",
+        "cy": "Llythyr o ddiolch i Gymuned Llanddarog  am y croeso a dderbyniodd y Tywysog Charles are ei ymweliad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600978",
+    "created": 1502448504,
+    "updated": 1502448504,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr wrth Miss Elizabeth Buchanan (The Deputy Private Secretary to HRH The Prince of Wales) i\u2019r gymuned yn Llanddarog i ddiolch am y croeso a dderbyniodd y Tywysog Charles wrth ymweld \u00e2\u2019r pentref yn 2003.",
+        "cy": "Llythyr wrth Miss Elizabeth Buchanan (The Deputy Private Secretary to HRH The Prince of Wales) i\u2019r gymuned yn Llanddarog i ddiolch am y croeso a dderbyniodd y Tywysog Charles wrth ymweld \u00e2\u2019r pentref yn 2003."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_158.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_158.jpg",
+            "type": "image",
+            "target_id": "600977"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

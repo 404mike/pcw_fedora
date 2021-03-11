@@ -1,0 +1,70 @@
+{
+    "id": 1050026,
+    "title": {
+        "en": "Bro Morgannwg National Eisteddfod 2012",
+        "cy": "Eisteddfod Genedlaethol Bro Morgannwg 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050026",
+    "created": 1555592152,
+    "updated": 1555592152,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of South Glamorgan congratulating Gill Griffiths, one of their members, on becomig President.",
+        "cy": "Aelodau rhanbarth De Ddwyrain yn cyfarch un o'u haelodau Gill Griffiths, ar ddod yn Llywydd Cenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "bro morgannwg national eisteddfod 2012"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_426.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_426.jpg",
+            "type": "image",
+            "target_id": "1050016"
+        },
+        {
+            "originalFilename": "df_myw_427.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_427.jpg",
+            "type": "image",
+            "target_id": "1050021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

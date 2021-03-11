@@ -1,0 +1,84 @@
+{
+    "id": 614136,
+    "title": {
+        "en": "Merched y Wawr Bro Cranogwen Branch Christmas Dinner",
+        "cy": "Cinio Nadolig Merched y Wawr Bro Cranogwen \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614136",
+    "created": 1510754934,
+    "updated": 1510754934,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Bro Cranogwen yn mwynhau Cinio Nadolig yn y Pentre Arms, Llangrannog ar Rhagfyr 11, 2015.\nOchr draw y bwrdd, chwith I\u2019r dde \u2013 Vicki Painting, Philippa Gibson, Celia Richardson, Annie Taylor, Ros Price-Jones \nOchr y camera \u2013 Susan Kean, Enfys Jenkins, Julia Palfreman",
+        "cy": "Merched y Wawr Bro Cranogwen yn mwynhau Cinio Nadolig yn y Pentre Arms, Llangrannog ar Rhagfyr 11, 2015.\nOchr draw y bwrdd, chwith I\u2019r dde \u2013 Vicki Painting, Philippa Gibson, Celia Richardson, Annie Taylor, Ros Price-Jones \nOchr y camera \u2013 Susan Kean, Enfys Jenkins, Julia Palfreman"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cranogwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cranogwen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.159769000000",
+            "lon": "-4.471643000000",
+            "description": {
+                "en": "Pentre Arms, Llangrannog",
+                "cy": "Pentre Arms, Llangrannog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-110.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-110.jpg",
+            "type": "image",
+            "target_id": "614126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

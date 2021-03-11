@@ -1,0 +1,75 @@
+{
+    "id": 747826,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Cinio G\u0175yl Ddewi Merched y Wawr Dinas"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747826",
+    "created": 1516898193,
+    "updated": 1516898193,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio G\u0175yl Ddewi Merched y Wawr Cangen Dinas yn yr Hen Frowr, Pwll Gwaelod, Mawrth 2011",
+        "cy": "Cinio G\u0175yl Ddewi Merched y Wawr Cangen Dinas yn yr Hen Frowr, Pwll Gwaelod, Mawrth 2011"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Dinas",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinas",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-001_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-001_0.jpg",
+            "type": "image",
+            "target_id": "747821"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

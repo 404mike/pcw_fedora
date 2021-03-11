@@ -1,0 +1,75 @@
+{
+    "id": 745341,
+    "title": {
+        "en": "Dafydd ap Gwilym Patchwork by the Aberystwyth area Merched y Wawr branches",
+        "cy": "Clytwaith Dafydd ap Gwilym Merched y Wawr gan Ganghennau Cylch Aberystwyth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745341",
+    "created": 1516896764,
+    "updated": 1516896764,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clytwaith Dafydd ap Gwilym Cylch Aberystwyth a wnaed ar y cyd rhwng Merched y Wawr Genau\u2019r Glyn, Talybont a Rhydypennau yn Sioe Llanelwedd 1983",
+        "cy": "Clytwaith Dafydd ap Gwilym Cylch Aberystwyth a wnaed ar y cyd rhwng Merched y Wawr Genau\u2019r Glyn, Talybont a Rhydypennau yn Sioe Llanelwedd 1983"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gennau&#039;r Glyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Gennaur Glyn"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-010.jpg",
+            "type": "image",
+            "target_id": "745336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

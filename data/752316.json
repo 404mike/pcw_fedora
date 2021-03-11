@@ -1,0 +1,88 @@
+{
+    "id": 752316,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752316",
+    "created": 1516958166,
+    "updated": 1516958166,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 10 oed ym 1978. Gwelwn: Gwenfair Hughes, Helen Ellis a Nia Evans. Yng nghefn y llun gwelwn Catherine Jones (Llywydd y Gangen) a\u2019r g\u0175r gwadd, Ifor Bowen Griffith.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 10 oed ym 1978. Gwelwn: Gwenfair Hughes, Helen Ellis a Nia Evans. Yng nghefn y llun gwelwn Catherine Jones (Llywydd y Gangen) a\u2019r g\u0175r gwadd, Ifor Bowen Griffith."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_017.jpg",
+            "type": "image",
+            "target_id": "752306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

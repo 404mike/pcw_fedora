@@ -1,0 +1,84 @@
+{
+    "id": 742646,
+    "title": {
+        "en": "Merched y Wawr Neath Branch on a trip to Whittington's, a printers in Neath",
+        "cy": "Merched y Wawr Cangen Castell Nedd ar drip i Argraffwyr Whittington\u2019s"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742646",
+    "created": 1516895102,
+    "updated": 1516895102,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Castell Nedd yn mwynhu i Argraffwyr Whittington\u2019s,Stryd y Gwynt, Castell-nedd. Nid yw Whittington\u2019s yno mwyach.  \nEnwau\u2019r Ymwelwyr: \n(Yn eistedd ffrynt o\u2019r chwith) 1. ? 2. Betty Hughes 3. Beth Owen 4. ?\n(Yn sefyll yn y blaen o\u2019r chwith) 1. Sadie Morgan 2. Margaret White? 3. Nancy Jenkins 4. Margaret Thomas, ? o Port Talbot\n(Yn sefyll yn yr ail res o\u2019r chwith)\n1.? 2. Ray Thompson, 3. Enfys Thomas 4. Wendy Richards 5? 6. Sal Roberts",
+        "cy": "Merched y Wawr Cangen Castell Nedd yn mwynhu i Argraffwyr Whittington\u2019s,Stryd y Gwynt, Castell-nedd. Nid yw Whittington\u2019s yno mwyach.  \nEnwau\u2019r Ymwelwyr: \n(Yn eistedd ffrynt o\u2019r chwith) 1. ? 2. Betty Hughes 3. Beth Owen 4. ?\n(Yn sefyll yn y blaen o\u2019r chwith) 1. Sadie Morgan 2. Margaret White? 3. Nancy Jenkins 4. Margaret Thomas, ? o Port Talbot\n(Yn sefyll yn yr ail res o\u2019r chwith)\n1.? 2. Ray Thompson, 3. Enfys Thomas 4. Wendy Richards 5? 6. Sal Roberts"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.676404000000",
+            "lon": "-3.772889000000",
+            "description": {
+                "en": "Whiitington's, Stryd y Gwynt, Castell Nedd",
+                "cy": "Whiitington's, Stryd y Gwynt, Castell Nedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "1978_Gwaith%20Whittington%27s_7x5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/1978_Gwaith%2520Whittington%2527s_7x5.jpg",
+            "type": "image",
+            "target_id": "742636"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

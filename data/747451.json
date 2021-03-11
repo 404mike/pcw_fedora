@@ -1,0 +1,84 @@
+{
+    "id": 747451,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch Officials 1989-1990",
+        "cy": "Swyddogion Merched y Wawr Cangen Mynach 1989 \u2013 1990"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747451",
+    "created": 1516897733,
+    "updated": 1516897733,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Swyddogion Merched y Wawr Cangen Mynach 1989 \u2013 1990 yn Ysgol Mynach.\nNancy Edwards, Elaine Lewis, Mia Lewis, Owenna Wright, AM Davies",
+        "cy": "Swyddogion Merched y Wawr Cangen Mynach 1989 \u2013 1990 yn Ysgol Mynach.\nNancy Edwards, Elaine Lewis, Mia Lewis, Owenna Wright, AM Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.371010000000",
+            "lon": "-3.857297000000",
+            "description": {
+                "en": "Ysgol Gynradd Mynach, Pontarfyrnach",
+                "cy": "Ysgol Gynradd Mynach, Pontarfyrnach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-173.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-173.jpg",
+            "type": "image",
+            "target_id": "747441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

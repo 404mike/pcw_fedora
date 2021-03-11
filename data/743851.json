@@ -1,0 +1,96 @@
+{
+    "id": 743851,
+    "title": {
+        "en": "Merched y Wawr Bro Ddewi Branch First Meeting Minutes 1983",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Bro Ddewi 1983"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743851",
+    "created": 1516896036,
+    "updated": 1516896036,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Cangen Bro Ddewi 1983\nCofnodion cyfarfod sefydlu\u2019r gangen ar Fawrth 15fed, 1983 yn Neuadd Gymunedol Carnhedryn",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Bro Ddewi 1983\nCofnodion cyfarfod sefydlu\u2019r gangen ar Fawrth 15fed, 1983 yn Neuadd Gymunedol Carnhedryn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ddewi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Bro Ddewi"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.906050000000",
+            "lon": "-5.198160000000",
+            "description": {
+                "en": "Neuadd Gymunedol Carnhedryn",
+                "cy": "Neuadd Gymunedol Carnhedryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-088.jpg",
+            "type": "image",
+            "target_id": "743831"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-089.jpg",
+            "type": "image",
+            "target_id": "743836"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-090.jpg",
+            "type": "image",
+            "target_id": "743841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

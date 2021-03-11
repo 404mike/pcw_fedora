@@ -1,0 +1,87 @@
+{
+    "id": 628236,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Talwrn, Anglesey.",
+        "cy": "Rhaglen tymor 1997 -1998 cangen Merched y Wawr Talwrn, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628236",
+    "created": 1511281092,
+    "updated": 1511281092,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 1997 -1998 Cangen Talwrn (blaen)",
+        "cy": "Rhaglen tymor 1997 -1998 Cangen Talwrn (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Talwrn",
+    "owner": "Cangen Talwrn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Talwrn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talwrn",
+        "Rhanbarth Mon",
+        "Mon",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.269374000000",
+            "lon": "-4.274138000000",
+            "description": {
+                "en": "Talwrn",
+                "cy": "Talwrn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_TALWRN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_TALWRN_001.jpg",
+            "type": "image",
+            "target_id": "628226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

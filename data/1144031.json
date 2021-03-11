@@ -1,0 +1,63 @@
+{
+    "id": 1144031,
+    "title": {
+        "en": "Christmas Fair 2013",
+        "cy": "Ffair Aeaf 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144031",
+    "created": 1562061268,
+    "updated": 1562061268,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 Patchwork. 1st Eirlys Savage, St Asaph, Colwyn.",
+        "cy": "Cystadleuaeth \u2013 Clytwaith. 1af Eirlys Savage, Cangen Llanelwy, Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "christmas fair 2013",
+        "ffair aeaf 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_533.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_533.jpg",
+            "type": "image",
+            "target_id": "1144026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

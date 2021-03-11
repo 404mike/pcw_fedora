@@ -1,0 +1,113 @@
+{
+    "id": 400032,
+    "title": {
+        "en": "Selection of Welsh House names  in South Wales",
+        "cy": "Casgliad o enwau tai yn Ne Cymru"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400032",
+    "created": 1416923887,
+    "updated": 1417016362,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Selection of Welsh house, farm and street names  in Tonteg, Pentre'r Eglwys and Llanilltud Faerdref",
+        "cy": "Casgliad o enwau Cymraeg ar dai, ffermydd a strydoedd yn Nhonteg, Pentre'r Eglwys a Llanilltud Faerdref"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Welsh house names",
+        "Streets",
+        "Pontypridd",
+        "Llanilltud Faerdref",
+        "enwau tai",
+        "strydoedd"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Houses and Homes",
+        "Cities, towns & villages"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010554.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010554.jpg",
+            "type": "image",
+            "target_id": "400025"
+        },
+        {
+            "originalFilename": "pcw0010555.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010555.jpg",
+            "type": "image",
+            "target_id": "400026"
+        },
+        {
+            "originalFilename": "pcw0010556.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010556.jpg",
+            "type": "image",
+            "target_id": "400027"
+        },
+        {
+            "originalFilename": "pcw0010557.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010557.jpg",
+            "type": "image",
+            "target_id": "400028"
+        },
+        {
+            "originalFilename": "pcw0010558.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010558.jpg",
+            "type": "image",
+            "target_id": "400029"
+        },
+        {
+            "originalFilename": "pcw0010559.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010559.jpg",
+            "type": "image",
+            "target_id": "400030"
+        },
+        {
+            "originalFilename": "pcw0010560.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010560.jpg",
+            "type": "image",
+            "target_id": "400031"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010554",
+    "publisher_ref": ""
+}

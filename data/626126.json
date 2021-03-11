@@ -1,0 +1,86 @@
+{
+    "id": 626126,
+    "title": {
+        "en": "Elen Roger Jones\u2019 personal collection of Merched y Wawr memorabilia ",
+        "cy": "Erthygl hanes taith Merched y Wawr i Groeg, Tachwedd 1976. Casgliad Elen Roger Jones, aelod selog a gweithgar o F\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626126",
+    "created": 1511280384,
+    "updated": 1511280384,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl gan Elen Roger Jones yn son am hanes taith Merched y Wawr i Groeg, Tachwedd 1976.",
+        "cy": "Erthygl gan Elen Roger Jones yn son am hanes taith Merched y Wawr i Groeg, Tachwedd 1976."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Elen Roger Jones",
+    "owner": "Casgliad Elen Roger Jones",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Elen Roger Jones",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Teithiau Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255816000000",
+            "lon": "-4.312139000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERJONES_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERJONES_006.jpg",
+            "type": "image",
+            "target_id": "626116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

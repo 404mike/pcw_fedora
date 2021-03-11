@@ -1,0 +1,86 @@
+{
+    "id": 628426,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Derwen, Glyn Maelor",
+        "cy": "Dathlu 50 mlynedd cangen Merched y Wawr Derwen, Glyn Maelor. Gwyl Ddewi, 2017. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628426",
+    "created": 1511281248,
+    "updated": 1511281248,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau\u2019r Gangen yn dathlu hanner cant y Mudiad gyda\u2019u bagiau \u2018Dathlu\u2019r Aur\u2019 - Gwyl Ddewi, 2017.",
+        "cy": "Llun o aelodau\u2019r Gangen yn dathlu hanner cant y Mudiad gyda\u2019u bagiau \u2018Dathlu\u2019r Aur\u2019 - Gwyl Ddewi, 2017."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Derwen",
+    "owner": "Cangen Derwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "derwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Derwen",
+        "Derwen Rhanbarth Glyn Maelor",
+        "Dathlur Aur"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.045249000000",
+            "lon": "-3.390589000000",
+            "description": {
+                "en": "Derwen",
+                "cy": "Derwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DERWEN_006_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DERWEN_006_0.jpg",
+            "type": "image",
+            "target_id": "628416"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

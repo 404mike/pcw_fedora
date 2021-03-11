@@ -1,0 +1,84 @@
+{
+    "id": 601484,
+    "title": {
+        "en": "Merched y Wawr Merthyr Branch Walking Trip 1999",
+        "cy": "Taith Gerdded Merched y Wawr Cangen Merthyr Tudful 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601484",
+    "created": 1502449444,
+    "updated": 1502449444,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Merthyr  Tudful, ar eu Taith Gerdded ym Mai 1999.  Aeth Jenny a chriw bychan o\u2019r gangen i ben Mynydd Tredegar i weld Ogof y Siartwyr.  \nYn y llun top mae Bethan Jenkins a Mali y ci, Elisabeth Gethin a Chris Hourahan yn mwynhau\u2019r olygfa.  \nYn y llun gwaelod mae Bethan Jenkins a Jenny Heney.",
+        "cy": "Merched y Wawr Cangen Merthyr  Tudful, ar eu Taith Gerdded ym Mai 1999.  Aeth Jenny a chriw bychan o\u2019r gangen i ben Mynydd Tredegar i weld Ogof y Siartwyr.  \nYn y llun top mae Bethan Jenkins a Mali y ci, Elisabeth Gethin a Chris Hourahan yn mwynhau\u2019r olygfa.  \nYn y llun gwaelod mae Bethan Jenkins a Jenny Heney."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Merthyr Tudful",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Merthyr Tudful",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.794977000000",
+            "lon": "-3.279225000000",
+            "description": {
+                "en": "Mynydd Tredegar",
+                "cy": "Mynydd Tredegar"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-017.jpg",
+            "type": "image",
+            "target_id": "601482"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

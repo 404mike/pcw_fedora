@@ -1,0 +1,69 @@
+{
+    "id": 1144076,
+    "title": {
+        "en": "Day Craft Course in the South 2014",
+        "cy": "Cwrs Crefft yn y De 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144076",
+    "created": 1562061286,
+    "updated": 1562061286,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Making crochet and felt  flowers. Aeres James and Eiry Ladd Lewis.",
+        "cy": "Gwneud blodau ffelt a chrosio \u2013 Aeres James ac Eiry Ladd Lewis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "day craft course",
+        "cwrs crefft"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_537.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_537.jpg",
+            "type": "image",
+            "target_id": "1144066"
+        },
+        {
+            "originalFilename": "df_myw_538.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_538.jpg",
+            "type": "image",
+            "target_id": "1144071"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

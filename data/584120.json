@@ -1,0 +1,75 @@
+{
+    "id": 584120,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch Eisteddfod yr Urdd Bro'r Preseli 1995, Art and Craft Exhibition",
+        "cy": "Merched y Wawr Cangen Maenclochog - Arddangosfa Celf a Chrefft, Eisteddfod yr Urdd Bro\u2019r Preseli, 1995\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584120",
+    "created": 1499870381,
+    "updated": 1499870381,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff",
+        "cy": "Ffotograff"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-057.jpg",
+            "type": "image",
+            "target_id": "584119"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

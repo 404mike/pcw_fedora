@@ -1,0 +1,65 @@
+{
+    "id": 1145901,
+    "title": {
+        "en": "Day Craft Course in South Wales at Ty Glyn Aeron ",
+        "cy": "Cwrs Crefft yn y De 2016 yn Ty Glyn Aeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145901",
+    "created": 1562063052,
+    "updated": 1562063052,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Painting with Rhiannon Roberts.",
+        "cy": "Peintio gyda Rhiannon Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "day craft course",
+        "ty glyn aeron",
+        "cwrs crefft",
+        "2016"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_737.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_737.jpg",
+            "type": "image",
+            "target_id": "1145896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

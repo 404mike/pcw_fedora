@@ -1,0 +1,72 @@
+{
+    "id": 750606,
+    "title": {
+        "en": "Clustogau i Ysbyty Singleton Jean Bowen a Jaci Gruffudd",
+        "cy": "Clustogau i Ysbyty Singleton Jean Bowen a Jaci Gruffudd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750606",
+    "created": 1516899545,
+    "updated": 1516899545,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clustogau i Ysbyty Singleton Jean Bowen a Jaci Gruffudd",
+        "cy": "Clustogau i Ysbyty Singleton Jean Bowen a Jaci Gruffudd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Clustogau%20i%20Ysbyty%20Singleton%20Jean%20Bowen%20a%20Jaci%20Gruffudd.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Clustogau%2520i%2520Ysbyty%2520Singleton%2520Jean%2520Bowen%2520a%2520Jaci%2520Gruffudd.jpg",
+            "type": "image",
+            "target_id": "750601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

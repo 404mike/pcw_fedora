@@ -1,0 +1,489 @@
+{
+    "id": 808221,
+    "title": {
+        "en": "Scrapbook of the Barti Ddu Branch",
+        "cy": "Llyfr lloffion Cangen Barti Ddu"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/808221",
+    "created": 1523358870,
+    "updated": 1523358870,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Barti Ddu",
+    "owner": "Cangen Barti Ddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Barti Ddu",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "BartiDdu00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00001.jpg",
+            "type": "image",
+            "target_id": "807871"
+        },
+        {
+            "originalFilename": "BartiDdu00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00002.jpg",
+            "type": "image",
+            "target_id": "807876"
+        },
+        {
+            "originalFilename": "BartiDdu00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00003.jpg",
+            "type": "image",
+            "target_id": "807881"
+        },
+        {
+            "originalFilename": "BartiDdu00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00005.jpg",
+            "type": "image",
+            "target_id": "807886"
+        },
+        {
+            "originalFilename": "BartiDdu00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00006.jpg",
+            "type": "image",
+            "target_id": "807891"
+        },
+        {
+            "originalFilename": "BartiDdu00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00007.jpg",
+            "type": "image",
+            "target_id": "807896"
+        },
+        {
+            "originalFilename": "BartiDdu00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00008.jpg",
+            "type": "image",
+            "target_id": "807901"
+        },
+        {
+            "originalFilename": "BartiDdu00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00009.jpg",
+            "type": "image",
+            "target_id": "807906"
+        },
+        {
+            "originalFilename": "BartiDdu00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00010.jpg",
+            "type": "image",
+            "target_id": "807911"
+        },
+        {
+            "originalFilename": "BartiDdu00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00011.jpg",
+            "type": "image",
+            "target_id": "807916"
+        },
+        {
+            "originalFilename": "BartiDdu00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00012.jpg",
+            "type": "image",
+            "target_id": "807921"
+        },
+        {
+            "originalFilename": "BartiDdu00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00013.jpg",
+            "type": "image",
+            "target_id": "807926"
+        },
+        {
+            "originalFilename": "BartiDdu00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00014.jpg",
+            "type": "image",
+            "target_id": "807931"
+        },
+        {
+            "originalFilename": "BartiDdu00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00015.jpg",
+            "type": "image",
+            "target_id": "807936"
+        },
+        {
+            "originalFilename": "BartiDdu00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00016.jpg",
+            "type": "image",
+            "target_id": "807941"
+        },
+        {
+            "originalFilename": "BartiDdu00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00017.jpg",
+            "type": "image",
+            "target_id": "807946"
+        },
+        {
+            "originalFilename": "BartiDdu00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00018.jpg",
+            "type": "image",
+            "target_id": "807951"
+        },
+        {
+            "originalFilename": "BartiDdu00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00020.jpg",
+            "type": "image",
+            "target_id": "807956"
+        },
+        {
+            "originalFilename": "BartiDdu00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00021.jpg",
+            "type": "image",
+            "target_id": "807961"
+        },
+        {
+            "originalFilename": "BartiDdu00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00022.jpg",
+            "type": "image",
+            "target_id": "807966"
+        },
+        {
+            "originalFilename": "BartiDdu00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00023.jpg",
+            "type": "image",
+            "target_id": "807971"
+        },
+        {
+            "originalFilename": "BartiDdu00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00024.jpg",
+            "type": "image",
+            "target_id": "807976"
+        },
+        {
+            "originalFilename": "BartiDdu00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00025.jpg",
+            "type": "image",
+            "target_id": "807981"
+        },
+        {
+            "originalFilename": "BartiDdu00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00026.jpg",
+            "type": "image",
+            "target_id": "807986"
+        },
+        {
+            "originalFilename": "BartiDdu00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00027.jpg",
+            "type": "image",
+            "target_id": "807991"
+        },
+        {
+            "originalFilename": "BartiDdu00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00028.jpg",
+            "type": "image",
+            "target_id": "807996"
+        },
+        {
+            "originalFilename": "BartiDdu00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00029.jpg",
+            "type": "image",
+            "target_id": "808001"
+        },
+        {
+            "originalFilename": "BartiDdu00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00030.jpg",
+            "type": "image",
+            "target_id": "808006"
+        },
+        {
+            "originalFilename": "BartiDdu00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00031.jpg",
+            "type": "image",
+            "target_id": "808011"
+        },
+        {
+            "originalFilename": "BartiDdu00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00032.jpg",
+            "type": "image",
+            "target_id": "808016"
+        },
+        {
+            "originalFilename": "BartiDdu00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00033.jpg",
+            "type": "image",
+            "target_id": "808021"
+        },
+        {
+            "originalFilename": "BartiDdu00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00034.jpg",
+            "type": "image",
+            "target_id": "808026"
+        },
+        {
+            "originalFilename": "BartiDdu00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00035.jpg",
+            "type": "image",
+            "target_id": "808031"
+        },
+        {
+            "originalFilename": "BartiDdu00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00036.jpg",
+            "type": "image",
+            "target_id": "808036"
+        },
+        {
+            "originalFilename": "BartiDdu00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00037.jpg",
+            "type": "image",
+            "target_id": "808041"
+        },
+        {
+            "originalFilename": "BartiDdu00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00038.jpg",
+            "type": "image",
+            "target_id": "808046"
+        },
+        {
+            "originalFilename": "BartiDdu00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00040.jpg",
+            "type": "image",
+            "target_id": "808051"
+        },
+        {
+            "originalFilename": "BartiDdu00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00041.jpg",
+            "type": "image",
+            "target_id": "808056"
+        },
+        {
+            "originalFilename": "BartiDdu00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00042.jpg",
+            "type": "image",
+            "target_id": "808061"
+        },
+        {
+            "originalFilename": "BartiDdu00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00043.jpg",
+            "type": "image",
+            "target_id": "808066"
+        },
+        {
+            "originalFilename": "BartiDdu00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00045.jpg",
+            "type": "image",
+            "target_id": "808071"
+        },
+        {
+            "originalFilename": "BartiDdu00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00046.jpg",
+            "type": "image",
+            "target_id": "808076"
+        },
+        {
+            "originalFilename": "BartiDdu00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00047.jpg",
+            "type": "image",
+            "target_id": "808081"
+        },
+        {
+            "originalFilename": "BartiDdu00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00048.jpg",
+            "type": "image",
+            "target_id": "808086"
+        },
+        {
+            "originalFilename": "BartiDdu00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00049.jpg",
+            "type": "image",
+            "target_id": "808091"
+        },
+        {
+            "originalFilename": "BartiDdu00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00050.jpg",
+            "type": "image",
+            "target_id": "808096"
+        },
+        {
+            "originalFilename": "BartiDdu00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00051.jpg",
+            "type": "image",
+            "target_id": "808101"
+        },
+        {
+            "originalFilename": "BartiDdu00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00052.jpg",
+            "type": "image",
+            "target_id": "808106"
+        },
+        {
+            "originalFilename": "BartiDdu00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00053.jpg",
+            "type": "image",
+            "target_id": "808111"
+        },
+        {
+            "originalFilename": "BartiDdu00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00054.jpg",
+            "type": "image",
+            "target_id": "808116"
+        },
+        {
+            "originalFilename": "BartiDdu00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00055.jpg",
+            "type": "image",
+            "target_id": "808121"
+        },
+        {
+            "originalFilename": "BartiDdu00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00056.jpg",
+            "type": "image",
+            "target_id": "808126"
+        },
+        {
+            "originalFilename": "BartiDdu00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00057.jpg",
+            "type": "image",
+            "target_id": "808131"
+        },
+        {
+            "originalFilename": "BartiDdu00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00058.jpg",
+            "type": "image",
+            "target_id": "808136"
+        },
+        {
+            "originalFilename": "BartiDdu00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00059.jpg",
+            "type": "image",
+            "target_id": "808141"
+        },
+        {
+            "originalFilename": "BartiDdu00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00060.jpg",
+            "type": "image",
+            "target_id": "808146"
+        },
+        {
+            "originalFilename": "BartiDdu00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00061.jpg",
+            "type": "image",
+            "target_id": "808151"
+        },
+        {
+            "originalFilename": "BartiDdu00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00062.jpg",
+            "type": "image",
+            "target_id": "808156"
+        },
+        {
+            "originalFilename": "BartiDdu00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00063.jpg",
+            "type": "image",
+            "target_id": "808161"
+        },
+        {
+            "originalFilename": "BartiDdu00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00064.jpg",
+            "type": "image",
+            "target_id": "808166"
+        },
+        {
+            "originalFilename": "BartiDdu00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00065.jpg",
+            "type": "image",
+            "target_id": "808171"
+        },
+        {
+            "originalFilename": "BartiDdu00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00066.jpg",
+            "type": "image",
+            "target_id": "808176"
+        },
+        {
+            "originalFilename": "BartiDdu00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00067.jpg",
+            "type": "image",
+            "target_id": "808181"
+        },
+        {
+            "originalFilename": "BartiDdu00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00068.jpg",
+            "type": "image",
+            "target_id": "808186"
+        },
+        {
+            "originalFilename": "BartiDdu00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00070.jpg",
+            "type": "image",
+            "target_id": "808191"
+        },
+        {
+            "originalFilename": "BartiDdu00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00071.jpg",
+            "type": "image",
+            "target_id": "808196"
+        },
+        {
+            "originalFilename": "BartiDdu00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00072.jpg",
+            "type": "image",
+            "target_id": "808201"
+        },
+        {
+            "originalFilename": "BartiDdu00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00073.jpg",
+            "type": "image",
+            "target_id": "808206"
+        },
+        {
+            "originalFilename": "BartiDdu00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00074.jpg",
+            "type": "image",
+            "target_id": "808211"
+        },
+        {
+            "originalFilename": "BartiDdu00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BartiDdu00075.jpg",
+            "type": "image",
+            "target_id": "808216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

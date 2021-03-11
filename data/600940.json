@@ -1,0 +1,85 @@
+{
+    "id": 600940,
+    "title": {
+        "en": "Merched y Wawr Whitland Branch perform at the Dyfed Area Eisteddfod 1988",
+        "cy": "C\u00e2n Actol Merched y Wawr Cangen Hendygwyn, Eisteddfod Rhanbarth Dyfed 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600940",
+    "created": 1502448451,
+    "updated": 1502448451,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Hendygwyn yn perfformio C\u00e2n Actol \u2018D\u0175r\u2019 yn y Lyric yng Nghaerfyrddin Tachwedd 25, 1988 ar achlysur \u2018Bwrlwm Cangen\u2019 Rhanbarth Dyfed.  \nRhes gefn - Mrs Richards, Mrs Rees, Sheila Bancroft, Gwyneth Davies, \nAil Res - Meira Evans, Jean Parri Roberts, Ann Richards, Cerrys Rees, Rosina Thomas, Marian Thomas, Rhoswen Llewellyn \nYn eistedd \u2013 Margarette Hughes (aelod o\u2019r gangen on hefyd yn Lywydd Cenedlaethol Merched y Wawr 1988-1990)",
+        "cy": "Merched y Wawr Cangen Hendygwyn yn perfformio C\u00e2n Actol \u2018D\u0175r\u2019 yn y Lyric yng Nghaerfyrddin Tachwedd 25, 1988 ar achlysur \u2018Bwrlwm Cangen\u2019 Rhanbarth Dyfed.  \nRhes gefn - Mrs Richards, Mrs Rees, Sheila Bancroft, Gwyneth Davies, \nAil Res - Meira Evans, Jean Parri Roberts, Ann Richards, Cerrys Rees, Rosina Thomas, Marian Thomas, Rhoswen Llewellyn \nYn eistedd \u2013 Margarette Hughes (aelod o\u2019r gangen on hefyd yn Lywydd Cenedlaethol Merched y Wawr 1988-1990)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Hendygwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hendygwyn",
+        "Rhanbarth Caerfyrddin",
+        "Rhanbarth Dyfed"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856767000000",
+            "lon": "-4.305254000000",
+            "description": {
+                "en": "Y Lyric, Caerfyrddin",
+                "cy": "Y Lyric, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_111.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_111.jpg",
+            "type": "image",
+            "target_id": "600938"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

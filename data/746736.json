@@ -1,0 +1,75 @@
+{
+    "id": 746736,
+    "title": {
+        "en": "Merched y Wawr Llangwyrfon Branch's First Officials",
+        "cy": "Swyddogion cyntaf Merched y Wawr Cangen Llangwyryfon"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746736",
+    "created": 1516897414,
+    "updated": 1516897414,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o swyddogion cyntaf Merched y Wawr Cangen Llangwyryfon, 1986.\nPriscilla Rees (Trysorydd), Non Williams (Llywydd), Wendy Lloyd (Ysgrifennydd)",
+        "cy": "Llun o swyddogion cyntaf Merched y Wawr Cangen Llangwyryfon, 1986.\nPriscilla Rees (Trysorydd), Non Williams (Llywydd), Wendy Lloyd (Ysgrifennydd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llangwyryfon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llangwyryfon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-210.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-210.jpg",
+            "type": "image",
+            "target_id": "746731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

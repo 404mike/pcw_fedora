@@ -1,0 +1,86 @@
+{
+    "id": 751246,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Barmouth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bermo a\u2019r Cylch, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751246",
+    "created": 1516957877,
+    "updated": 1516957877,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o ginio blynyddol y Gangen yng Nghwesty Min-y-Mor, Ionawr 1981. Gwelwn: Barbara Owen, Pam Wilson, Elinor Jones, Gretta Jones, Angharad Roberts, Grace Williams, Marian Evans, Jane Griffiths, Aldwyth Wynne, Myra Griffiths, Peggy Parry, Anna Williams, Beti Jones, (canol) Gwyneth Derbyshire, Wenna Jones, Angela Evans, Megan Jones, Margaret Owen, Eurwen Thomas, Mari Evans, Mrs Randle Rees, (blaen) Rhian Speake, Pat Hughes, Gwenda Ellis, Judy jones, Mair Williams, Eirlys Williams, Megan Vaughan, Gwenda Roberts, Alwena Moriss, Meiriona Williams, Joan Holloway.",
+        "cy": "Llun o ginio blynyddol y Gangen yng Nghwesty Min-y-Mor, Ionawr 1981. Gwelwn: Barbara Owen, Pam Wilson, Elinor Jones, Gretta Jones, Angharad Roberts, Grace Williams, Marian Evans, Jane Griffiths, Aldwyth Wynne, Myra Griffiths, Peggy Parry, Anna Williams, Beti Jones, (canol) Gwyneth Derbyshire, Wenna Jones, Angela Evans, Megan Jones, Margaret Owen, Eurwen Thomas, Mari Evans, Mrs Randle Rees, (blaen) Rhian Speake, Pat Hughes, Gwenda Ellis, Judy jones, Mair Williams, Eirlys Williams, Megan Vaughan, Gwenda Roberts, Alwena Moriss, Meiriona Williams, Joan Holloway."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bermo, ",
+    "owner": "Cangen y Bermo, ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Barmouth",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bermo",
+        "Bermo",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.723722000000",
+            "lon": "-4.056849000000",
+            "description": {
+                "en": "Barmouth",
+                "cy": "Y Bermo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BERMO_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BERMO_013.jpg",
+            "type": "image",
+            "target_id": "751236"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

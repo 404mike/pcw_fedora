@@ -1,0 +1,92 @@
+{
+    "id": 624351,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor",
+        "cy": "Dathlu Penblwydd cangen Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor yn 25 mlwydd oed yn 1998."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624351",
+    "created": 1511279808,
+    "updated": 1511279808,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu Penblwydd y Gangen yn 25 mlwydd oed yn 1998. Dyma Blodwen Wynne, Rhoda Hughes, Gwenfron Jones a Sylwen Lloyd Davies, y Llywydd Cenedlethol yn torri\u2019r gacen a wneaed gan Anwen James a\u2019i haddurnwyd gan Margaret Morris.",
+        "cy": "Dathlu Penblwydd y Gangen yn 25 mlwydd oed yn 1998. Dyma Blodwen Wynne, Rhoda Hughes, Gwenfron Jones a Sylwen Lloyd Davies, y Llywydd Cenedlethol yn torri\u2019r gacen a wneaed gan Anwen James a\u2019i haddurnwyd gan Margaret Morris."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Dyffryn Clwyd",
+    "owner": "Cangen Llanfair Dyffryn Clwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Dyffryn Clwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfair Dyffryn Clwyd",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.089706000000",
+            "lon": "-3.294789000000",
+            "description": {
+                "en": "Llanfair Dyffryn Clwyd",
+                "cy": "Llanfair Dyffryn Clwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_006.jpg",
+            "type": "image",
+            "target_id": "624336"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_005.jpg",
+            "type": "image",
+            "target_id": "624341"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

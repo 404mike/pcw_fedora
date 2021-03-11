@@ -1,0 +1,92 @@
+{
+    "id": 626636,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Llandegfan, Anglesey.",
+        "cy": "Teyrnged i Miss Gwyneth Evans, Llywydd Cyntaf Merched y Wawr. Cangen Merched y Wawr Llandegfan, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626636",
+    "created": 1511280559,
+    "updated": 1511280559,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Teyrnged i Miss Gwyneth Evans, Llywydd Cyntaf Merched y Wawr (bu farw Hydref 1992) gan Mrs Elsie Williams aelod o Gangen Llandegfan.",
+        "cy": "Teyrnged i Miss Gwyneth Evans, Llywydd Cyntaf Merched y Wawr (bu farw Hydref 1992) gan Mrs Elsie Williams aelod o Gangen Llandegfan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llandegfan",
+    "owner": "Cangen Llandegfan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandegfan",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandegfan",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.243244000000",
+            "lon": "-4.146291000000",
+            "description": {
+                "en": "Llandegfan",
+                "cy": "Llandegfan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_003.jpg",
+            "type": "image",
+            "target_id": "626621"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDEGFAN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDEGFAN_004.jpg",
+            "type": "image",
+            "target_id": "626626"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

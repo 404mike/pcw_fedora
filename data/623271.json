@@ -1,0 +1,85 @@
+{
+    "id": 623271,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Cynwyd, Glyn Maelor",
+        "cy": "Llythyr sefydlu cangen Merched y Wawr Cynwyd, Glyn Maelor. Tachwedd 1967. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623271",
+    "created": 1511279446,
+    "updated": 1511279446,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr yn cadarnhau sefydlu cangen Cynwyd ym mis Tachwedd 1967.",
+        "cy": "Llythyr yn cadarnhau sefydlu cangen Cynwyd ym mis Tachwedd 1967."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cynwyd,",
+    "owner": "Cangen Cynwyd,",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cynwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cynwyd",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Cynwyd",
+                "cy": "Cynwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CYNWYD_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CYNWYD_001.jpg",
+            "type": "image",
+            "target_id": "623261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

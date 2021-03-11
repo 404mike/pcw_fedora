@@ -1,0 +1,65 @@
+{
+    "id": 1144416,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2014",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144416",
+    "created": 1562061900,
+    "updated": 1562061900,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Anita Appleton, Gorseinon branch, West Glamorgan winner of the cookery competition \u2013 4 decorated cup cakes.",
+        "cy": "Anita Appleton, Cangen Gorseinon, Gorllewin Morgannwg, enillydd cystadleuaeth coginio \u2013 4 cacen gwpan addurniedig."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "summer festival",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_568.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_568.jpg",
+            "type": "image",
+            "target_id": "1144411"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

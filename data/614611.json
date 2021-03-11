@@ -1,0 +1,90 @@
+{
+    "id": 614611,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Feature Programme - Leaflet",
+        "cy": "Taflen Rhaglen Nodwedd Merched y Wawr Llandysul a&#039;r Cylch "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614611",
+    "created": 1510755041,
+    "updated": 1510755041,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Rhaglen Nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991.\nClawr \/ Cefn",
+        "cy": "Taflen Rhaglen Nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991.\nClawr \/ Cefn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.040625000000",
+            "lon": "-4.308961000000",
+            "description": {
+                "en": "Neuadd Tysul, Llandysul",
+                "cy": "Neuadd Tysul, Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-169.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-169.jpg",
+            "type": "image",
+            "target_id": "614596"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-170.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-170.jpg",
+            "type": "image",
+            "target_id": "614601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

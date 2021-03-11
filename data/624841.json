@@ -1,0 +1,86 @@
+{
+    "id": 624841,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Wuddgrug, Glyn Maelor. Eisteddfod yr Urdd, 1980. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624841",
+    "created": 1511279965,
+    "updated": 1511279965,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn cyflwyno tlws Merched y Wawr i Elfed Roberts, Eisteddfod yr Urdd, 1980. Cynlluniwyd y tows a\u2019u gwneud gan Iwan Cwyfan Hughes, Cyn-ddisgybl Ysgol Maes Garmon. Gwelwn: Ann Williams, Glenys Ashford, Morfudd Roberts, Sheila Hughes, Janes Roberts, ac Elfed Roberts (Trefnydd yr Urdd ar y pryd)",
+        "cy": "Rhai o aelodau\u2019r gangen yn cyflwyno tlws Merched y Wawr i Elfed Roberts, Eisteddfod yr Urdd, 1980. Cynlluniwyd y tows a\u2019u gwneud gan Iwan Cwyfan Hughes, Cyn-ddisgybl Ysgol Maes Garmon. Gwelwn: Ann Williams, Glenys Ashford, Morfudd Roberts, Sheila Hughes, Janes Roberts, ac Elfed Roberts (Trefnydd yr Urdd ar y pryd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_005.jpg",
+            "type": "image",
+            "target_id": "624831"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

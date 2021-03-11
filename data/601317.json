@@ -1,0 +1,82 @@
+{
+    "id": 601317,
+    "title": {
+        "en": "Merched y Wawr Cylch Emlyn Branch on the Stand at the Royal Welsh Show",
+        "cy": "Cangen Cylch Emlyn ar stondin Merched y Wawr yn y Sioe Frenhinol    "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601317",
+    "created": 1502449189,
+    "updated": 1502449189,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Cylch Emlyn yng nghanol Arddangosfa Ceredigion ar stondin Merched y Wawr yn y Sioe Frenhinol    \nYn y llun mae Bethan Jones, Kitty Jenkins, Beti Evans, Non Davies, Megan Jones, Luned Jones",
+        "cy": "Aelodau Merched y Wawr Cangen Cylch Emlyn yng nghanol Arddangosfa Ceredigion ar stondin Merched y Wawr yn y Sioe Frenhinol    \nYn y llun mae Bethan Jones, Kitty Jenkins, Beti Evans, Non Davies, Megan Jones, Luned Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Emlyn ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Emlyn",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157814000000",
+            "lon": "-3.407242000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-121.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-121.jpg",
+            "type": "image",
+            "target_id": "601315"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

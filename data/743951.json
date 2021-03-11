@@ -1,0 +1,81 @@
+{
+    "id": 743951,
+    "title": {
+        "en": "Merched y Wawr Bro Gwili Branch 30th Anniversary",
+        "cy": "Merched y Wawr Bro Gwili yn Dathlu 30"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743951",
+    "created": 1516896079,
+    "updated": 1516896079,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cacen dathlu Merched y Wawr Cangen Bro Gwili yn 2010, pan roedd y gangen yn dathlu penblwydd yn 30 oed. Swyddogion yn torri y gacen\nMiss Doreen Nicholas, Mrs Elsie Jones a Mrs Ann Wyke.",
+        "cy": "Cacen dathlu Merched y Wawr Cangen Bro Gwili yn 2010, pan roedd y gangen yn dathlu penblwydd yn 30 oed. Swyddogion yn torri y gacen\nMiss Doreen Nicholas, Mrs Elsie Jones a Mrs Ann Wyke."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Gwili",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Gwili",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Bro%20Gwili%20Cacen%20Dathlu%2030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Bro%2520Gwili%2520Cacen%2520Dathlu%252030.jpg",
+            "type": "image",
+            "target_id": "743941"
+        },
+        {
+            "originalFilename": "Bro%20Gwili%20Dathlu%2030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Bro%2520Gwili%2520Dathlu%252030.jpg",
+            "type": "image",
+            "target_id": "743946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

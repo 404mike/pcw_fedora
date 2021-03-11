@@ -1,0 +1,75 @@
+{
+    "id": 748341,
+    "title": {
+        "en": "A Letter from Harriet Lewis '(Magi Post' from Pobol y Cwm) to Merched y Wawr Pontarddulais Branch ",
+        "cy": "Llythyr gan Harriet Lewis (\u2018Magi Post\u2019 o Pobol y Cwm) i Ferched y Wawr Pontarddulais"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748341",
+    "created": 1516898504,
+    "updated": 1516898504,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr i Ferched y Wawr Pontarddulais gan Harriet Lewis (\u2018Magi Post\u2019 o Pobol y Cwm) yn derbyn gwahoddiad i agor Ffair Ff\u0175l Ebrill ar Ebrill 1af, 1977 yn yr Institiwt.  Tocyn ar gyfer y digwyddiad hefyd.",
+        "cy": "Llythyr i Ferched y Wawr Pontarddulais gan Harriet Lewis (\u2018Magi Post\u2019 o Pobol y Cwm) yn derbyn gwahoddiad i agor Ffair Ff\u0175l Ebrill ar Ebrill 1af, 1977 yn yr Institiwt.  Tocyn ar gyfer y digwyddiad hefyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-084.jpg",
+            "type": "image",
+            "target_id": "748336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

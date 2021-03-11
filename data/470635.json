@@ -1,0 +1,88 @@
+{
+    "id": 470635,
+    "title": {
+        "en": "Llanelli, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanelli, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470635",
+    "created": 1441700831,
+    "updated": 1441700831,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanelli, Carmarthenshire branch of Merched y Wawr. It contains a list of field names from Hengoed Fach and Glyngwernen Uchaf; houses, farms streets and areas in the Trimsaran area.",
+        "cy": "Gwybodaeth am waith cangen Llanelli, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys enwau caeau Hengoed Fach a Glyngwernen Uchaf; hefyd enwau tai, ffermydd, strydoedd ac ardaloedd yn ardal Trimsaran."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10772.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10772.jpg",
+            "type": "image",
+            "target_id": "470629"
+        },
+        {
+            "originalFilename": "pcw001_10773.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10773.jpg",
+            "type": "image",
+            "target_id": "470630"
+        },
+        {
+            "originalFilename": "pcw001_10774.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10774.jpg",
+            "type": "image",
+            "target_id": "470631"
+        },
+        {
+            "originalFilename": "pcw001_10775.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10775.jpg",
+            "type": "image",
+            "target_id": "470632"
+        },
+        {
+            "originalFilename": "pcw001_10776.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10776.jpg",
+            "type": "image",
+            "target_id": "470633"
+        },
+        {
+            "originalFilename": "pcw001_10777.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10777.jpg",
+            "type": "image",
+            "target_id": "470634"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10772",
+    "publisher_ref": ""
+}

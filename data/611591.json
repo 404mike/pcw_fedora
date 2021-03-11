@@ -1,0 +1,105 @@
+{
+    "id": 611591,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch competing in short drama event",
+        "cy": "Merched y Wawr Cangen Peniel yn gwneud cystadleuaeth Drama Fer \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611591",
+    "created": 1510753491,
+    "updated": 1510753491,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Peniel yn cystadlu yng nghystadleuaeth Drama Fer a drefnwyd gan Llyfrgell Dyfed ym 1982. Cynhyrchydd ac awdur y ddrama oedd Nan Lewis, gan ennill y wobr 1af.  \nRhes flaen \u2013 Carys Davies, Nan Lewis, Olive Dyer\nAil Res - Moyra Howells, Norah Moses, Beti Evans\nRhes Gefn \u2013 Nancy Bowen, Marlene Evans, Menna Lenny, Beryl Gibbon",
+        "cy": "Merched y Wawr Cangen Peniel yn cystadlu yng nghystadleuaeth Drama Fer a drefnwyd gan Llyfrgell Dyfed ym 1982. Cynhyrchydd ac awdur y ddrama oedd Nan Lewis, gan ennill y wobr 1af.  \nRhes flaen \u2013 Carys Davies, Nan Lewis, Olive Dyer\nAil Res - Moyra Howells, Norah Moses, Beti Evans\nRhes Gefn \u2013 Nancy Bowen, Marlene Evans, Menna Lenny, Beryl Gibbon"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-131.jpg",
+            "type": "image",
+            "target_id": "611561"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-133.jpg",
+            "type": "image",
+            "target_id": "611566"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-134.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-134.jpg",
+            "type": "image",
+            "target_id": "611571"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-135.jpg",
+            "type": "image",
+            "target_id": "611576"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-136.jpg",
+            "type": "image",
+            "target_id": "611581"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-137.jpg",
+            "type": "image",
+            "target_id": "611586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

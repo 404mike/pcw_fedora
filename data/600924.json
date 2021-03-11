@@ -1,0 +1,75 @@
+{
+    "id": 600924,
+    "title": {
+        "en": "Merched y Wawr Gwendraeth Branch as 'extras' in a TV production",
+        "cy": "Merched y Wawr Cangen Gwendraeth o Ferched y Wawr fel \u2018extras teledu\u2019 ar S4C"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600924",
+    "created": 1502448428,
+    "updated": 1502448428,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Gwendraeth o Ferched y Wawr fel \u2018extras\u2019 yng nghyfres S4C, \u2018Tom Nefyn\u2019, yn y 1990au (?).  Yn y llun mae Nora Williams, Eva Morris, Marian Thomas, Meifa Jones, Nan Hughes, Sandra Evans",
+        "cy": "Aelodau Cangen Gwendraeth o Ferched y Wawr fel \u2018extras\u2019 yng nghyfres S4C, \u2018Tom Nefyn\u2019, yn y 1990au (?).  Yn y llun mae Nora Williams, Eva Morris, Marian Thomas, Meifa Jones, Nan Hughes, Sandra Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gwendraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwendraeth",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_103.jpg",
+            "type": "image",
+            "target_id": "600923"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

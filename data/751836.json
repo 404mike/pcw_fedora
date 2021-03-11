@@ -1,0 +1,86 @@
+{
+    "id": 751836,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Bro Tryweryn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bro Tryweryn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751836",
+    "created": 1516958032,
+    "updated": 1516958032,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem Bro Tryweryn yn fuddugol yn y gystadleuaeth rownderi yn yr Wyl Haf Genedlaetho ym 1992. Gwelwn: (blaen) Nen Davies, Rhiannon Davies, Nia Wyn Davies, Teleri Davies (\u00f4l) Mim Roberts, Eirlys Jones, Lisa Roberts, Rhian Jones, Kay Rowlands.",
+        "cy": "T\u00eem Bro Tryweryn yn fuddugol yn y gystadleuaeth rownderi yn yr Wyl Haf Genedlaetho ym 1992. Gwelwn: (blaen) Nen Davies, Rhiannon Davies, Nia Wyn Davies, Teleri Davies (\u00f4l) Mim Roberts, Eirlys Jones, Lisa Roberts, Rhian Jones, Kay Rowlands."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bro Tryweryn",
+    "owner": "Cangen Bro Tryweryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bro Tryweryn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Tryweryn",
+        "Rhanbarth Meirionnydd",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.939553000000",
+            "lon": "-3.631991000000",
+            "description": {
+                "en": "Bro Tryweryn",
+                "cy": "Bro Tryweryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_027.jpg",
+            "type": "image",
+            "target_id": "751826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

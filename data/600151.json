@@ -1,0 +1,83 @@
+{
+    "id": 600151,
+    "title": {
+        "en": "A collection of photographs and other documents pertaining to the history of Merched y Wawr.",
+        "cy": "Casgliad o luniau a dogfennau cymysg sy\u2019n ymwneud \u00e2 hanes cenedlaethol Mudiad Merched y Wawr. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600151",
+    "created": 1502447314,
+    "updated": 1502447314,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr gan Mererid James (Jones) i Anwen Hughes ar ddiwedd ei chyfnod fel Ysgrifennydd Cendlaethol (13.05.1988)",
+        "cy": "Llythyr gan Mererid James (Jones) i Anwen Hughes ar ddiwedd ei chyfnod fel Ysgrifennydd Cendlaethol (13.05.1988)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anwen Hughes ",
+    "owner": "Anwen Hughes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Aberconwy",
+        "MYW",
+        "Deathly 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413281000000",
+            "lon": "-4.087100000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CasgliadAnwenHughes003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CasgliadAnwenHughes003.jpg",
+            "type": "image",
+            "target_id": "600149"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

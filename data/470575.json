@@ -1,0 +1,125 @@
+{
+    "id": 470575,
+    "title": {
+        "en": "Genau'r Glyn, Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Genau&#039;r Glyn, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470575",
+    "created": 1441700800,
+    "updated": 1441700800,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Genau'r Glyn, Cardiganshire branch of Merched y Wawr. It contains farms and their field names in the Llandre area.",
+        "cy": "Gwybodaeth am waith cangen Genau'r Glyn, Ceredigion o Ferched y Wawr. Mae'n cynnwys rhestr o enwau ffermydd a'u caeau yn ardal Llandre."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10712.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10712.jpg",
+            "type": "image",
+            "target_id": "470563"
+        },
+        {
+            "originalFilename": "pcw001_10713.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10713.jpg",
+            "type": "image",
+            "target_id": "470564"
+        },
+        {
+            "originalFilename": "pcw001_10714.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10714.jpg",
+            "type": "image",
+            "target_id": "470565"
+        },
+        {
+            "originalFilename": "pcw001_10715.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10715.jpg",
+            "type": "image",
+            "target_id": "470566"
+        },
+        {
+            "originalFilename": "pcw001_10716.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10716.jpg",
+            "type": "image",
+            "target_id": "470567"
+        },
+        {
+            "originalFilename": "pcw001_10717.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10717.jpg",
+            "type": "image",
+            "target_id": "470568"
+        },
+        {
+            "originalFilename": "pcw001_10718.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10718.jpg",
+            "type": "image",
+            "target_id": "470569"
+        },
+        {
+            "originalFilename": "pcw001_10719.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10719.jpg",
+            "type": "image",
+            "target_id": "470570"
+        },
+        {
+            "originalFilename": "pcw001_10720.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10720.jpg",
+            "type": "image",
+            "target_id": "470571"
+        },
+        {
+            "originalFilename": "pcw001_10721.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10721.jpg",
+            "type": "image",
+            "target_id": "470572"
+        },
+        {
+            "originalFilename": "pcw001_10722.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10722.jpg",
+            "type": "image",
+            "target_id": "470573"
+        },
+        {
+            "originalFilename": "pcw001_10723.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10723.jpg",
+            "type": "image",
+            "target_id": "470574"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10712",
+    "publisher_ref": ""
+}

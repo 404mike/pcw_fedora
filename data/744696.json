@@ -1,0 +1,75 @@
+{
+    "id": 744696,
+    "title": {
+        "en": "Merched y Wawr Clydach Branch Re-opens",
+        "cy": "Cangen Clydach o Ferched y Wawr yn ail-agor "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744696",
+    "created": 1516896441,
+    "updated": 1516896441,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Clydach o Ferched y Wawr yn ail-agor yn 2008 ar \u00f4l bod ar gau am tua dwy flynedd.\nJosephine Jones, Catherine Evans, Doreen Hopkins, Myra Lloyd, Lyn Altair, Barbara Pickerel, Brenda Evans, Annette Hughes, Margaret Cairns, Malvina Ley",
+        "cy": "Cangen Clydach o Ferched y Wawr yn ail-agor yn 2008 ar \u00f4l bod ar gau am tua dwy flynedd.\nJosephine Jones, Catherine Evans, Doreen Hopkins, Myra Lloyd, Lyn Altair, Barbara Pickerel, Brenda Evans, Annette Hughes, Margaret Cairns, Malvina Ley"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "AilddechrauClydach.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/AilddechrauClydach.jpg",
+            "type": "image",
+            "target_id": "744691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

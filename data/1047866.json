@@ -1,0 +1,66 @@
+{
+    "id": 1047866,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047866",
+    "created": 1555591155,
+    "updated": 1555591155,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The President, some former Presidents and the Director enjoying the celebrations \u2013 Valerie James, Nan Lewis, Catrin Stevens, Tegwen Morris, Mary Price, Marged Jones, Sulwen Davies, Glenys Thomas.",
+        "cy": "Y Llywydd, rhai o'r cyn-Lywyddion a'r Cyfarwyddwr yn mwynhau'r dathliadau \u2013 Valerie James, Nan Lewis, Catrin Stevens, Tegwen Morris, Mary Price, Marged Jones, Sulwen Davies, Glenys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "Eisteddfod Genedlaethol",
+        "fflint"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_184.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_184.jpg",
+            "type": "image",
+            "target_id": "1047861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

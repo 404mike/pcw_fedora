@@ -1,0 +1,75 @@
+{
+    "id": 748711,
+    "title": {
+        "en": "Dance Party, Aberystwyth County Festival, Merched y Wawr 1973",
+        "cy": "Parti Dawnsio, G\u0175yl Sirol Aberystwyth, Merched y Wawr 1973"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748711",
+    "created": 1516898675,
+    "updated": 1516898675,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Dawnsio, G\u0175yl Sirol Aberystwyth, Merched y Wawr 1973",
+        "cy": "Parti Dawnsio, G\u0175yl Sirol Aberystwyth, Merched y Wawr 1973"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Rhydypennau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Rhydypennau"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-240.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-240.jpg",
+            "type": "image",
+            "target_id": "748706"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

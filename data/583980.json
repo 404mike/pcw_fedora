@@ -1,0 +1,83 @@
+{
+    "id": 583980,
+    "title": {
+        "en": "Merched y Wawr Lon Las Branch's First Trip ",
+        "cy": "Taith cyntaf Merched y Wawr Cangen Lon Las (cangen gyntaf y mudiad yn y De)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583980",
+    "created": 1499870186,
+    "updated": 1499870186,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith cyntaf Merched y Wawr Cangen Lon Las (cangen gyntaf y mudiad yn y De).  Tua 1971-72.  Ymweld \u00e2 Blaenycoed, cartref Elfed yn y dydd ac ymlaen wedyn ymlaen i'r Lamb Llangeler, yn y nos.  Rhai o'r rhai sydd yn y llun yw Clarice Ley, Lizzie Jones, Annie Ley, Beryl Lewis, Enid Morgan, Morfudd Keefe, May Thomas, Eunice Williams, Sarah-Ann Rees \u2013 llawer mwy heb eu hadnabod a\u2019u henwi",
+        "cy": "Taith cyntaf Merched y Wawr Cangen Lon Las (cangen gyntaf y mudiad yn y De).  Tua 1971-72.  Ymweld \u00e2 Blaenycoed, cartref Elfed yn y dydd ac ymlaen wedyn ymlaen i'r Lamb Llangeler, yn y nos.  Rhai o'r rhai sydd yn y llun yw Clarice Ley, Lizzie Jones, Annie Ley, Beryl Lewis, Enid Morgan, Morfudd Keefe, May Thomas, Eunice Williams, Sarah-Ann Rees \u2013 llawer mwy heb eu hadnabod a\u2019u henwi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Nesfotos, Lamb Hotel, Llangeler (Stamp ar cefn)",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.997726000000",
+            "lon": "-4.362638000000",
+            "description": {
+                "en": "Lamb, Llangeler",
+                "cy": "Lamb, Llangeler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-008.jpg",
+            "type": "image",
+            "target_id": "583978"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

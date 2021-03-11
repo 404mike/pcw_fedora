@@ -1,0 +1,65 @@
+{
+    "id": 1145531,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2015",
+        "cy": "Sioe Frenhinol Llanelwedd 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145531",
+    "created": 1562062900,
+    "updated": 1562062900,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Radi Thomas Competition: 1st Ceredigion",
+        "cy": "Cystadleuaeth Radi Thomas \u2013 Ar y Ffin: 1af Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "2015",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_692.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_692.jpg",
+            "type": "image",
+            "target_id": "1145526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 622071,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Pandy Tudur Colwyn.",
+        "cy": "Cangen Merched y Wawr Pandy Tudur, Rhanbarth Colwyn yn dathlu Gwyl Ddewi."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622071",
+    "created": 1511279049,
+    "updated": 1511279049,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau cangen Pandy Tudur yn dathlu Gwyl Ddewi a\u2019u bagiau arbennig.",
+        "cy": "Aelodau cangen Pandy Tudur yn dathlu Gwyl Ddewi a\u2019u bagiau arbennig."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Pandy Tudur",
+    "owner": "Cangen Pandy Tudur",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Pandy Tudur",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Pandy Tudur"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.163669000000",
+            "lon": "-3.706568000000",
+            "description": {
+                "en": "Pandy Tudur",
+                "cy": "Pandy Tudur"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_Pandy_Tudur_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_Pandy_Tudur_001.jpg",
+            "type": "image",
+            "target_id": "622061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

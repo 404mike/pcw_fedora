@@ -1,0 +1,81 @@
+{
+    "id": 554483,
+    "title": {
+        "en": "Merched y Wawr Ceredigion Area Family Fun Day and Christmas Fair 1987",
+        "cy": "Taflen Diwrnod I\u2019r Teulu (Ffair Nadolig), Merched y Wawr Rhanbarth Ceredigion 1987"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554483",
+    "created": 1487592031,
+    "updated": 1487592031,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Diwrnod I\u2019r Teulu, Rhanbarth Ceredigion 1987, Ffair Nadolig, Neuadd Goffa, Aberaeron 28 Tachwedd, 1987",
+        "cy": "Taflen Diwrnod I\u2019r Teulu, Rhanbarth Ceredigion 1987, Ffair Nadolig, Neuadd Goffa, Aberaeron 28 Tachwedd, 1987"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.239597000000",
+            "lon": "-4.257460000000",
+            "description": {
+                "en": "Neuadd Goffa Aberaeron",
+                "cy": "Neuadd Goffa Aberaeron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000037.jpg",
+            "type": "image",
+            "target_id": "554481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

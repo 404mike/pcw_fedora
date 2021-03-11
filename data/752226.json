@@ -1,0 +1,88 @@
+{
+    "id": 752226,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752226",
+    "created": 1516958138,
+    "updated": 1516958138,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif o noson gystadleuol rhwng \u2018Penwaig Nefyn\u2019 a \u2018Cocos Penrhyn\u2019 ym mis Ebrill, 2002.",
+        "cy": "Tystysgrif o noson gystadleuol rhwng \u2018Penwaig Nefyn\u2019 a \u2018Cocos Penrhyn\u2019 ym mis Ebrill, 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd",
+        "Cangen Nefyn"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_20160510_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_20160510_006.jpg",
+            "type": "image",
+            "target_id": "752216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

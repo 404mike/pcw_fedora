@@ -1,0 +1,87 @@
+{
+    "id": 627491,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Rhosmeirch, Anglesey.",
+        "cy": "Cangen Merched y Wawr Rhosmeirch, Rhanbarth M\u00f4n. Dathlu 25 mlynedd Merched y Wawr - yn y Parc."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627491",
+    "created": 1511280845,
+    "updated": 1511280845,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhosmeirch yn dathlu 25 mlynedd Merched y Wawr - yn y Parc. \u2018Pererindod y Parc\u2019.",
+        "cy": "Cangen Rhosmeirch yn dathlu 25 mlynedd Merched y Wawr - yn y Parc. \u2018Pererindod y Parc\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhosmeirch",
+    "owner": "Cangen Rhosmeirch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhosmeirch Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhosmeirch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 25",
+        "Perirndod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890677000000",
+            "lon": "-3.672083000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH009.jpg",
+            "type": "image",
+            "target_id": "627481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

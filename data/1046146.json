@@ -1,0 +1,77 @@
+{
+    "id": 1046146,
+    "title": {
+        "en": "Presenting Mair Edwards on her retirement as Editor of Y Wawr",
+        "cy": "Anrhegu Mair Edwards ar ei hymddeoliad fel Golygydd Y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046146",
+    "created": 1555590055,
+    "updated": 1555590055,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs showing Delyth Fletcher presenting Mair Edwards on her retirement as Editor of Y Wawr. Also a photograph showing members of the Wawr sub-committee \u2013 Elinor Davies; Mairlynne Davies; Tegwen Griffiths; Mair Penri; Catrin Stevens; Mair Edwards; Janet Evans; Marged Jones; Rhian Jones; Sylwen Davies; Eryl Jones; Mattie Jones; Eirlys Phillips.",
+        "cy": "2 lun yn dangos Delyth Fletcher yn anrhegu Mair Edwards ar ei hymddeoliad fel Golygydd Y Wawr. Hefyd llun o aelodau'r Is-bwyllgor Y Wawr -  Elinor Davies; Mairlynne Davies; Tegwen Griffiths; Mair Penri; Catrin Stevens; Mair Edwards; Janet Evans; Marged Jones; Rhian Jones; Sylwen Davies; Eryl Jones; Mattie Jones; Eirlys Phillips."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "mair edwards presentation",
+        "retirement",
+        "Editor",
+        "merched y wawr headquarters",
+        "mair edwards",
+        "anrhegu",
+        "Ymddeoliad",
+        "golygydd y wawr",
+        "Canolfan Merched y Wawr",
+        "2001"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_012.jpg",
+            "type": "image",
+            "target_id": "1046136"
+        },
+        {
+            "originalFilename": "df_myw_012-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_012-001.jpg",
+            "type": "image",
+            "target_id": "1046141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

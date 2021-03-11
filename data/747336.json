@@ -1,0 +1,73 @@
+{
+    "id": 747336,
+    "title": {
+        "en": "Merched y Wawr Mynach Branch Banner",
+        "cy": "Baner Merched y Wawr Cangen Mynach."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747336",
+    "created": 1516897688,
+    "updated": 1516897688,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y rhai fu\u2019n gyfrifol am wneud y faner, tua 2000, oedd Morfudd Rees Griffiths, Susan Pugh, Jane Jenkins, Annie Ball, Elaine Lewis, Jane Hopkins, Gwladys Morgam Mary Raw, Menna Lewis, Delyth Jones",
+        "cy": "Y rhai fu\u2019n gyfrifol am wneud y faner, tua 2000, oedd Morfudd Rees Griffiths, Susan Pugh, Jane Jenkins, Annie Ball, Elaine Lewis, Jane Hopkins, Gwladys Morgam Mary Raw, Menna Lewis, Delyth Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Mynach"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170311_114423.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170311_114423.jpg",
+            "type": "image",
+            "target_id": "747331"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1049661,
+    "title": {
+        "en": "Christmas Fair 2011",
+        "cy": "Ffair Aeaf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049661",
+    "created": 1555592001,
+    "updated": 1555592001,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mererid Jones, President; Anwen williams, North East Officer MyW; Jayne Jones, Secretary, on the MyW stand.",
+        "cy": "Mererid Jones, Llywydd; Anwen Williams, Swyddog y Gogledd Ddwyrain a Jayne Jones, Rheolwr y Ganolfan ar stondin MyW"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_385.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_385.jpg",
+            "type": "image",
+            "target_id": "1049656"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

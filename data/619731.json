@@ -1,0 +1,89 @@
+{
+    "id": 619731,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhyl, Colwyn.",
+        "cy": "Cangen y Rhyl ar daith Merched y Wawr i Rwsia, Mawrth 1986. Merched y Wawr Rhyl, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619731",
+    "created": 1511278211,
+    "updated": 1511278211,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Cangen y Rhyl ar daith Merched y Wawr i Rwsia, Mawrth 1986. Yma gwelwn: Olwen Griffiths, Eirlys Davies, Mererid Jones (Trefnydd Cenedlaethol MyW) ac Eleanor Glyn Thomas.",
+        "cy": "Rhai o aelodau Cangen y Rhyl ar daith Merched y Wawr i Rwsia, Mawrth 1986. Yma gwelwn: Olwen Griffiths, Eirlys Davies, Mererid Jones (Trefnydd Cenedlaethol MyW) ac Eleanor Glyn Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhyl",
+    "owner": "Cangen Rhyl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Rhyl",
+                "cy": "Cangen Merched y Wawr Rhyl"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhyl",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhyl",
+        "Rhanbarth Colwyn",
+        "Teithiau Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320901000000",
+            "lon": "-3.495205000000",
+            "description": {
+                "en": "RHYL",
+                "cy": "RHYL"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_017.jpg",
+            "type": "image",
+            "target_id": "619721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

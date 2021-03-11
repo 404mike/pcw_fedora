@@ -1,0 +1,88 @@
+{
+    "id": 584585,
+    "title": {
+        "en": "Merched y Wawr Rhumney Valley Branch visit Abergavenny 2016",
+        "cy": "Ymweliad Merched y Wawr Cangen Cwm Rhymni \u00e2\u2019r Fenni 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584585",
+    "created": 1499871230,
+    "updated": 1499871230,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o ymweliad aelodau Merched y Wawr Cwm Rhymni \u00e2\u2019r Fenni ychydig fisoedd cyn ymweliad yr Eisteddfod Genedlaethol \u00e2\u2019r Fenni yn 2016\nDisgrifiad llawn o\u2019r trip ar gael ar ffurf Word.\n\nMaureen Potter\nJenni Jones Annetts\nRhian Huws\nMari Mills\nMargaret Griffiths\nGwenllian Jenkins\nEirlys Ashton\nWilma Davies\nMarian Fairclough\nElin Jones",
+        "cy": "Ffotograff o ymweliad aelodau Merched y Wawr Cwm Rhymni \u00e2\u2019r Fenni ychydig fisoedd cyn ymweliad yr Eisteddfod Genedlaethol \u00e2\u2019r Fenni yn 2016\nDisgrifiad llawn o\u2019r trip ar gael ar ffurf Word.\n\nMaureen Potter\nJenni Jones Annetts\nRhian Huws\nMari Mills\nMargaret Griffiths\nGwenllian Jenkins\nEirlys Ashton\nWilma Davies\nMarian Fairclough\nElin Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-231216-010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-231216-010.jpg",
+            "type": "image",
+            "target_id": "584582"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-231216-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-231216-009.jpg",
+            "type": "image",
+            "target_id": "584583"
+        },
+        {
+            "originalFilename": "DISGRIFIAD-TRIP-Y-FENNI.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/DISGRIFIAD-TRIP-Y-FENNI.jpg",
+            "type": "image",
+            "target_id": "584584"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

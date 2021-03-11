@@ -1,0 +1,84 @@
+{
+    "id": 742741,
+    "title": {
+        "en": "Merched y Wawr Neath Branch knitting for Africa",
+        "cy": "Merched y Wawr Castell Nedd yn Gwau i Affrica"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742741",
+    "created": 1516895188,
+    "updated": 1516895188,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Castell Nedd yn Gwau i Affrica, tua 2003-2004.  Lleoliad Festri Bethania.\nRhes Gefn o\u2019r chwith - Joanna Porter; Janette Jones; Susan Page; Enfys Thomas; Phoebe Phillips; Rhes Flaen: Susan Lloyd; Lynne Curtis",
+        "cy": "Merched y Wawr Castell Nedd yn Gwau i Affrica, tua 2003-2004.  Lleoliad Festri Bethania.\nRhes Gefn o\u2019r chwith - Joanna Porter; Janette Jones; Susan Page; Enfys Thomas; Phoebe Phillips; Rhes Flaen: Susan Lloyd; Lynne Curtis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.659743000000",
+            "lon": "-3.848583000000",
+            "description": {
+                "en": "Festri Bethania Castell Nedd",
+                "cy": "Festri Bethania Castell Nedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "03-04%20Gwau%20dros%20Affrica%20Castell%20Nedd.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/03-04%2520Gwau%2520dros%2520Affrica%2520Castell%2520Nedd.jpg",
+            "type": "image",
+            "target_id": "742731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

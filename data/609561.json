@@ -1,0 +1,91 @@
+{
+    "id": 609561,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch, Sgript for the musical drma 'Y Bwgan Brain' ('The Scarecrow')",
+        "cy": "Merched y Wawr Cangen Bargod Teifi, Sgript C\u00e2n Actol \u2018Y Bwgan Brain\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609561",
+    "created": 1510753004,
+    "updated": 1510753004,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi, Sgript C\u00e2n Actol \u2018Y Bwgan Brain\u2019\nTudalen 1",
+        "cy": "Merched y Wawr Cangen Bargod Teifi, Sgript C\u00e2n Actol \u2018Y Bwgan Brain\u2019\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-071.jpg",
+            "type": "image",
+            "target_id": "609541"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-072.jpg",
+            "type": "image",
+            "target_id": "609546"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-073.jpg",
+            "type": "image",
+            "target_id": "609551"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-074.jpg",
+            "type": "image",
+            "target_id": "609556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

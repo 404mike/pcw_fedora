@@ -1,0 +1,82 @@
+{
+    "id": 610911,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch visit Sempringham",
+        "cy": "Ymweliad Merched y Wawr Cangen Llangadog \u00e2 Sempringham"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610911",
+    "created": 1510753327,
+    "updated": 1510753327,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Llangadog o Ferched y Wawr yn ymweld \u00e2 Sempringham.  Yn y llun wrth Gofeb Gwenllian mae Haulwen Booth, Eirlys Lewis, Janet Boywer, Aerona Williams, Gill Thomas, Gwyneth Southgate, Megan Evans, Mary Thomas, Ruby Phillips, Maize Nitch",
+        "cy": "Aelodau Cangen Llangadog o Ferched y Wawr yn ymweld \u00e2 Sempringham.  Yn y llun wrth Gofeb Gwenllian mae Haulwen Booth, Eirlys Lewis, Janet Boywer, Aerona Williams, Gill Thomas, Gwyneth Southgate, Megan Evans, Mary Thomas, Ruby Phillips, Maize Nitch"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.881935000000",
+            "lon": "-0.356632000000",
+            "description": {
+                "en": "Sempringham",
+                "cy": "Sempringham"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-207.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-207.jpg",
+            "type": "image",
+            "target_id": "610901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

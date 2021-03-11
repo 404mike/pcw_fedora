@@ -1,0 +1,71 @@
+{
+    "id": 470551,
+    "title": {
+        "en": "Llanafan, Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llananfan, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470551",
+    "created": 1441700788,
+    "updated": 1441700788,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanafan, Ceredigionshire branch of Merched y Wawr. It contains names of houses, farms and fields in the arae. It also lists the house and field names on the Trawscoed Estate.",
+        "cy": "Gwybodaeth am waith cangen Llanafan, Ceredigion o Ferched y Wawr. Mae'n cynnwys rhestr o enwau tai, ffermydd a caeau. Hefyd tai a chaeau ar st\u00e2d y Trawscoed."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10700.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10700.jpg",
+            "type": "image",
+            "target_id": "470548"
+        },
+        {
+            "originalFilename": "pcw001_10701.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10701.jpg",
+            "type": "image",
+            "target_id": "470549"
+        },
+        {
+            "originalFilename": "pcw001_10702.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10702.jpg",
+            "type": "image",
+            "target_id": "470550"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10700",
+    "publisher_ref": ""
+}

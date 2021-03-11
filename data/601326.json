@@ -1,0 +1,102 @@
+{
+    "id": 601326,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch First Book of Minutes",
+        "cy": "Llyfr Cofnodion Cyntaf Merched y Wawr Cangen Llandysul a\u2019r Cylch "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601326",
+    "created": 1502449198,
+    "updated": 1502449198,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr Cofnodion Cyntaf Merched y Wawr Cangen Llandysul a\u2019r Cylch (Cyfnod Medi 1972 i Fehefin 1982)\nClawr y llyfr",
+        "cy": "Llyfr Cofnodion Cyntaf Merched y Wawr Cangen Llandysul a\u2019r Cylch (Cyfnod Medi 1972 i Fehefin 1982)\nClawr y llyfr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.040625000000",
+            "lon": "-4.308961000000",
+            "description": {
+                "en": "Neuadd Tysul, Llandysul",
+                "cy": "Neuadd Tysul, Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-157.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-157.jpg",
+            "type": "image",
+            "target_id": "601321"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-158.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-158.jpg",
+            "type": "image",
+            "target_id": "601322"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-159.jpg",
+            "type": "image",
+            "target_id": "601323"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-160.jpg",
+            "type": "image",
+            "target_id": "601324"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,78 @@
+{
+    "id": 747816,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Cerdd gan Mary Morgan i dathlu deugain Merched y Wawr Cylch Wyre"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747816",
+    "created": 1516898189,
+    "updated": 1516898189,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd gan Mrs Mary Morgan i gyfarch eich chyd-aelodau ar achlysur Merched y Wawr Cylch Wyre yn dathlu deugain mlynedd yn mis Medi 2015.",
+        "cy": "Cerdd gan Mrs Mary Morgan i gyfarch eich chyd-aelodau ar achlysur Merched y Wawr Cylch Wyre yn dathlu deugain mlynedd yn mis Medi 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Mary Morgan",
+    "owner": "Cangen Cylch Wyre (Mary Morgan)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Mary Morgan",
+                "cy": "Mary Morgan"
+            },
+            "year": null,
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Cylch Wyre"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-199_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-199_0.jpg",
+            "type": "image",
+            "target_id": "747811"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

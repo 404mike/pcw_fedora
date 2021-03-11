@@ -1,0 +1,70 @@
+{
+    "id": 1046586,
+    "title": {
+        "en": "President's Dinner in South Wales 2004",
+        "cy": "Cinio&#039;r Llywydd yn y De 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046586",
+    "created": 1555590308,
+    "updated": 1555590308,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs \u2013 i) Garry Owen, Broadcaster, speaking at the dinner. ii) Sioned Saunders, entertaining the members.",
+        "cy": "2 lun. i) Garry Owen, Darlledwr Radio Cymru, yn areithio. ii) Sioned Saunders yn diddori'r dorf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2004",
+        "garry owen",
+        "cinior llywydd yn y de 2004"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_047.jpg",
+            "type": "image",
+            "target_id": "1046576"
+        },
+        {
+            "originalFilename": "df_myw_047-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_047-001.jpg",
+            "type": "image",
+            "target_id": "1046581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

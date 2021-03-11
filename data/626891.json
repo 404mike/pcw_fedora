@@ -1,0 +1,86 @@
+{
+    "id": 626891,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfairpwll, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanfairpwll, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626891",
+    "created": 1511280643,
+    "updated": 1511280643,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Swyddogion y gangen yn derbyn siec ar ran y Loteri gan Ieuan Wyn (A.C) i brynu offer i\u2019r gangen - Tachwedd 2008. Haulwen Morgan, Ieuan Wyn Jones, Jean Marshall, Mavis Jones.",
+        "cy": "Swyddogion y gangen yn derbyn siec ar ran y Loteri gan Ieuan Wyn (A.C) i brynu offer i\u2019r gangen - Tachwedd 2008. Haulwen Morgan, Ieuan Wyn Jones, Jean Marshall, Mavis Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfairpwll",
+    "owner": "Cangen Llanfairpwll",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfairpwll",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfairpwll",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.225660000000",
+            "lon": "-4.199370000000",
+            "description": {
+                "en": "Llanfairpwll",
+                "cy": "Llanfairpwll"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Llanfairpwll_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Llanfairpwll_012.jpg",
+            "type": "image",
+            "target_id": "626881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

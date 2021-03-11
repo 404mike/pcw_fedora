@@ -1,0 +1,98 @@
+{
+    "id": 623906,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Denbigh, Glyn Maelor",
+        "cy": "Erthygl o \u2018Y Wawr\u2019, cangen Merched y Wawr Dinbych, Glyn Maelor. 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623906",
+    "created": 1511279664,
+    "updated": 1511279664,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o \u2018Y Wawr\u2019, 1969 yn hel hanesion y Gangen.",
+        "cy": "Erthygl o \u2018Y Wawr\u2019, 1969 yn hel hanesion y Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dinbych",
+    "owner": "Cangen Dinbych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Denbigh",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinbych",
+        "Rhanbarth Glyn Maelor",
+        "Y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.183592000000",
+            "lon": "-3.422938000000",
+            "description": {
+                "en": "Denbigh",
+                "cy": "Dinbych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_006.jpg",
+            "type": "image",
+            "target_id": "623886"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_007.jpg",
+            "type": "image",
+            "target_id": "623891"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_009.jpg",
+            "type": "image",
+            "target_id": "623896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

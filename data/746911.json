@@ -1,0 +1,75 @@
+{
+    "id": 746911,
+    "title": {
+        "en": "Merched y Wawr Llanybyther Branch performing 'The Scarecrows' ('Y Bwgan Brain'",
+        "cy": "Merched y Wawr Llanybydder yn perfformio c\u00e2n actol \u2018Y Bwgan Brain\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746911",
+    "created": 1516897498,
+    "updated": 1516897498,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Llanybydder yn perfformio c\u00e2n actol \u2018Y Bwgan Brain\u2019 tua 1983-84.\nYn y llun:-\nDulcie James, Ray Shayle, Nana Williams, Gladys Evans, Joan Evans, Gwen Jones, Lynwen Pearce, Helen Davies, Nel Jones, May Evans, Bet Davies, Margaret Griffiths, Elonwy Davies, Lyn Robinson, Jean Davies, Betty Davies",
+        "cy": "Aelodau Merched y Wawr Llanybydder yn perfformio c\u00e2n actol \u2018Y Bwgan Brain\u2019 tua 1983-84.\nYn y llun:-\nDulcie James, Ray Shayle, Nana Williams, Gladys Evans, Joan Evans, Gwen Jones, Lynwen Pearce, Helen Davies, Nel Jones, May Evans, Bet Davies, Margaret Griffiths, Elonwy Davies, Lyn Robinson, Jean Davies, Betty Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanybydder",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanybydder",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-055.jpg",
+            "type": "image",
+            "target_id": "746906"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

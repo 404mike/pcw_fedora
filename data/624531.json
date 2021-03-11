@@ -1,0 +1,104 @@
+{
+    "id": 624531,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrheadr, Glyn Maelor",
+        "cy": "Rhestr Swyddogion cangen Merched y Wawr Llanrheadr, Glyn Maelor. 1975 hyd at 1985"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624531",
+    "created": 1511279866,
+    "updated": 1511279866,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhestr Swyddogion y Gangen  1975 hyd at 1985 o lyfr Lloffion y Gangen",
+        "cy": "Rhestr Swyddogion y Gangen  1975 hyd at 1985 o lyfr Lloffion y Gangen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrheadr",
+    "owner": "Cangen Llanrheadr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrheadr",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrheadr",
+        "Rhanbarth Glyn Maelor",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.159785000000",
+            "lon": "-3.374524000000",
+            "description": {
+                "en": "Llanrheadr",
+                "cy": "Llanrheadr"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_013.jpg",
+            "type": "image",
+            "target_id": "624506"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_014.jpg",
+            "type": "image",
+            "target_id": "624511"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_015.jpg",
+            "type": "image",
+            "target_id": "624516"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANRHEADR_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANRHEADR_016.jpg",
+            "type": "image",
+            "target_id": "624521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

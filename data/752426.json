@@ -1,0 +1,94 @@
+{
+    "id": 752426,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752426",
+    "created": 1516958197,
+    "updated": 1516958197,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn cael hwyl gan gyflwyno un o\u2019u cynhyrchiadau blynyddol - Eira Wen, Chwefror, 2002. Rhan o arddangosfa arbennig am Penrhyndeudraeth sydd ar gadw yn Archifdy Meirionnydd.",
+        "cy": "Y gangen yn cael hwyl gan gyflwyno un o\u2019u cynhyrchiadau blynyddol - Eira Wen, Chwefror, 2002. Rhan o arddangosfa arbennig am Penrhyndeudraeth sydd ar gadw yn Archifdy Meirionnydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd",
+        "Drama Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_030.jpg",
+            "type": "image",
+            "target_id": "752411"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_031.jpg",
+            "type": "image",
+            "target_id": "752416"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

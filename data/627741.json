@@ -1,0 +1,97 @@
+{
+    "id": 627741,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Fali, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627741",
+    "created": 1511280932,
+    "updated": 1511280932,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Rhai o aelodau cangen y Fali yn cymeryd rhan mewn \u2018gornest cartio\u2019 - Haf 2011. Yma gwelwn: Audren Owen, Ann Huws, Valmai Jones, Ann Rhodes, Einir Jones (Blaen) Barbara Jones, Elspeth Pritchard, Claire Minty. 2\/3. Rhai o aelodau cangen y Fali yn cymeryd rhan mewn \u2018gornest cartio\u2019 - Haf 2011.",
+        "cy": "1. Rhai o aelodau cangen y Fali yn cymeryd rhan mewn \u2018gornest cartio\u2019 - Haf 2011. Yma gwelwn: Audren Owen, Ann Huws, Valmai Jones, Ann Rhodes, Einir Jones (Blaen) Barbara Jones, Elspeth Pritchard, Claire Minty. 2\/3. Rhai o aelodau cangen y Fali yn cymeryd rhan mewn \u2018gornest cartio\u2019 - Haf 2011."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_018.jpg",
+            "type": "image",
+            "target_id": "627721"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_019.jpg",
+            "type": "image",
+            "target_id": "627726"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_020.jpg",
+            "type": "image",
+            "target_id": "627731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

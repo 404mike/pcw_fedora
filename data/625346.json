@@ -1,0 +1,87 @@
+{
+    "id": 625346,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Benllech Anglesey.",
+        "cy": "Parti Cerdd Dant cangen Merched y Wawr Benllech, Rhanbarth M\u00f4n. Llangefni tua 1990."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625346",
+    "created": 1511280132,
+    "updated": 1511280132,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Cerdd Dant Cangen Benllech gyda Llio Loveluck yng nghyngerdd Merched y Wawr, Llangefni tua 1990.(blaen) Mair Jones, Mair Hughes, Bess Rowlands, Marian Lloyd, (cefn) Llio Loveluck, Bet Jones, Gwladys Parry, Eleri Jones, Mona Jones, Magdalen Jones, Mabel Roberts, Megan Jones, Madge Parry.",
+        "cy": "Parti Cerdd Dant Cangen Benllech gyda Llio Loveluck yng nghyngerdd Merched y Wawr, Llangefni tua 1990.(blaen) Mair Jones, Mair Hughes, Bess Rowlands, Marian Lloyd, (cefn) Llio Loveluck, Bet Jones, Gwladys Parry, Eleri Jones, Mona Jones, Magdalen Jones, Mabel Roberts, Megan Jones, Madge Parry."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Benllech",
+    "owner": "Cangen Benllech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Benllech",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Benllech",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226138000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_011.jpg",
+            "type": "image",
+            "target_id": "625336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

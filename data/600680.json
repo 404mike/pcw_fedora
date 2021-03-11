@@ -1,0 +1,84 @@
+{
+    "id": 600680,
+    "title": {
+        "en": "Merched y Wawr Nantgaredig Branch List of Members 1982 - 1983",
+        "cy": "Aelodau Merched y Wawr Cangen Nantgaredig 1982 \u2013 1983"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600680",
+    "created": 1502448072,
+    "updated": 1502448072,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhestr Aelodau Merched y Wawr Cangen Nantgaredig 1982 \u2013 1983",
+        "cy": "Rhestr Aelodau Merched y Wawr Cangen Nantgaredig 1982 \u2013 1983"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871065000000",
+            "lon": "-4.189562000000",
+            "description": {
+                "en": "Nantgaredig ",
+                "cy": "Nantgaredig "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-076.jpg",
+            "type": "image",
+            "target_id": "600678"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

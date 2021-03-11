@@ -1,0 +1,66 @@
+{
+    "id": 1049486,
+    "title": {
+        "en": "Wrexham  National Eisteddfod  2011",
+        "cy": "Eisteddfod Genedlaethol Wrecsam a&#039;r cylch 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049486",
+    "created": 1555591938,
+    "updated": 1555591938,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sugar Icing Shoes made by Bet Thomas, Abergele. Everyone who bought shoes at the auction were presented with a pair of these.",
+        "cy": "Sgidie Siwgr Eisin a wnaed gan Bet Thomas, cangen Abergele. Roedd pob un a brynodd sgidiau yn yr Ocsiwn yn derbyn par o'r rhain."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "wrexham",
+        "national eisteddfod",
+        "eisteddfod genedlaethol wrecsam"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_362.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_362.jpg",
+            "type": "image",
+            "target_id": "1049481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 742866,
+    "title": {
+        "en": "Rita Rosser, a loyal member of the Neath Branch of Merched y Wawr, reading 'Y Foel', a poem about a local mountain",
+        "cy": "Rita Rosser, aelod ffyddlon Merched y Wawr Castell Nedd yn darllen cerdd &#039; Y Foel&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742866",
+    "created": 1516895548,
+    "updated": 1516895548,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rita Rosser, aelod ffyddlon Merched y Wawr Castell Nedd yn darllen cerdd ' Y Foel'.  \"Recordiwyd y fideo yma ar \u00f4l pryd o fwyd, diwedd y flwyddyn 2009-2010, yn yr \u201cAfan Lodge\u201d yn agos i Bontrhydyfen lle roedd Rita\u2019n byw. Ar \u00f4l ein pryd, eisteddom y tu allan yn edrych dros y Cwm a\u2019i llethrau  coediog. Er bod s\u0175n o\u2019r \u201cLodge\u201d yn y cefndir, i glywed Rita yn darllen darn o farddoniaeth o\u2019r ardal sy\u2019n s\u00f4n am ei mynydd lleol, \u201cY Foel\u201d, oedd yn emosiynol i ni i gyd. Tro diwethaf iddi ddod atom! Oedd y bardd yn Rita ei hun?\"",
+        "cy": "Rita Rosser, aelod ffyddlon Merched y Wawr Castell Nedd yn darllen cerdd ' Y Foel'.  \"Recordiwyd y fideo yma ar \u00f4l pryd o fwyd, diwedd y flwyddyn 2009-2010, yn yr \u201cAfan Lodge\u201d yn agos i Bontrhydyfen lle roedd Rita\u2019n byw. Ar \u00f4l ein pryd, eisteddom y tu allan yn edrych dros y Cwm a\u2019i llethrau  coediog. Er bod s\u0175n o\u2019r \u201cLodge\u201d yn y cefndir, i glywed Rita yn darllen darn o farddoniaeth o\u2019r ardal sy\u2019n s\u00f4n am ei mynydd lleol, \u201cY Foel\u201d, oedd yn emosiynol i ni i gyd. Tro diwethaf iddi ddod atom! Oedd y bardd yn Rita ei hun?\""
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.646567000000",
+            "lon": "-3.689667000000",
+            "description": {
+                "en": "Afan Lodge, Pontrhydyfen ",
+                "cy": "Afan Lodge, Pontrhydyfen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "fileqXVldb",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/fileqXVldb",
+            "type": "office_doc",
+            "target_id": "742856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

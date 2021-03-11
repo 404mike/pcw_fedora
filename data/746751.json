@@ -1,0 +1,81 @@
+{
+    "id": 746751,
+    "title": {
+        "en": "Merched y Wawr Llangwyrfon Branch, Officals and Programme 1987-1988",
+        "cy": "Merched y Wawr Cangen Llangwyryfon, Rhestr Swyddogion a Rhaglen 1987-1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746751",
+    "created": 1516897420,
+    "updated": 1516897420,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangwyryfon, Rhestr Swyddogion a Rhaglen 1987-1988",
+        "cy": "Merched y Wawr Cangen Llangwyryfon, Rhestr Swyddogion a Rhaglen 1987-1988 \nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llangwyryfon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llangwyryfon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-212.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-212.jpg",
+            "type": "image",
+            "target_id": "746741"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-213.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-213.jpg",
+            "type": "image",
+            "target_id": "746746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

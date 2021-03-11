@@ -1,0 +1,84 @@
+{
+    "id": 611896,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch on their annual trip in 2015",
+        "cy": "Cangen Rhydaman a&#039;r Cylch Merched y Wawr ar eu trip blynyddol yn 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611896",
+    "created": 1510753571,
+    "updated": 1510753571,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman Merched y Wawr ar eu trip blynyddol yn 2015, pan wnaethon nhw ymweld \u00e2 Chastell Aberteifi",
+        "cy": "Cangen Rhydaman Merched y Wawr ar eu trip blynyddol yn 2015, pan wnaethon nhw ymweld \u00e2 Chastell Aberteifi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081874000000",
+            "lon": "-4.660460000000",
+            "description": {
+                "en": "Castell Aberteifi",
+                "cy": "Castell Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-153.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-153.jpg",
+            "type": "image",
+            "target_id": "611886"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

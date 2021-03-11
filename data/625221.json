@@ -1,0 +1,93 @@
+{
+    "id": 625221,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Amlwch, Anglesey.",
+        "cy": "Cangen Merched y Wawr Amlwch, Rhanbarth M\u00f4n. Gwyl Werin y Mudiad, Llannerchymedd, 2 Grffennaf,1981."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625221",
+    "created": 1511280090,
+    "updated": 1511280090,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yng Ngwyl Werin y Mudiad yn Llannerchymedd ar yr 2ail o Orffennaf, 1981. Roedd yr W\u0177l yn adfyw ffeiriau yr ynys 100 mlynyedd yn \u00f4l. Gwr gwadd ac arweinydd y noson oedd Mrs Aled Davies (Y Wyddgrug).",
+        "cy": "Aelodau\u2019r gangen yng Ngwyl Werin y Mudiad yn Llannerchymedd ar yr 2ail o Orffennaf, 1981. Roedd yr W\u0177l yn adfyw ffeiriau yr ynys 100 mlynyedd yn \u00f4l. Gwr gwadd ac arweinydd y noson oedd Mrs Aled Davies (Y Wyddgrug)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Amwlch",
+    "owner": "Cangen Amwlch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Amlwch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Amwlch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411193000000",
+            "lon": "-4.343023000000",
+            "description": {
+                "en": "Amlwch",
+                "cy": "Amlwch "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_011.jpg",
+            "type": "image",
+            "target_id": "625206"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_010.jpg",
+            "type": "image",
+            "target_id": "625211"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600443,
+    "title": {
+        "en": "Merched y Wawr Capel Iwan Branch presenting a cheque to the Macmillan charity 2014",
+        "cy": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec i Macmillan 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600443",
+    "created": 1502447748,
+    "updated": 1502447748,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec o \u00a3655 tuag at ymgyrch Bore Coffi Macmillan yn Rhagfyr 2014.  Mae\u2019r gangen wedi cefnogi\u2019r elusen yn flynyddol drwy gynnal te prynhawn ac wedi casglu \u00a34000 ers 2006 (nodwyd hyn ar ddechrau 2017).  \nRhes gefn \u2013 Peggy Jones, Jane Richardson, Linda Bowen, Diana Bowen, Jean Jones, Marion Davies, Pat Thomas, Rita Davies, Rhian Thomas, Doreen James\nRhes flaen \u2013 Vina Phillips, Margaret Jones (dwy o Bwyllgor Macmillan), Helen Williams",
+        "cy": "Cangen Capel Iwan o Ferched y Wawr yn cyflwyno siec o \u00a3655 tuag at ymgyrch Bore Coffi Macmillan yn Rhagfyr 2014.  Mae\u2019r gangen wedi cefnogi\u2019r elusen yn flynyddol drwy gynnal te prynhawn ac wedi casglu \u00a34000 ers 2006 (nodwyd hyn ar ddechrau 2017).  \nRhes gefn \u2013 Peggy Jones, Jane Richardson, Linda Bowen, Diana Bowen, Jean Jones, Marion Davies, Pat Thomas, Rita Davies, Rhian Thomas, Doreen James\nRhes flaen \u2013 Vina Phillips, Margaret Jones (dwy o Bwyllgor Macmillan), Helen Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Capel Iwan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Iwan",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.998612000000",
+            "lon": "-4.492446000000",
+            "description": {
+                "en": "Capel Iwan",
+                "cy": "Capel Iwan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-125.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-125.jpg",
+            "type": "image",
+            "target_id": "600441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

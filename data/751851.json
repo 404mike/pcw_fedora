@@ -1,0 +1,85 @@
+{
+    "id": 751851,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Bro Tryweryn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bro Tryweryn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751851",
+    "created": 1516958037,
+    "updated": 1516958037,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn gwerthu cacennau i godi arian ar stryd fawr y Bala. Gwelwn: Eunice Rowlands, Buddug Medi, Morfydd Thomas, Marged Davies, Eiriola Williams (a 2 brynwr).",
+        "cy": "Rhai o aelodau\u2019r gangen yn gwerthu cacennau i godi arian ar stryd fawr y Bala. Gwelwn: Eunice Rowlands, Buddug Medi, Morfydd Thomas, Marged Davies, Eiriola Williams (a 2 brynwr)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bro Tryweryn",
+    "owner": "Cangen Bro Tryweryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bro Tryweryn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Tryweryn",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.939553000000",
+            "lon": "-3.631991000000",
+            "description": {
+                "en": "Bro Tryweryn",
+                "cy": "Bro Tryweryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_028.jpg",
+            "type": "image",
+            "target_id": "751841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

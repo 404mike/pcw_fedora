@@ -1,0 +1,91 @@
+{
+    "id": 599720,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Carmel, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Carmel, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599720",
+    "created": 1502446812,
+    "updated": 1502446812,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photo of where the Branch was established in - Carmel Chapel, Llanrwst in 1967",
+        "cy": "Llun o\u2019r man sefydlwyd y Gangen nol ym 1967 a\u2019r man bu\u2019r Gangen yn cyfarfod nes symud i yst. Gymunedol Melin y Coed.- sea Capel Carmel Llanrwst."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Carmel",
+    "owner": "Cangen Carmel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Carmel",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Carmel",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.142835000000",
+            "lon": "-3.739448000000",
+            "description": {
+                "en": "Carmel",
+                "cy": "Carmel "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CARMEL_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CARMEL_003.jpg",
+            "type": "image",
+            "target_id": "599717"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CARMEL_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CARMEL_004.jpg",
+            "type": "image",
+            "target_id": "599718"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

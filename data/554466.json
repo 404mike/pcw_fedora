@@ -1,0 +1,83 @@
+{
+    "id": 554466,
+    "title": {
+        "en": "erched y Wawr Royal Welsh Show Competition, Ceredigion Area, Information and  Entry Form 1986 - Remembering St Dwynwen",
+        "cy": "Ffurflen gais Cystadleuaeth Merched y Wawr, Sioe Llanelwedd (Sioe Frenhinol Cymru), Rhanbarth Ceredigion 1986 - Cofio Santes Dwynwen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554466",
+    "created": 1487591965,
+    "updated": 1487591965,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffurflen gais Cystadleuaeth Sioe Llanelwedd, Ranbartharthol, 17 Mai 1986, Neuadd Goffa Aberaeron, Testun: Cofio Santes Dwynwen",
+        "cy": "Ffurflen gais Cystadleuaeth Sioe Llanelwedd, Ranbartharthol, 17 Mai 1986, Neuadd Goffa Aberaeron, Testun: Cofio Santes Dwynwen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.239597000000",
+            "lon": "-4.257460000000",
+            "description": {
+                "en": "Neuadd Goffa Aberaeron",
+                "cy": "Neuadd Goffa Aberaeron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000028.jpg",
+            "type": "image",
+            "target_id": "554464"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

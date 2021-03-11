@@ -1,0 +1,76 @@
+{
+    "id": 1146466,
+    "title": {
+        "en": "Winter Fair 2016",
+        "cy": "Ffair Aeaf 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146466",
+    "created": 1562063886,
+    "updated": 1562063886,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Owl: 1st Anwen Hughes, Prestatyn, Colwyn.",
+        "cy": "Tylluan neu Gwdih\u0175: 1af Anwen Hughes, Cangen Prestatyn, Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_804.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_804.jpg",
+            "type": "image",
+            "target_id": "1146451"
+        },
+        {
+            "originalFilename": "df_myw_805.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_805.jpg",
+            "type": "image",
+            "target_id": "1146456"
+        },
+        {
+            "originalFilename": "df_myw_806.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_806.jpg",
+            "type": "image",
+            "target_id": "1146461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

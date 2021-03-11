@@ -1,0 +1,102 @@
+{
+    "id": 746446,
+    "title": {
+        "en": "Merched y Wawr St Dogmaels Branch First Book of Minutes",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Llandudoch 1978 \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746446",
+    "created": 1516897287,
+    "updated": 1516897287,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Cangen Llandudoch 1978 \nEnwau swyddogion 1978-79\nCofnodion Cyfarfod sefydlu Cangen o Ferched y Wawr yn Llandudoch, Medi 25ain, 1978 yn Festri Capel Degwel.\nCofnodion Cyfarfod Tachwedd 6ed, 1978, Festri Capel Degwel.",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Llandudoch 1978 \nEnwau swyddogion 1978-79\nCofnodion Cyfarfod sefydlu Cangen o Ferched y Wawr yn Llandudoch, Medi 25ain, 1978 yn Festri Capel Degwel.\nCofnodion Cyfarfod Tachwedd 6ed, 1978, Festri Capel Degwel."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081084000000",
+            "lon": "-4.680779000000",
+            "description": {
+                "en": "Festri Capel Degwel",
+                "cy": "Festri Capel Degwel"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-012.jpg",
+            "type": "image",
+            "target_id": "746421"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-013.jpg",
+            "type": "image",
+            "target_id": "746426"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-014.jpg",
+            "type": "image",
+            "target_id": "746431"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-015.jpg",
+            "type": "image",
+            "target_id": "746436"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

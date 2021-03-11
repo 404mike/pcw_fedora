@@ -1,0 +1,84 @@
+{
+    "id": 750036,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch visit the Assembly",
+        "cy": "Merched y Wawr Cangen Gorseinon yn y Cynulliad "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750036",
+    "created": 1516899275,
+    "updated": 1516899275,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gorseinon yn mwynhau gwibdaith i'r Cynulliad gyda Dr Dai Lloyd 2010. Cefn: Megan Jones, Catrin Stevens, Jean Huxtable, Ann Easter, Helen Jenkins, Olive Lawlor, Eluned Evans, ? Eryl Fouracre-Jones; Shirley Best\nBlaen: Betsy Davies, Alma John, Elizabeth Morgan, Janet Richards, Rahel Williams, Dr Dai Lloyd, AC,  Gwen Evans, Sue Leyshon, Ann Davies (trefnydd y daith), Janet Dicks, Bethan Edwards.",
+        "cy": "Merched y Wawr Cangen Gorseinon yn mwynhau gwibdaith i'r Cynulliad gyda Dr Dai Lloyd 2010. Cefn: Megan Jones, Catrin Stevens, Jean Huxtable, Ann Easter, Helen Jenkins, Olive Lawlor, Eluned Evans, ? Eryl Fouracre-Jones; Shirley Best\nBlaen: Betsy Davies, Alma John, Elizabeth Morgan, Janet Richards, Rahel Williams, Dr Dai Lloyd, AC,  Gwen Evans, Sue Leyshon, Ann Davies (trefnydd y daith), Janet Dicks, Bethan Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463389000000",
+            "lon": "-3.162806000000",
+            "description": {
+                "en": "Cynulliad, Caerdydd",
+                "cy": "Cynulliad, Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Gwibdaith%20i%27r%20Cynulliad%20gyda%20Dr%20Dai%20Lloyd%202010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Gwibdaith%2520i%2527r%2520Cynulliad%2520gyda%2520Dr%2520Dai%2520Lloyd%25202010.jpg",
+            "type": "image",
+            "target_id": "750026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

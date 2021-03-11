@@ -1,0 +1,75 @@
+{
+    "id": 750246,
+    "title": {
+        "en": "Y Gwenoliaid Gwawr Club Boat Trip",
+        "cy": "Trip Cwch Clwb Gwawr Y Gwenoliaid "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750246",
+    "created": 1516899375,
+    "updated": 1516899375,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Y Gwenoliaid yn cael trip cwch yng Nghei Newydd, Mehefin 2015.\nO\u2019r chwith i\u2019r dde \u2013 Nerys Williams, Janice Drewen, Neris Davies, Catrin Bellamy Jones, Meinir Owens Jones, Bet Thomas, Emma Davies, Wendy Davies, Davina Rees, Anwen Lloyd, Eirian Lloyd, Meriel Williams, Wendy Jenkins.",
+        "cy": "Clwb Gwawr Y Gwenoliaid yn cael trip cwch yng Nghei Newydd, Mehefin 2015.\nO\u2019r chwith i\u2019r dde \u2013 Nerys Williams, Janice Drewen, Neris Davies, Catrin Bellamy Jones, Meinir Owens Jones, Bet Thomas, Emma Davies, Wendy Davies, Davina Rees, Anwen Lloyd, Eirian Lloyd, Meriel Williams, Wendy Jenkins."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Y Gwenoliaid",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau yng Ng\u0175yl Haf Merched y Wawr Chlybiau",
+        "Clwb Gwawr y Gwenoliaid",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Taith%20ar%20Gwch%20yn%20Nghei%20Newydd%20-%20Meh%202015%20CGGwenoliaid.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520ar%2520Gwch%2520yn%2520Nghei%2520Newydd%2520-%2520Meh%25202015%2520CGGwenoliaid.jpg",
+            "type": "image",
+            "target_id": "750241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

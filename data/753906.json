@@ -1,0 +1,84 @@
+{
+    "id": 753906,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhydymain, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Rhydymain, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753906",
+    "created": 1516958601,
+    "updated": 1516958601,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith i Gwm Maesglasau (efo\u2019r gwyr!) yn 2007. Gwelwn: (cefn) Elwyn Evans, Huw Evans, Aled Jones, Wil Edwards, Robin Jones, (canol) Rhianwen Evans, Dorath Edwards, Helen Evans, Nia Evans, Ceri Hughes, Olwen Jones, Gwyneth Leas, Carys Thomas, Ceri Lloyd Jones, Ann Jones.",
+        "cy": "Gwibdaith i Gwm Maesglasau (efo\u2019r gwyr!) yn 2007. Gwelwn: (cefn) Elwyn Evans, Huw Evans, Aled Jones, Wil Edwards, Robin Jones, (canol) Rhianwen Evans, Dorath Edwards, Helen Evans, Nia Evans, Ceri Hughes, Olwen Jones, Gwyneth Leas, Carys Thomas, Ceri Lloyd Jones, Ann Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhydymain",
+    "owner": "Cangen Rhydymain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhydymain",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydymain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.783358000000",
+            "lon": "-3.772938000000",
+            "description": {
+                "en": "Rhydymain",
+                "cy": "Rhydymain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_RHYDYMAIN_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_RHYDYMAIN_007.jpg",
+            "type": "image",
+            "target_id": "753896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584087,
+    "title": {
+        "en": "Merched y Wawr Maenclochog - Royal Welsh Show 1978",
+        "cy": "Merched y Wawr Cangen Maenclochog, Sioe Frenhinol Cymru, Llanelwedd 1978\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584087",
+    "created": 1499870336,
+    "updated": 1499870336,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog \nSioe Llanelwedd 1978\nO\u2019r chwith: Kitty Evans, Ann Morris, Catrin Stevens, Beryl Bevan ac Eirianwen Thomas",
+        "cy": "Merched y Wawr Maenclochog \nSioe Llanelwedd 1978\nO\u2019r chwith: Kitty Evans, Ann Morris, Catrin Stevens, Beryl Bevan ac Eirianwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.156611000000",
+            "lon": "-3.406091000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-042.jpg",
+            "type": "image",
+            "target_id": "584085"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,77 @@
+{
+    "id": 1046221,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2001",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046221",
+    "created": 1555590101,
+    "updated": 1555590101,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs of Glyn Maelor region's members performing their presentation 'Merched Ddoe a Heddiw'.",
+        "cy": "2 lun o Aelodau Rhanbarth Glyn Maelor yn perfformio eu cyflwyniad 'Merched Ddoe a Heddiw'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Glyn Maelor",
+        "presentation denbigh national eisteddfod 2001",
+        "stage",
+        "national eisteddfod",
+        "cyflwyniad",
+        "Rhanbarth Glyn Maelor",
+        "Eisteddfod Genedlaethol",
+        "eisteddfod genedlaethol 2001",
+        "llwyfan",
+        "merched ddoe a heddiw"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_018.jpg",
+            "type": "image",
+            "target_id": "1046211"
+        },
+        {
+            "originalFilename": "df_myw_018-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_018-001.jpg",
+            "type": "image",
+            "target_id": "1046216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

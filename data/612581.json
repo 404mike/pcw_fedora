@@ -1,0 +1,90 @@
+{
+    "id": 612581,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch First Book of Minutes",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Llanddarog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612581",
+    "created": 1510753738,
+    "updated": 1510753738,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Llanddarog.  \nCyfarfod sefydlu\u2019r gangen \u2013 Mehefin 10, 1981 yn Neuadd Llanddarog \nTudalen 1",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Llanddarog.  \nCyfarfod sefydlu\u2019r gangen \u2013 Mehefin 10, 1981 yn Neuadd Llanddarog \nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Neuadd Llanddarog",
+                "cy": "Neuadd Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_142.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_142.jpg",
+            "type": "image",
+            "target_id": "612566"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_143.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_143.jpg",
+            "type": "image",
+            "target_id": "612571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 620986,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Colwyn Bae, Colwyn.",
+        "cy": "Dathlu\u2019r gangen yn 10 oed yn 1979. Cangen Merched y Wawr Bae Colwyn, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620986",
+    "created": 1511278639,
+    "updated": 1511278639,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu\u2019r gangen yn 10 oed yn 1979. Gwelwn rhai o\u2019r cyn Swyddogion a\u2019r Swyddogion presennol yn ogystal \u00e2 Miss Gwyneth Evans. (Chwith i dde) Gwyneth McLean, Enid Griffiths, Ann Jones, Megan Morgan Jones, Doll Hughes Griffith, Miss Gwyneth Evans (Gwraig gwadd), Mrs Iola Evans (Llywydd 1979-80), Mrs Aled Williams, Annie Roberts.",
+        "cy": "Dathlu\u2019r gangen yn 10 oed yn 1979. Gwelwn rhai o\u2019r cyn Swyddogion a\u2019r Swyddogion presennol yn ogystal \u00e2 Miss Gwyneth Evans. (Chwith i dde) Gwyneth McLean, Enid Griffiths, Ann Jones, Megan Morgan Jones, Doll Hughes Griffith, Miss Gwyneth Evans (Gwraig gwadd), Mrs Iola Evans (Llywydd 1979-80), Mrs Aled Williams, Annie Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bae Colwyn",
+    "owner": "Cangen Bae Colwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Colwyn Bae",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bae Colwyn",
+        "Rhanbarth Colwyn",
+        "Dathlu 10"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.295463000000",
+            "lon": "-3.728684000000",
+            "description": {
+                "en": "Bae Colwyn",
+                "cy": "Bae Colwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_BAE_COLWYN_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_BAE_COLWYN_013.jpg",
+            "type": "image",
+            "target_id": "620976"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

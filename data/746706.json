@@ -1,0 +1,111 @@
+{
+    "id": 746706,
+    "title": {
+        "en": "Merched y Wawr Llangwyrfon Branch 'Our Favourite Recipes' Booklet ",
+        "cy": "Llyfryn \u2018Ein Hoff Ryseitiau\u2019 Merched y Wawr Llangwyryfon \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746706",
+    "created": 1516897396,
+    "updated": 1516897396,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn \u2018Ein Hoff Ryseitiau\u2019 gan Ferched y Wawr Cangen Llangwyryfon\nTudalen fewn \u2013 rhestr ryseitiau \/ Ryseitiau Cyw I\u00e2r Brenhinol a Cacen y Beibl\nRyseitiau Bisgedi Bryn Golau \/ Byniau Mafon \/ Pastai Ffowlyn a Ham\nRyseitiau Pastai Caws a Betys \/ Pwdin Lemwn Brenhinol \/ Cacen Afal\nRyseitiau Cyw I\u00e2r Eidalaidd \/ Bara Brith \/ Pastai Meringue Lemwn\nRyseitau Cacen Afal Dorset \/ Jam Riwbob \/ Pwdin Tortoni \/ Playdough\nRyseitiau Mince Pies Crwst Oren \/ Cacen Heb Wyau \/ Twrci Gydag Almon.",
+        "cy": "Llyfryn \u2018Ein Hoff Ryseitiau\u2019 gan Ferched y Wawr Cangen Llangwyryfon\nTudalen fewn \u2013 rhestr ryseitiau \/ Ryseitiau Cyw I\u00e2r Brenhinol a Cacen y Beibl\nRyseitiau Bisgedi Bryn Golau \/ Byniau Mafon \/ Pastai Ffowlyn a Ham\nRyseitiau Pastai Caws a Betys \/ Pwdin Lemwn Brenhinol \/ Cacen Afal\nRyseitiau Cyw I\u00e2r Eidalaidd \/ Bara Brith \/ Pastai Meringue Lemwn\nRyseitau Cacen Afal Dorset \/ Jam Riwbob \/ Pwdin Tortoni \/ Playdough\nRyseitiau Mince Pies Crwst Oren \/ Cacen Heb Wyau \/ Twrci Gydag Almon."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llangwyryfon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llangwyryfon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-200.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-200.jpg",
+            "type": "image",
+            "target_id": "746671"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-201.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-201.jpg",
+            "type": "image",
+            "target_id": "746676"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-202.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-202.jpg",
+            "type": "image",
+            "target_id": "746681"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-203.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-203.jpg",
+            "type": "image",
+            "target_id": "746686"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-204.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-204.jpg",
+            "type": "image",
+            "target_id": "746691"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-205.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-205.jpg",
+            "type": "image",
+            "target_id": "746696"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-206.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-206.jpg",
+            "type": "image",
+            "target_id": "746701"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

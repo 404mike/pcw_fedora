@@ -1,0 +1,84 @@
+{
+    "id": 610806,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch Committee 1996",
+        "cy": "Pwyllgor Merched y Wawr Cangen Llandeilo 1996 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610806",
+    "created": 1510753298,
+    "updated": 1510753298,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pwyllgor Merched y Wawr Cangen Llandeilo 1996 yng Ngwesty\u2019r Cawdor, Llandeilo.  \nYn y llun (cefn o\u2019r chwith) Mair Prytherch, Elizabeth Davies, Carol Owen, Gwen Smith, Marged John, Beti Edwards, Mair James, Joan Jones, Dilys Griffiths, Mary Proberts, Eluned Jones, Bethan Edwards, Donna Williams, Mrs Broad, Valerie James (siaradwraig wadd), Rhiannon Griffiths (Llywydd y Gangen), Gweneira Davies",
+        "cy": "Pwyllgor Merched y Wawr Cangen Llandeilo 1996 yng Ngwesty\u2019r Cawdor, Llandeilo.  \nYn y llun (cefn o\u2019r chwith) Mair Prytherch, Elizabeth Davies, Carol Owen, Gwen Smith, Marged John, Beti Edwards, Mair James, Joan Jones, Dilys Griffiths, Mary Proberts, Eluned Jones, Bethan Edwards, Donna Williams, Mrs Broad, Valerie James (siaradwraig wadd), Rhiannon Griffiths (Llywydd y Gangen), Gweneira Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.882897000000",
+            "lon": "-3.992972000000",
+            "description": {
+                "en": "Gwesty'r Cawdor, Llandeilo",
+                "cy": "Gwesty'r Cawdor, Llandeilo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-047.jpg",
+            "type": "image",
+            "target_id": "610796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

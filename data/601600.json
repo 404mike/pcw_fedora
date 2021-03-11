@@ -1,0 +1,90 @@
+{
+    "id": 601600,
+    "title": {
+        "en": "Merched y Wawr Ystrad Mynach Branch Programme 1987 - 1988",
+        "cy": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1987 \u2013 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601600",
+    "created": 1502449595,
+    "updated": 1502449595,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1987 \u2013 1988\nGweithgareddau Medi tan Mehefin",
+        "cy": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1987 \u2013 1988\nGweithgareddau Medi tan Mehefin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.642356000000",
+            "lon": "-3.235211000000",
+            "description": {
+                "en": "Ystrad Mynach ",
+                "cy": "Ystrad Mynach "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-049.jpg",
+            "type": "image",
+            "target_id": "601597"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-050.jpg",
+            "type": "image",
+            "target_id": "601598"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

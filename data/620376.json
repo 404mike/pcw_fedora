@@ -1,0 +1,86 @@
+{
+    "id": 620376,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Nantglyn, Colwyn.",
+        "cy": "Arddangosfa\u2019r gangen ar y thema \u2018Chwedl y Fan&#039; - 1987. Cangen Merched y Wawr Nantglyn, Rhanbarth Colwyn. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620376",
+    "created": 1511278434,
+    "updated": 1511278434,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa\u2019r gangen ar y thema \u2018Chwedl y Fan' - 1987",
+        "cy": "Arddangosfa\u2019r gangen ar y thema \u2018Chwedl y Fan' - 1987"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Nantglyn",
+    "owner": "Cangen Nantglyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "nantglyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantglyn",
+        "Rhanbarth Colwyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.143365000000",
+            "lon": "-3.489201000000",
+            "description": {
+                "en": "Nantglyn",
+                "cy": "Nantglyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_033.jpg",
+            "type": "image",
+            "target_id": "620366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

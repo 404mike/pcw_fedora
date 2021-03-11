@@ -1,0 +1,83 @@
+{
+    "id": 750951,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, y Bala, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bala, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750951",
+    "created": 1516899739,
+    "updated": 1516899739,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif sy\u2019n tystio fod y Gangen wedi noddi Canolfan Dreftadaeth Kate Roberts (02.11.2006)",
+        "cy": "Tystysgrif sy\u2019n tystio fod y Gangen wedi noddi Canolfan Dreftadaeth Kate Roberts (02.11.2006)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bala",
+    "owner": "Cangen y Bala",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bala",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bala",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.909665000000",
+            "lon": "-3.599882000000",
+            "description": {
+                "en": "Y Bala",
+                "cy": "Y Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BALA_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BALA_012.jpg",
+            "type": "image",
+            "target_id": "750941"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 612691,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch 'Celebrating Old Traditions'",
+        "cy": "Merched y Wawr Cangen Llanddarog yn \u2018Dathlu Hen Draddodiadau\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612691",
+    "created": 1510753764,
+    "updated": 1510753764,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanddarog yn \u2018Dathlu Hen Draddodiadau\u2019 \u2013 cynhaliwyd dau achlysur, un yn Ionawr 2010 \u2018Dathlu\u2019r Blwyddyn Newydd gyda hen draddodiad y Fari Lwyd\u2019, ac un yn Ionawr 2012, \u2018Dathlu\u2019r Hen Galan\u2019, i ddod r gymuned ynghyd i ddathlu hen draddodiadau.  Mae\u2019r llun yn dangos cwmni \u2018Jac-y-Do\u2019 gyda\u2019r Fari Lwyd.",
+        "cy": "Merched y Wawr Cangen Llanddarog yn \u2018Dathlu Hen Draddodiadau\u2019 \u2013 cynhaliwyd dau achlysur, un yn Ionawr 2010 \u2018Dathlu\u2019r Blwyddyn Newydd gyda hen draddodiad y Fari Lwyd\u2019, ac un yn Ionawr 2012, \u2018Dathlu\u2019r Hen Galan\u2019, i ddod r gymuned ynghyd i ddathlu hen draddodiadau.  Mae\u2019r llun yn dangos cwmni \u2018Jac-y-Do\u2019 gyda\u2019r Fari Lwyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Neuadd y Pentref, Llanddarog",
+                "cy": "Neuadd y Pentref, Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_153.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_153.jpg",
+            "type": "image",
+            "target_id": "612681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

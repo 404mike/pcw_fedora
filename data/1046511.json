@@ -1,0 +1,68 @@
+{
+    "id": 1046511,
+    "title": {
+        "en": "President's Dinner in South Wales 2003",
+        "cy": "Cinio&#039;r Llywydd yn y De 2003"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046511",
+    "created": 1555590269,
+    "updated": 1555590269,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "President presenting a shield to the members of Ammanford Branch on increasing their membership.",
+        "cy": "Y Llywydd yn cyflwyno Tarian Tegwen Morris am gynnydd aelodaeth i Gangen Rhydaman a'r Cylch."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2003",
+        "president",
+        "rhydaman branch",
+        "cinior llywydd yn y de 2003",
+        "llywydd",
+        "tegwen morris",
+        "Cangen Rhydaman"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_041.jpg",
+            "type": "image",
+            "target_id": "1046506"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,91 @@
+{
+    "id": 752886,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Harlech, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Harlech, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752886",
+    "created": 1516958320,
+    "updated": 1516958320,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Stondin MyW wrth Castell Harlech yn codi arian i elusennau lleol I gyd-fynd a darllediad Hywel Gwynfryn ar Radio Cymru yn H\u00e2f 1994. Gwelwn: Mair Dole, Eirlys Williams, Meinir Lewis ac Eirlys Lewis.",
+        "cy": "Stondin MyW wrth Castell Harlech yn codi arian i elusennau lleol I gyd-fynd a darllediad Hywel Gwynfryn ar Radio Cymru yn H\u00e2f 1994. Gwelwn: Mair Dole, Eirlys Williams, Meinir Lewis ac Eirlys Lewis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Harlech",
+    "owner": "Cangen Harlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Harlech",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Harlech",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.859766000000",
+            "lon": "-4.106688000000",
+            "description": {
+                "en": "Harlech",
+                "cy": "Harlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_HARLECH_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_HARLECH_007.jpg",
+            "type": "image",
+            "target_id": "752871"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_HARLECH_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_HARLECH_008.jpg",
+            "type": "image",
+            "target_id": "752876"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

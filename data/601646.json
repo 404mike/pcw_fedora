@@ -1,0 +1,82 @@
+{
+    "id": 601646,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club play boardgames evening",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cael noson chwarae gemau bwrdd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601646",
+    "created": 1502449657,
+    "updated": 1502449657,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson yn Nhafarn y Cricketers, Heol y Gadeirlan, yn chwarae gemau bwrdd, cwis ac ati.",
+        "cy": "Noson yn Nhafarn y Cricketers, Heol y Gadeirlan, yn chwarae gemau bwrdd, cwis ac ati."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.485694000000",
+            "lon": "-3.193924000000",
+            "description": {
+                "en": "Tafarn y Cricketers ",
+                "cy": "Tafarn y Cricketers "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "P1140758.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/P1140758.jpg",
+            "type": "image",
+            "target_id": "601644"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

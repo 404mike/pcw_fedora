@@ -1,0 +1,75 @@
+{
+    "id": 615201,
+    "title": {
+        "en": "Gwyl Flodau Caerffili 2016 - Arddangosfa Merched y Wawr Cangen Cwm Rhymni ",
+        "cy": "Gwyl Flodau Caerffili 2016 - Arddangosfa Merched y Wawr Cangen Cwm Rhymni "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615201",
+    "created": 1510755194,
+    "updated": 1510755194,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwyl Flodau Caerffili 2016 - Arddangosfa Merched y Wawr Cangen Cwm Rhymni",
+        "cy": "Gwyl Flodau Caerffili 2016 - Arddangosfa Merched y Wawr Cangen Cwm Rhymni"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Gwyl%20Flodau%20Caerffili%202.Llun%201JPG.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Gwyl%2520Flodau%2520Caerffili%25202.Llun%25201JPG.jpg",
+            "type": "image",
+            "target_id": "615196"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

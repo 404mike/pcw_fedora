@@ -1,0 +1,65 @@
+{
+    "id": 1049791,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049791",
+    "created": 1555592049,
+    "updated": 1555592049,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Winners of the National Quiz were Penrhosgarnedd Branch from Arfon Region. Rhianwen Huws accepting the trophy from Tegwen Morris. Also in the photo, Mererid Jones, President.",
+        "cy": "Enillwyr y Cwis Hwyl oedd cangen Penrhosgarnedd, Rhanbarth Arfon. Rhianwen Huws Roberts yn derbyn y tlws gan Tegwen Morris. Yn y llun hefyd Mererid Jones, Llywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_401.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_401.jpg",
+            "type": "image",
+            "target_id": "1049786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

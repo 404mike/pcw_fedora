@@ -1,0 +1,84 @@
+{
+    "id": 611381,
+    "title": {
+        "en": "Pencader and District Branch competing at the Merched y Wawr Summer Festival 2012",
+        "cy": "Cangen Pencader a\u2019r Cylch, G\u0175yl Haf Merched y Wawr 2012\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611381",
+    "created": 1510753441,
+    "updated": 1510753441,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn cystadlu yn y gystadleuaeth sgets yng Ng\u0175yl Haf Merched y Wawr 2012 ar ran Rhanbarth Caerfyrddin ac yn cael y 3ydd wobr.\nYn y llun mae Yvonne Griffith a Marina Davies",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn cystadlu yn y gystadleuaeth sgets yng Ng\u0175yl Haf Merched y Wawr 2012 ar ran Rhanbarth Caerfyrddin ac yn cael y 3ydd wobr.\nYn y llun mae Yvonne Griffith a Marina Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.590552000000",
+            "lon": "-3.853142000000",
+            "description": {
+                "en": "Gwyl Haf MyW, Machynlleth",
+                "cy": "Gwyl Haf MyW, Machynlleth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-091.jpg",
+            "type": "image",
+            "target_id": "611371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

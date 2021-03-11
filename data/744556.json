@@ -1,0 +1,93 @@
+{
+    "id": 744556,
+    "title": {
+        "en": "Merched y Wawr Clydach Branch - First Book of Minutes 1971",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Clydach 1971"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744556",
+    "created": 1516896377,
+    "updated": 1516896377,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Clydach 1971\nCofnodion o\u2019r cyfarfod cyntaf lle benderfynwyd sefydlu Cangen Clydach, Tachwedd 9fed, 1971\nClawr",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Clydach 1971\nCofnodion o\u2019r cyfarfod cyntaf lle benderfynwyd sefydlu Cangen Clydach, Tachwedd 9fed, 1971\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-043.jpg",
+            "type": "image",
+            "target_id": "744536"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-044.jpg",
+            "type": "image",
+            "target_id": "744541"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-045.jpg",
+            "type": "image",
+            "target_id": "744546"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-046.jpg",
+            "type": "image",
+            "target_id": "744551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

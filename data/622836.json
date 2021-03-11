@@ -1,0 +1,98 @@
+{
+    "id": 622836,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhiwlas, Glyn Maelor",
+        "cy": "Swyddogion cangen Merched y Wawr Rhiwlas, Glyn Maelor ers ei sefydlu yn 1969 hyd at 1975."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622836",
+    "created": 1511279303,
+    "updated": 1511279303,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llungopi o\u2019r cofnodion sy\u2019n rhestru\u2019r Swyddogion y gangen ers ei sefydlu yn 1969 hyd at 1975.",
+        "cy": "Llungopi o\u2019r cofnodion sy\u2019n rhestru\u2019r Swyddogion y gangen ers ei sefydlu yn 1969 hyd at 1975."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhiwlas",
+    "owner": "Cangen Rhiwlas",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhiwlas",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhiwlas",
+        "Rhanbarth Glyn Maelor",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.856437000000",
+            "lon": "-3.057820000000",
+            "description": {
+                "en": "Rhiwlas",
+                "cy": "Rhiwlas"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_017.jpg",
+            "type": "image",
+            "target_id": "622816"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_018.jpg",
+            "type": "image",
+            "target_id": "622821"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_019.jpg",
+            "type": "image",
+            "target_id": "622826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

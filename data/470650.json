@@ -1,0 +1,106 @@
+{
+    "id": 470650,
+    "title": {
+        "en": "Bargoed Teifi, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Bargoed Teifi, Carmarthenshire branch of Merched y Wawr&#039;s contribution to the project on Welsh place names."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470650",
+    "created": 1441700839,
+    "updated": 1441700839,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Bargoed Teifi, Carmarthenshire of Merched y Wawr. It contains names of seven specific farms and their field names with explanations on their meanings. These were farms in the Felindre, Llandysul area.",
+        "cy": "Gwybodaeth am waith cangen Bargoed Teifi, sir gaerfyrddin o Ferched y Wawr. Mae'n cynnwys enwau saith ffarm a'u caeau gan roi ystyron i'r enwau. Mae'r ffermydd yn ardal Felindre, Llandysul."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10782.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10782.jpg",
+            "type": "image",
+            "target_id": "470641"
+        },
+        {
+            "originalFilename": "pcw001_10783.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10783.jpg",
+            "type": "image",
+            "target_id": "470642"
+        },
+        {
+            "originalFilename": "pcw001_10784.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10784.jpg",
+            "type": "image",
+            "target_id": "470643"
+        },
+        {
+            "originalFilename": "pcw001_10785.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10785.jpg",
+            "type": "image",
+            "target_id": "470644"
+        },
+        {
+            "originalFilename": "pcw001_10786.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10786.jpg",
+            "type": "image",
+            "target_id": "470645"
+        },
+        {
+            "originalFilename": "pcw001_10787.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10787.jpg",
+            "type": "image",
+            "target_id": "470646"
+        },
+        {
+            "originalFilename": "pcw001_10788.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10788.jpg",
+            "type": "image",
+            "target_id": "470647"
+        },
+        {
+            "originalFilename": "pcw001_10789.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10789.jpg",
+            "type": "image",
+            "target_id": "470648"
+        },
+        {
+            "originalFilename": "pcw001_10790.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10790.jpg",
+            "type": "image",
+            "target_id": "470649"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10782",
+    "publisher_ref": ""
+}

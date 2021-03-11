@@ -1,0 +1,85 @@
+{
+    "id": 622406,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn n derbyn siec gan y Loteri."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622406",
+    "created": 1511279156,
+    "updated": 1511279156,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llansannan yn derbyn siec gan y Loteri i brynu camera, llestri, lleinniau bwrdd ac ati i Ganolfan Bro Aled. Glenyw Williams, Cath Williams, Rhoswla Williams, Eirlys Wynne Woodhouse.",
+        "cy": "Cangen Llansannan yn derbyn siec gan y Loteri i brynu camera, llestri, lleinniau bwrdd ac ate i Ganolfan Bro Aled. Glenyw Williams, Cath Williams, Rhoswla Williams, Eirlys Wynne Woodhouse."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_056.jpg",
+            "type": "image",
+            "target_id": "622396"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

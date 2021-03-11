@@ -1,0 +1,70 @@
+{
+    "id": 1046316,
+    "title": {
+        "en": "Annual Meeting 2002",
+        "cy": "Cyfarfod Blynyddol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046316",
+    "created": 1555590154,
+    "updated": 1555590154,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Annual Meeting 2002 at the Tabernacle, Machynlleth. In the photograph from left to right, Marged Jones, Honarary President; Tegwen Morris, National Organiser; Catrin Stevens, National President; Mary Roberts, Secretary.",
+        "cy": "Cyfarfod Blynyddol yn y Tabernacl, Machynlleth, Mehefin 2002. Eistedd:  Marged Jones, Llywydd Anrhydeddus; Tegwen Morris, Trefnydd Cenedlaethol; Catrin Stevens, Llywydd Cenedlaethol; Mary Roberts, Ysgrifennydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2002",
+        "June",
+        "cyfarfod blynyddol 2002",
+        "Tabernacl",
+        "Machynlleth",
+        "Mehefin",
+        "marged jones",
+        "tegwen morris",
+        "Catrin Stevens"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_025.jpg",
+            "type": "image",
+            "target_id": "1046311"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

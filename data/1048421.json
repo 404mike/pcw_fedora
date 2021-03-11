@@ -1,0 +1,66 @@
+{
+    "id": 1048421,
+    "title": {
+        "en": "MyW Residential Weekend 2009",
+        "cy": "Penwythnos Preswyl MyW 2009 \u2013 Cicio&#039;r Bar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048421",
+    "created": 1555591472,
+    "updated": 1555591472,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Jayne Jones, Manager of Myw Centre, arranging the stand at the Great Hall.",
+        "cy": "Jayne Jones, Rheolwr Canolfan Myw yn trefnu stondin y Mudiad yn y Neuadd fawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "neuadd fawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_243.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_243.jpg",
+            "type": "image",
+            "target_id": "1048416"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

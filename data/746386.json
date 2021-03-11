@@ -1,0 +1,75 @@
+{
+    "id": 746386,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch Garage Band",
+        "cy": "Band y Garej Merched y Wawr Cangen Llanafan"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746386",
+    "created": 1516897262,
+    "updated": 1516897262,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Band y Garej Merched y Wawr Cangen Llanafan yn Eisteddfod Ffug 2004.  \nRhes flaen \u2013 Elin Evans, Enid Evans, \nAil Res \u2013 Glenda Davies, Alwena Richards, Beryl Young, Donia Richards, Ceridwen Lloyd Morgan, Joan Jones (Hawys Hughes tu \u00f4l), Margaret Williams, Gaynor Evans, Verona Davies",
+        "cy": "Band y Garej Merched y Wawr Cangen Llanafan yn Eisteddfod Ffug 2004.  \nRhes flaen \u2013 Elin Evans, Enid Evans, \nAil Res \u2013 Glenda Davies, Alwena Richards, Beryl Young, Donia Richards, Ceridwen Lloyd Morgan, Joan Jones (Hawys Hughes tu \u00f4l), Margaret Williams, Gaynor Evans, Verona Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Band%20y%20Garage%20Eisteddfod%20Ffug%20Llanafan.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Band%2520y%2520Garage%2520Eisteddfod%2520Ffug%2520Llanafan.jpg",
+            "type": "image",
+            "target_id": "746381"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

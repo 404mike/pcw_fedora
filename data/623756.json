@@ -1,0 +1,104 @@
+{
+    "id": 623756,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bryneglwys a Llandegla, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Bryneglwys a Llandegla, Glyn Maelor yn dathlu ei phenblwydd yn 40."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623756",
+    "created": 1511279609,
+    "updated": 1511279609,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 40.  Sefydlwyd y Gangen yn 1976.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 40.  Sefydlwyd y Gangen yn 1976."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bryneglwys a Llandegla",
+    "owner": "Cangen Bryneglwys a Llandegla",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bryneglwys a Llandegla",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bryneglwys a Llandegla",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.016596000000",
+            "lon": "-3.275538000000",
+            "description": {
+                "en": "Bryneglwys a Llandegla",
+                "cy": "Bryneglwys a Llandegla"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_019.jpg",
+            "type": "image",
+            "target_id": "623731"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_020.jpg",
+            "type": "image",
+            "target_id": "623736"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_023.jpg",
+            "type": "image",
+            "target_id": "623741"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_024.jpg",
+            "type": "image",
+            "target_id": "623746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

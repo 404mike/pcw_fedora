@@ -1,0 +1,148 @@
+{
+    "id": 399826,
+    "title": {
+        "en": "Names on shops in Penrhyndeudraeth 1900 - 2000",
+        "cy": "Siopau Penrhyndeudraeth 1900 - 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/399826",
+    "created": 1416923576,
+    "updated": 1417184205,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penhrhyndeudraeth shops with shops on the High Street, Eastern side, with pictures and details of the following shops - Blondi, Ms. Dora Thomas Shoe Shop, Treflyn, Mr Rowlands Butcher shop, Mr. Roberts grocer, Willie Edwards Shop,  Treflyn Shop, Rowlands Butcher Shop, Rowlands Grocer Shop, Mrs. Roberts Fish Shop and many more",
+        "cy": "Siopau Penrhyndeudraeth sy'n nodi siopau Stryd Fawr, Ochr ddwyreiniol, megis Siop Blondi, Siop sgidiau, Treflyn, Siop Mr. Rowlands y cigydd, Siop groser Mr. Roberts, Siop Mrs Roberts Fish, Siop Willie Edwards, Siop Treflyn, Siop Rowlands cigydd, Siop Rowlands groser, Siop Mrs. Roberts, siop bysgod a nifer mwy"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Owner"
+            },
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Penrhyndeudraeth",
+        "Shops",
+        "High Street",
+        "merched y wawr",
+        "Siopau",
+        "Stryd Fawr"
+    ],
+    "when": [
+        "1900s"
+    ],
+    "what": [
+        "Shops",
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929240000000",
+            "lon": "-4.067134000000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010001_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010001_0.jpg",
+            "type": "image",
+            "target_id": "399814"
+        },
+        {
+            "originalFilename": "pcw0010002_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010002_0.jpg",
+            "type": "image",
+            "target_id": "399815"
+        },
+        {
+            "originalFilename": "pcw0010003_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010003_0.jpg",
+            "type": "image",
+            "target_id": "399816"
+        },
+        {
+            "originalFilename": "pcw0010004_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010004_0.jpg",
+            "type": "image",
+            "target_id": "399817"
+        },
+        {
+            "originalFilename": "pcw0010005_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010005_0.jpg",
+            "type": "image",
+            "target_id": "399818"
+        },
+        {
+            "originalFilename": "pcw0010006_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010006_0.jpg",
+            "type": "image",
+            "target_id": "399819"
+        },
+        {
+            "originalFilename": "pcw0010007_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010007_0.jpg",
+            "type": "image",
+            "target_id": "399820"
+        },
+        {
+            "originalFilename": "pcw0010008_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010008_0.jpg",
+            "type": "image",
+            "target_id": "399821"
+        },
+        {
+            "originalFilename": "pcw0010009_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010009_0.jpg",
+            "type": "image",
+            "target_id": "399822"
+        },
+        {
+            "originalFilename": "pcw0010010_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010010_0.jpg",
+            "type": "image",
+            "target_id": "399823"
+        },
+        {
+            "originalFilename": "pcw0010011_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010011_0.jpg",
+            "type": "image",
+            "target_id": "399824"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010001",
+    "publisher_ref": ""
+}

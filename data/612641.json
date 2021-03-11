@@ -1,0 +1,84 @@
+{
+    "id": 612641,
+    "title": {
+        "en": "A ticket for a Coffee Evening in Llanddarog Village Hall, 2015",
+        "cy": "Tocyn ar gyfer Noson Goffi yn Neuadd y Pentref, Llanddarog, 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612641",
+    "created": 1510753753,
+    "updated": 1510753753,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tocyn ar gyfer Noson Goffi yn Neuadd y Pentref, Llanddarog, Tachwedd 18, 2015.  Rhan o Ap\u00eal Llywydd Cenedlaethol Merched y Wawr, Meryl Davies (Llywydd 2014 \u2013 2016), i gefnogi\u2019r elusen, Sefydliad y Galon \/ British Heart Foundation.\nRhanwyd elw y noson rhwng \u2018Cronfa Prynu Diffibriliwr\u2019 a Changen Llanddarog o Ferched y Wawr",
+        "cy": "Tocyn ar gyfer Noson Goffi yn Neuadd y Pentref, Llanddarog, Tachwedd 18, 2015.  Rhan o Ap\u00eal Llywydd Cenedlaethol Merched y Wawr, Meryl Davies (Llywydd 2014 \u2013 2016), i gefnogi\u2019r elusen, Sefydliad y Galon \/ British Heart Foundation.\nRhanwyd elw y noson rhwng \u2018Cronfa Prynu Diffibriliwr\u2019 a Changen Llanddarog o Ferched y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Neuadd y Pentref, Llanddarog",
+                "cy": "Neuadd y Pentref, Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_149a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_149a.jpg",
+            "type": "image",
+            "target_id": "612631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1144761,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Carmarthen National Eisteddfod 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144761",
+    "created": 1562062404,
+    "updated": 1562062404,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies, the new President with Gill Griffiths, former President in front of the MyW stand.",
+        "cy": "Meryl Davies, y Llywydd Cenedlaethol newydd gyda Gill Griffiths, cyn-Lywydd o flaen Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_597_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_597_0.jpg",
+            "type": "image",
+            "target_id": "1144756"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

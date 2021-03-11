@@ -1,0 +1,84 @@
+{
+    "id": 745196,
+    "title": {
+        "en": "Merched y Wawr Pembrokeshire Area winning at the Royal Welsh Show",
+        "cy": "Merched y Wawr Rhanbarth Penfro yn fuddugol yn y Sioe Frenhinol 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745196",
+    "created": 1516896705,
+    "updated": 1516896705,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Rhanbarth Penfro yn ennill Cystadleuaeth Radi Thomas Merched y Wawr yn Sioe Frenhinol 2016.  Mae un llun yn dangos yr arddangosfa fuddugol ac un arall yn dangos aelodau\u2019r gangen yn derbyn y tystysgrif a\u2019r cwpan oddi wrth Meryl Davies y Llywydd Cenedlaethol.\nMae\u2019r llun gwaelod yn dangos yr aelodau a fu\u2019n gyfrifol am greu y darnau amrywiol o\u2019r arddangosfa:-\nBethan Picton-Davies (Cangen Ffynnongroes) \/ Rhian Bryan \/ Helen Davies (Cangen Blaenffos) \/ Ann Morris (Cangen Maenclochog) \/ Margaret Rhys (Cangen Dinas) \/ Glenys Davies (Cangen sBlaenffos), Eleanor Evans",
+        "cy": "Merched y Wawr Rhanbarth Penfro yn ennill Cystadleuaeth Radi Thomas Merched y Wawr yn Sioe Frenhinol 2016.  Mae un llun yn dangos yr arddangosfa fuddugol ac un arall yn dangos aelodau\u2019r gangen yn derbyn y tystysgrif a\u2019r cwpan oddi wrth Meryl Davies y Llywydd Cenedlaethol.\nMae\u2019r llun gwaelod yn dangos yr aelodau a fu\u2019n gyfrifol am greu y darnau amrywiol o\u2019r arddangosfa:-\nBethan Picton-Davies (Cangen Ffynnongroes) \/ Rhian Bryan \/ Helen Davies (Cangen Blaenffos) \/ Ann Morris (Cangen Maenclochog) \/ Margaret Rhys (Cangen Dinas) \/ Glenys Davies (Cangen sBlaenffos), Eleanor Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.158086000000",
+            "lon": "-3.407358000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-117.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-117.jpg",
+            "type": "image",
+            "target_id": "745186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

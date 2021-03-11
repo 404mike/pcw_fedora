@@ -1,0 +1,65 @@
+{
+    "id": 470188,
+    "title": {
+        "en": "Dinas, Dwyfor branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Dinas, Dwyfor i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470188",
+    "created": 1441700634,
+    "updated": 1441700634,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Dinas, Dwyfor branch of Merched y Wawr. It contains information on Nyffryn Farm and some field names in the Llaniestyn area.",
+        "cy": "Gwybodaeth am waith cangen Dinas, Dwyfor o Ferched y Wawr. Mae'n cynnwys hanes fferm Nyffryn ac enwau rhai caeau yn ardal Llaniestyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10369.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10369.jpg",
+            "type": "image",
+            "target_id": "470186"
+        },
+        {
+            "originalFilename": "pcw001_10370.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10370.jpg",
+            "type": "image",
+            "target_id": "470187"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10369",
+    "publisher_ref": ""
+}

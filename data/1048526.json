@@ -1,0 +1,71 @@
+{
+    "id": 1048526,
+    "title": {
+        "en": "MyW Residential Weekend 2009",
+        "cy": "Penwythnos Preswyl MyW 2009 \u2013 Cicio&#039;r Bar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048526",
+    "created": 1555591527,
+    "updated": 1555591527,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A sketch by members of the Choir.",
+        "cy": "Sgets gan aelodau'r C\u00f4r."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_255.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_255.jpg",
+            "type": "image",
+            "target_id": "1048516"
+        },
+        {
+            "originalFilename": "df_myw_256.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_256.jpg",
+            "type": "image",
+            "target_id": "1048521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

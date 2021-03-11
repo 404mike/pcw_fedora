@@ -1,0 +1,82 @@
+{
+    "id": 743596,
+    "title": {
+        "en": "Merched y Wawr Pembrokeshire Area Walking Tour",
+        "cy": "Taith Gerdded Merched y Wawr Rhanbarth Penfro"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743596",
+    "created": 1516895943,
+    "updated": 1516895943,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith gerdded Rhanbarth Penfro o Ferched y Wawr o amgylch Llyn Llys-y-Fr\u00e2n, gan gynnwys Eilir Davies ac Eirian Bowen o Gangen Beca.",
+        "cy": "Taith gerdded Rhanbarth Penfro o Ferched y Wawr o amgylch Llyn Llys-y-Fr\u00e2n, gan gynnwys Eilir Davies ac Eirian Bowen o Gangen Beca."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.883086000000",
+            "lon": "-4.851996000000",
+            "description": {
+                "en": "Llyn Llys-y-Fran",
+                "cy": "Llyn Llys-y-Fran"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-051.jpg",
+            "type": "image",
+            "target_id": "743586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

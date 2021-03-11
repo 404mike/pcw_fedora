@@ -1,0 +1,65 @@
+{
+    "id": 1048556,
+    "title": {
+        "en": "MyW Residential Weekend 2009",
+        "cy": "Penwythnos Preswyl MyW 2009  \u2013 Cicio&#039;r Bar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048556",
+    "created": 1555591543,
+    "updated": 1555591543,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eluned Jones, OXFAM sitting amongst black bags filled with bras that had been collected by MyW.",
+        "cy": "Eluned Jones, OXFAM yn eistedd ynghanol llu o fagiau du yn llawn o fras, a gasglwyd gan MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_259.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_259.jpg",
+            "type": "image",
+            "target_id": "1048551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

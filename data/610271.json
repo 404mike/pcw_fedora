@@ -1,0 +1,84 @@
+{
+    "id": 610271,
+    "title": {
+        "en": "Geler Branch members at the Twenty-fifth Anniversary Celebrations of Merched y Wawr in 1992",
+        "cy": "Cangen Geler yn nathliadau Chwarter Canrif Mudiad Merched y Wawr 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610271",
+    "created": 1510753171,
+    "updated": 1510753171,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Geler yn nathliadau Chwarter Canrif Mudiad Merched y Wawr yn y Bala yn 1992\nYn y llun mae Eurwen Jones, Heiddwen Jones, Ray Lewis, Melvina Evans, Ogwen Jones, Glenys Evans, Hetty Jones, Betty Jones, Betty Evans, Edith ?, Nancy Jones, Valmai Owen",
+        "cy": "Cangen Geler yn nathliadau Chwarter Canrif Mudiad Merched y Wawr yn y Bala yn 1992\nYn y llun mae Eurwen Jones, Heiddwen Jones, Ray Lewis, Melvina Evans, Ogwen Jones, Glenys Evans, Hetty Jones, Betty Jones, Betty Evans, Edith ?, Nancy Jones, Valmai Owen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890678000000",
+            "lon": "-3.671945000000",
+            "description": {
+                "en": "Y Bala (Y Parc)",
+                "cy": "Y Bala (Y Parc)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-016.jpg",
+            "type": "image",
+            "target_id": "610261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,81 @@
+{
+    "id": 627871,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr",
+        "cy": "Casgliad o luniau Cenedlaethol o Merched y Wawr. Sioe M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627871",
+    "created": 1511280977,
+    "updated": 1511280977,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau babell Merched y Wawr ar faes Sioe M\u00f4n.",
+        "cy": "Casgliad o luniau babell Merched y Wawr ar faes Sioe M\u00f4n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangefni ",
+    "owner": "Cangen Llangefni ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413281000000",
+            "lon": "-4.087100000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYM_Cenedlaethol_Eisteddfod_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYM_Cenedlaethol_Eisteddfod_001.jpg",
+            "type": "image",
+            "target_id": "627861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

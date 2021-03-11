@@ -1,0 +1,86 @@
+{
+    "id": 627616,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Rhaglen Tymor 1982 - 1983 cangen Merched y Wawr y Fali, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627616",
+    "created": 1511280890,
+    "updated": 1511280890,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1982 - 1983 Cangen y Fali, neu cangen y \u2018Dyffryn\u2019 gynt. (cynnwys)",
+        "cy": "Rhaglen Tymor 1982 - 1983 Cangen y Fali, neu cangen y \u2018Dyffryn\u2019 gynt. (cynnwys)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_002.jpg",
+            "type": "image",
+            "target_id": "627606"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

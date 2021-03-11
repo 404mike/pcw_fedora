@@ -1,0 +1,114 @@
+{
+    "id": 625111,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Casgliad o luniau o Ferched y Wawr Rhanbarth Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625111",
+    "created": 1511280052,
+    "updated": 1511280052,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen yn nodi hanes Merched y Wawr, Clwyd yn cyd-weithio i gynnal pabell y Mudiad yn Sioe Dinbych a Fflint, a oedd y pryd hynny yn cynnwys Rhanbarth Colwyn, Alun Dyfrdwy a Glyn Maelor, a\u2019r ffurf \u201cCyfoeth Clwyd\u2019.",
+        "cy": "Rhaglen yn nodi hanes Merched y Wawr, Clwyd yn cyd-weithio i gynnal pabell y Mudiad yn Sioe Dinbych a Fflint, a oedd y pryd hynny yn cynnwys Rhanbarth Colwyn, Alun Dyfrdwy a Glyn Maelor, a\u2019r ffurf \u201cCyfoeth Clwyd\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_023.jpg",
+            "type": "image",
+            "target_id": "625076"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_024.jpg",
+            "type": "image",
+            "target_id": "625081"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_025.jpg",
+            "type": "image",
+            "target_id": "625086"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_026.jpg",
+            "type": "image",
+            "target_id": "625091"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_027.jpg",
+            "type": "image",
+            "target_id": "625096"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_028.jpg",
+            "type": "image",
+            "target_id": "625101"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

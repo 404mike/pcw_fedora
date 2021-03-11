@@ -1,0 +1,82 @@
+{
+    "id": 609416,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch Baner",
+        "cy": "Baner Merched y Wawr Cangen Bargod Teifi "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609416",
+    "created": 1510752972,
+    "updated": 1510752972,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Cangen Bargod Teifi \u2013 gwaith gan Stella Jones, aelod o\u2019r gangen, yn portredu diwydiant a thirwedd ardal Drefach Felindre",
+        "cy": "Baner Merched y Wawr Cangen Bargod Teifi \u2013 gwaith gan Stella Jones, aelod o\u2019r gangen, yn portredu diwydiant a thirwedd ardal Drefach Felindre"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.019737000000",
+            "lon": "-4.400262000000",
+            "description": {
+                "en": "Drefach Felindre",
+                "cy": "Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-039.jpg",
+            "type": "image",
+            "target_id": "609406"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

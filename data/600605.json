@@ -1,0 +1,75 @@
+{
+    "id": 600605,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch Royal Welsh Show Competition 1986",
+        "cy": "Merched y Wawr Cangen Llangadog Sioe Llanelwedd, 1986."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600605",
+    "created": 1502447974,
+    "updated": 1502447974,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangadog yn cystadlu yng nghystadleuaeth Sioe Llanelwedd, gyda\u2019r thema \u2018Cofio Santes Dwynwen\u2019, 1986.\nY dair o\u2019r gangen fu yn creu yr arddangosfa oedd Mrs Davies Gwelfro, Mrs Bessie Williams, Mrs Haulwen Booth",
+        "cy": "Merched y Wawr Cangen Llangadog yn cystadlu yng nghystadleuaeth Sioe Llanelwedd, gyda\u2019r thema \u2018Cofio Santes Dwynwen\u2019, 1986.\nY dair o\u2019r gangen fu yn creu yr arddangosfa oedd Mrs Davies Gwelfro, Mrs Bessie Williams, Mrs Haulwen Booth"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-205.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-205.jpg",
+            "type": "image",
+            "target_id": "600604"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

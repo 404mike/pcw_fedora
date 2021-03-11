@@ -1,0 +1,90 @@
+{
+    "id": 584429,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area - Sempringham Trip 2005",
+        "cy": "Merched y Wawr, Rhanbarth Caerfyrddin, Taith i Sempringham 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584429",
+    "created": 1499871035,
+    "updated": 1499871035,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Rhanbarth Caerfyrddin, Taflen Taith i Sempringham, Ebrill 21 i 23 2005, Tudalen flaen",
+        "cy": "Merched y Wawr, Rhanbarth Caerfyrddin, Taflen Taith i Sempringham, Ebrill 21 i 23 2005, Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.878304000000",
+            "lon": "-0.357532000000",
+            "description": {
+                "en": "Sempringham",
+                "cy": "Sempringham"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-068.jpg",
+            "type": "image",
+            "target_id": "584426"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-069.jpg",
+            "type": "image",
+            "target_id": "584427"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

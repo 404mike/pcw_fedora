@@ -1,0 +1,75 @@
+{
+    "id": 742921,
+    "title": {
+        "en": "Merched y Wawr Abernant Branch Singing Party",
+        "cy": "Parti Canu Merched y Wawr Abernant "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742921",
+    "created": 1516895635,
+    "updated": 1516895635,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Canu Merched y Wawr Cangen Abernant 1999\nAnne Thomas, Elizabeth Bowen, Jennifer Evans, Sylvia Thomas, Anita Thomas, Diane Evans, (Sam Thomas), Freda Harries, Margaret Mathews, Olwen Gibbon, Buddug Thomas",
+        "cy": "Parti Canu Merched y Wawr Cangen Abernant 1999\nAnne Thomas, Elizabeth Bowen, Jennifer Evans, Sylvia Thomas, Anita Thomas, Diane Evans, (Sam Thomas), Freda Harries, Margaret Mathews, Olwen Gibbon, Buddug Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abernant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abernant",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-110417-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CAERFYRDDIN-110417-018.jpg",
+            "type": "image",
+            "target_id": "742916"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

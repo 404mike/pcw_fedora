@@ -1,0 +1,82 @@
+{
+    "id": 609466,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch presenting a cheque to local doctors",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yn cyflwyno arian i feddygon lleol "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609466",
+    "created": 1510752984,
+    "updated": 1510752984,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi yn cyflwyno\u2019r casgliad arian o\u2019r canu carolau i feddygon lleol er mwyn prynu mesuryddion pwysau gwaed.",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yn cyflwyno\u2019r casgliad arian o\u2019r canu carolau i feddygon lleol er mwyn prynu mesuryddion pwysau gwaed."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.019737000000",
+            "lon": "-4.400262000000",
+            "description": {
+                "en": "Drefach Felindre",
+                "cy": "Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-043.jpg",
+            "type": "image",
+            "target_id": "609456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 584020,
+    "title": {
+        "en": "Merched y Wawr Pembrokeshire Area - Eisteddfod yr Urdd 2013",
+        "cy": "Merched y Wawr, Rhanbarth Penfro - Eisteddfod yr Urdd Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584020",
+    "created": 1499870238,
+    "updated": 1499870238,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eisteddfod yr Urdd, Sir Benfro, Mai 2013.  Pabell Merched y Wawr ar y Maes.  \nElfair Jones (Is-drysorydd Rhanbarth Penfro, Cangen Mynachlogddu), Bethan Hinde a Gwenda Mathias (Cyd-ysgrifenyddion Rhnbarth a Changen Tegryn), Maureen George (Trysorydd y Rhanbarth, Cangen Maenclochog).",
+        "cy": "Eisteddfod yr Urdd, Sir Benfro, Mai 2013.  Pabell Merched y Wawr ar y Maes.  \nElfair Jones (Is-drysorydd Rhanbarth Penfro, Cangen Mynachlogddu), Bethan Hinde a Gwenda Mathias (Cyd-ysgrifenyddion Rhnbarth a Changen Tegryn), Maureen George (Trysorydd y Rhanbarth, Cangen Maenclochog)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-016.jpg",
+            "type": "image",
+            "target_id": "584019"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

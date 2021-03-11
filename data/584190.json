@@ -1,0 +1,82 @@
+{
+    "id": 584190,
+    "title": {
+        "en": "Merched y Wawr Lobby Parliament, presenting a petition calling for a Welsh Language Act",
+        "cy": "Lobi Merched y Wawr i\u2019r Senedd i gyflwyno deiseb i hawlio Deddf Iaith Gynhywsfawr i Gymru.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584190",
+    "created": 1499870764,
+    "updated": 1499870764,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lobi i\u2019r Senedd yn Llundain gan Ferched y Wawr i gyflwyno deiseb i hawlio Deddf Iaith Gynhywsfawr i Gymru \nMargarette Hughes (Llywydd Cenedlaethol Merched y Wawr 1988-1990), Wyn Roberts (Ysgrifenydd Gwladol), Ieuan Wyn Jones (AS).  Mae Mererid James, Trefnydd Cenedlathol Merched y Wawr, i'w gweld ychydig hefyd.",
+        "cy": "Lobi i\u2019r Senedd yn Llundain gan Ferched y Wawr i gyflwyno deiseb i hawlio Deddf Iaith Gynhywsfawr i Gymru \nMargarette Hughes (Llywydd Cenedlaethol Merched y Wawr 1988-1990), Wyn Roberts (Ysgrifenydd Gwladol), Ieuan Wyn Jones (AS).  Mae Mererid James, Trefnydd Cenedlathol Merched y Wawr, i'w gweld ychydig hefyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.500347000000",
+            "lon": "-0.124977000000",
+            "description": {
+                "en": "Ty'r Cyffredin, Llundain",
+                "cy": "Ty'r Cyffredin, Llundain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-005_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-005_0.jpg",
+            "type": "image",
+            "target_id": "584188"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

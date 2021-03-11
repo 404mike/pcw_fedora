@@ -1,0 +1,78 @@
+{
+    "id": 554545,
+    "title": {
+        "en": "Poem by Beryl George about the Merched y Wawr trip to Rome in 1978",
+        "cy": "Cerdd gan Beryl George yn rhoi hanes taith Merched y Wawr i Rufain, 1978.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554545",
+    "created": 1487592255,
+    "updated": 1487592255,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nCerdd gan Beryl George (a oedd erbyn hyn yn aelod o\u2019r gangen newydd yn Capel Newydd ar \u00f4l bod yn aelod o Gangen Blaenffos) yn rhoi hanes taith Merched y Wawr i Rufain, 1978.  \nTud 1",
+        "cy": "Cerdd gan Beryl George (a oedd erbyn hyn yn aelod o\u2019r gangen newydd yn Capel Newydd ar \u00f4l bod yn aelod o Gangen Blaenffos) yn rhoi hanes taith Merched y Wawr i Rufain, 1978.  \nTud 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd, yn wreiddiol o Gangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies",
+        "OTHER: Arts + Culture"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-019.jpg",
+            "type": "image",
+            "target_id": "554543"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-020.jpg",
+            "type": "image",
+            "target_id": "554544"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

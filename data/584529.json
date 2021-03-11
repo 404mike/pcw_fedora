@@ -1,0 +1,76 @@
+{
+    "id": 584529,
+    "title": {
+        "en": "Merched y Wawr Tonysguboriau Branch Walk for Diabetes 2005",
+        "cy": "Taith gerdded ar gyfer y Clefyd Melys gan Merched y Wawr Cangen Tonysguboriau 2005\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584529",
+    "created": 1499871158,
+    "updated": 1499871158,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taith gerdded gan Gangen Tonysguboriau o Ferched y Wawr ar gyfer y Clefyd Melys 2005\nBrenda Davies, Walter Jones, Ann Davies, Beti Thomas, Shirley Jones, Hurza Edge, Beryl Jones",
+        "cy": "Taith gerdded gan Gangen Tonysguboriau o Ferched y Wawr ar gyfer y Clefyd Melys 2005\nBrenda Davies, Walter Jones, Ann Davies, Beti Thomas, Shirley Jones, Hurza Edge, Beryl Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Tonysguboriau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tonysguboriau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-095.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-095.jpg",
+            "type": "image",
+            "target_id": "584528"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

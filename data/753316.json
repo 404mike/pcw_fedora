@@ -1,0 +1,140 @@
+{
+    "id": 753316,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753316",
+    "created": 1516958439,
+    "updated": 1516958439,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Detholiad o waith o\u2019r Llyfryn \u2018Talwn y Beirdd; Rhanbarthau Dwyfro, Meirion a Maldwyn Powys\u2019.",
+        "cy": "Detholiad o waith o\u2019r Llyfryn \u2018Talwn y Beirdd; Rhanbarthau Dwyfro, Meirion a Maldwyn Powys\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd",
+        "Barddoniaeth Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932342000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_016.jpg",
+            "type": "image",
+            "target_id": "753261"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_017.jpg",
+            "type": "image",
+            "target_id": "753266"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_018.jpg",
+            "type": "image",
+            "target_id": "753271"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_019.jpg",
+            "type": "image",
+            "target_id": "753276"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_020.jpg",
+            "type": "image",
+            "target_id": "753281"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_021.jpg",
+            "type": "image",
+            "target_id": "753286"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_022.jpg",
+            "type": "image",
+            "target_id": "753291"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_023.jpg",
+            "type": "image",
+            "target_id": "753296"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_024.jpg",
+            "type": "image",
+            "target_id": "753301"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_025.jpg",
+            "type": "image",
+            "target_id": "753306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

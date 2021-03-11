@@ -1,0 +1,67 @@
+{
+    "id": 1048016,
+    "title": {
+        "en": "Annual Meeting 2008",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048016",
+    "created": 1555591238,
+    "updated": 1555591238,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bro Radur branch receiving the Tegwen Morris shield for winning the Annual National Quiz 2007.",
+        "cy": "Cangen Bro Radur yn derbyn Tarian Tegwen Morris am ennill y Cwis Hwyl Cenedlaethol 2007."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "tarian tegwen morris"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_200.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_200.jpg",
+            "type": "image",
+            "target_id": "1048011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

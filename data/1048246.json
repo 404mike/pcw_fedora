@@ -1,0 +1,65 @@
+{
+    "id": 1048246,
+    "title": {
+        "en": "President's Dinner in South Wales 2009",
+        "cy": "Cinio&#039;r Llywydd yn y De 2009 \u2013 Manor Park, Clydach"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048246",
+    "created": 1555591363,
+    "updated": 1555591363,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Einir Dafydd and Dafydd Jones who entertained the crowd.",
+        "cy": "Adloniant gan Einir Dafydd a Dafydd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_225.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_225.jpg",
+            "type": "image",
+            "target_id": "1048241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

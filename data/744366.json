@@ -1,0 +1,81 @@
+{
+    "id": 744366,
+    "title": {
+        "en": "Bronant Branch at the Merched y Wawr Eisteddfod 1974",
+        "cy": "Cangen Bronant yn Eisteddfod Merched y Wawr 1974"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744366",
+    "created": 1516896262,
+    "updated": 1516896262,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau Cangen Bronant  fu\u2019n cystadlu yn Eisteddfod Merched y Wawr yn Aberporth ac ennill y marciau uchaf drwy\u2019r Sir.  Cynhaliwyd yr Eisteddfod mis Tachwedd, 1974.",
+        "cy": "Llun aelodau Cangen Bronant  fu\u2019n cystadlu yn Eisteddfod Merched y Wawr yn Aberporth ac ennill y marciau uchaf drwy\u2019r Sir.  Cynhaliwyd yr Eisteddfod mis Tachwedd, 1974."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-147.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-147.jpg",
+            "type": "image",
+            "target_id": "744356"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-148.jpg",
+            "type": "image",
+            "target_id": "744361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

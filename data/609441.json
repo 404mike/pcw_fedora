@@ -1,0 +1,73 @@
+{
+    "id": 609441,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Celebrate 25th Anniversary ",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yn dathlu Penblwydd Arian "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609441",
+    "created": 1510752978,
+    "updated": 1510752978,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi yn dathlu Penblwydd Arian (dyw'r llun hyn ddim yn edrych fel y 1990au so dddim yn siwr os yw y disgrifiad yma yn gywir??)",
+        "cy": "Merched y Wawr Cangen Bargod Teifi yn dathlu Penblwydd Arian (dyw'r llun hyn ddim yn edrych fel y 1990au so dddim yn siwr os yw y disgrifiad yma yn gywir??)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-041.jpg",
+            "type": "image",
+            "target_id": "609436"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

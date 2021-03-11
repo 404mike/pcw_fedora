@@ -1,0 +1,88 @@
+{
+    "id": 584562,
+    "title": {
+        "en": " A thank you card in relation to the start of a new Branch of Merched y Wawr, the Rhumney Valley Branch",
+        "cy": "Cerdyn diolch yn s\u00f4n am ddechrau cangen newydd o Ferched y Wawr, sef Cangen Cwm Rhymni, yn 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584562",
+    "created": 1499871196,
+    "updated": 1499871196,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdyn o ddiolch wrth Eirlys Davies, Swyddog Datblygu Merched y Wawr yn yr ardal, i Elin Jones am ymgymryd \u00e2 llywyddiaeth cangen newydd o Ferched y Wawr yn ardal Ystrad Mynach a enwyd maes o law yn Cangen Cwm Rhymni.  Dechreuodd y gangen hon ym mis Medi 2008. Tudalen flaen y cerdyn.  \nDefnyddiwyd y Cerdyn Cyfarchion a grewyd i ddathlu Mrched y Wawr yn 40 oed \u2013 ar y blaen mae pennill gan Ceri Wyn Jones, Tudur Dylan ac Emyr Davies",
+        "cy": "Cerdyn o ddiolch wrth Eirlys Davies, Swyddog Datblygu Merched y Wawr yn yr ardal, i Elin Jones am ymgymryd \u00e2 llywyddiaeth cangen newydd o Ferched y Wawr yn ardal Ystrad Mynach a enwyd maes o law yn Cangen Cwm Rhymni.  Dechreuodd y gangen hon ym mis Medi 2008. Tudalen flaen y cerdyn.  \nDefnyddiwyd y Cerdyn Cyfarchion a grewyd i ddathlu Mrched y Wawr yn 40 oed \u2013 ar y blaen mae pennill gan Ceri Wyn Jones, Tudur Dylan ac Emyr Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Pennill gan Ceri Wyn Jones, Tudur Dylan ac Emyr Davies",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-043.jpg",
+            "type": "image",
+            "target_id": "584559"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-043_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-043_0.jpg",
+            "type": "image",
+            "target_id": "584560"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-043_1.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-043_1.jpg",
+            "type": "image",
+            "target_id": "584561"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

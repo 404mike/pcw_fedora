@@ -1,0 +1,75 @@
+{
+    "id": 750161,
+    "title": {
+        "en": "Cylch Cennin Gwawr Club (and others) Quiz and Buffet ",
+        "cy": "Cwis a Buffet Clwb Gwawr Cylch Cennin ac eraill "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750161",
+    "created": 1516899334,
+    "updated": 1516899334,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Cylch Cennin, Merched y Wawr, yn cael cwis a buffet caws a gwin yng nghwmni Clwb Gwawr Angylion Aber a Clwb Gwawr Y Gwenoliaid  yn Chwefror 2017.",
+        "cy": "Clwb Gwawr Cylch Cennin, Merched y Wawr, yn cael cwis a buffet caws a gwin yng nghwmni Clwb Gwawr Angylion Aber a Clwb Gwawr Y Gwenoliaid  yn Chwefror 2017."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Cylch Cennin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Cylch Cennin",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-138.jpg",
+            "type": "image",
+            "target_id": "750156"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

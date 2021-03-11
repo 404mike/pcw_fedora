@@ -1,0 +1,92 @@
+{
+    "id": 623881,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Denbigh, Glyn Maelor",
+        "cy": "Cofnodion cyntaf cangen Merched y Wawr Dinbych, Glyn Maelor. 3 o Ionawr, 1968. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623881",
+    "created": 1511279656,
+    "updated": 1511279656,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf (sefydlu) y Gangen, 3ydd o Ionawr, 1968.",
+        "cy": "Cofnodion cyntaf (sefydlu) y Gangen, 3ydd o Ionawr, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dinbych",
+    "owner": "Cangen Dinbych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Denbigh",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinbych",
+        "Rhanbarth Glyn Maelor",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.183592000000",
+            "lon": "-3.422938000000",
+            "description": {
+                "en": "Denbigh",
+                "cy": "Dinbych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_004.jpg",
+            "type": "image",
+            "target_id": "623866"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_005.jpg",
+            "type": "image",
+            "target_id": "623871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

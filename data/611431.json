@@ -1,0 +1,84 @@
+{
+    "id": 611431,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch Celebrating Ten Years 1978",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn dathlu degawd ym 1978"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611431",
+    "created": 1510753453,
+    "updated": 1510753453,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn dathlu degawd yn Neuadd Alltwalis ym 1978.\nMeinir Ffransis, Betty Williams, Hefina James, Marna Jones, Marina Davies, Gillian James \nSefydlwyd Cangen Pencader a\u2019r Cylch mewn cyfarfod yng nghapel Gwyddgrug ar y 28ain o Fedi, 1968, gyda Mrs Gwyneth Evans yn annerch a Mrs Gerallt Jones yn llywyddu.  Hi oedd un o\u2019r canghennau cyntaf i\u2019w sefydlu yn Rhanbarth Caerfyrddin.",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn dathlu degawd yn Neuadd Alltwalis ym 1978.\nMeinir Ffransis, Betty Williams, Hefina James, Marna Jones, Marina Davies, Gillian James \nSefydlwyd Cangen Pencader a\u2019r Cylch mewn cyfarfod yng nghapel Gwyddgrug ar y 28ain o Fedi, 1968, gyda Mrs Gwyneth Evans yn annerch a Mrs Gerallt Jones yn llywyddu.  Hi oedd un o\u2019r canghennau cyntaf i\u2019w sefydlu yn Rhanbarth Caerfyrddin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.962710000000",
+            "lon": "-4.263807000000",
+            "description": {
+                "en": "Neuadd Alltwalis",
+                "cy": "Neuadd Alltwalis"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-095.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-095.jpg",
+            "type": "image",
+            "target_id": "611421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

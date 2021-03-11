@@ -1,0 +1,75 @@
+{
+    "id": 749676,
+    "title": {
+        "en": "Merched y Wawr Tregaron Stall at the local fair",
+        "cy": "Stondin Merched y Wawr Tregaron yn Ffair Caron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749676",
+    "created": 1516899111,
+    "updated": 1516899111,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Stondin Merched y Wawr Tregaron yn barod i werthu cynnyrch yn Ffair Caron yn 2003.  \nAr y chwith mae Susie Hughes yn ei gwisg Gymreig, ac ar y dde, Mai Williams yn barod i brynu.",
+        "cy": "Stondin Merched y Wawr Tregaron yn barod i werthu cynnyrch yn Ffair Caron yn 2003.  \nAr y chwith mae Susie Hughes yn ei gwisg Gymreig, ac ar y dde, Mai Williams yn barod i brynu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-026.jpg",
+            "type": "image",
+            "target_id": "749671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,92 @@
+{
+    "id": 627636,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Rhaglen Tymor 1997 - 1998 cangen Merched y Wawr y Fali, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627636",
+    "created": 1511280897,
+    "updated": 1511280897,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1997 - 1998 Cangen y Fali, neu cangen y \u2018Dyffryn\u2019 gynt. (blaen)",
+        "cy": "Rhaglen Tymor 1997 - 1998 Cangen y Fali, neu cangen y \u2018Dyffryn\u2019 gynt. (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_006.jpg",
+            "type": "image",
+            "target_id": "627621"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_005.jpg",
+            "type": "image",
+            "target_id": "627626"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

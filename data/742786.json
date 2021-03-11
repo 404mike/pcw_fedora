@@ -1,0 +1,84 @@
+{
+    "id": 742786,
+    "title": {
+        "en": "Merched y Wawr Neath Branch visit the BBC in Llandaff",
+        "cy": "Merched y Wawr Castell Nedd ar drip i Stwidio&#039;r BBC yn Llandaf"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742786",
+    "created": 1516895206,
+    "updated": 1516895206,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ymweliad Merched y Wawr Castell Nedd \u00e2'r BBC, Llandaf, ar set yr opera sebon Pobol y Cwm, yn 2008 Rhes Gefn: (o\u2019r chwith) Miriam; Nesta Davies; Mavis Evans; Janette Jones; Gwenda Lloyd; Ogwen Hopkins; Mary Roberts; Sal Roberts. Eiry Shopland.\nRhes Ganol: Joanna Porter; Phoebe Phillips; Marilyn Jeffreys; Morina Roberts; Phyllis Davies; Nancy Jenkins\nRhes Flaen; Mona Lewis; Glenys;",
+        "cy": "Ymweliad Merched y Wawr Castell Nedd \u00e2'r BBC, Llandaf, ar set yr opera sebon Pobol y Cwm, yn 2008 Rhes Gefn: (o\u2019r chwith) Miriam; Nesta Davies; Mavis Evans; Janette Jones; Gwenda Lloyd; Ogwen Hopkins; Mary Roberts; Sal Roberts. Eiry Shopland.\nRhes Ganol: Joanna Porter; Phoebe Phillips; Marilyn Jeffreys; Morina Roberts; Phyllis Davies; Nancy Jenkins\nRhes Flaen; Mona Lewis; Glenys;"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.497447000000",
+            "lon": "-3.227732000000",
+            "description": {
+                "en": "BBC Llandaf",
+                "cy": "BBC Llandaf"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "08_0268%207x5%20Castell%20Nedd.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/08_0268%25207x5%2520Castell%2520Nedd.jpg",
+            "type": "image",
+            "target_id": "742776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

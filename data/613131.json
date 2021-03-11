@@ -1,0 +1,73 @@
+{
+    "id": 613131,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Branch - An Evening with Fflur Dafydd",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi - Noson gyda Fflur Dafydd\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613131",
+    "created": 1510753879,
+    "updated": 1510753879,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi \nDros y blynyddoedd mae\u2019r gangen wedi treulio nosweithiau doniol a difyr yng nghwmni prifeirdd a phrif lenorion Cymru.  \nMae Fflur Dafydd wedi ei diddanu yng nghwmni ei chymar, Iwan, ar fwy nag un achlysur a thinc gerddorol oedd i\u2019r nosweithiau hynny.",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi \nDros y blynyddoedd mae\u2019r gangen wedi treulio nosweithiau doniol a difyr yng nghwmni prifeirdd a phrif lenorion Cymru.  \nMae Fflur Dafydd wedi ei diddanu yng nghwmni ei chymar, Iwan, ar fwy nag un achlysur a thinc gerddorol oedd i\u2019r nosweithiau hynny."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_043.jpg",
+            "type": "image",
+            "target_id": "613126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

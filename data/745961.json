@@ -1,0 +1,75 @@
+{
+    "id": 745961,
+    "title": {
+        "en": "Merched y Wawr at the Urdd Eisteddfod, Lampeter",
+        "cy": "Pabell Merched y Wawr yn Eisteddfod yr Urdd Llanbedr Pont Steffan a\u2019r Fro"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745961",
+    "created": 1516897048,
+    "updated": 1516897048,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pabell Merched y Wawr yn Eisteddfod Genedlaethol yr Urdd Llanbedr Pont Steffan a\u2019r Fro yn 1999. O\u2019r chwith i\u2019r dde: Moyra Jones, Magwen Edwards, Rhiannon Jones, Rosemary Davies, Glenys Morris, Pat Davies, Nel Jones.",
+        "cy": "Pabell Merched y Wawr yn Eisteddfod Genedlaethol yr Urdd Llanbedr Pont Steffan a\u2019r Fro yn 1999. O\u2019r chwith i\u2019r dde: Moyra Jones, Magwen Edwards, Rhiannon Jones, Rosemary Davies, Glenys Morris, Pat Davies, Nel Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%205.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%25205.jpg",
+            "type": "image",
+            "target_id": "745956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,87 @@
+{
+    "id": 600130,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrwst, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanrwst, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600130",
+    "created": 1502447286,
+    "updated": 1502447286,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau o aelodau cangen Llanrwst yn y Parc ar gyfer dathliadau\u2019r mudiad yn 25 yn 1992 - Perindod y Parc. 1. Heulwen Jones, Mair Jones, Tilly Goodwin, Meryl Metcalfe, Garmona Beryl Roberts, Doris Williams, 2. Garmona Beryl Roberts, Tilly Goodwin, Heulwen Jones.",
+        "cy": "Lluniau o aelodau cangen Llanrwst yn y Parc ar gyfer dathliadau\u2019r mudiad yn 25 yn 1992 - Perindod y Parc. 1. Heulwen Jones, Mair Jones, Tilly Goodwin, Meryl Metcalfe, Garmona Beryl Roberts, Doris Williams, 2. Garmona Beryl Roberts, Tilly Goodwin, Heulwen Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrwst",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrwst",
+        "Rhanbarth Aberconwy",
+        "Perindod y Parc",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799719000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_034.jpg",
+            "type": "image",
+            "target_id": "600128"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

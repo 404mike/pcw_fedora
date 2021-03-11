@@ -1,0 +1,83 @@
+{
+    "id": 470541,
+    "title": {
+        "en": "Aberporth, Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Aberporth, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470541",
+    "created": 1441700779,
+    "updated": 1441700779,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Aberporth, Cardiganshire branch of Mereched y Wawr. It contains field names from Dyffryn Saith; Pantgwyn and others. Also house and road names.",
+        "cy": "Gwybodaeth am waith cangen Aberporth, Ceredigion o Ferched y Wawr. Mae'n cynnwys enwau caeau o ffermydd Dyffryn Saith, Pantgwyn ac eraill. Hefyd enwau tai a ffyrdd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10690.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10690.jpg",
+            "type": "image",
+            "target_id": "470536"
+        },
+        {
+            "originalFilename": "pcw001_10691.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10691.jpg",
+            "type": "image",
+            "target_id": "470537"
+        },
+        {
+            "originalFilename": "pcw001_10692.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10692.jpg",
+            "type": "image",
+            "target_id": "470538"
+        },
+        {
+            "originalFilename": "pcw001_10693.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10693.jpg",
+            "type": "image",
+            "target_id": "470539"
+        },
+        {
+            "originalFilename": "pcw001_10694.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10694.jpg",
+            "type": "image",
+            "target_id": "470540"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10690",
+    "publisher_ref": ""
+}

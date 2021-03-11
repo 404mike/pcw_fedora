@@ -1,0 +1,87 @@
+{
+    "id": 627121,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanddeusant, Anglesey.",
+        "cy": "Rhaglen Tymor -2014 - 2015 cangen Merched y Wawr Llanddeusant, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627121",
+    "created": 1511280720,
+    "updated": 1511280720,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor -2014 - 2015. Cangen Llanddeusant. (blaen)",
+        "cy": "Rhaglen Tymor -2014 - 2015. Cangen Llanddeusant. (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddeusant",
+    "owner": "Cangen Llanddeusant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddeusant",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddeusant",
+        "Rhanbarth Mon",
+        "Mon",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.338113000000",
+            "lon": "-4.485818000000",
+            "description": {
+                "en": "Llanddeusant",
+                "cy": "Llanddeusant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_038.jpg",
+            "type": "image",
+            "target_id": "627111"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1046766,
+    "title": {
+        "en": "MyW Residential Weekend 2004",
+        "cy": "Penwythnos Preswyl MyW 2004 \u2013 Ysbrydoliaeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046766",
+    "created": 1555590405,
+    "updated": 1555590405,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presenting a Map of Wales, embroidered by Llinos Roberts, to the Welsh Assembly to mark 600 years since the establishment of a Welsh Senate.",
+        "cy": "Cyflwyno Map o Gymru wedi ei bwytho gan Llinos Roberts, i'r Cynulliad i ddathlu 600 mlynedd sefydlu'r Senedd cyntaf I Gymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2004",
+        "map of wales",
+        "Welsh Assembly",
+        "welsh senate",
+        "penwythnos preswyl myw 2004",
+        "cynulliad",
+        "Senedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_061.jpg",
+            "type": "image",
+            "target_id": "1046761"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 1049551,
+    "title": {
+        "en": "MyW Residential Weekend 2011, Bangor \u2013 Bwrlwm a Bantams",
+        "cy": "Penwythnos Preswyl MyW 2011, Bangor \u2013 Bwrlwm a Bantams"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049551",
+    "created": 1555591959,
+    "updated": 1555591959,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Saturday morning's entertainment. Russell Jones and his bantams; Sioned Jones arranging flowers.",
+        "cy": "Adloniant bore Sadwrn. Russell Jones a'i ieir bantam; Sioned Jones yn trefnu blodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "bwrlwm a bantams"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_368.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_368.jpg",
+            "type": "image",
+            "target_id": "1049531"
+        },
+        {
+            "originalFilename": "df_myw_369.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_369.jpg",
+            "type": "image",
+            "target_id": "1049536"
+        },
+        {
+            "originalFilename": "df_myw_370.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_370.jpg",
+            "type": "image",
+            "target_id": "1049541"
+        },
+        {
+            "originalFilename": "df_myw_371.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_371.jpg",
+            "type": "image",
+            "target_id": "1049546"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

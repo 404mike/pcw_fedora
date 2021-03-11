@@ -1,0 +1,84 @@
+{
+    "id": 612536,
+    "title": {
+        "en": "Merched y Wawr Whitland Branch perform at the Carmarthen Area Eisteddfod 1989",
+        "cy": "C\u00e2n Actol Merched y Wawr Cangen Hendygwyn, Eisteddfod Rhanbarth Caerfyrddin 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612536",
+    "created": 1510753728,
+    "updated": 1510753728,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Golygfa allan o G\u00e2n Actol gan Ferched y Wawr Cangen Hendygwyn a fu\u2019n fuddugol yn Eisteddfod Rhanbarth Caerfyrddin yn Ysgol Griffith Jones, Sancler, Gwanwyn 1989.  Y thema oedd \u2018Hwylio\u2019.  Roedd m\u00f4r ladron yn herwgipip Maggie Thatcher er mwyn cael menyw i ofalu amdanynt ar y llong \u2013 a llawer o bethau eraill! \nDilys Lewis, Pam Edwards, Jean Griffiths, Marian Thomas, Sheila Bancroft (Maggie Thatcher!), Margarette Hughes, Eunice Thomas, June Jenkins, Buddug Jones (?) wrth y piano.",
+        "cy": "Golygfa allan o G\u00e2n Actol gan Ferched y Wawr Cangen Hendygwyn a fu\u2019n fuddugol yn Eisteddfod Rhanbarth Caerfyrddin yn Ysgol Griffith Jones, Sancler, Gwanwyn 1989.  Y thema oedd \u2018Hwylio\u2019.  Roedd m\u00f4r ladron yn herwgipip Maggie Thatcher er mwyn cael menyw i ofalu amdanynt ar y llong \u2013 a llawer o bethau eraill! \nDilys Lewis, Pam Edwards, Jean Griffiths, Marian Thomas, Sheila Bancroft (Maggie Thatcher!), Margarette Hughes, Eunice Thomas, June Jenkins, Buddug Jones (?) wrth y piano."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Hendygwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hendygwyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.823822000000",
+            "lon": "-4.489772000000",
+            "description": {
+                "en": "Ysgol Griffith Jones, San Cler",
+                "cy": "Ysgol Griffith Jones, San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_109.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_109.jpg",
+            "type": "image",
+            "target_id": "612526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

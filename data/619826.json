@@ -1,0 +1,95 @@
+{
+    "id": 619826,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llangernyw, Colwyn.",
+        "cy": "Rhaglen Tymor - 1981- 1982 Cangen Llangernyw., Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619826",
+    "created": 1511278245,
+    "updated": 1511278245,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor - 1981- 1982 Cangen Llangernyw.",
+        "cy": "Rhaglen Tymor - 1981- 1982 Cangen Llangernyw. (Blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangernyw",
+    "owner": "Cangen Llangernyw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Llangernyw",
+                "cy": "Cangen Llangernyw"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangernyw",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangernyw",
+        "Rhanbarth Colwyn",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.192491000000",
+            "lon": "-3.685561000000",
+            "description": {
+                "en": "Llangernyw,",
+                "cy": "Llangernyw,"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGERNYW_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGERNYW_001.jpg",
+            "type": "image",
+            "target_id": "619811"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGERNYW_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGERNYW_002.jpg",
+            "type": "image",
+            "target_id": "619816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

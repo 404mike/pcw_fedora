@@ -1,0 +1,297 @@
+{
+    "id": 814746,
+    "title": {
+        "en": "St Dogmaels Branch scrapbook",
+        "cy": "Llyfr lloffion Cangen Llandudoch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/814746",
+    "created": 1523360183,
+    "updated": 1523360183,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llandudoch",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Llandudoch00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00001.jpg",
+            "type": "image",
+            "target_id": "814556"
+        },
+        {
+            "originalFilename": "Llandudoch00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00002.jpg",
+            "type": "image",
+            "target_id": "814561"
+        },
+        {
+            "originalFilename": "Llandudoch00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00003.jpg",
+            "type": "image",
+            "target_id": "814566"
+        },
+        {
+            "originalFilename": "Llandudoch00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00004.jpg",
+            "type": "image",
+            "target_id": "814571"
+        },
+        {
+            "originalFilename": "Llandudoch00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00005.jpg",
+            "type": "image",
+            "target_id": "814576"
+        },
+        {
+            "originalFilename": "Llandudoch00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00006.jpg",
+            "type": "image",
+            "target_id": "814581"
+        },
+        {
+            "originalFilename": "Llandudoch00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00007.jpg",
+            "type": "image",
+            "target_id": "814586"
+        },
+        {
+            "originalFilename": "Llandudoch00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00008.jpg",
+            "type": "image",
+            "target_id": "814591"
+        },
+        {
+            "originalFilename": "Llandudoch00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00009.jpg",
+            "type": "image",
+            "target_id": "814596"
+        },
+        {
+            "originalFilename": "Llandudoch00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00010.jpg",
+            "type": "image",
+            "target_id": "814601"
+        },
+        {
+            "originalFilename": "Llandudoch00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00011.jpg",
+            "type": "image",
+            "target_id": "814606"
+        },
+        {
+            "originalFilename": "Llandudoch00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00012.jpg",
+            "type": "image",
+            "target_id": "814611"
+        },
+        {
+            "originalFilename": "Llandudoch00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00013.jpg",
+            "type": "image",
+            "target_id": "814616"
+        },
+        {
+            "originalFilename": "Llandudoch00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00014.jpg",
+            "type": "image",
+            "target_id": "814621"
+        },
+        {
+            "originalFilename": "Llandudoch00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00015.jpg",
+            "type": "image",
+            "target_id": "814626"
+        },
+        {
+            "originalFilename": "Llandudoch00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00016.jpg",
+            "type": "image",
+            "target_id": "814631"
+        },
+        {
+            "originalFilename": "Llandudoch00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00017.jpg",
+            "type": "image",
+            "target_id": "814636"
+        },
+        {
+            "originalFilename": "Llandudoch00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00018.jpg",
+            "type": "image",
+            "target_id": "814641"
+        },
+        {
+            "originalFilename": "Llandudoch00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00019.jpg",
+            "type": "image",
+            "target_id": "814646"
+        },
+        {
+            "originalFilename": "Llandudoch00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00020.jpg",
+            "type": "image",
+            "target_id": "814651"
+        },
+        {
+            "originalFilename": "Llandudoch00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00021.jpg",
+            "type": "image",
+            "target_id": "814656"
+        },
+        {
+            "originalFilename": "Llandudoch00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00022.jpg",
+            "type": "image",
+            "target_id": "814661"
+        },
+        {
+            "originalFilename": "Llandudoch00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00023.jpg",
+            "type": "image",
+            "target_id": "814666"
+        },
+        {
+            "originalFilename": "Llandudoch00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00024.jpg",
+            "type": "image",
+            "target_id": "814671"
+        },
+        {
+            "originalFilename": "Llandudoch00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00025.jpg",
+            "type": "image",
+            "target_id": "814676"
+        },
+        {
+            "originalFilename": "Llandudoch00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00026.jpg",
+            "type": "image",
+            "target_id": "814681"
+        },
+        {
+            "originalFilename": "Llandudoch00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00027.jpg",
+            "type": "image",
+            "target_id": "814686"
+        },
+        {
+            "originalFilename": "Llandudoch00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00028.jpg",
+            "type": "image",
+            "target_id": "814691"
+        },
+        {
+            "originalFilename": "Llandudoch00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00029.jpg",
+            "type": "image",
+            "target_id": "814696"
+        },
+        {
+            "originalFilename": "Llandudoch00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00030.jpg",
+            "type": "image",
+            "target_id": "814701"
+        },
+        {
+            "originalFilename": "Llandudoch00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00031.jpg",
+            "type": "image",
+            "target_id": "814706"
+        },
+        {
+            "originalFilename": "Llandudoch00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00032.jpg",
+            "type": "image",
+            "target_id": "814711"
+        },
+        {
+            "originalFilename": "Llandudoch00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00033.jpg",
+            "type": "image",
+            "target_id": "814716"
+        },
+        {
+            "originalFilename": "Llandudoch00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00034.jpg",
+            "type": "image",
+            "target_id": "814721"
+        },
+        {
+            "originalFilename": "Llandudoch00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00035.jpg",
+            "type": "image",
+            "target_id": "814726"
+        },
+        {
+            "originalFilename": "Llandudoch00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00036.jpg",
+            "type": "image",
+            "target_id": "814731"
+        },
+        {
+            "originalFilename": "Llandudoch00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00037.jpg",
+            "type": "image",
+            "target_id": "814736"
+        },
+        {
+            "originalFilename": "Llandudoch00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llandudoch00038.jpg",
+            "type": "image",
+            "target_id": "814741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

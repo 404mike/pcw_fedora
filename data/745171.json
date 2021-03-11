@@ -1,0 +1,75 @@
+{
+    "id": 745171,
+    "title": {
+        "en": "Peoms to celebrate the 25th Anniversary of Merched y Wawr Ffynnongroes Branch",
+        "cy": "Penillion i ddathlu Chwarter Canrif Merched y Wawr Ffynnongroes"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745171",
+    "created": 1516896695,
+    "updated": 1516896695,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion wedi eu cyfansoddi gan Eluned Davies o Grymych ar achlysur dathlu penblwydd Merched y Wawr Ffynnongroes yn 25ain mlwydd oed ym 1993.   Mae\u2019r penillion yn s\u00f4n am holl aelodau\u2019r gangen ar y pryd.",
+        "cy": "Penillion wedi eu cyfansoddi gan Eluned Davies o Grymych ar achlysur dathlu penblwydd Merched y Wawr Ffynnongroes yn 25ain mlwydd oed ym 1993.   Mae\u2019r penillion yn s\u00f4n am holl aelodau\u2019r gangen ar y pryd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-116.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-116.jpg",
+            "type": "image",
+            "target_id": "745166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

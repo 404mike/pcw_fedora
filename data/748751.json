@@ -1,0 +1,75 @@
+{
+    "id": 748751,
+    "title": {
+        "en": "Merched y Wawr Talgarreg Branch perform a sketch ",
+        "cy": "Merched y Wawr Cangen Talgarreg yn perfformio sgets\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748751",
+    "created": 1516898696,
+    "updated": 1516898696,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Talgarreg yn cyflwyno sgets mewn adloniant yn y pentref adeg G\u0175yl Dewi, yn y 2000au.  \nYn y llun mae Wendy Griffiths, Llinos Whitfield, Janine Davies, Letty Williams, Ann Harris, Mary Davies, Mair Davies",
+        "cy": "Merched y Wawr Cangen Talgarreg yn cyflwyno sgets mewn adloniant yn y pentref adeg G\u0175yl Dewi, yn y 2000au.  \nYn y llun mae Wendy Griffiths, Llinos Whitfield, Janine Davies, Letty Williams, Ann Harris, Mary Davies, Mair Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Talgarreg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talgarreg",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-056.jpg",
+            "type": "image",
+            "target_id": "748746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

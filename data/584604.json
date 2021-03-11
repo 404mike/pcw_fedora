@@ -1,0 +1,76 @@
+{
+    "id": 584604,
+    "title": {
+        "en": "Merched y Wawr Newport Branch - Charity Work - Marie Curie",
+        "cy": "Merched y Wawr Cangen Casnewydd - Gwaith elusennol - Marie Curie"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584604",
+    "created": 1499871260,
+    "updated": 1499871260,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif o 2010 yn dangos bod Cangen Casnewydd o Ferched y Wawr wedi casglu \u00a3424.90 yn Tesco tuag at Marie Curie.  Mae gwaith elusennol yn rhan bwysig o weithgareddau\u2019r Gangen.  Bu\u2019r aelodau yn casglu ar ran elusen cancr Marie Curie mewn archfarchnadoedd lleol am rai blynyddoedd.",
+        "cy": "Tystysgrif o 2010 yn dangos bod Cangen Casnewydd o Ferched y Wawr wedi casglu \u00a3424.90 yn Tesco tuag at Marie Curie.  Mae gwaith elusennol yn rhan bwysig o weithgareddau\u2019r Gangen.  Bu\u2019r aelodau yn casglu ar ran elusen cancr Marie Curie mewn archfarchnadoedd lleol am rai blynyddoedd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-105.jpg",
+            "type": "image",
+            "target_id": "584603"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

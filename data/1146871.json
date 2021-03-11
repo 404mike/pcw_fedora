@@ -1,0 +1,63 @@
+{
+    "id": 1146871,
+    "title": {
+        "en": "President's Dinner at Crug Glas Hotel, Pembrokeshire 2017 to celebrate 50 Years.",
+        "cy": "Cinio Llywydd yn y De 2017 yng ngwesty Crug Glas, Sir Benfro i ddathlu 50 mlynedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146871",
+    "created": 1562064053,
+    "updated": 1562064053,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elizabeth Evans, Developement Officer for Ceredigion and Pembroke giving a vote of thanks.",
+        "cy": "Elizabeth Evans, Swyddog Datblygu Ceredigion a Penfro yn talu'r diolchiadau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "cinio llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_856.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_856.jpg",
+            "type": "image",
+            "target_id": "1146866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

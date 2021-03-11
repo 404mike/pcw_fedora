@@ -1,0 +1,66 @@
+{
+    "id": 1050341,
+    "title": {
+        "en": "Day Craft Course, White Hart, Llandeilo 2013",
+        "cy": "Cwrs Crefft, Hydd Gwyn, Llandeilo 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050341",
+    "created": 1555592283,
+    "updated": 1555592283,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dr Esyllt Jones one of the tutors.",
+        "cy": "Dr Esyllt Jones, un o'r tiwtoriaid."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "craft course",
+        "Llandeilo",
+        "merched y wawr",
+        "MYW",
+        "cwrs crefft"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_460.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_460.jpg",
+            "type": "image",
+            "target_id": "1050336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

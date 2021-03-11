@@ -1,0 +1,113 @@
+{
+    "id": 470216,
+    "title": {
+        "en": "Bethel, Arfon branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Bethel, Arfon, i brosiect Merched yWwawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470216",
+    "created": 1441700644,
+    "updated": 1441700644,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Bethel, Arfon branch of Merched y Wawr. It contaoins some of the field names in the Bethel area. Also  it contains names of smallholdings in the area.",
+        "cy": "Gwybodaeth am waith cangen Bethel, Arfon o Ferched y Wawr. Mae'n cynnwys enwau rhai o'r caeau o amgylch Bro Bethel, Caernarfon. Hefyd enwau hen dyddynod o amgylch yr ardal."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10387.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10387.jpg",
+            "type": "image",
+            "target_id": "470206"
+        },
+        {
+            "originalFilename": "pcw001_10388.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10388.jpg",
+            "type": "image",
+            "target_id": "470207"
+        },
+        {
+            "originalFilename": "pcw001_10389.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10389.jpg",
+            "type": "image",
+            "target_id": "470208"
+        },
+        {
+            "originalFilename": "pcw001_10390.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10390.jpg",
+            "type": "image",
+            "target_id": "470209"
+        },
+        {
+            "originalFilename": "pcw001_10391.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10391.jpg",
+            "type": "image",
+            "target_id": "470210"
+        },
+        {
+            "originalFilename": "pcw001_10392.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10392.jpg",
+            "type": "image",
+            "target_id": "470211"
+        },
+        {
+            "originalFilename": "pcw001_10393.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10393.jpg",
+            "type": "image",
+            "target_id": "470212"
+        },
+        {
+            "originalFilename": "pcw001_10394.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10394.jpg",
+            "type": "image",
+            "target_id": "470213"
+        },
+        {
+            "originalFilename": "pcw001_10395.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10395.jpg",
+            "type": "image",
+            "target_id": "470214"
+        },
+        {
+            "originalFilename": "pcw001_10396.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10396.jpg",
+            "type": "image",
+            "target_id": "470215"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10387",
+    "publisher_ref": ""
+}

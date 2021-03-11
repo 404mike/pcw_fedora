@@ -1,0 +1,87 @@
+{
+    "id": 620466,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Abergele, Colwyn.",
+        "cy": "Cangen Merched y Wawr Abergele, Rhanbarth Colwyn. Blwyddyn dathlu 25ain y mudiad yn 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620466",
+    "created": 1511278464,
+    "updated": 1511278464,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mair Morris, aelod o\u2019r gangen a\u2019u gwaith buddugol (Rhanbarth a Sioe Llanelwedd) ar y testyn \u2018Y Dathlu\u2019 ym mlwyddyn dathlu 25ain y mudiad yn 1992.",
+        "cy": "Mair Morris, aelod o\u2019r gangen a\u2019u gwaith buddugol (Rhanbarth a Sioe Llanelwedd) ar y testyn \u2018Y Dathlu\u2019 ym mlwyddyn dathlu 25ain y mudiad yn 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Abergele",
+    "owner": "Cangen Abergele",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Abergele",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergele",
+        "Rhanbarth Colwyn",
+        "Dathlu 25",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284463000000",
+            "lon": "-3.583610000000",
+            "description": {
+                "en": "Abergele",
+                "cy": "Abergele"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_ABERGELE_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_ABERGELE_005.jpg",
+            "type": "image",
+            "target_id": "620456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

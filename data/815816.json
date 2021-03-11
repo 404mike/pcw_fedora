@@ -1,0 +1,273 @@
+{
+    "id": 815816,
+    "title": {
+        "en": "Scrapbook of Maenclochog Branch",
+        "cy": "Llyfr lloffion Cangen Maenclochog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/815816",
+    "created": 1523360390,
+    "updated": 1523360390,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maenclochog",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Maenclochog00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00001.jpg",
+            "type": "image",
+            "target_id": "815646"
+        },
+        {
+            "originalFilename": "Maenclochog00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00002.jpg",
+            "type": "image",
+            "target_id": "815651"
+        },
+        {
+            "originalFilename": "Maenclochog00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00003.jpg",
+            "type": "image",
+            "target_id": "815656"
+        },
+        {
+            "originalFilename": "Maenclochog00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00004.jpg",
+            "type": "image",
+            "target_id": "815661"
+        },
+        {
+            "originalFilename": "Maenclochog00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00005.jpg",
+            "type": "image",
+            "target_id": "815666"
+        },
+        {
+            "originalFilename": "Maenclochog00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00006.jpg",
+            "type": "image",
+            "target_id": "815671"
+        },
+        {
+            "originalFilename": "Maenclochog00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00007.jpg",
+            "type": "image",
+            "target_id": "815676"
+        },
+        {
+            "originalFilename": "Maenclochog00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00008.jpg",
+            "type": "image",
+            "target_id": "815681"
+        },
+        {
+            "originalFilename": "Maenclochog00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00009.jpg",
+            "type": "image",
+            "target_id": "815686"
+        },
+        {
+            "originalFilename": "Maenclochog00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00010.jpg",
+            "type": "image",
+            "target_id": "815691"
+        },
+        {
+            "originalFilename": "Maenclochog00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00011.jpg",
+            "type": "image",
+            "target_id": "815696"
+        },
+        {
+            "originalFilename": "Maenclochog00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00012.jpg",
+            "type": "image",
+            "target_id": "815701"
+        },
+        {
+            "originalFilename": "Maenclochog00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00013.jpg",
+            "type": "image",
+            "target_id": "815706"
+        },
+        {
+            "originalFilename": "Maenclochog00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00014.jpg",
+            "type": "image",
+            "target_id": "815711"
+        },
+        {
+            "originalFilename": "Maenclochog00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00015.jpg",
+            "type": "image",
+            "target_id": "815716"
+        },
+        {
+            "originalFilename": "Maenclochog00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00016.jpg",
+            "type": "image",
+            "target_id": "815721"
+        },
+        {
+            "originalFilename": "Maenclochog00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00017.jpg",
+            "type": "image",
+            "target_id": "815726"
+        },
+        {
+            "originalFilename": "Maenclochog00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00018.jpg",
+            "type": "image",
+            "target_id": "815731"
+        },
+        {
+            "originalFilename": "Maenclochog00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00019.jpg",
+            "type": "image",
+            "target_id": "815736"
+        },
+        {
+            "originalFilename": "Maenclochog00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00020.jpg",
+            "type": "image",
+            "target_id": "815741"
+        },
+        {
+            "originalFilename": "Maenclochog00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00021.jpg",
+            "type": "image",
+            "target_id": "815746"
+        },
+        {
+            "originalFilename": "Maenclochog00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00022.jpg",
+            "type": "image",
+            "target_id": "815751"
+        },
+        {
+            "originalFilename": "Maenclochog00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00023.jpg",
+            "type": "image",
+            "target_id": "815756"
+        },
+        {
+            "originalFilename": "Maenclochog00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00024.jpg",
+            "type": "image",
+            "target_id": "815761"
+        },
+        {
+            "originalFilename": "Maenclochog00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00025.jpg",
+            "type": "image",
+            "target_id": "815766"
+        },
+        {
+            "originalFilename": "Maenclochog00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00026.jpg",
+            "type": "image",
+            "target_id": "815771"
+        },
+        {
+            "originalFilename": "Maenclochog00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00027.jpg",
+            "type": "image",
+            "target_id": "815776"
+        },
+        {
+            "originalFilename": "Maenclochog00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00028.jpg",
+            "type": "image",
+            "target_id": "815781"
+        },
+        {
+            "originalFilename": "Maenclochog00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00029.jpg",
+            "type": "image",
+            "target_id": "815786"
+        },
+        {
+            "originalFilename": "Maenclochog00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00030.jpg",
+            "type": "image",
+            "target_id": "815791"
+        },
+        {
+            "originalFilename": "Maenclochog00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00031.jpg",
+            "type": "image",
+            "target_id": "815796"
+        },
+        {
+            "originalFilename": "Maenclochog00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00032.jpg",
+            "type": "image",
+            "target_id": "815801"
+        },
+        {
+            "originalFilename": "Maenclochog00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00033.jpg",
+            "type": "image",
+            "target_id": "815806"
+        },
+        {
+            "originalFilename": "Maenclochog00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Maenclochog00034.jpg",
+            "type": "image",
+            "target_id": "815811"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

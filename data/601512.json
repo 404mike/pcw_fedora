@@ -1,0 +1,75 @@
+{
+    "id": 601512,
+    "title": {
+        "en": "Merched y Wawr Bridgend Branch Christmas Dinner",
+        "cy": "Cinio Nadolig Merched y Wawr Penybont ar Ogwr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601512",
+    "created": 1502449482,
+    "updated": 1502449482,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Penybont ar Ogwr yn mwynhau Cinio Nadolig 1989.\nYn y lun mae:-\nRhes flaen - Sheila Adams, Mair Workman, Wendy Mathias, Christine James \nCanol - Maryl Richards, Bethan Roderick, Llinos Davies, Win Wade, Gladys Dorney Kingdom, Gwerfyl Thomas\nCefn - Si\u00e2n Hicks, Mari Huws, Anwen Hill, Eirlys Thomas",
+        "cy": "Aelodau Merched y Wawr Cangen Penybont ar Ogwr yn mwynhau Cinio Nadolig 1989.\nYn y lun mae:-\nRhes flaen - Sheila Adams, Mair Workman, Wendy Mathias, Christine James \nCanol - Maryl Richards, Bethan Roderick, Llinos Davies, Win Wade, Gladys Dorney Kingdom, Gwerfyl Thomas\nCefn - Si\u00e2n Hicks, Mari Huws, Anwen Hill, Eirlys Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Penybont ar Ogwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penybont ar Ogwr",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-007.jpg",
+            "type": "image",
+            "target_id": "601511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

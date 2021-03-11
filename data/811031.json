@@ -1,0 +1,519 @@
+{
+    "id": 811031,
+    "title": {
+        "en": "Scrapbook of Dolgellau Branch",
+        "cy": "Llyfr lloffion Cangen Dolgellau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/811031",
+    "created": 1523359457,
+    "updated": 1523359457,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dolgellau",
+    "owner": "Cangen Dolgellau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Dolgellau",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Dolgellau00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00001.jpg",
+            "type": "image",
+            "target_id": "810656"
+        },
+        {
+            "originalFilename": "Dolgellau00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00002.jpg",
+            "type": "image",
+            "target_id": "810661"
+        },
+        {
+            "originalFilename": "Dolgellau00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00003.jpg",
+            "type": "image",
+            "target_id": "810666"
+        },
+        {
+            "originalFilename": "Dolgellau00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00004.jpg",
+            "type": "image",
+            "target_id": "810671"
+        },
+        {
+            "originalFilename": "Dolgellau00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00005.jpg",
+            "type": "image",
+            "target_id": "810676"
+        },
+        {
+            "originalFilename": "Dolgellau00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00006.jpg",
+            "type": "image",
+            "target_id": "810681"
+        },
+        {
+            "originalFilename": "Dolgellau00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00007.jpg",
+            "type": "image",
+            "target_id": "810686"
+        },
+        {
+            "originalFilename": "Dolgellau00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00008.jpg",
+            "type": "image",
+            "target_id": "810691"
+        },
+        {
+            "originalFilename": "Dolgellau00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00009.jpg",
+            "type": "image",
+            "target_id": "810696"
+        },
+        {
+            "originalFilename": "Dolgellau00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00010.jpg",
+            "type": "image",
+            "target_id": "810701"
+        },
+        {
+            "originalFilename": "Dolgellau00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00011.jpg",
+            "type": "image",
+            "target_id": "810706"
+        },
+        {
+            "originalFilename": "Dolgellau00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00012.jpg",
+            "type": "image",
+            "target_id": "810711"
+        },
+        {
+            "originalFilename": "Dolgellau00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00013.jpg",
+            "type": "image",
+            "target_id": "810716"
+        },
+        {
+            "originalFilename": "Dolgellau00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00014.jpg",
+            "type": "image",
+            "target_id": "810721"
+        },
+        {
+            "originalFilename": "Dolgellau00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00015.jpg",
+            "type": "image",
+            "target_id": "810726"
+        },
+        {
+            "originalFilename": "Dolgellau00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00016.jpg",
+            "type": "image",
+            "target_id": "810731"
+        },
+        {
+            "originalFilename": "Dolgellau00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00017.jpg",
+            "type": "image",
+            "target_id": "810736"
+        },
+        {
+            "originalFilename": "Dolgellau00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00018.jpg",
+            "type": "image",
+            "target_id": "810741"
+        },
+        {
+            "originalFilename": "Dolgellau00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00019.jpg",
+            "type": "image",
+            "target_id": "810746"
+        },
+        {
+            "originalFilename": "Dolgellau00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00020.jpg",
+            "type": "image",
+            "target_id": "810751"
+        },
+        {
+            "originalFilename": "Dolgellau00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00021.jpg",
+            "type": "image",
+            "target_id": "810756"
+        },
+        {
+            "originalFilename": "Dolgellau00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00022.jpg",
+            "type": "image",
+            "target_id": "810761"
+        },
+        {
+            "originalFilename": "Dolgellau00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00023.jpg",
+            "type": "image",
+            "target_id": "810766"
+        },
+        {
+            "originalFilename": "Dolgellau00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00024.jpg",
+            "type": "image",
+            "target_id": "810771"
+        },
+        {
+            "originalFilename": "Dolgellau00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00025.jpg",
+            "type": "image",
+            "target_id": "810776"
+        },
+        {
+            "originalFilename": "Dolgellau00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00026.jpg",
+            "type": "image",
+            "target_id": "810781"
+        },
+        {
+            "originalFilename": "Dolgellau00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00027.jpg",
+            "type": "image",
+            "target_id": "810786"
+        },
+        {
+            "originalFilename": "Dolgellau00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00028.jpg",
+            "type": "image",
+            "target_id": "810791"
+        },
+        {
+            "originalFilename": "Dolgellau00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00029.jpg",
+            "type": "image",
+            "target_id": "810796"
+        },
+        {
+            "originalFilename": "Dolgellau00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00030.jpg",
+            "type": "image",
+            "target_id": "810801"
+        },
+        {
+            "originalFilename": "Dolgellau00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00031.jpg",
+            "type": "image",
+            "target_id": "810806"
+        },
+        {
+            "originalFilename": "Dolgellau00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00032.jpg",
+            "type": "image",
+            "target_id": "810811"
+        },
+        {
+            "originalFilename": "Dolgellau00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00033.jpg",
+            "type": "image",
+            "target_id": "810816"
+        },
+        {
+            "originalFilename": "Dolgellau00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00034.jpg",
+            "type": "image",
+            "target_id": "810821"
+        },
+        {
+            "originalFilename": "Dolgellau00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00035.jpg",
+            "type": "image",
+            "target_id": "810826"
+        },
+        {
+            "originalFilename": "Dolgellau00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00036.jpg",
+            "type": "image",
+            "target_id": "810831"
+        },
+        {
+            "originalFilename": "Dolgellau00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00037.jpg",
+            "type": "image",
+            "target_id": "810836"
+        },
+        {
+            "originalFilename": "Dolgellau00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00038.jpg",
+            "type": "image",
+            "target_id": "810841"
+        },
+        {
+            "originalFilename": "Dolgellau00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00039.jpg",
+            "type": "image",
+            "target_id": "810846"
+        },
+        {
+            "originalFilename": "Dolgellau00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00040.jpg",
+            "type": "image",
+            "target_id": "810851"
+        },
+        {
+            "originalFilename": "Dolgellau00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00041.jpg",
+            "type": "image",
+            "target_id": "810856"
+        },
+        {
+            "originalFilename": "Dolgellau00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00042.jpg",
+            "type": "image",
+            "target_id": "810861"
+        },
+        {
+            "originalFilename": "Dolgellau00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00043.jpg",
+            "type": "image",
+            "target_id": "810866"
+        },
+        {
+            "originalFilename": "Dolgellau00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00044.jpg",
+            "type": "image",
+            "target_id": "810871"
+        },
+        {
+            "originalFilename": "Dolgellau00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00045.jpg",
+            "type": "image",
+            "target_id": "810876"
+        },
+        {
+            "originalFilename": "Dolgellau00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00046.jpg",
+            "type": "image",
+            "target_id": "810881"
+        },
+        {
+            "originalFilename": "Dolgellau00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00047.jpg",
+            "type": "image",
+            "target_id": "810886"
+        },
+        {
+            "originalFilename": "Dolgellau00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00048.jpg",
+            "type": "image",
+            "target_id": "810891"
+        },
+        {
+            "originalFilename": "Dolgellau00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00049.jpg",
+            "type": "image",
+            "target_id": "810896"
+        },
+        {
+            "originalFilename": "Dolgellau00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00050.jpg",
+            "type": "image",
+            "target_id": "810901"
+        },
+        {
+            "originalFilename": "Dolgellau00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00051.jpg",
+            "type": "image",
+            "target_id": "810906"
+        },
+        {
+            "originalFilename": "Dolgellau00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00052.jpg",
+            "type": "image",
+            "target_id": "810911"
+        },
+        {
+            "originalFilename": "Dolgellau00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00053.jpg",
+            "type": "image",
+            "target_id": "810916"
+        },
+        {
+            "originalFilename": "Dolgellau00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00054.jpg",
+            "type": "image",
+            "target_id": "810921"
+        },
+        {
+            "originalFilename": "Dolgellau00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00055.jpg",
+            "type": "image",
+            "target_id": "810926"
+        },
+        {
+            "originalFilename": "Dolgellau00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00056.jpg",
+            "type": "image",
+            "target_id": "810931"
+        },
+        {
+            "originalFilename": "Dolgellau00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00057.jpg",
+            "type": "image",
+            "target_id": "810936"
+        },
+        {
+            "originalFilename": "Dolgellau00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00058.jpg",
+            "type": "image",
+            "target_id": "810941"
+        },
+        {
+            "originalFilename": "Dolgellau00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00059.jpg",
+            "type": "image",
+            "target_id": "810946"
+        },
+        {
+            "originalFilename": "Dolgellau00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00060.jpg",
+            "type": "image",
+            "target_id": "810951"
+        },
+        {
+            "originalFilename": "Dolgellau00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00061.jpg",
+            "type": "image",
+            "target_id": "810956"
+        },
+        {
+            "originalFilename": "Dolgellau00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00062.jpg",
+            "type": "image",
+            "target_id": "810961"
+        },
+        {
+            "originalFilename": "Dolgellau00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00063.jpg",
+            "type": "image",
+            "target_id": "810966"
+        },
+        {
+            "originalFilename": "Dolgellau00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00064.jpg",
+            "type": "image",
+            "target_id": "810971"
+        },
+        {
+            "originalFilename": "Dolgellau00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00065.jpg",
+            "type": "image",
+            "target_id": "810976"
+        },
+        {
+            "originalFilename": "Dolgellau00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00066.jpg",
+            "type": "image",
+            "target_id": "810981"
+        },
+        {
+            "originalFilename": "Dolgellau00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00067.jpg",
+            "type": "image",
+            "target_id": "810986"
+        },
+        {
+            "originalFilename": "Dolgellau00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00068.jpg",
+            "type": "image",
+            "target_id": "810991"
+        },
+        {
+            "originalFilename": "Dolgellau00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00069.jpg",
+            "type": "image",
+            "target_id": "810996"
+        },
+        {
+            "originalFilename": "Dolgellau00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00070.jpg",
+            "type": "image",
+            "target_id": "811001"
+        },
+        {
+            "originalFilename": "Dolgellau00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00071.jpg",
+            "type": "image",
+            "target_id": "811006"
+        },
+        {
+            "originalFilename": "Dolgellau00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00072.jpg",
+            "type": "image",
+            "target_id": "811011"
+        },
+        {
+            "originalFilename": "Dolgellau00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00073.jpg",
+            "type": "image",
+            "target_id": "811016"
+        },
+        {
+            "originalFilename": "Dolgellau00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00074.jpg",
+            "type": "image",
+            "target_id": "811021"
+        },
+        {
+            "originalFilename": "Dolgellau00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Dolgellau00075.jpg",
+            "type": "image",
+            "target_id": "811026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

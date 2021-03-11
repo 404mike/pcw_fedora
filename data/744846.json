@@ -1,0 +1,90 @@
+{
+    "id": 744846,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch Programme 2003-2004",
+        "cy": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 2003 \u2013 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744846",
+    "created": 1516896509,
+    "updated": 1516896509,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 2003 \u2013 2004\nClawr",
+        "cy": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 2003 \u2013 2004\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.243603000000",
+            "lon": "-4.261261000000",
+            "description": {
+                "en": "Festri Tabernacl, Aberaeron",
+                "cy": "Festri Tabernacl, Aberaeron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-046.jpg",
+            "type": "image",
+            "target_id": "744831"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-048.jpg",
+            "type": "image",
+            "target_id": "744836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

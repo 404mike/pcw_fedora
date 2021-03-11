@@ -1,0 +1,54 @@
+{
+    "id": 1048736,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2010",
+        "cy": "Sioe Frenhinol Llanelwedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048736",
+    "created": 1555591630,
+    "updated": 1596532649,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The Royal Welsh Show planting a tree on behalf of MyW.",
+        "cy": "Y Sioe Frenhinol yn plannu coeden ar ran MyW ar gae'r Sioe yn Llanelwedd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Royal Welsh Show",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_277.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_277.jpg",
+            "type": "image",
+            "target_id": "1048731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

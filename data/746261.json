@@ -1,0 +1,75 @@
+{
+    "id": 746261,
+    "title": {
+        "en": "A member of Merched y Wawr Lampeter Branch becomes National Deputy-Treasurer",
+        "cy": "Aelod o Ferched y Wawr Llanbedr Pont Steffan a&#039;r Cylch yn dod yn Is-Drysorydd Cenedlaethol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746261",
+    "created": 1516897198,
+    "updated": 1516897198,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eryl Jones yn derbyn bowlen o wydr wedi ei ar-ysgrifio gan y Gangen ar achlysur ei phenodi yn Is-Drysorydd Cendlaethol yn 1988",
+        "cy": "Eryl Jones yn derbyn bowlen o wydr wedi ei ar-ysgrifio gan y Gangen ar achlysur ei phenodi yn Is-Drysorydd Cendlaethol yn 1988"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252040.jpg",
+            "type": "image",
+            "target_id": "746256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

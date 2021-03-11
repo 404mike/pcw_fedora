@@ -1,0 +1,84 @@
+{
+    "id": 609651,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Branch on the Brecon Canal",
+        "cy": "Merched y Wawr Cangen Bro Cennech ar y Gamlas yn Aberhonddu "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609651",
+    "created": 1510753030,
+    "updated": 1510753030,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Cennech yn mwynhau te ar y Gamlas yn Aberhonddu yn ystod gwibdaith Mehefin 2013\nO\u2019r chwith \u2013 Margaret Thomas, Phyllis Williams, Annie Evans, Brenda Williams, Megan Morgan",
+        "cy": "Merched y Wawr Cangen Bro Cennech yn mwynhau te ar y Gamlas yn Aberhonddu yn ystod gwibdaith Mehefin 2013\nO\u2019r chwith \u2013 Margaret Thomas, Phyllis Williams, Annie Evans, Brenda Williams, Megan Morgan"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.949097000000",
+            "lon": "-3.391294000000",
+            "description": {
+                "en": "Brecon",
+                "cy": "Brecon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-003.jpg",
+            "type": "image",
+            "target_id": "609641"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

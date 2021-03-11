@@ -1,0 +1,75 @@
+{
+    "id": 746571,
+    "title": {
+        "en": "St Dogmaels Community Welsh Language Library",
+        "cy": "Llyfrgell Gymunedol Gymraeg Llandudoch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746571",
+    "created": 1516897343,
+    "updated": 1516897343,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Syniad un o aelodau Merched y Wawr Llandudoch, Kathleen Finlayson, oedd cael Llyfrgell Gymunedol Gymraeg yn Y Cartws, Llandudoch.  Yn y llun mae rhai o aelodau\u2019r gangen yn cyfrannu llyfrau i\u2019r llyfrgell, a agorodd yn ystod Penwythnos Menter Iaith Sir Benfro, Ionawr 2017.",
+        "cy": "Syniad un o aelodau Merched y Wawr Llandudoch, Kathleen Finlayson, oedd cael Llyfrgell Gymunedol Gymraeg yn Y Cartws, Llandudoch.  Yn y llun mae rhai o aelodau\u2019r gangen yn cyfrannu llyfrau i\u2019r llyfrgell, a agorodd yn ystod Penwythnos Menter Iaith Sir Benfro, Ionawr 2017."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llandudoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandudoch",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-033.jpg",
+            "type": "image",
+            "target_id": "746566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

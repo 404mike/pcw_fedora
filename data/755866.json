@@ -1,0 +1,83 @@
+{
+    "id": 755866,
+    "title": {
+        "en": "Y WAWR- Merched y Wawr\u2019s quarterly magazine. October 1989 ",
+        "cy": "Y Wawr, cylchgrawn chwarterol Merched y Wawr. Hydref 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/755866",
+    "created": 1516959122,
+    "updated": 1516959122,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhifyn 85. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968.",
+        "cy": "Rhifyn 85. Detholiad o gloriau ac erthyglau o gylchgrawn \u2018Y WAWR\u2019 a gyhoeddwyd am y tro cyntaf ym mis Awst, 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Y Wawr",
+        "Llyfrau Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.413226000000",
+            "lon": "-4.087243000000",
+            "description": {
+                "en": "Aberystwyth",
+                "cy": "Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_YWAWR_Rhif_085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_YWAWR_Rhif_085.jpg",
+            "type": "image",
+            "target_id": "755856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

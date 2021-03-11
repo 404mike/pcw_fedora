@@ -1,0 +1,89 @@
+{
+    "id": 470558,
+    "title": {
+        "en": "Talybont , Cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Talybont, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470558",
+    "created": 1441700792,
+    "updated": 1441700792,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Talybont, Cardiganshire branch of Merched y Wawr. It contains lists of houses in Talybont and Tre Taliesin. Also some field names in Tre Taliesin.",
+        "cy": "Gwybodaeth am waith cangen Talybont, Cerdigion o Ferched y Wawr. Mae'n cynnwys enwau tai yn Nhalybont a Thre Talieisin. Hefyd rhai enwau caeau yn Nhre Talieisin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10703.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10703.jpg",
+            "type": "image",
+            "target_id": "470552"
+        },
+        {
+            "originalFilename": "pcw001_10704.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10704.jpg",
+            "type": "image",
+            "target_id": "470553"
+        },
+        {
+            "originalFilename": "pcw001_10705.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10705.jpg",
+            "type": "image",
+            "target_id": "470554"
+        },
+        {
+            "originalFilename": "pcw001_10706.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10706.jpg",
+            "type": "image",
+            "target_id": "470555"
+        },
+        {
+            "originalFilename": "pcw001_10707.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10707.jpg",
+            "type": "image",
+            "target_id": "470556"
+        },
+        {
+            "originalFilename": "pcw001_10708.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10708.jpg",
+            "type": "image",
+            "target_id": "470557"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10703",
+    "publisher_ref": ""
+}

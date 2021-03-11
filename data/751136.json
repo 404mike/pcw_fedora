@@ -1,0 +1,109 @@
+{
+    "id": 751136,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandderfel, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llandderfel, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751136",
+    "created": 1516899800,
+    "updated": 1516899800,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r aelodau sefydlodd y Gangen ym mis Mai, 1968. Gwelwn, Rhian Thomas, Kate Smith, Angharad Evans, Mrs Lloyd Dolgadfa, Mrs Williams Ty\u2019n Llyw, Mrs Branwen Thomas, Mrs Beti Evans a Mair Eirlys \u2018Tisa.",
+        "cy": "Llun o\u2019r aelodau sefydlodd y Gangen ym mis Mai, 1968. Gwelwn, Rhian Thomas, Kate Smith, Angharad Evans, Mrs Lloyd Dolgadfa, Mrs Williams Ty\u2019n Llyw, Mrs Branwen Thomas, Mrs Beti Evans a Mair Eirlys \u2018Tisa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen LLandderfel",
+    "owner": "Cangen LLandderfel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_003.jpg",
+            "type": "image",
+            "target_id": "751106"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_004.jpg",
+            "type": "image",
+            "target_id": "751111"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_005.jpg",
+            "type": "image",
+            "target_id": "751116"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_006.jpg",
+            "type": "image",
+            "target_id": "751121"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANDDERFEL_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANDDERFEL_007.jpg",
+            "type": "image",
+            "target_id": "751126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

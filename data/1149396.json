@@ -1,0 +1,64 @@
+{
+    "id": 1149396,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2010",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149396",
+    "created": 1562066279,
+    "updated": 1562066279,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Badminton \u2013 1st Llanfyllin, Maldwyn",
+        "cy": "Badminton \u2013 1af Llanfyllin, Maldwyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_139.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_139.jpg",
+            "type": "image",
+            "target_id": "1149391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

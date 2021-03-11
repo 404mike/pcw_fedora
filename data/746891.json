@@ -1,0 +1,75 @@
+{
+    "id": 746891,
+    "title": {
+        "en": "Merched y Wawr Llanybyther Branch at the village carnival",
+        "cy": "Merched y Wawr Llanybydder yn yng ngharnifal y pentref "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746891",
+    "created": 1516897488,
+    "updated": 1516897488,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llanybydder yn cystadlu ac yn ennill y brif wobr yng ngharnifal y pentref ym 1988. \nYn y llun mae Nel Jones, Yvonne Davies, Olga Evans, Betty Davies, Graham Howard, Anne Milcoy, Bet Davies, Gladys Evans, Megan Jones, Nans Davies",
+        "cy": "Merched y Wawr Llanybydder yn cystadlu ac yn ennill y brif wobr yng ngharnifal y pentref ym 1988. \nYn y llun mae Nel Jones, Yvonne Davies, Olga Evans, Betty Davies, Graham Howard, Anne Milcoy, Bet Davies, Gladys Evans, Megan Jones, Nans Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanybydder",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanybydder",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-053.jpg",
+            "type": "image",
+            "target_id": "746886"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

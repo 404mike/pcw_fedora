@@ -1,0 +1,76 @@
+{
+    "id": 1144461,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2014",
+        "cy": "Sioe Frenhinol Llanelwedd 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144461",
+    "created": 1562061918,
+    "updated": 1562061918,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The MyW Stand \u2013 patrons Radnorshire. Exibition from every area.",
+        "cy": "Stondin MyW \u2013 noddwyr Maesyfed. Arddangosfa yn cynnwys eitemau o bob Rhanbarth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_572.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_572.jpg",
+            "type": "image",
+            "target_id": "1144446"
+        },
+        {
+            "originalFilename": "df_myw_573.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_573.jpg",
+            "type": "image",
+            "target_id": "1144451"
+        },
+        {
+            "originalFilename": "df_myw_574.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_574.jpg",
+            "type": "image",
+            "target_id": "1144456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

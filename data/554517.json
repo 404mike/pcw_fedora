@@ -1,0 +1,82 @@
+{
+    "id": 554517,
+    "title": {
+        "en": "Merched y Wawr Blaenffos Branch on a Mystery Tour in the 1970s",
+        "cy": "Merched y Wawr, Cangen Blaenffos ar Daith Ddirgel 1970au"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554517",
+    "created": 1487592156,
+    "updated": 1487592156,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nMerched y Wawr, Cangen Blaenffos, Penfro.  Taith ddirgel \u2013 ar ben heol Penwernddu (fferm aelod y gangen ar y pryd, Beryl George).",
+        "cy": "Merched y Wawr, Cangen Blaenffos, Penfro.  Taith ddirgel \u2013 ar ben heol Penwernddu (fferm aelod y gangen ar y pryd, Beryl George)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd, yn wreiddiol o Gangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Blaenffos",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.003149000000",
+            "lon": "-4.638274000000",
+            "description": {
+                "en": "Blaenffos, Penfro",
+                "cy": "Blaenffos, Penfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-002.jpg",
+            "type": "image",
+            "target_id": "554515"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1147981,
+    "title": {
+        "en": "Anglesey National Eisteddfod 2017",
+        "cy": "Eisteddfod Genedlaethol Ynys M\u00f4n 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147981",
+    "created": 1562065583,
+    "updated": 1562065583,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Branwen Davies and Alaw Roberts giving a presentation on the Heritage Project.",
+        "cy": "Branwen Davies ac Alaw Roberts yn son am y Prosiect Trefdtadaeth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_978.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_978.jpg",
+            "type": "image",
+            "target_id": "1147976"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

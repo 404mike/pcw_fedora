@@ -1,0 +1,84 @@
+{
+    "id": 601510,
+    "title": {
+        "en": "Merched y Wawr Bridgend Branch in Swansea",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr ar daith i Abertawe\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601510",
+    "created": 1502449478,
+    "updated": 1502449478,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Penybont ar Ogwr ar daith siopa a bwyta yn Abertawe, Gorffennaf 1989\nSheila Adams, Anwen Hill, Maryl Richards, Mair Workman, Lyn Edwards, Janet Richards, Carys Thomas, Gladys Dorney Kingdom, Heulwen Thomas, Mari Huws",
+        "cy": "Merched y Wawr Cangen Penybont ar Ogwr ar daith siopa a bwyta yn Abertawe, Gorffennaf 1989\nSheila Adams, Anwen Hill, Maryl Richards, Mair Workman, Lyn Edwards, Janet Richards, Carys Thomas, Gladys Dorney Kingdom, Heulwen Thomas, Mari Huws"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Penybont ar Ogwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Penybont ar Ogwr",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.621365000000",
+            "lon": "-3.943395000000",
+            "description": {
+                "en": "Abertawe",
+                "cy": "Abertawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-006.jpg",
+            "type": "image",
+            "target_id": "601508"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

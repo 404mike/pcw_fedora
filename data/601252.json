@@ -1,0 +1,90 @@
+{
+    "id": 601252,
+    "title": {
+        "en": "Poems depicting Merched y Wawr Bro Cranogwen Branch",
+        "cy": "Penillion am Ferched y Wawr Bro Cranogwen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601252",
+    "created": 1502449087,
+    "updated": 1502449087,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 set o benillion a ysgrifennwyd gan Kate Jones, un o aelodau Merched y Wawr Cangen Bro Cranogwen, fel cofnod o ddwy flynedd o weithgareddau y Gangen \nTudalen 1 \u2013 Pennill Cofnod am 2004 - 2005",
+        "cy": "2 set o benillion a ysgrifennwyd gan Kate Jones, un o aelodau Merched y Wawr Cangen Bro Cranogwen, fel cofnod o ddwy flynedd o weithgareddau y Gangen \nTudalen 1 \u2013 Pennill Cofnod am 2004 - 2005"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cranogwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cranogwen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.159682000000",
+            "lon": "-4.470408000000",
+            "description": {
+                "en": "Llangrannog",
+                "cy": "Llangrannog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-108.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-108.jpg",
+            "type": "image",
+            "target_id": "601249"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-109.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-109.jpg",
+            "type": "image",
+            "target_id": "601250"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 622551,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwyddelwern, Glyn Maelor",
+        "cy": "Ymweld cangen Merched y Wawr Gwyddelwern, Glyn Maelor i Nant Gwrtheyrn, 1990."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622551",
+    "created": 1511279208,
+    "updated": 1511279208,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn ymweld a Nant Gwrtheyrn cyn iddo droi\u2019r ganolfan iaith ym 1990. Hilda Jones, Anwen Lewis, Audrey Jones, Beryl Roberts, Mrs M E Jones, Mary Evans, Gladwen Jones, Delyth Jones, Beryl Edwards, Merys Watson, Mair Evans.",
+        "cy": "Rhai o aelodau\u2019r gangen yn ymweld a Nant Gwrtheyrn cyn iddo droi\u2019r ganolfan iaith ym 1990. Hilda Jones, Anwen Lewis, Audrey Jones, Beryl Roberts, Mrs M E Jones, Mary Evans, Gladwen Jones, Delyth Jones, Beryl Edwards, Merys Watson, Mair Evans."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwyddelwern",
+    "owner": "Cangen Gwyddelwern",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "gwyddelwern",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwyddelwern",
+        "Rhanbarth Glyn Maelor",
+        "Nant Gwrtheyrn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.011795000000",
+            "lon": "-3.378912000000",
+            "description": {
+                "en": "Gwyddelwern",
+                "cy": "Gwyddelwern"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_GWYDDELWERN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_GWYDDELWERN_006.jpg",
+            "type": "image",
+            "target_id": "622541"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

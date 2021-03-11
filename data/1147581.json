@@ -1,0 +1,65 @@
+{
+    "id": 1147581,
+    "title": {
+        "en": "50th Celebrations at  Parc, Y Bala",
+        "cy": "Dathliadau 50 yn Y Parc, Y Bala"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147581",
+    "created": 1562065423,
+    "updated": 1562065423,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meirwen Lloyd, Deputy President, giving a vote of thanks.",
+        "cy": "Meirwen Lloyd, Is-Lywydd MyW yn talu'r diolchiadau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "dathliadau 50",
+        "Y Parc",
+        "Y Bala"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_930.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_930.jpg",
+            "type": "image",
+            "target_id": "1147576"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 743936,
+    "title": {
+        "en": "Merched y Wawr Bro Gwili Branch 30th Anniversary",
+        "cy": "Merched y Wawr Bro Gwili yn Dathlu 30"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743936",
+    "created": 1516896073,
+    "updated": 1516896073,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau Cangen Bro Gwili o Ferched y Wawr yn dathlu 30 mlynedd gyda Mr Arwyn Thomas, hanesydd a chyn-brifathro Ysgol Maesyryrfa, ein gwr gwadd.\n\nAr ei traed:- Dinah Hughes,Mair Thomas, Mary Howell, Elsie Jones, Sulwen Jones, Nivina Davies, Mair Thomas, Ann Davies, Dilys Reynolds.\nYn eistedd:- Menna Griffiths, Ann Wyke, Mr Arwyn Thomas, Doreen Nicholas.",
+        "cy": "Llun o aelodau Cangen Bro Gwili o Ferched y Wawr yn dathlu 30 mlynedd gyda Mr Arwyn Thomas, hanesydd a chyn-brifathro Ysgol Maesyryrfa, ein gwr gwadd.\n\nAr ei traed:- Dinah Hughes,Mair Thomas, Mary Howell, Elsie Jones, Sulwen Jones, Nivina Davies, Mair Thomas, Ann Davies, Dilys Reynolds.\nYn eistedd:- Menna Griffiths, Ann Wyke, Mr Arwyn Thomas, Doreen Nicholas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Gwili",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Gwili",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Bro%20Gwili%202010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Bro%2520Gwili%25202010.jpg",
+            "type": "image",
+            "target_id": "743931"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

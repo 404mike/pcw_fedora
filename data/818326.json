@@ -1,0 +1,345 @@
+{
+    "id": 818326,
+    "title": {
+        "en": "Scrapbook of Treboeth Branch",
+        "cy": "Llyfr lloffion Cangen Treboeth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/818326",
+    "created": 1523360877,
+    "updated": 1523360877,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Treboeth",
+    "owner": "Cangen Treboeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Treboeth",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Treboeth00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00001.jpg",
+            "type": "image",
+            "target_id": "818096"
+        },
+        {
+            "originalFilename": "Treboeth00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00002.jpg",
+            "type": "image",
+            "target_id": "818101"
+        },
+        {
+            "originalFilename": "Treboeth00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00003.jpg",
+            "type": "image",
+            "target_id": "818106"
+        },
+        {
+            "originalFilename": "Treboeth00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00004.jpg",
+            "type": "image",
+            "target_id": "818111"
+        },
+        {
+            "originalFilename": "Treboeth00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00005.jpg",
+            "type": "image",
+            "target_id": "818116"
+        },
+        {
+            "originalFilename": "Treboeth00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00006.jpg",
+            "type": "image",
+            "target_id": "818121"
+        },
+        {
+            "originalFilename": "Treboeth00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00007.jpg",
+            "type": "image",
+            "target_id": "818126"
+        },
+        {
+            "originalFilename": "Treboeth00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00008.jpg",
+            "type": "image",
+            "target_id": "818131"
+        },
+        {
+            "originalFilename": "Treboeth00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00009.jpg",
+            "type": "image",
+            "target_id": "818136"
+        },
+        {
+            "originalFilename": "Treboeth00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00010.jpg",
+            "type": "image",
+            "target_id": "818141"
+        },
+        {
+            "originalFilename": "Treboeth00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00011.jpg",
+            "type": "image",
+            "target_id": "818146"
+        },
+        {
+            "originalFilename": "Treboeth00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00012.jpg",
+            "type": "image",
+            "target_id": "818151"
+        },
+        {
+            "originalFilename": "Treboeth00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00013.jpg",
+            "type": "image",
+            "target_id": "818156"
+        },
+        {
+            "originalFilename": "Treboeth00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00014.jpg",
+            "type": "image",
+            "target_id": "818161"
+        },
+        {
+            "originalFilename": "Treboeth00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00015.jpg",
+            "type": "image",
+            "target_id": "818166"
+        },
+        {
+            "originalFilename": "Treboeth00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00016.jpg",
+            "type": "image",
+            "target_id": "818171"
+        },
+        {
+            "originalFilename": "Treboeth00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00017.jpg",
+            "type": "image",
+            "target_id": "818176"
+        },
+        {
+            "originalFilename": "Treboeth00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00018.jpg",
+            "type": "image",
+            "target_id": "818181"
+        },
+        {
+            "originalFilename": "Treboeth00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00019.jpg",
+            "type": "image",
+            "target_id": "818186"
+        },
+        {
+            "originalFilename": "Treboeth00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00020.jpg",
+            "type": "image",
+            "target_id": "818191"
+        },
+        {
+            "originalFilename": "Treboeth00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00021.jpg",
+            "type": "image",
+            "target_id": "818196"
+        },
+        {
+            "originalFilename": "Treboeth00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00022.jpg",
+            "type": "image",
+            "target_id": "818201"
+        },
+        {
+            "originalFilename": "Treboeth00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00023.jpg",
+            "type": "image",
+            "target_id": "818206"
+        },
+        {
+            "originalFilename": "Treboeth00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00024.jpg",
+            "type": "image",
+            "target_id": "818211"
+        },
+        {
+            "originalFilename": "Treboeth00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00025.jpg",
+            "type": "image",
+            "target_id": "818216"
+        },
+        {
+            "originalFilename": "Treboeth00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00026.jpg",
+            "type": "image",
+            "target_id": "818221"
+        },
+        {
+            "originalFilename": "Treboeth00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00027.jpg",
+            "type": "image",
+            "target_id": "818226"
+        },
+        {
+            "originalFilename": "Treboeth00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00028.jpg",
+            "type": "image",
+            "target_id": "818231"
+        },
+        {
+            "originalFilename": "Treboeth00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00029.jpg",
+            "type": "image",
+            "target_id": "818236"
+        },
+        {
+            "originalFilename": "Treboeth00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00030.jpg",
+            "type": "image",
+            "target_id": "818241"
+        },
+        {
+            "originalFilename": "Treboeth00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00031.jpg",
+            "type": "image",
+            "target_id": "818246"
+        },
+        {
+            "originalFilename": "Treboeth00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00032.jpg",
+            "type": "image",
+            "target_id": "818251"
+        },
+        {
+            "originalFilename": "Treboeth00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00033.jpg",
+            "type": "image",
+            "target_id": "818256"
+        },
+        {
+            "originalFilename": "Treboeth00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00034.jpg",
+            "type": "image",
+            "target_id": "818261"
+        },
+        {
+            "originalFilename": "Treboeth00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00035.jpg",
+            "type": "image",
+            "target_id": "818266"
+        },
+        {
+            "originalFilename": "Treboeth00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00036.jpg",
+            "type": "image",
+            "target_id": "818271"
+        },
+        {
+            "originalFilename": "Treboeth00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00037.jpg",
+            "type": "image",
+            "target_id": "818276"
+        },
+        {
+            "originalFilename": "Treboeth00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00038.jpg",
+            "type": "image",
+            "target_id": "818281"
+        },
+        {
+            "originalFilename": "Treboeth00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00039.jpg",
+            "type": "image",
+            "target_id": "818286"
+        },
+        {
+            "originalFilename": "Treboeth00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00040.jpg",
+            "type": "image",
+            "target_id": "818291"
+        },
+        {
+            "originalFilename": "Treboeth00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00041.jpg",
+            "type": "image",
+            "target_id": "818296"
+        },
+        {
+            "originalFilename": "Treboeth00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00042.jpg",
+            "type": "image",
+            "target_id": "818301"
+        },
+        {
+            "originalFilename": "Treboeth00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00043.jpg",
+            "type": "image",
+            "target_id": "818306"
+        },
+        {
+            "originalFilename": "Treboeth00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00044.jpg",
+            "type": "image",
+            "target_id": "818311"
+        },
+        {
+            "originalFilename": "Treboeth00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00045.jpg",
+            "type": "image",
+            "target_id": "818316"
+        },
+        {
+            "originalFilename": "Treboeth00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Treboeth00046.jpg",
+            "type": "image",
+            "target_id": "818321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

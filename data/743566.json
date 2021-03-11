@@ -1,0 +1,84 @@
+{
+    "id": 743566,
+    "title": {
+        "en": "Merched y Wawr Beca Branch Celebrates its 40th Anniversary",
+        "cy": "Merched y Wawr Cangen Beca yn Dathlu Deugain Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743566",
+    "created": 1516895933,
+    "updated": 1516895933,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hafwen John yn torri\u2019r gacen wrth i Ferched y Wawr Beca ddathlu penblwydd yn 40 oed yng Nghaffi Beca, Efailwen.  Mae Hafwen yn ferch i Ann John, un o aelodau cyntaf y gangen.",
+        "cy": "Hafwen John yn torri\u2019r gacen wrth i Ferched y Wawr Beca ddathlu penblwydd yn 40 oed yng Nghaffi Beca, Efailwen.  Mae Hafwen yn ferch i Ann John, un o aelodau cyntaf y gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.896658000000",
+            "lon": "-4.711417000000",
+            "description": {
+                "en": "Caffi Beca, Efailwen",
+                "cy": "Caffi Beca, Efailwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-049.jpg",
+            "type": "image",
+            "target_id": "743556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

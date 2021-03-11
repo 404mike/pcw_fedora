@@ -1,0 +1,97 @@
+{
+    "id": 584548,
+    "title": {
+        "en": "Merched y Wawr Pontypridd Branch 1977-78",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontypridd 1977-78"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584548",
+    "created": 1499871180,
+    "updated": 1499871180,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cangen Pontypridd 1977-78, sef blwyddyn gyntaf cangen gwreiddiol Pontypridd \nClawr \u2013 enwau swyddogion",
+        "cy": "Rhaglen Cangen Pontypridd 1977-78, sef blwyddyn gyntaf cangen gwreiddiol Pontypridd \nClawr \u2013 enwau swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pontypridd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontypridd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.672210000000",
+            "lon": "-3.483056000000",
+            "description": {
+                "en": "Festri Seion, Pontypridd",
+                "cy": "Festri Seion, Pontypridd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-075.jpg",
+            "type": "image",
+            "target_id": "584544"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-076.jpg",
+            "type": "image",
+            "target_id": "584545"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-077.jpg",
+            "type": "image",
+            "target_id": "584546"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

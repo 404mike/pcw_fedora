@@ -1,0 +1,92 @@
+{
+    "id": 626086,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Club Gwawr y Goes Goch, Anglesey.",
+        "cy": "Rhaglen tymor 2008-2009 cangen Clwb Gwawr y Goes Goch, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626086",
+    "created": 1511280371,
+    "updated": 1511280371,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 2008-2009 (blaen) Bet, Ffion,Edwina, Amanda, Miriam, (canol) Kathy, Margaret, Glenys, Joe, (cefn) Glynwen, Paula, Anette, Philllis, Dorothy, Margaret.",
+        "cy": "Rhaglen tymor 2008-2009 (blaen) Bet, Ffion,Edwina, Amanda, Miriam, (canol) Kathy, Margaret, Glenys, Joe, (cefn) Glynwen, Paula, Anette, Philllis, Dorothy, Margaret."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Clwb Gwawr y Gors Goch",
+    "owner": "Clwb Gwawr y Gors Goch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Y Goes Goch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr y Gors Goch",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.300238000000",
+            "lon": "-4.236423000000",
+            "description": {
+                "en": "Llanbedrgoch",
+                "cy": "Llanbedrgoch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CG_YGORSGOCH_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CG_YGORSGOCH_005.jpg",
+            "type": "image",
+            "target_id": "626071"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CG_YGORSGOCH_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CG_YGORSGOCH_006.jpg",
+            "type": "image",
+            "target_id": "626076"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 743466,
+    "title": {
+        "en": "One of Merched y Wawr Afan Branch's Famous Sketches",
+        "cy": "Un o sgetshys enwog Merched y Wawr Afan!"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743466",
+    "created": 1516895893,
+    "updated": 1516895893,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 aelod o Ferched y Wawr Afan \u2013 Gloria Jones a Cathryn Davies \u2013 mewn sgetsh.  Roedd y Gangen yn adnabyddus am wneud sgetshys!",
+        "cy": "2 aelod o Ferched y Wawr Afan \u2013 Gloria Jones a Cathryn Davies \u2013 mewn sgetsh.  Roedd y Gangen yn adnabyddus am wneud sgetshys!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Afan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Afan",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-018.jpg",
+            "type": "image",
+            "target_id": "743461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

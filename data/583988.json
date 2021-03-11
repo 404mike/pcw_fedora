@@ -1,0 +1,83 @@
+{
+    "id": 583988,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Celebrating the Organisation's 40th Anniversary",
+        "cy": "Aelodau Rhanbarth Gorllewin Morgannwg Merched y Wawr yn Dathlu 40 y Mudiad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583988",
+    "created": 1499870198,
+    "updated": 1499870198,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu 40 y Mudiad fel Rhanbarth Gorllewin Morgannwg (Dathlu'r Rhuddem).  Aelodau o Gangen Treforys a Lon Las.  Theatr Dylan Thomas \nO\u2019r chwith \u2013 Treforys \u2013 ( Glenys Davis, Mair Thomas - Treforys)   Florence Neucker, Glenys Leyshon, Ann Rosser, Y Fon Margaret Rosser (eistedd), Esther Scott, Eunice Hopkins, Betty Lloyd (eistedd), Sylvia Rees (eistedd)",
+        "cy": "Dathlu 40 y Mudiad fel Rhanbarth Gorllewin Morgannwg (Dathlu'r Rhuddem).  Aelodau o Gangen Treforys a Lon Las.  Theatr Dylan Thomas \nO\u2019r chwith \u2013 Treforys \u2013 ( Glenys Davis, Mair Thomas - Treforys)   Florence Neucker, Glenys Leyshon, Ann Rosser, Y Fon Margaret Rosser (eistedd), Esther Scott, Eunice Hopkins, Betty Lloyd (eistedd), Sylvia Rees (eistedd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.616992000000",
+            "lon": "-3.937606000000",
+            "description": {
+                "en": "Theatr Dylan Thomas, Abertawe ",
+                "cy": "Theatr Dylan Thomas, Abertawe "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-011.jpg",
+            "type": "image",
+            "target_id": "583986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

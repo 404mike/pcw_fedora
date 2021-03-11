@@ -1,0 +1,73 @@
+{
+    "id": 749131,
+    "title": {
+        "en": "Merched y Wawr Residential Weekend Walking Trip",
+        "cy": "Taith Gerdded Penwythnos Preswyl Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749131",
+    "created": 1516898869,
+    "updated": 1516898869,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr yn ceredded i fyny i Gapel Babell yn ystod taith gerdded o Benwythnos Preswyl y mudiad yn Llanbed.  Ar flaen y llun mae Buddug Ward ac Elan Rees o Ferched y Wawr Tegryn.",
+        "cy": "Aelodau Merched y Wawr yn ceredded i fyny i Gapel Babell yn ystod taith gerdded o Benwythnos Preswyl y mudiad yn Llanbed.  Ar flaen y llun mae Buddug Ward ac Elan Rees o Ferched y Wawr Tegryn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-082.jpg",
+            "type": "image",
+            "target_id": "749126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

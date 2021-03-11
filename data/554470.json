@@ -1,0 +1,74 @@
+{
+    "id": 554470,
+    "title": {
+        "en": "Leaflet for Merched y Wawr Day Schools for Ceredigion Area Branches 1985",
+        "cy": " Taflen Ysgolion Undydd Merched y Wawr i Aelodau Canghennau Ceredigion 1985"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554470",
+    "created": 1487591982,
+    "updated": 1487591982,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen a ffurflen gais Ysgolion Undydd i Aelodau Canghennau Ceredigion, 1985. Tachwedd 14 - Plas Tanybwlch, Aberystwyth \/ Tachwedd 21 - Colleg Addysg Bellach Felinfach. Crefft, Blodau, Coginio",
+        "cy": "Taflen a ffurflen gais Ysgolion Undydd i Aelodau Canghennau Ceredigion, 1985. Tachwedd 14 - Plas Tanybwlch, Aberystwyth \/ Tachwedd 21 - Colleg Addysg Bellach Felinfach. Crefft, Blodau, Coginio"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000030.jpg",
+            "type": "image",
+            "target_id": "554469"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

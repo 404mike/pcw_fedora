@@ -1,0 +1,86 @@
+{
+    "id": 752151,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dolgellau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Dolgellau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752151",
+    "created": 1516958119,
+    "updated": 1516958119,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r Gangen o\u2019r 80au cynnar. Dim gwybodaeth pellach.",
+        "cy": "Llun o\u2019r Gangen o\u2019r 80au cynnar. Dim gwybodaeth pellach."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dolgellau",
+    "owner": "Cangen Dolgellau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dolgellau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dolgellau",
+        "DolgellauMerched y Wawr",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.741992000000",
+            "lon": "-3.887413000000",
+            "description": {
+                "en": "Dolgellau",
+                "cy": "Dolgellau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_013.jpg",
+            "type": "image",
+            "target_id": "752141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

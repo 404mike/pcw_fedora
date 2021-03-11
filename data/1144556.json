@@ -1,0 +1,63 @@
+{
+    "id": 1144556,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Eisteddfod Genedlaethol Caerfyrddin a&#039;r Cylch 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144556",
+    "created": 1562061962,
+    "updated": 1562061962,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The actors: Mair Penri (Presenter); Rhiannon Evans; Nia Jones; Gill Griffiths; Shan Morgan; Carys Tudor.",
+        "cy": "Yr actorion \u2013 Mair Penri (Cyflwynydd); Rhiannon Evans; Nia Jones; Gill Griffiths; Shan Morgan; Carys Tudor (cynhyrchydd)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_586.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_586.jpg",
+            "type": "image",
+            "target_id": "1144551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

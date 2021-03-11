@@ -1,0 +1,65 @@
+{
+    "id": 470483,
+    "title": {
+        "en": "Beulah, cardiganshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Beulah, Ceredigion i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470483",
+    "created": 1441700757,
+    "updated": 1441700757,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Beulah, Cardiganshire branch of Merched y Wawr. It contains a map with a list of field names and the occupiers of he farm known as Fronlas in 1841.",
+        "cy": "Gwybodaeth am waith cangen Beulah, Ceredigion o Ferched y Wawr. Mae'n cynnwys map gyda rhestr o enwau caeau a enwau trigolion fferm Lonlas ym 1841."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings",
+        "Maps"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10639.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10639.jpg",
+            "type": "image",
+            "target_id": "470481"
+        },
+        {
+            "originalFilename": "pcw001_10640.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10640.jpg",
+            "type": "image",
+            "target_id": "470482"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10639",
+    "publisher_ref": ""
+}

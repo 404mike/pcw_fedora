@@ -1,0 +1,61 @@
+{
+    "id": 554468,
+    "title": {
+        "en": "Merched y Wawr Literature Competition 1986",
+        "cy": "Cystadleuaeth Lenyddol Merched y Wawr 1986 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554468",
+    "created": 1487591973,
+    "updated": 1489415607,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "<p>Taflen Cystadleuaeth Lenyddol Merched y Wawr 1986 (drama, rhyddiaeth, barddoniaeth, deialog)<\/p>",
+        "cy": "<p>Taflen Cystadleuaeth Lenyddol Merched y Wawr 1986 (drama, rhyddiaeth, barddoniaeth, deialog)<\/p>"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Llenyddiaeth"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000029.jpg",
+            "type": "image",
+            "target_id": "554467"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

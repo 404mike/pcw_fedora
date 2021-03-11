@@ -1,0 +1,86 @@
+{
+    "id": 753101,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Llanuwchllyn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanuwchllyn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753101",
+    "created": 1516958378,
+    "updated": 1516958378,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei 40 ar ben y Wyddfa, Mehefin 2009. Gwelwn: (blaen) Cathie, Nesta, Edwina, Mair, Rose, Alwen, Marian, Aur, Ann, Gwenfair, Llinos (\u00f4l) Mary, Awel, Gwawr, Dyfir, Ann, Beryl, Mair, Bethan.",
+        "cy": "Y Gangen yn dathlu ei 40 ar ben y Wyddfa, Mehefin 2009. Gwelwn: (blaen) Cathie, Nesta, Edwina, Mair, Rose, Alwen, Marian, Aur, Ann, Gwenfair, Llinos (\u00f4l) Mary, Awel, Gwawr, Dyfir, Ann, Beryl, Mair, Bethan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanuwchllyn",
+    "owner": "Cangen Llanuwchllyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanuwchllyn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanuwchllyn",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.855261000000",
+            "lon": "-3.668657000000",
+            "description": {
+                "en": "Llanuwchllyn",
+                "cy": "Llanuwchllyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN014.jpg",
+            "type": "image",
+            "target_id": "753091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

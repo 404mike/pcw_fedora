@@ -1,0 +1,66 @@
+{
+    "id": 1048986,
+    "title": {
+        "en": "MyW Residential Weekend 2010 \u2013 Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2010 \u2013 Cyfoeth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048986",
+    "created": 1555591738,
+    "updated": 1555591738,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A talk by the artists Aneurin and Meirion Jones \u2013 father and son.",
+        "cy": "Lliw a Llun, sgwrs gan yr artistiaid Aneurin a Meirion Jones \u2013 tad a mab."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "cyfoeth ceredigion"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_305.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_305.jpg",
+            "type": "image",
+            "target_id": "1048981"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 747041,
+    "title": {
+        "en": "Enjoying the Merched y Wawr magazine, 'Y Wawr'",
+        "cy": "Mwynhau Cylchgrawn Merched y Wawr, &#039;Y Wawr&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747041",
+    "created": 1516897555,
+    "updated": 1516897555,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Anne, Mair a Myfanwy aelodau o Ferched y Wawr Llwynpiod yn astudio\u2019r Wawr yn drwyadl!  Joan, Betty ac Anne yn disgwyl te yn y cefndir!",
+        "cy": "Anne, Mair a Myfanwy aelodau o Ferched y Wawr Llwynpiod yn astudio\u2019r Wawr yn drwyadl!  Joan, Betty ac Anne yn disgwyl te yn y cefndir!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llwynpiod ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llwynpiod",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-085.jpg",
+            "type": "image",
+            "target_id": "747036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

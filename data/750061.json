@@ -1,0 +1,84 @@
+{
+    "id": 750061,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch at the National Eistedffod 1988",
+        "cy": "Merched y Wawr Cangen Gorseinon yn Eisteddfod Genedlaethol Cwm Tawe 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750061",
+    "created": 1516899286,
+    "updated": 1516899286,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Gorseinon gymerodd ran yng nghyflwyniad Rhanabrth Gorllewin Morgannwg, 'Pileri yn cyflwyno MERCHED Y MOR yn Theatr Cwm Tawe 1988.  Cefn: Beth Horan, Catrin Stevens, Bethan Edwards, Cathy Irons, Megan Jones, Rahel williams, ? Nesta Jones, Lena Thomas\nBlaen: Gwen Evans, Jenny Howells, Sue Leyshon, Esyllt Jones, Mary Thomas, Gwynfa Gwyther\/",
+        "cy": "Aelodau Cangen Gorseinon gymerodd ran yng nghyflwyniad Rhanabrth Gorllewin Morgannwg, 'Pileri yn cyflwyno MERCHED Y MOR yn Theatr Cwm Tawe 1988.  Cefn: Beth Horan, Catrin Stevens, Bethan Edwards, Cathy Irons, Megan Jones, Rahel williams, ? Nesta Jones, Lena Thomas\nBlaen: Gwen Evans, Jenny Howells, Sue Leyshon, Esyllt Jones, Mary Thomas, Gwynfa Gwyther\/"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.716672000000",
+            "lon": "-3.853101000000",
+            "description": {
+                "en": "Theatr Cwm Tawe",
+                "cy": "Theatr Cwm Tawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Pileri%20Merched%20y%20Mor%201988%20Cwm%20tawe.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Pileri%2520Merched%2520y%2520Mor%25201988%2520Cwm%2520tawe.jpg",
+            "type": "image",
+            "target_id": "750051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

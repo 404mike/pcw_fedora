@@ -1,0 +1,76 @@
+{
+    "id": 750516,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Area's New Banner, 2006",
+        "cy": "Baner Newydd Rhanbarth Gorllewin Morgannwg o Ferched y Wawr 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750516",
+    "created": 1516899499,
+    "updated": 1516899499,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Rhanbarth Gorllewin Morgannwg o Ferched y Wawr a gyflwynwyd yn Eisteddfod Abertawe 2006.  Mary Jones (Cangen Cwmgors) ac Esyllt Jones (Cangen Gorseinon) oedd yn gyfrifol am greu\u2019r faner newydd.",
+        "cy": "Baner Rhanbarth Gorllewin Morgannwg o Ferched y Wawr a gyflwynwyd yn Eisteddfod Abertawe 2006.  Mary Jones (Cangen Cwmgors) ac Esyllt Jones (Cangen Gorseinon) oedd yn gyfrifol am greu\u2019r faner newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr, Rhanbarth Gorllewin Morgannwg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Cwmgors",
+        "Cangen Gorseinon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-041.jpg",
+            "type": "image",
+            "target_id": "750511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

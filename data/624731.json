@@ -1,0 +1,85 @@
+{
+    "id": 624731,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Treffynnon, Glyn Maelor",
+        "cy": "Ceinwen Thomas yn derbyn blodau. Cangen Merched y Wawr Treffynnon, Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624731",
+    "created": 1511279930,
+    "updated": 1511279930,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Ceinwen Thomas yn derbyn tusw o flodau \u00a0fel Halen y Ddaear gan y llywydd Gwyneth Morris Jones yn 2013. Y Wawr",
+        "cy": "Llun o Ceinwen Thomas yn derbyn tusw o flodau \u00a0fel Halen y Ddaear gan y llywydd Gwyneth Morris Jones yn 2013. Y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Treffynnon",
+    "owner": "Cangen Treffynnon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holywell",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treffynnon",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275636000000",
+            "lon": "-3.215419000000",
+            "description": {
+                "en": "Holywell",
+                "cy": "Treffynnon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_TREFFYNNON_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_TREFFYNNON_007.jpg",
+            "type": "image",
+            "target_id": "624721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,74 @@
+{
+    "id": 584576,
+    "title": {
+        "en": "Merched y Wawr Rhumney Valley Branch visit Hill Crest Garden",
+        "cy": "Ymweliad Merched y Wawr Cangen Cwm Rhymni i Ardd Hill Crest"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584576",
+    "created": 1499871213,
+    "updated": 1499871213,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o ymweliad Cangen Cwm Rhymni o Ferched y Wawr \u00e2 gardd leol sy\u2019n perthyn i\u2019r Cynllun Gerddi Cenedlaethol (National Garden Scheme) a sydd yn agor eu gerddi i\u2019r cyhoedd er mwyn  codi arian i elusennau.\nYn y Llun - Rita Jones\nMargaret Griffiths\n\nMari Mills\nSian John\nWilma Davies\nJanet Cumpstone\nGaynor Williams\nMair Roberts\nElin Jones\nEirlys Thomas\n?\nGwyneth Davies\nDorothy Morgan\nEvelyn Williams\nJenni Jones Annetts\nJanet Lewis",
+        "cy": "Ffotograff o ymweliad Cangen Cwm Rhymni o Ferched y Wawr \u00e2 gardd leol sy\u2019n perthyn i\u2019r Cynllun Gerddi Cenedlaethol (National Garden Scheme) a sydd yn agor eu gerddi i\u2019r cyhoedd er mwyn  codi arian i elusennau.\nYn y Llun - Rita Jones\nMargaret Griffiths\n\nMari Mills\nSian John\nWilma Davies\nJanet Cumpstone\nGaynor Williams\nMair Roberts\nElin Jones\nEirlys Thomas\n?\nGwyneth Davies\nDorothy Morgan\nEvelyn Williams\nJenni Jones Annetts\nJanet Lewis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-231216-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-231216-001.jpg",
+            "type": "image",
+            "target_id": "584575"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

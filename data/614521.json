@@ -1,0 +1,84 @@
+{
+    "id": 614521,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Celebrates its 40th Anniversary",
+        "cy": "Merched y Wawr Llandysul a&#039;r Cylch yn Dathlu Penblwydd yn 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614521",
+    "created": 1510755022,
+    "updated": 1510755022,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu Deugain y Gangen, Hydref 12, 2012.  \nMattie Jones, aelod hynaf y gangen, wnaeth dorri\u2019r gacen.  Cafwyd Sioe Ffasiwn o ddillad y 70au yn rhan o\u2019r dathliad hefyd.  \nYn y llun mae Jean Lloyd (Trysorydd), Tegwen Morris (Cyfarwyddwr Cenedlaethol Merched y Wawr), Mattie Jones, Iona Jones (Ysgrifenyddes), Tegwen Davies (Llywydd)",
+        "cy": "Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu Deugain y Gangen, Hydref 12, 2012.  \nMattie Jones, aelod hynaf y gangen, wnaeth dorri\u2019r gacen.  Cafwyd Sioe Ffasiwn o ddillad y 70au yn rhan o\u2019r dathliad hefyd.  \nYn y llun mae Jean Lloyd (Trysorydd), Tegwen Morris (Cyfarwyddwr Cenedlaethol Merched y Wawr), Mattie Jones, Iona Jones (Ysgrifenyddes), Tegwen Davies (Llywydd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.041624000000",
+            "lon": "-4.309177000000",
+            "description": {
+                "en": "Llandysul",
+                "cy": "Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-162.jpg",
+            "type": "image",
+            "target_id": "614511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

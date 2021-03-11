@@ -1,0 +1,84 @@
+{
+    "id": 609111,
+    "title": {
+        "en": "Merched y Wawr Bro Alma Branch visit Cardigan Castle ",
+        "cy": " Merched y Wawr Cangen Bro Alma yng Nghastell Aberteifi. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609111",
+    "created": 1510752902,
+    "updated": 1510752902,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip blynyddol Merched y Wawr Cangen Bro Alma yn 2015, ymweld \u00e2 Chastell Aberteifi.",
+        "cy": "Trip blynyddol Merched y Wawr Cangen Bro Alma yn 2015, ymweld \u00e2 Chastell Aberteifi."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.081859000000",
+            "lon": "-4.660483000000",
+            "description": {
+                "en": "Castell Aberteifi",
+                "cy": "Castell Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_080.jpg",
+            "type": "image",
+            "target_id": "609101"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

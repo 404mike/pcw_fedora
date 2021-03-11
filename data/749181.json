@@ -1,0 +1,75 @@
+{
+    "id": 749181,
+    "title": {
+        "en": "Merched y Wawr Stand at the 1995 Urdd Eisteddfod",
+        "cy": "Stondin Merched y Wawr yn Eisteddfod yr Urdd Bro&#039;r Preseli"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749181",
+    "created": 1516898895,
+    "updated": 1516898895,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Tegryn, Rhanbarth Penfro ar stondin y mudiad yn Eisteddfod yr Urdd Bro\u2019r Preseli ym 1995.  \nCefn \u2013 Olwen Bowen, Pam Lewis, Ann Howells, Bethan Hinde, Vie James, Buddug Ward, Non Griffiths (Trefnydd Cenedlaethol Merched y Wawr ar y pryd)\nBlaen - ?, Mer John, Mair Jenkins",
+        "cy": "Merched y Wawr Tegryn, Rhanbarth Penfro ar stondin y mudiad yn Eisteddfod yr Urdd Bro\u2019r Preseli ym 1995.  \nCefn \u2013 Olwen Bowen, Pam Lewis, Ann Howells, Bethan Hinde, Vie James, Buddug Ward, Non Griffiths (Trefnydd Cenedlaethol Merched y Wawr ar y pryd)\nBlaen - ?, Mer John, Mair Jenkins"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-087.jpg",
+            "type": "image",
+            "target_id": "749176"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

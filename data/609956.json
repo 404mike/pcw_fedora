@@ -1,0 +1,82 @@
+{
+    "id": 609956,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch",
+        "cy": "Merched y Wawr Cangen Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609956",
+    "created": 1510753106,
+    "updated": 1510753106,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Carmarthen Branch, Carmarthenshire's First Branch",
+        "cy": "Merched y Wawr Cangen Caerfyrddin, gangen gyntaf o Ferched y Wawr yn Rhanbarth Caerfyrddin \nYn y llun mae Nona, Eirlys H E, Eirlys J, Sian Dalis, Marged Thomas, Mrs SO, Bernice, Beti H, Enid Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerfyrddin",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.858209000000",
+            "lon": "-4.309668000000",
+            "description": {
+                "en": "Caerfyrddin",
+                "cy": "Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-151.jpg",
+            "type": "image",
+            "target_id": "609946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

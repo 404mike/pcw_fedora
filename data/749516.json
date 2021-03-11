@@ -1,0 +1,93 @@
+{
+    "id": 749516,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch's First Meeting Minutes 1972",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Tregaron 1972"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749516",
+    "created": 1516899039,
+    "updated": 1516899039,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr Cangen Tregaron 1972\nCyfarfod sefydlu\u2019r gangen, Medi 19, 1972. Cofnodion cyfarfod Hydref 12fed, 1972.",
+        "cy": "Cofnodion cyntaf Merched y Wawr Cangen Tregaron 1972\nCyfarfod sefydlu\u2019r gangen, Medi 19, 1972. Cofnodion cyfarfod Hydref 12fed, 1972."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-004.jpg",
+            "type": "image",
+            "target_id": "749496"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-005.jpg",
+            "type": "image",
+            "target_id": "749501"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-006.jpg",
+            "type": "image",
+            "target_id": "749506"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-007.jpg",
+            "type": "image",
+            "target_id": "749511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

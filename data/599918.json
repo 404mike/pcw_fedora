@@ -1,0 +1,86 @@
+{
+    "id": 599918,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanddoged, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanddoged, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599918",
+    "created": 1502447043,
+    "updated": 1502447043,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 2009 -2010 canteen Llanddoged.",
+        "cy": "Rhaglen tymor 2009 -2010 canteen Llanddoged."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddoged",
+    "owner": "Cangen Llanddoged",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddoged",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen LLanddoged",
+        "Rhanbarth Aberconwy",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.156861000000",
+            "lon": "-3.787097000000",
+            "description": {
+                "en": "Llandoged",
+                "cy": "Llandoged"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDDOGED_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDDOGED_025.jpg",
+            "type": "image",
+            "target_id": "599916"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

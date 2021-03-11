@@ -1,0 +1,80 @@
+{
+    "id": 554458,
+    "title": {
+        "en": "Merched y Wawr Sports Competition, Ceredigion Area ",
+        "cy": "Taflen Cystadleuaeth Chwaraeon Merched y Wawr, Rhanbarth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554458",
+    "created": 1487591940,
+    "updated": 1487591940,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cystadleuaeth Chwaraeon Merched y Wawr \u2013 Rhanbarth Ceredigion, Ebrill 26 (dim blwyddyn wedi nodi), Canolfan Chwaraeon Drefach Felindre",
+        "cy": "Taflen Cystadleuaeth Chwaraeon Merched y Wawr \u2013 Rhanbarth Ceredigion, Ebrill 26 (dim blwyddyn wedi nodi), Canolfan Chwaraeon Drefach Felindre"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.024245000000",
+            "lon": "-4.399400000000",
+            "description": {
+                "en": "Canolfan Chwaraeon Drefach Felindre",
+                "cy": "Canolfan Chwaraeon Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000025.jpg",
+            "type": "image",
+            "target_id": "554456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

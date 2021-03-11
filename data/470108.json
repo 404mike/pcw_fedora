@@ -1,0 +1,180 @@
+{
+    "id": 470108,
+    "title": {
+        "en": "Cwmni Rhymni branch of Merched y Wawr South East's contribution to the project on Welsh place names. ",
+        "cy": "Cyfraniad cangen Cwm Rhymni, y De Ddwyrain i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470108",
+    "created": 1441700596,
+    "updated": 1441700596,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Cwm Rhymni, the South East of Merched y Wawr. It contains place names from Ystrad Mynach and district; Field names from Bedwellte - Cwm Syfiwg; names from the Machen area; the estates of Cwm Rhymni 2003-2011; Streets of Caerffili;the Churchill Park estate Caerffili.",
+        "cy": "Gwybodaeth am waith cangen Cwm Rhymni, y De Ddwyrain o Ferched y Wawr. Mae'n cynnwys, enwau yn ardal Ystrad Mynach a'r cylch; Enwau caeau Bedwellte- Cwm Syfiwg; ardal Machen; Stadau Cwm Rhymni 2003-2011; enwau strydoedd Caerffili; Ystad Churchil Park, Caerffili."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10279.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10279.jpg",
+            "type": "image",
+            "target_id": "470087"
+        },
+        {
+            "originalFilename": "pcw001_10280.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10280.jpg",
+            "type": "image",
+            "target_id": "470088"
+        },
+        {
+            "originalFilename": "pcw001_10281.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10281.jpg",
+            "type": "image",
+            "target_id": "470089"
+        },
+        {
+            "originalFilename": "pcw001_10282.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10282.jpg",
+            "type": "image",
+            "target_id": "470090"
+        },
+        {
+            "originalFilename": "pcw001_10283.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10283.jpg",
+            "type": "image",
+            "target_id": "470091"
+        },
+        {
+            "originalFilename": "pcw001_10284.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10284.jpg",
+            "type": "image",
+            "target_id": "470092"
+        },
+        {
+            "originalFilename": "pcw001_10285.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10285.jpg",
+            "type": "image",
+            "target_id": "470093"
+        },
+        {
+            "originalFilename": "pcw001_10286.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10286.jpg",
+            "type": "image",
+            "target_id": "470094"
+        },
+        {
+            "originalFilename": "pcw001_10287.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10287.jpg",
+            "type": "image",
+            "target_id": "470095"
+        },
+        {
+            "originalFilename": "pcw001_10288.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10288.jpg",
+            "type": "image",
+            "target_id": "470096"
+        },
+        {
+            "originalFilename": "pcw001_10289.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10289.jpg",
+            "type": "image",
+            "target_id": "470097"
+        },
+        {
+            "originalFilename": "pcw001_10290.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10290.jpg",
+            "type": "image",
+            "target_id": "470098"
+        },
+        {
+            "originalFilename": "pcw001_10291.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10291.jpg",
+            "type": "image",
+            "target_id": "470099"
+        },
+        {
+            "originalFilename": "pcw001_10292.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10292.jpg",
+            "type": "image",
+            "target_id": "470100"
+        },
+        {
+            "originalFilename": "pcw001_10293.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10293.jpg",
+            "type": "image",
+            "target_id": "470101"
+        },
+        {
+            "originalFilename": "pcw001_10294.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10294.jpg",
+            "type": "image",
+            "target_id": "470102"
+        },
+        {
+            "originalFilename": "pcw001_10295.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10295.jpg",
+            "type": "image",
+            "target_id": "470103"
+        },
+        {
+            "originalFilename": "pcw001_10296.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10296.jpg",
+            "type": "image",
+            "target_id": "470104"
+        },
+        {
+            "originalFilename": "pcw001_10297.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10297.jpg",
+            "type": "image",
+            "target_id": "470105"
+        },
+        {
+            "originalFilename": "pcw001_10298.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10298.jpg",
+            "type": "image",
+            "target_id": "470106"
+        },
+        {
+            "originalFilename": "pcw001_10299.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10299.jpg",
+            "type": "image",
+            "target_id": "470107"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10279",
+    "publisher_ref": ""
+}

@@ -1,0 +1,76 @@
+{
+    "id": 747101,
+    "title": {
+        "en": "Merched y Wawr L\u00f4n Las transfer the West Glamorgan Area Banner",
+        "cy": "Merched y Wawr L\u00f4n Las yn trosglwyddo baner Rhanbarth Gorllewin Morgannwg "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747101",
+    "created": 1516897583,
+    "updated": 1516897583,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr L\u00f4n Las yn cyflwyo baner Rhanbarth Gorllewin Morgannwg i Gangen L\u00f4n Las ym 1992.  Yn y llun mae Malvina Ley o L\u00f4n Las a Miriam Evans o Dreboeth.",
+        "cy": "Merched y Wawr L\u00f4n Las yn cyflwyo baner Rhanbarth Gorllewin Morgannwg i Gangen L\u00f4n Las ym 1992.  Yn y llun mae Malvina Ley o L\u00f4n Las a Miriam Evans o Dreboeth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Lon Las",
+        "Cangen Treboeth"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-053.jpg",
+            "type": "image",
+            "target_id": "747096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

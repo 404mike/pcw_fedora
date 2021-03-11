@@ -1,0 +1,86 @@
+{
+    "id": 623331,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Corwen, Glyn Maelor  yn dathlu ei 21 mlwyddiant. Capel Cernyw, Corwen - 1994"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623331",
+    "created": 1511279467,
+    "updated": 1511279467,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei 21, yng nghwmni y Llwydd Cenedlaethol Rhianwen Huws Roberts yn festri Capel Cernyw, Corwen - 1994. Freda Hughes, Dilys Jones, Ceinwen Jones, Marion Brown, Rhianwen Huws Roberts, Enid Davies, Glenys Ellis, Marian Thomas",
+        "cy": "Y Gangen yn dathlu ei 21, yng nghwmni y Llwydd Cenedlaethol Rhianwen Huws Roberts yn festri Capel Cernyw, Corwen - 1994. Freda Hughes, Dilys Jones, Ceinwen Jones, Marion Brown, Rhianwen Huws Roberts, Enid Davies, Glenys Ellis, Marian Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_002.jpg",
+            "type": "image",
+            "target_id": "623321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

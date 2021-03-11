@@ -1,0 +1,81 @@
+{
+    "id": 600510,
+    "title": {
+        "en": "The Start of Merched y Wawr Gronw Brach, September 1975",
+        "cy": "Dechrau Merched y Wawr Cangen Gronw, Medi 1975"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600510",
+    "created": 1502447826,
+    "updated": 1502447826,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gronw, crynodeb o\u2019r cyfarfod cyntaf ar Fedi 25, 1975 a chyfres o gwpledi yn disgrifio\u2019r rhaglen gyntaf ym misoedd 1975 a 1976.  Tudalen 1",
+        "cy": "Merched y Wawr Cangen Gronw, crynodeb o\u2019r cyfarfod cyntaf ar Fedi 25, 1975 a chyfres o gwpledi yn disgrifio\u2019r rhaglen gyntaf ym misoedd 1975 a 1976.  Tudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-250.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-250.jpg",
+            "type": "image",
+            "target_id": "600508"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-251.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-251.jpg",
+            "type": "image",
+            "target_id": "600509"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

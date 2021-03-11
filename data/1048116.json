@@ -1,0 +1,65 @@
+{
+    "id": 1048116,
+    "title": {
+        "en": "Annual Meeting 2008",
+        "cy": "Cyfarfod Blynyddol 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048116",
+    "created": 1555591295,
+    "updated": 1555591295,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aberystwyth branch, Ceredigion, winning 1st prize for miming any welsh song or nursery rhyme.",
+        "cy": "Cystadleuaeth Adloniant \u2013 meimio unrhyw gan neu hwiangerdd Gymraeg. 1af Cangen Aberystwyth, Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_210.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_210.jpg",
+            "type": "image",
+            "target_id": "1048111"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

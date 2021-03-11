@@ -1,0 +1,81 @@
+{
+    "id": 744351,
+    "title": {
+        "en": "Merched y Wawr Bronant Branch, Programme 1987-1988",
+        "cy": "Merched y Wawr Cangen Bronant Rhaglen 1987-1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744351",
+    "created": 1516896255,
+    "updated": 1516896255,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bronant Rhaglen 1987-1988\nClawr\/Cefn, gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Bronant Rhaglen 1987-1988\nClawr\/Cefn, gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-145.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-145.jpg",
+            "type": "image",
+            "target_id": "744341"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-146.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-146.jpg",
+            "type": "image",
+            "target_id": "744346"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

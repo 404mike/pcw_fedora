@@ -1,0 +1,65 @@
+{
+    "id": 1146691,
+    "title": {
+        "en": "President Dinner at Crug Glas Hotel, Pembrokeshire 2017 to celebrate 50 Years.",
+        "cy": "Cinio Llywydd yn y De 2017 yng ngwesty Crug Glas, Sir Benfro i ddathlu 50 mlynedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146691",
+    "created": 1562063975,
+    "updated": 1562063975,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Past Presidents awaiting their meal. From left to right: Gill Griffiths; Nan Lewis; Mererid Jones; Glenys Thomas; Margarette Huws; Esyllt Jones; Catrin Stevens.",
+        "cy": "Cyn Lywyddion yn aros am eu bwyd. O'r dde i'r chwith: Gill Griffiths; Nan Lewis; Mererid Jones; Glenys Thomas; Margarette Huws; Esyllt Jones; Catrin Stevens."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Pembrokeshire",
+        "cinio llywydd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_837.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_837.jpg",
+            "type": "image",
+            "target_id": "1146686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

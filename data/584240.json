@@ -1,0 +1,96 @@
+{
+    "id": 584240,
+    "title": {
+        "en": "Merched y Wawr Residential School Programme 1981 (Help Llaw - Helping Hand)",
+        "cy": "Rhaglen Help Llaw, Ysgol Breswyl Merched y Wawr, 1981"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584240",
+    "created": 1499870822,
+    "updated": 1499870822,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Help Llaw, Ysgol Breswyl Merched y Wawr, 18-20 Medi, 1981, Theatr y Werin, Tudalen flaen",
+        "cy": "Rhaglen Help Llaw, Ysgol Breswyl Merched y Wawr, 18-20 Medi, 1981, Theatr y Werin, Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.416867000000",
+            "lon": "-4.069398000000",
+            "description": {
+                "en": "Theatr y Werin a Neuaddau Preswyl Penbryn a Phantycelyn, Aberystwyth",
+                "cy": "Theatr y Werin a Neuaddau Preswyl Penbryn a Phantycelyn, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-042.jpg",
+            "type": "image",
+            "target_id": "584236"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-043.jpg",
+            "type": "image",
+            "target_id": "584237"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-044.jpg",
+            "type": "image",
+            "target_id": "584238"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

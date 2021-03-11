@@ -1,0 +1,90 @@
+{
+    "id": 584194,
+    "title": {
+        "en": "Service to Celebrate the 400th Anniversary of the Translation of the Bible into Welsh.  Representatives from Merched y Wawr were in attendance.",
+        "cy": "Seremoni yn Abaty Westminster i ddathlu pedwarcanmlwyddiant cyfieithu\u2019r Beibl (roedd Margarette Hughes (Llywydd 1988 - 1990) a Mererid James (Trefnydd Cenedlaethol) yno yn cynrychioli Merched y Wawr)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584194",
+    "created": 1499870768,
+    "updated": 1499870768,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwahoddiad (tocyn) i fynychu seremoni yn Abaty Westminster Abbey i ddathlu pedwarcanmlwyddiant cyfieithu\u2019r Beibl i\u2019r Gymraeg.  Tachwedd 1af, 1988.  Ochr Saesneg.  Bu Margarette Hughes (Llywydd Cenedlaethol) a Mererid James (Trefnydd) yno yn cynrychioli Merched y Wawr.",
+        "cy": "Gwahoddiad (tocyn) i fynychu seremoni yn Abaty Westminster Abbey i ddathlu pedwarcanmlwyddiant cyfieithu\u2019r Beibl i\u2019r Gymraeg.  Tachwedd 1af, 1988.  Ochr Saesneg.  Bu Margarette Hughes (Llywydd Cenedlaethol) a Mererid James (Trefnydd) yno yn cynrychioli Merched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.499236000000",
+            "lon": "-0.126499000000",
+            "description": {
+                "en": "Abaty Westminster, Llundain",
+                "cy": "Abaty Westminster, Llundain"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-008_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-008_0.jpg",
+            "type": "image",
+            "target_id": "584191"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-009_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-009_0.jpg",
+            "type": "image",
+            "target_id": "584192"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

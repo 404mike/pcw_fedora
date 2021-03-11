@@ -1,0 +1,107 @@
+{
+    "id": 752476,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752476",
+    "created": 1516958208,
+    "updated": 1516958208,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn dathlu penblwydd y Mudiad yn 25 fel rhan o ddathliadau \u201cPererindod y Parc\u201d, ym mis Mehefin, 1992. Rhan o arddangosfa arbennig am Penrhyndeudraeth sydd ar gadw yn Archifdy Meirionnydd.",
+        "cy": "Y gangen yn dathlu penblwydd y Mudiad yn 25 fel rhan o ddathliadau \u201cPererindod y Parc\u201d, ym mis Mehefin, 1992. Rhan o arddangosfa arbennig am Penrhyndeudraeth sydd ar gadw yn Archifdy Meirionnydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_034.jpg",
+            "type": "image",
+            "target_id": "752451"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_035.jpg",
+            "type": "image",
+            "target_id": "752456"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_036.jpg",
+            "type": "image",
+            "target_id": "752461"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_037.jpg",
+            "type": "image",
+            "target_id": "752466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

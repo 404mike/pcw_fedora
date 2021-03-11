@@ -1,0 +1,105 @@
+{
+    "id": 752181,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dolgellau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Dolgellau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752181",
+    "created": 1516958125,
+    "updated": 1516958125,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau o\u2019r gangen yn paratoi Idris \u2018Y Cawr\u2019 ar gyfer Eisteddfod yr Udd, Dolgellau 1994. Roedd y \u2018Cawr\u2019 rhy fawr i ddod lawr y grisiau roedd rhaid iddo ddod trwy\u2019r ffenestr.",
+        "cy": "Lluniau o\u2019r gangen yn paratoi Idris \u2018Y Cawr\u2019 ar gyfer Eisteddfod yr Udd, Dolgellau 1994. Roedd y \u2018Cawr\u2019 rhy fawr i ddod lawr y grisiau roedd rhaid iddo ddod trwy\u2019r ffenestr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dolgellau",
+    "owner": "Cangen Dolgellau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dolgellau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dolgellau",
+        "DolgellauMerched y Wawr",
+        "Rhanbarth Meirionnydd",
+        "Drama Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.741992000000",
+            "lon": "-3.887413000000",
+            "description": {
+                "en": "Dolgellau",
+                "cy": "Dolgellau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_015.jpg",
+            "type": "image",
+            "target_id": "752156"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_016.jpg",
+            "type": "image",
+            "target_id": "752161"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_017.jpg",
+            "type": "image",
+            "target_id": "752166"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DOLGELLAU_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DOLGELLAU_018.jpg",
+            "type": "image",
+            "target_id": "752171"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

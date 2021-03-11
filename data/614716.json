@@ -1,0 +1,73 @@
+{
+    "id": 614716,
+    "title": {
+        "en": "Christmas Cake Decorations by a talented member of Merched y Wawr Garreg Wen Branch",
+        "cy": "Addurniadau Cacen Nadolig gan aelod o Ferched y Wawr Y Garreg Wen "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614716",
+    "created": 1510755064,
+    "updated": 1510755064,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwaith arbennig Mrs Gwen Davies o Ferched y Wawr Cangen Y Garreg Wen yn creu Addurniadau Cacen Nadolig",
+        "cy": "Gwaith arbennig Mrs Gwen Davies o Ferched y Wawr Cangen Y Garreg Wen yn creu Addurniadau Cacen Nadolig"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Garreg%20Wen-%20Blodau%20eisin%20-%20Gwen.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Garreg%2520Wen-%2520Blodau%2520eisin%2520-%2520Gwen.jpg",
+            "type": "image",
+            "target_id": "614711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

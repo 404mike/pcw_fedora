@@ -1,0 +1,91 @@
+{
+    "id": 599945,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henryd, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Henryd, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599945",
+    "created": 1502447075,
+    "updated": 1502447075,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu penblwydd cangen Henryd yn 10 oed ym 1978. Dyma gerdd i ddathlu gan Laura Jones",
+        "cy": "Dathlu penblwydd cangen Henryd yn 10 oed ym 1978. Dyma gerdd i ddathlu gan Laura Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henryd",
+    "owner": "Cangen Henryd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "henryd",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Henryd",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255077000000",
+            "lon": "-3.846170000000",
+            "description": {
+                "en": "Henryd",
+                "cy": "Henryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_013.jpg",
+            "type": "image",
+            "target_id": "599942"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_014.jpg",
+            "type": "image",
+            "target_id": "599943"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

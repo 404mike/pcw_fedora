@@ -1,0 +1,84 @@
+{
+    "id": 584108,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Preparing lunch, Christmas 1987",
+        "cy": "Merched y Wawr Cangen Maenclochog - Paratoi Cinio, Nadolig 1987 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584108",
+    "created": 1499870364,
+    "updated": 1499870364,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog. Nadolig 1987 yn Neuadd Maenclochog.  Aelodau yn paratoi cinio i\u2019r Ffrindiau Mewn Ymddeoliad. O\u2019r chwith \u2013 Gretta Gibby, Cei Nicholas, Eiry Phillips, Gillian Phillips, Manw Parry ac Eirwen Gibby",
+        "cy": "Merched y Wawr Maenclochog. Nadolig 1987 yn Neuadd Maenclochog.  Aelodau yn paratoi cinio i\u2019r Ffrindiau Mewn Ymddeoliad. O\u2019r chwith \u2013 Gretta Gibby, Cei Nicholas, Eiry Phillips, Gillian Phillips, Manw Parry ac Eirwen Gibby"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.910505000000",
+            "lon": "-4.791803000000",
+            "description": {
+                "en": "Neuadd Maenclochog",
+                "cy": "Neuadd Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-050.jpg",
+            "type": "image",
+            "target_id": "584106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 622206,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Llun sefydlu cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. 22 Chwefror, 1968"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622206",
+    "created": 1511279091,
+    "updated": 1511279091,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun sefydlu\u2019r gangen - 22ain o Chwefror, 1968. Ceir hefyd rhestr enwau aelodaeth.",
+        "cy": "Llun sefydlu\u2019r gangen - 22ain o Chwefror, 1968. Ceir hefyd rhestr enwau aelodaeth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_028.jpg",
+            "type": "image",
+            "target_id": "622196"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

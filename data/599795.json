@@ -1,0 +1,85 @@
+{
+    "id": 599795,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandudno Junction, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Cyffordd Llandudno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599795",
+    "created": 1502446898,
+    "updated": 1502446898,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu\u2019r Nadolig 1983. (cefn) Betty Evans, Mrs H Francis Williams, Helen Margonet, (blaen) Mrs Gwyn jones, Lilly Hughes, Buddug, Mrs Ritchie Roberts.",
+        "cy": "Dathlu\u2019r Nadolig 1983. (cefn) Betty Evans, Mrs H Francis Williams, Helen Margonet, (blaen) Mrs Gwyn jones, Lilly Hughes, Buddug, Mrs Ritchie Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cyffordd Llandudno",
+    "owner": "Cangen Cyffordd Llandudno",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandudno Junction Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cyffordd Llandudno",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284857000000",
+            "lon": "-3.814005000000",
+            "description": {
+                "en": "Cyffordd Llandudno",
+                "cy": "Cyffordd Llandudno"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_030.jpg",
+            "type": "image",
+            "target_id": "599793"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

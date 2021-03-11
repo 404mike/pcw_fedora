@@ -1,0 +1,85 @@
+{
+    "id": 599866,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mochdre, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mochdre, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599866",
+    "created": 1502446989,
+    "updated": 1502446989,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y gangen i Llaeth y Llan, Mehefin 2011. Mair Jones, Eluned Davies, Hafwen Williams, Eluned Jones, Joyce Davies, Rhiannon Parry, Julia Williams, Mary Nicholas, Annwen Edwards, Menna Owen, Valmai Cooksley, Eileen Williams, Falmai WIlliams, Catherine Jones.",
+        "cy": "Gwibdaith y gangen i Llaeth y Llan, Mehefin 2011. Mair Jones, Eluned Davies, Hafwen Williams, Eluned Jones, Joyce Davies, Rhiannon Parry, Julia Williams, Mary Nicholas, Annwen Edwards, Menna Owen, Valmai Cooksley, Eileen Williams, Falmai WIlliams, Catherine Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mochdre",
+    "owner": "Cangen Mochdre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mochdre Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mochdre",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293500000000",
+            "lon": "-3.761065000000",
+            "description": {
+                "en": "Mochdre",
+                "cy": "Mochdre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_MOCHDRE_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_MOCHDRE_009.jpg",
+            "type": "image",
+            "target_id": "599864"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

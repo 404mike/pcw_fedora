@@ -1,0 +1,84 @@
+{
+    "id": 743536,
+    "title": {
+        "en": "Merched y Wawr Beca Branch Flower Arranging at the Royal Welsh Show 1995",
+        "cy": "Merched y Wawr yn gosod blodau yn y Sioe Frenhinol 1995"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743536",
+    "created": 1516895922,
+    "updated": 1516895922,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gosod blodau yn y Sioe Frenhinol, Gorffennaf 1995 yn y gystadleuaeth yn y Babell Flodau.  Mefin Lewis o Gangen Beca o Ferched y Wawr oedd wedi gwneud y trefniant.  Yn y llun hefyd mae Beryl George o Gangen Capel Newydd.",
+        "cy": "Gosod blodau yn y Sioe Frenhinol, Gorffennaf 1995 yn y gystadleuaeth yn y Babell Flodau.  Mefin Lewis o Gangen Beca o Ferched y Wawr oedd wedi gwneud y trefniant.  Yn y llun hefyd mae Beryl George o Gangen Capel Newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.158049000000",
+            "lon": "-3.407280000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-047.jpg",
+            "type": "image",
+            "target_id": "743526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

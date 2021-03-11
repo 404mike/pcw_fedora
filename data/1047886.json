@@ -1,0 +1,66 @@
+{
+    "id": 1047886,
+    "title": {
+        "en": "MyW Residential Weekend 2007 \u2013 Bangor",
+        "cy": "Penwythnos Preswyl MyW 2007 \u2013 Rialtwch y Rhuddem"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047886",
+    "created": 1555591166,
+    "updated": 1555591166,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Price, President and Gerallt Pennant, guest speaker.",
+        "cy": "Mary Price, Llywydd a Gerallt Pennat, siaradwr gwadd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Bangor",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_186.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_186.jpg",
+            "type": "image",
+            "target_id": "1047881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

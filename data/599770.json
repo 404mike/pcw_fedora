@@ -1,0 +1,98 @@
+{
+    "id": 599770,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llandudno Junction, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Cyffordd Llandudno, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599770",
+    "created": 1502446870,
+    "updated": 1502446870,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1999 - 2000, Cangen Llandudno. (blaen)",
+        "cy": "Rhaglen Tymor 1999 - 2000, Cangen Llandudno. (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cyffordd Llandudno",
+    "owner": "Cangen Cyffordd Llandudno",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llandudno Junction Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cyffordd Llandudno",
+        "Rhanbarth Aberconwy",
+        "Aberconwy",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284857000000",
+            "lon": "-3.814005000000",
+            "description": {
+                "en": "Cyffordd Llandudno",
+                "cy": "Cyffordd Llandudno"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_015.jpg",
+            "type": "image",
+            "target_id": "599766"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_016.jpg",
+            "type": "image",
+            "target_id": "599767"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANDUDNO_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANDUDNO_017.jpg",
+            "type": "image",
+            "target_id": "599768"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

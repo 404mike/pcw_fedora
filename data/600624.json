@@ -1,0 +1,73 @@
+{
+    "id": 600624,
+    "title": {
+        "en": "Haulwen Booth Becomes Regional President of the Carmarthen Area of Merched y Wawr ",
+        "cy": "Haulwen Booth yn dod yn Lywydd Rhanbarth Caerfyrddin Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600624",
+    "created": 1502448000,
+    "updated": 1502448000,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Haulwen Booth o Gangen Llangadog yn dod yn Lywydd Rhanbarth Caerfyrddin Merched y Wawr, gyda Glenys Thomas, y Llywydd Cenedlaethol ar y pryd (2004-2006)",
+        "cy": "Haulwen Booth o Gangen Llangadog yn dod yn Lywydd Rhanbarth Caerfyrddin Merched y Wawr, gyda Glenys Thomas, y Llywydd Cenedlaethol ar y pryd (2004-2006)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-212.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-212.jpg",
+            "type": "image",
+            "target_id": "600623"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1047396,
+    "title": {
+        "en": "Myw Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed - Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047396",
+    "created": 1555590880,
+    "updated": 1555590880,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip to the Botanical Gardens Llanarthne.",
+        "cy": "Taith i'r Ardd Fotaneg, Llanarthne."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Lampeter",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_128.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_128.jpg",
+            "type": "image",
+            "target_id": "1047391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

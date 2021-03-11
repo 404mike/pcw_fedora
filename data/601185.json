@@ -1,0 +1,84 @@
+{
+    "id": 601185,
+    "title": {
+        "en": "Merched y Wawr Nantgaredig Branch celebrating the birthday of its eldest member",
+        "cy": "Merched y Wawr Cangen Nantgaredig yn dathlu penblwydd yr aelod hynaf"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601185",
+    "created": 1502448874,
+    "updated": 1502448874,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Nantgaredig yn dathlu penblwydd yr aelod hynaf, Dilys Pugh, yn 90 oed yng nghyfarfod mis Medi 2015\nYn eistedd \u2013 Doreen Evans, Enid Humphreys, , Eirwen Jones, Blodwen Griffiths, Dilys Pugh, Eirwen Golding, Eleri Bryer Liz Lewis (Llywydd), \nSefyll \u2013 Margaret Powell, Enfys Jones, Lynne Jones, Betty Rees, Hazel James, Helen Fox, Ann Parry, Audrey Davies, Glenys Jones \nCefn \u2013 Nan Lewis, Clarice Thomas, Eirlys Williams,  Meryl Edwards, Gwyneth Jones, Margaret Francis, Eirwen Williams, Enid Edwards",
+        "cy": "Merched y Wawr Cangen Nantgaredig yn dathlu penblwydd yr aelod hynaf, Dilys Pugh, yn 90 oed yng nghyfarfod mis Medi 2015\nYn eistedd \u2013 Doreen Evans, Enid Humphreys, , Eirwen Jones, Blodwen Griffiths, Dilys Pugh, Eirwen Golding, Eleri Bryer Liz Lewis (Llywydd), \nSefyll \u2013 Margaret Powell, Enfys Jones, Lynne Jones, Betty Rees, Hazel James, Helen Fox, Ann Parry, Audrey Davies, Glenys Jones \nCefn \u2013 Nan Lewis, Clarice Thomas, Eirlys Williams,  Meryl Edwards, Gwyneth Jones, Margaret Francis, Eirwen Williams, Enid Edwards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871065000000",
+            "lon": "-4.189562000000",
+            "description": {
+                "en": "Nantgaredig",
+                "cy": "Nantgaredig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-085_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-085_0.jpg",
+            "type": "image",
+            "target_id": "601183"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

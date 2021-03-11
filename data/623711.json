@@ -1,0 +1,115 @@
+{
+    "id": 623711,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bryneglwys a Llandegla, Glyn Maelor",
+        "cy": "Detholiad o Lyfr Lloffion cangen Merched y Wawr Bryneglwys a Llandegla, Glyn Maelor. Medi 1995 - Mai 1997. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623711",
+    "created": 1511279594,
+    "updated": 1511279594,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Detholiad o Lyfr Lloffion Bryneglwys a Llandegla Medi 1995 - Mai 1997.",
+        "cy": "Detholiad o Lyfr Lloffion Bryneglwys a Llandegla Medi 1995 - Mai 1997."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bryneglwys a Llandegla",
+    "owner": "Cangen Bryneglwys a Llandegla",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bryneglwys a Llandegla",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bryneglwys a Llandegla",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.016596000000",
+            "lon": "-3.275538000000",
+            "description": {
+                "en": "Bryneglwys a Llandegla",
+                "cy": "Bryneglwys a Llandegla"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_010.jpg",
+            "type": "image",
+            "target_id": "623676"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_013.jpg",
+            "type": "image",
+            "target_id": "623681"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_014.jpg",
+            "type": "image",
+            "target_id": "623686"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_015.jpg",
+            "type": "image",
+            "target_id": "623691"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_016.jpg",
+            "type": "image",
+            "target_id": "623696"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_BRYNEGLWYSALLANDEGLA_017.jpg",
+            "type": "image",
+            "target_id": "623701"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

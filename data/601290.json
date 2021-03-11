@@ -1,0 +1,84 @@
+{
+    "id": 601290,
+    "title": {
+        "en": "Merched y Wawr Cylch y Mwnt Branch First Minutes",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Cylch y Mwnt "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601290",
+    "created": 1502449146,
+    "updated": 1502449146,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyfarfod cyntaf i sefydlu cangen Merched y Wawr Cylch y Mwnt, Mehefin 14, 1979 yn Ysgol Ferwig.",
+        "cy": "Cofnodion cyfarfod cyntaf i sefydlu cangen Merched y Wawr Cylch y Mwnt, Mehefin 14, 1979 yn Ysgol Ferwig."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch y Mwnt ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Cylch y Mwnt",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.113967000000",
+            "lon": "-4.654469000000",
+            "description": {
+                "en": "Ysgol Ferwig",
+                "cy": "Ysgol Ferwig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-134.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-134.jpg",
+            "type": "image",
+            "target_id": "601288"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

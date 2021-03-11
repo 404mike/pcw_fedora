@@ -1,0 +1,75 @@
+{
+    "id": 745431,
+    "title": {
+        "en": "Merched y Wawr Glyn Nedd Branch circa 1773",
+        "cy": "Merched y Wawr Cangen Glyn Nedd tua 1973."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745431",
+    "created": 1516896804,
+    "updated": 1516896804,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Glyn Nedd tua 1973.\nKathleen Harries, Violet Jones, Heulwen Roberts (Jones), Mary Harris, Nancy Thomas, Gwyneth Jones, Olive Williams, Megan Thomas",
+        "cy": "Merched y Wawr Cangen Glyn Nedd tua 1973.\nKathleen Harries, Violet Jones, Heulwen Roberts (Jones), Mary Harris, Nancy Thomas, Gwyneth Jones, Olive Williams, Megan Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-026.jpg",
+            "type": "image",
+            "target_id": "745426"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

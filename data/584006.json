@@ -1,0 +1,84 @@
+{
+    "id": 584006,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth (Newport) Branch - Visiting the National Library, Aberystwyth",
+        "cy": "Merched y Wawr Cangen Trefdraeth - Ymweld \u00e2&#039;r Llyfrgell Genedlaethol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584006",
+    "created": 1499870220,
+    "updated": 1499870220,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Trefdraeth o Ferched y Wawr tu allan i\u2019r Llyfrgell Genedlaethol ar \u00f4l amser diddorol yn mynd o amgylch.  \nLinda Phillips, Aeres James, Marian Rogers, Ann Rees, Beti James, Kath Phillips, Doreen Phillips, Eiry Ladd-Lewis, Marina Williams, Sal Williams, Rosemary Scarr, Rhiannon Williams, Gwenda Davies, Gwladys Evans, Dilys Davies. Awst 30, 2007",
+        "cy": "Aelodau Cangen Trefdraeth o Ferched y Wawr tu allan i\u2019r Llyfrgell Genedlaethol ar \u00f4l amser diddorol yn mynd o amgylch.  \nLinda Phillips, Aeres James, Marian Rogers, Ann Rees, Beti James, Kath Phillips, Doreen Phillips, Eiry Ladd-Lewis, Marina Williams, Sal Williams, Rosemary Scarr, Rhiannon Williams, Gwenda Davies, Gwladys Evans, Dilys Davies. Awst 30, 2007"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": " Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trefdraeth",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.414401000000",
+            "lon": "-4.069067000000",
+            "description": {
+                "en": "Llyfrgell Genedlaethol Cymru",
+                "cy": "Llyfrgell Genedlaethol Cymru"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-007.jpg",
+            "type": "image",
+            "target_id": "584004"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

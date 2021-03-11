@@ -1,0 +1,102 @@
+{
+    "id": 584287,
+    "title": {
+        "en": "Merched y Wawr, Carmarthenshire Eisteddfod 1988",
+        "cy": "Rhaglen Eisteddfod Merched y Wawr, Rhanbarth Caerfyrddin, Dinefwr a Llanelli, 1988.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584287",
+    "created": 1499870870,
+    "updated": 1499870870,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Eisteddfod Merched y Wawr, Rhanbarth Caerfyddin, Dinefwr a Llanelli.  Neuadd Pontyberem, Dydd Sadwrn, Ebrill 23ain, 1988.  Tudalen flaen, gan gynnwys enwau beirniaid.",
+        "cy": "Rhaglen Eisteddfod Merched y Wawr, Rhanbarth Caerfyddin, Dinefwr a Llanelli.  Neuadd Pontyberem, Dydd Sadwrn, Ebrill 23ain, 1988.  Tudalen flaen, gan gynnwys enwau beirniaid."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.778276000000",
+            "lon": "-4.170305000000",
+            "description": {
+                "en": "Neuadd Pontyberem",
+                "cy": "Neuadd Pontyberem"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-069.jpg",
+            "type": "image",
+            "target_id": "584282"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-070.jpg",
+            "type": "image",
+            "target_id": "584283"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-071.jpg",
+            "type": "image",
+            "target_id": "584284"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-072.jpg",
+            "type": "image",
+            "target_id": "584285"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

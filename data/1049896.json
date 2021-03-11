@@ -1,0 +1,67 @@
+{
+    "id": 1049896,
+    "title": {
+        "en": "Urdd National Eisteddfod Eryri 2012",
+        "cy": "Eisteddfod yr Urdd Eryri 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049896",
+    "created": 1555592097,
+    "updated": 1555592097,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sponsered Bike Ride to raise funds for Ovarian Cancer. The bikers arriving at the Eisteddfod field.",
+        "cy": "Taith Feicio Noddedig i godi arian i Gancr yr Wygelloedd. Y beicwyr yn cyrraedd nol ar faes y Steddfod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod eryri 2012",
+        "sponsered bike ride",
+        "eisteddfod yr urdd eryri 2012",
+        "taith feicio noddedig"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_412.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_412.jpg",
+            "type": "image",
+            "target_id": "1049891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

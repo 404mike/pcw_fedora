@@ -1,0 +1,177 @@
+{
+    "id": 807741,
+    "title": {
+        "en": "Scrapbook of the Swansea Branch",
+        "cy": "Llyfr lloffion Cangen Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/807741",
+    "created": 1523358781,
+    "updated": 1523358781,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Abertawe",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Abertawe"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Abertawe00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00001.jpg",
+            "type": "image",
+            "target_id": "807651"
+        },
+        {
+            "originalFilename": "Abertawe00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00002.jpg",
+            "type": "image",
+            "target_id": "807656"
+        },
+        {
+            "originalFilename": "Abertawe00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00003.jpg",
+            "type": "image",
+            "target_id": "807661"
+        },
+        {
+            "originalFilename": "Abertawe00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00004.jpg",
+            "type": "image",
+            "target_id": "807666"
+        },
+        {
+            "originalFilename": "Abertawe00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00005.jpg",
+            "type": "image",
+            "target_id": "807671"
+        },
+        {
+            "originalFilename": "Abertawe00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00006.jpg",
+            "type": "image",
+            "target_id": "807676"
+        },
+        {
+            "originalFilename": "Abertawe00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00007.jpg",
+            "type": "image",
+            "target_id": "807681"
+        },
+        {
+            "originalFilename": "Abertawe00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00008.jpg",
+            "type": "image",
+            "target_id": "807686"
+        },
+        {
+            "originalFilename": "Abertawe00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00009.jpg",
+            "type": "image",
+            "target_id": "807691"
+        },
+        {
+            "originalFilename": "Abertawe00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00010.jpg",
+            "type": "image",
+            "target_id": "807696"
+        },
+        {
+            "originalFilename": "Abertawe00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00011.jpg",
+            "type": "image",
+            "target_id": "807701"
+        },
+        {
+            "originalFilename": "Abertawe00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00012.jpg",
+            "type": "image",
+            "target_id": "807706"
+        },
+        {
+            "originalFilename": "Abertawe00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00013.jpg",
+            "type": "image",
+            "target_id": "807711"
+        },
+        {
+            "originalFilename": "Abertawe00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00014.jpg",
+            "type": "image",
+            "target_id": "807716"
+        },
+        {
+            "originalFilename": "Abertawe00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00015.jpg",
+            "type": "image",
+            "target_id": "807721"
+        },
+        {
+            "originalFilename": "Abertawe00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00016.jpg",
+            "type": "image",
+            "target_id": "807726"
+        },
+        {
+            "originalFilename": "Abertawe00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00017.jpg",
+            "type": "image",
+            "target_id": "807731"
+        },
+        {
+            "originalFilename": "Abertawe00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Abertawe00018.jpg",
+            "type": "image",
+            "target_id": "807736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

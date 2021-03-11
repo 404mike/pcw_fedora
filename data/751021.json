@@ -1,0 +1,110 @@
+{
+    "id": 751021,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Sarnau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Sarnau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751021",
+    "created": 1516899761,
+    "updated": 1516899761,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr o Hydref, 1974 a ysgrifennwyd at y Mudiad i nodi y bwriad i sefydlu Cangen Sarnau.",
+        "cy": "Llythyr o Hydref, 1974 a ysgrifennwyd at y Mudiad i nodi y bwriad i sefydlu Cangen Sarnau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Sarnau",
+    "owner": "Cangen Sarnau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_009.jpg",
+            "type": "image",
+            "target_id": "750991"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_010.jpg",
+            "type": "image",
+            "target_id": "750996"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_011.jpg",
+            "type": "image",
+            "target_id": "751001"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_012.jpg",
+            "type": "image",
+            "target_id": "751006"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_013.jpg",
+            "type": "image",
+            "target_id": "751011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

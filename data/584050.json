@@ -1,0 +1,84 @@
+{
+    "id": 584050,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Celebrating the branch's 25th Anniversary",
+        "cy": "Merched y Wawr Maenclochog - Dathlu 25 mlynedd y gangen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584050",
+    "created": 1499870275,
+    "updated": 1499870275,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Dathlu 25 mlynedd y gangen, Canolfan Llys-y-Fran.\nRhiannon Edwards, Valerie James (Llywydd Cenedlaethol), Catrin Stevens (gwraig w\u00e2dd) ac Eirianwen Thomas (Llywydd y Gangen).  Cyflwyno rhodd \u2013 plat a llun Penrhos o waith Ken Thomas.  Tachwedd 1996",
+        "cy": "Merched y Wawr Maenclochog, Dathlu 25 mlynedd y gangen, Canolfan Llys-y-Fran.\nRhiannon Edwards, Valerie James (Llywydd Cenedlaethol), Catrin Stevens (gwraig w\u00e2dd) ac Eirianwen Thomas (Llywydd y Gangen).  Cyflwyno rhodd \u2013 plat a llun Penrhos o waith Ken Thomas.  Tachwedd 1996"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.885663000000",
+            "lon": "-4.844721000000",
+            "description": {
+                "en": "Canolfan Llys-y-Fran, Penfro",
+                "cy": "Canolfan Llys-y-Fran, Penfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-027.jpg",
+            "type": "image",
+            "target_id": "584048"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

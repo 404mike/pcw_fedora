@@ -1,0 +1,75 @@
+{
+    "id": 750081,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch donate to Mudiad Ysgolion Meithrin",
+        "cy": "Merched y Wawr Cangen Gorseinon yn Rhoi Rhodd i Fudiad Ysgolion Meithrin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750081",
+    "created": 1516899296,
+    "updated": 1516899296,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rahel Williams, Llywydd Merched y Wawr Gorseinon yn trosglwyddo rhodd o \u00a3100 i Judith Lewis, Swyddog Datblygu Mudiad Ysgolion Meithrin 1988.",
+        "cy": "Rahel Williams, Llywydd Merched y Wawr Gorseinon yn trosglwyddo rhodd o \u00a3100 i Judith Lewis, Swyddog Datblygu Mudiad Ysgolion Meithrin 1988."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Rhodd%20cangen%20Gorseinon%20i%20Fudiad%20Ysgolion%20Meithrin%201988%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Rhodd%2520cangen%2520Gorseinon%2520i%2520Fudiad%2520Ysgolion%2520Meithrin%25201988%2520001.jpg",
+            "type": "image",
+            "target_id": "750076"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

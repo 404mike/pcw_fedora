@@ -1,0 +1,86 @@
+{
+    "id": 625606,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Brynsiencyn, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Brynsiencyn, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625606",
+    "created": 1511280213,
+    "updated": 1511280213,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Beryl Barnett ar ran Cangen Brynsiencyn yn cyflwyno cwpan er cof am Mrs Evelyn Roberts aelod selog o\u2019r gangen i Miss Haf Morris ar ran Pwyllgor Sir yr Urdd Ynys M\u00f4n.",
+        "cy": "Mrs Beryl Barnett ar ran Cangen Brynsiencyn yn cyflwyno cwpan er cof am Mrs Evelyn Roberts aelod selog o\u2019r gangen i Miss Haf Morris ar ran Pwyllgor Sir yr Urdd Ynys M\u00f4n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Brynsiencyn",
+    "owner": "Cangen Brynsiencyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Brynsiencyn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Brynsiencyn",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178433000000",
+            "lon": "-4.274895000000",
+            "description": {
+                "en": "Brynsiencyn",
+                "cy": "Brynsiencyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BRYNSIENCYN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BRYNSIENCYN_005.jpg",
+            "type": "image",
+            "target_id": "625596"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 611471,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch's Darts Team",
+        "cy": "T\u00eem Dartiau Cangen Pencader a\u2019r Cylch o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611471",
+    "created": 1510753464,
+    "updated": 1510753464,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem Dartiau Cangen Pencader a\u2019r Cylch.  Tair cenhedlaeth yn ennill ail wobr yn Chwaraeon Cenedlaethol Merched y Wawr yn 2000.\nWendy Evans (wyres), Mair Williams (mamgu), Dilys Evans (merch)",
+        "cy": "T\u00eem Dartiau Cangen Pencader a\u2019r Cylch.  Tair cenhedlaeth yn ennill ail wobr yn Chwaraeon Cenedlaethol Merched y Wawr yn 2000.\nWendy Evans (wyres), Mair Williams (mamgu), Dilys Evans (merch)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-100.jpg",
+            "type": "image",
+            "target_id": "611466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

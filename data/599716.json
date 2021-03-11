@@ -1,0 +1,85 @@
+{
+    "id": 599716,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Carmel, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Carmel, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599716",
+    "created": 1502446808,
+    "updated": 1502446808,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The branch celebrating St Davids Day and Merched y Wawr\u2019s 50th birthday.",
+        "cy": "Llun o aelodau\u2019r gangen yn dathlu G\u0175yl Ddewi a Dathlu\u2019r Aur yn y Cahnlers, Trefewi. Anwen Hughes, Ann Williams, Myfanwy Roberts, Carol Metcalfe, Nan Williawms, Maureen Hughes, Margaret Evans, Glenda Williams, Enid Davies, Nan Davies, Jane Smith, Margaret Mathews, Prydwen Morris, Elenor Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Carmel",
+    "owner": "Cangen Carmel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Carmel",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Carmel",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.142835000000",
+            "lon": "-3.739448000000",
+            "description": {
+                "en": "Carmel",
+                "cy": "Carmel "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CARMEL_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CARMEL_001.jpg",
+            "type": "image",
+            "target_id": "599714"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

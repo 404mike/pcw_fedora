@@ -1,0 +1,81 @@
+{
+    "id": 744196,
+    "title": {
+        "en": "Merched y Wawr Bronant Branch, First Book of Minutes 1969",
+        "cy": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744196",
+    "created": 1516896187,
+    "updated": 1516896187,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf.  Llythyr oddi wrth Zonia Bowen yn llongyfarch ffurfio Cangen Bronant o Ferched y Wawr.",
+        "cy": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf.  Llythyr oddi wrth Zonia Bowen yn llongyfarch ffurfio Cangen Bronant o Ferched y Wawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-122.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-122.jpg",
+            "type": "image",
+            "target_id": "744186"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-123.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-123.jpg",
+            "type": "image",
+            "target_id": "744191"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

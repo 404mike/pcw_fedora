@@ -1,0 +1,82 @@
+{
+    "id": 600470,
+    "title": {
+        "en": "Facts about Merched y Wawr Geler Branch",
+        "cy": "Ffeithiau a llun o faner Cangen Geler Merched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600470",
+    "created": 1502447780,
+    "updated": 1502447780,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffeithiau a llun o faner Cangen Geler Merched y Wawr a ddechreuwyd yn Hydref 23ain, 1973",
+        "cy": "Ffeithiau a llun o faner Cangen Geler Merched y Wawr a ddechreuwyd yn Hydref 23ain, 1973"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.003750000000",
+            "lon": "-4.362643000000",
+            "description": {
+                "en": "Ysgol Brynsaron, Saron",
+                "cy": "Ysgol Brynsaron, Saron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-270217-014.jpg",
+            "type": "image",
+            "target_id": "600468"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

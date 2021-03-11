@@ -1,0 +1,84 @@
+{
+    "id": 613801,
+    "title": {
+        "en": "Letter of thanks to Merched y Wawr Nantgaredig Branch from Penygroes Branch",
+        "cy": "Llythyr o ddiolch i Gangen Nantgaredig wrth Cangen Penygroes"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613801",
+    "created": 1510754315,
+    "updated": 1510754315,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Penygroes yn ysgrifennu ar Gangen Nantgaredig i ddiolch am y cyfle i dreulio\u2019r noson yng nghwmni Eluned Phillips (dyddiad y llythyr Chwefror 2, 2001).",
+        "cy": "Merched y Wawr Cangen Penygroes yn ysgrifennu ar Gangen Nantgaredig i ddiolch am y cyfle i dreulio\u2019r noson yng nghwmni Eluned Phillips (dyddiad y llythyr Chwefror 2, 2001)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.871065000000",
+            "lon": "-4.189562000000",
+            "description": {
+                "en": "Nantgaredig",
+                "cy": "Nantgaredig"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-086_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-086_0.jpg",
+            "type": "image",
+            "target_id": "613791"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

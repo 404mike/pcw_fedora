@@ -1,0 +1,87 @@
+{
+    "id": 753241,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753241",
+    "created": 1516958425,
+    "updated": 1516958425,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 30, Mawrth 2000 yng ngwesty\u2019r Pengwern, Llan. (blaen) Nora, Megan , Sulwen Lloyd Davies (Llywydd Cen.), Mair Penri Jones (Gwraig gwadd), Wendy, Nesta, Mai J, (cefn) Nansi, Alwen, Eurwen, Myferi, Nan, Iola, Helen R, Mair J, Anne, Rhain, Gwennys, Enid W, Gwenda, Megan.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 30, Mawrth 2000 yng ngwesty\u2019r Pengwern, Llan. (blaen) Nora, Megan , Sulwen Lloyd Davies (Llywydd Cen.), Mair Penri Jones (Gwraig gwadd), Wendy, Nesta, Mai J, (cefn) Nansi, Alwen, Eurwen, Myferi, Nan, Iola, Helen R, Mair J, Anne, Rhain, Gwennys, Enid W, Gwenda, Megan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 30",
+        "Llywyddion Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932342000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_014.jpg",
+            "type": "image",
+            "target_id": "753231"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

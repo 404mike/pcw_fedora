@@ -1,0 +1,63 @@
+{
+    "id": 1148186,
+    "title": {
+        "en": "MyW Residential Weekend 2017  at Aberystwyth \u2013 Golden Anniversary",
+        "cy": "Penwythnos Preswyl MyW 2017 yn Aberystwyth \u2013 Dathlu&#039;r Aur"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148186",
+    "created": 1562065663,
+    "updated": 1562065663,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Winner of the Tregwynt Quilt which was raffled in the year of the celebrations.",
+        "cy": "Enillydd Carthen Melin Tregwynt a fu ar raffl yn ystod blwyddyn y Dathlu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "residential weekend 2017",
+        "penwythnos preswyl myw"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_003.jpg",
+            "type": "image",
+            "target_id": "1148181"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

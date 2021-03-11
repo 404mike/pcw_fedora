@@ -1,0 +1,84 @@
+{
+    "id": 609806,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area Fun Eisteddfod in Llangennech",
+        "cy": "Eisteddfod H\u0175yl Ebrill Merched y Wawr Rhanbarth Caerfyrddin Yn Ysgol Llangennech "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609806",
+    "created": 1510753071,
+    "updated": 1510753071,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eisteddfod H\u0175yl Ebrill Rhanbarth Caerfyrddin Yn ysgol Llangennech \u2013 Seremoni Cadeirio\u2019r Bardd \u2013 Ebrill 2012  - Gary Anderson (Pennaeth) Valerie James, Nan Lewis, Mererid Jones, Helen Mainwaring, Lilwen Thomas, Mair Griffiths, Jayne Hughes, Mair Wyn, Glenys Thomas",
+        "cy": "Eisteddfod H\u0175yl Ebrill Rhanbarth Caerfyrddin Yn ysgol Llangennech \u2013 Seremoni Cadeirio\u2019r Bardd \u2013 Ebrill 2012  - Gary Anderson (Pennaeth) Valerie James, Nan Lewis, Mererid Jones, Helen Mainwaring, Lilwen Thomas, Mair Griffiths, Jayne Hughes, Mair Wyn, Glenys Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.702356000000",
+            "lon": "-4.078377000000",
+            "description": {
+                "en": "Ysgol Llangennech",
+                "cy": "Ysgol Llangennech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-015.jpg",
+            "type": "image",
+            "target_id": "609796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

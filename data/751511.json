@@ -1,0 +1,85 @@
+{
+    "id": 751511,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Aberdyfi, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Aberdyfi, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751511",
+    "created": 1516957947,
+    "updated": 1516957947,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen yn gweu fel rhan o ymgyrch gweu sgwariau tua\u2019r 90au cynnar. Gwelwn: Mrs Beti Williams, Mrs T.I. Evans, Morfodd Jones.",
+        "cy": "Rhai o aelodau\u2019r Gangen yn gweu fel rhan o ymgyrch gweu sgwariau tua\u2019r 90au cynnar. Gwelwn: Mrs Beti Williams, Mrs T.I. Evans, Morfodd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Aberdyfi",
+    "owner": "Cangen Aberdyfi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "aberdyfi",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberdyfi",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.544335000000",
+            "lon": "-4.040990000000",
+            "description": {
+                "en": "Aberdyfi",
+                "cy": "Aberdyfi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_ABERDYFI_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_ABERDYFI_009.jpg",
+            "type": "image",
+            "target_id": "751501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

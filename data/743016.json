@@ -1,0 +1,81 @@
+{
+    "id": 743016,
+    "title": {
+        "en": "Merched y Wawr Swansea Branch Programme 1973-1974  (letter to members)",
+        "cy": "Rhaglen Merched y Wawr Cangen Abertawe 1973 \u2013 1974 (llythyr i aelodau)"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743016",
+    "created": 1516895685,
+    "updated": 1516895685,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Abertawe 1973 \u2013 1974 drwy lythyr i\u2019r aelodau, sy\u2019n egluro gweithgareddau\u2019r tymor mewn manylder.",
+        "cy": "Rhaglen Merched y Wawr Cangen Abertawe 1973 \u2013 1974 drwy lythyr i\u2019r aelodau, sy\u2019n egluro gweithgareddau\u2019r tymor mewn manylder."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-008.jpg",
+            "type": "image",
+            "target_id": "743006"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-009.jpg",
+            "type": "image",
+            "target_id": "743011"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,82 @@
+{
+    "id": 749386,
+    "title": {
+        "en": "Members of Morriston Branch of Merched y Wawr outside the Community Centre",
+        "cy": "Aelodau Merched y Wawr Cangen Treforys tu allan i&#039;r Ganolfan Gymunedol \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749386",
+    "created": 1516898983,
+    "updated": 1516898983,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o swyddogion Merched y Wawr Cangen Treforys o flaen hysbysfwrdd newydd dwyieithog y Ganolfan Gymunedol yn Nhreforys, lle roedd y gangen yn cwrdd ar y pryd.  Uniaith Saesneg oedd yr arwydd gwreiddiol ond ymdrechwyd a llwyddwyd i gael un newydd.  Fe wnaeth y gangen gyfrannu tuag at y costau.  Gorchest a llwyddiant i aelodau Cangen Treforys.  \nYn y llun mae Mair Evans, Pam John, Enyd Griffiths",
+        "cy": "Llun o swyddogion Merched y Wawr Cangen Treforys o flaen hysbysfwrdd newydd dwyieithog y Ganolfan Gymunedol yn Nhreforys, lle roedd y gangen yn cwrdd ar y pryd.  Uniaith Saesneg oedd yr arwydd gwreiddiol ond ymdrechwyd a llwyddwyd i gael un newydd.  Fe wnaeth y gangen gyfrannu tuag at y costau.  Gorchest a llwyddiant i aelodau Cangen Treforys.  \nYn y llun mae Mair Evans, Pam John, Enyd Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treforys",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.667809000000",
+            "lon": "-3.924940000000",
+            "description": {
+                "en": "Canolfan Gymunedol Treforys",
+                "cy": "Canolfan Gymunedol Treforys"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-129.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-129.jpg",
+            "type": "image",
+            "target_id": "749376"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

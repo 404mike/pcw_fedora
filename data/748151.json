@@ -1,0 +1,90 @@
+{
+    "id": 748151,
+    "title": {
+        "en": "Merched y Wawr Pontardawe Branch Programme 2016-2017",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2016 \u2013 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748151",
+    "created": 1516898426,
+    "updated": 1516898426,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Pontardawe 2016 \u2013 2017\nGweithgareddau\u2019r tymor gan gynnwys enwau Swyddogion \/ Man cwrdd \u2013 T\u0177\u2019r Gwrhyd, Pontardawe  (blwyddyn gyntaf y Gangen yn cwrdd yma)",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2016 \u2013 2017\nGweithgareddau\u2019r tymor gan gynnwys enwau Swyddogion \/ Man cwrdd \u2013 T\u0177\u2019r Gwrhyd, Pontardawe  (blwyddyn gyntaf y Gangen yn cwrdd yma)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.720148000000",
+            "lon": "-3.849624000000",
+            "description": {
+                "en": "T\u0177\u2019r Gwrhyd, Pontardawe  ",
+                "cy": "T\u0177\u2019r Gwrhyd, Pontardawe  "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-106.jpg",
+            "type": "image",
+            "target_id": "748136"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-107.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-107.jpg",
+            "type": "image",
+            "target_id": "748141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

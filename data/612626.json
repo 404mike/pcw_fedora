@@ -1,0 +1,81 @@
+{
+    "id": 612626,
+    "title": {
+        "en": "A letter to Merched y Wawr Llanddarog Branch from Mair Elvet Thomas on the establishment of the branch",
+        "cy": "Llythyr i Ferched y Wawr Cangen Llanddarog wrth Mair Elvet Thomas ar sefydlu&#039;r gangen\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612626",
+    "created": 1510753749,
+    "updated": 1510753749,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr i Ferched y Wawr Cangen Llanddarog wrth Mair Elvet Thomas, Ysgrifennydd a Threfnydd Cenedlaethol, yn eu croesawu i\u2019r mudiad ar ddechrau\u2019r gangen ym Mehefin 1981 (dyddiad y llythyr, Mehefin 9, 1981)\nTudalen 1",
+        "cy": "Llythyr i Ferched y Wawr Cangen Llanddarog wrth Mair Elvet Thomas, Ysgrifennydd a Threfnydd Cenedlaethol, yn eu croesawu i\u2019r mudiad ar ddechrau\u2019r gangen ym Mehefin 1981 (dyddiad y llythyr, Mehefin 9, 1981)\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_147.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_147.jpg",
+            "type": "image",
+            "target_id": "612616"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_148.jpg",
+            "type": "image",
+            "target_id": "612621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

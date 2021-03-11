@@ -1,0 +1,177 @@
+{
+    "id": 599686,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Betws Garmon, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr, Betws Garmon, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599686",
+    "created": 1502446771,
+    "updated": 1602584338,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Images from Capel Garmon\u2019s scrap book from 1991 - 1992",
+        "cy": "Llyfr Llofion Cangen Capel Garmon 1991 - 1992"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Capel Garmon",
+    "owner": "Cangen Capel Garmon",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Garmon",
+        "Rhanbarth Aberconwy",
+        "llyfr llofion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.082873000000",
+            "lon": "-3.769087000000",
+            "description": {
+                "en": "Capel Garmon",
+                "cy": "Capel Garmon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_007.jpg",
+            "type": "image",
+            "target_id": "599667"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_008.jpg",
+            "type": "image",
+            "target_id": "599668"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_009.jpg",
+            "type": "image",
+            "target_id": "599669"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_010.jpg",
+            "type": "image",
+            "target_id": "599670"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_011.jpg",
+            "type": "image",
+            "target_id": "599671"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_012.jpg",
+            "type": "image",
+            "target_id": "599672"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_013.jpg",
+            "type": "image",
+            "target_id": "599673"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_014.jpg",
+            "type": "image",
+            "target_id": "599674"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_015.jpg",
+            "type": "image",
+            "target_id": "599675"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_016.jpg",
+            "type": "image",
+            "target_id": "599676"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_017.jpg",
+            "type": "image",
+            "target_id": "599677"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_018.jpg",
+            "type": "image",
+            "target_id": "599678"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_020.jpg",
+            "type": "image",
+            "target_id": "599679"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_021.jpg",
+            "type": "image",
+            "target_id": "599680"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_022.jpg",
+            "type": "image",
+            "target_id": "599681"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_024.jpg",
+            "type": "image",
+            "target_id": "599682"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_025.jpg",
+            "type": "image",
+            "target_id": "599683"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CAPELGARMON_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CAPELGARMON_027.jpg",
+            "type": "image",
+            "target_id": "599684"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

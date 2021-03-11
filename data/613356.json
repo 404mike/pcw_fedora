@@ -1,0 +1,75 @@
+{
+    "id": 613356,
+    "title": {
+        "en": "The story of Merched y Wawr Llannau'r Tywi's Banner",
+        "cy": "Hanes Baner Merched y Wawr Llannau&#039;r Tywi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613356",
+    "created": 1510753938,
+    "updated": 1510753938,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi, hanes cynllunio\u2019r faner a\u2019i hymddangosiad cyntaf yn 2016",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, hanes cynllunio\u2019r faner a\u2019i hymddangosiad cyntaf yn 2016"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "cynllunio_baner_286.pdf",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/cynllunio_baner_286_1.pdf",
+            "type": "office_doc",
+            "target_id": "613351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

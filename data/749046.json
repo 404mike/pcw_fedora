@@ -1,0 +1,75 @@
+{
+    "id": 749046,
+    "title": {
+        "en": "The Mile Race winner at the Merched y Wawr Sports 1998",
+        "cy": "Y Ras Filltir yn Chwaraeon Cenedlaethol Merched y Wawr 1998."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749046",
+    "created": 1516898827,
+    "updated": 1516898827,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bethan Hinde o Ferched y Wawr Tegryn yn ennill y Ras Filltir yn Chwaraeon Cenedlaethol Merched y Wawr yn Machynlleth ym 1998.",
+        "cy": "Bethan Hinde o Ferched y Wawr Tegryn yn ennill y Ras Filltir yn Chwaraeon Cenedlaethol Merched y Wawr yn Machynlleth ym 1998."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-074.jpg",
+            "type": "image",
+            "target_id": "749041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

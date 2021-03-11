@@ -1,0 +1,92 @@
+{
+    "id": 623071,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhos a Phencae, Glyn Maelor",
+        "cy": "Rhaglen Noson Lawen cangen Merched y Wawr Rhos a Phencae, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623071",
+    "created": 1511279380,
+    "updated": 1511279380,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Noson Lawen Merched y Wawr, Rhanbarth Glyn Maelor, Pafiliwn Corwen, Mehefin 1989. Cangen Rhos a a Phencae yn cymeryd rhan yn Noson Lawen Merched y Wawr, Rhanbarth Glyn Maelor, Pafiliwn Corwen, Mehefin 1989.",
+        "cy": "Rhaglen Noson Lawen Merched y Wawr, Rhanbarth Glyn Maelor, Pafiliwn Corwen, Mehefin 1989. Cangen Rhos a a Phencae yn cymeryd rhan yn Noson Lawen Merched y Wawr, Rhanbarth Glyn Maelor, Pafiliwn Corwen, Mehefin 1989."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhos a Phencae",
+    "owner": "Cangen Rhos a Phencae",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhos a Phencae",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhos a Phencae",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.012565000000",
+            "lon": "-3.057659000000",
+            "description": {
+                "en": "Rhos a Phencae",
+                "cy": "Rhos a Phencae"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_025.jpg",
+            "type": "image",
+            "target_id": "623056"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_026.jpg",
+            "type": "image",
+            "target_id": "623061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

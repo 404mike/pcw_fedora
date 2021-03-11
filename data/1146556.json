@@ -1,0 +1,136 @@
+{
+    "id": 1146556,
+    "title": {
+        "en": "Flags of the Region",
+        "cy": "Baneri&#039;r Rhanbarthau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146556",
+    "created": 1562063909,
+    "updated": 1562063909,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aberconwy, Arfon, Carmarthen, Ceredigion, Colwyn, Y De-ddwyrain (South East), Dwyfor, Glyn Maelor, Gorllewin Morgannwg (West Glamorgan), Maldwyn Powys, Meirion, Anglesey,Penfro",
+        "cy": "Aberconwy, Arfon, Caerfyrddin, Ceredigion, Colwyn, Y De-ddwyrain, Dwyfor, Glyn Maelor, Gorllewin Morgannwg, Maldwyn Powys, Meirion, M\u00f4n, Penfro"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_810.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_810.jpg",
+            "type": "image",
+            "target_id": "1146491"
+        },
+        {
+            "originalFilename": "df_myw_811.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_811.jpg",
+            "type": "image",
+            "target_id": "1146496"
+        },
+        {
+            "originalFilename": "df_myw_812.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_812.jpg",
+            "type": "image",
+            "target_id": "1146501"
+        },
+        {
+            "originalFilename": "df_myw_813.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_813.jpg",
+            "type": "image",
+            "target_id": "1146506"
+        },
+        {
+            "originalFilename": "df_myw_814.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_814.jpg",
+            "type": "image",
+            "target_id": "1146511"
+        },
+        {
+            "originalFilename": "df_myw_815.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_815.jpg",
+            "type": "image",
+            "target_id": "1146516"
+        },
+        {
+            "originalFilename": "df_myw_816.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_816.jpg",
+            "type": "image",
+            "target_id": "1146521"
+        },
+        {
+            "originalFilename": "df_myw_817.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_817.jpg",
+            "type": "image",
+            "target_id": "1146526"
+        },
+        {
+            "originalFilename": "df_myw_818.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_818.jpg",
+            "type": "image",
+            "target_id": "1146531"
+        },
+        {
+            "originalFilename": "df_myw_819.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_819.jpg",
+            "type": "image",
+            "target_id": "1146536"
+        },
+        {
+            "originalFilename": "df_myw_820.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_820.jpg",
+            "type": "image",
+            "target_id": "1146541"
+        },
+        {
+            "originalFilename": "df_myw_821.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_821.jpg",
+            "type": "image",
+            "target_id": "1146546"
+        },
+        {
+            "originalFilename": "df_myw_822.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_822.jpg",
+            "type": "image",
+            "target_id": "1146551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

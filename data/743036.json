@@ -1,0 +1,75 @@
+{
+    "id": 743036,
+    "title": {
+        "en": "A letter from \u2018The Friends of Hil House Hospital\u2019, to Merched y Wawr Swansea Branch",
+        "cy": "Llythyr wrth \u2018The Friends of Hill House Hospital\u2019 i Ferched y Wawr Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743036",
+    "created": 1516895695,
+    "updated": 1516895695,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr wrth \u2018The Friends of Hill House Hospital\u2019, yn gofyn i Ferched y Wawr Abertawe drefnu stondin ar achlysur ei \u2018fete\u2019 mis Gorffennaf 1987.   Dyddiad y llythyr, Chwefror 10, 1987.  Enghraift o\u2019r gefnogaeth mae Cangen Abertawe yn rhoi i elusennau.",
+        "cy": "Llythyr wrth \u2018The Friends of Hill House Hospital\u2019, yn gofyn i Ferched y Wawr Abertawe drefnu stondin ar achlysur ei \u2018fete\u2019 mis Gorffennaf 1987.   Dyddiad y llythyr, Chwefror 10, 1987.  Enghraift o\u2019r gefnogaeth mae Cangen Abertawe yn rhoi i elusennau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-011.jpg",
+            "type": "image",
+            "target_id": "743031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

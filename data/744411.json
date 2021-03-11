@@ -1,0 +1,81 @@
+{
+    "id": 744411,
+    "title": {
+        "en": "A card to mark Merched y Wawr Bronant Branch's 40th Anniversary",
+        "cy": "Cerdyn Dathlu Merched y Wawr Bronant yn ddeugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744411",
+    "created": 1516896284,
+    "updated": 1516896284,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdyn llongyfarch Merched y Wawr Bronant wrth i\u2019r gangen ddathlu deugain mlynedd, gan Aeronwen Edwards. Aelodau wedi arwyddo yng Nghwesty\u2019r Marine, Mai 22, 2009",
+        "cy": "Cerdyn llongyfarch Merched y Wawr Bronant wrth i\u2019r gangen ddathlu deugain mlynedd, gan Aeronwen Edwards. Aelodau wedi arwyddo yng Nghwesty\u2019r Marine, Mai 22, 2009"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-154.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-154.jpg",
+            "type": "image",
+            "target_id": "744401"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-156.jpg",
+            "type": "image",
+            "target_id": "744406"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

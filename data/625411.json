@@ -1,0 +1,86 @@
+{
+    "id": 625411,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bodedern, Anglesey.",
+        "cy": "Cangen Merched y Wawr Bodedern, Rhanbarth M\u00f4n yn dathlu ei phenblwydd yn 25"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625411",
+    "created": 1511280153,
+    "updated": 1511280153,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 25th birthday",
+        "cy": "Llun o\u2019r gangen yn dathlu ei phenblwydd yn 25. Yn y llun ceir, Mrs Dora Roberts, Mrs Eirian Jones, Miss Lynys Hughes, Miss Beri Williams, Mrs O Hughes, Mrs Cooke, Mrs Bet Jones, Mrs Heulwen Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodedern",
+    "owner": "Cangen Bodedern",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodedern",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodedern",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226133000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODEDERN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODEDERN_001.jpg",
+            "type": "image",
+            "target_id": "625401"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

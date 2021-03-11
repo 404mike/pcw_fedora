@@ -1,0 +1,86 @@
+{
+    "id": 753131,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Llanuwchllyn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanuwchllyn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753131",
+    "created": 1516958387,
+    "updated": 1516958387,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r Gangen yn dathlu ei 21ain, Hydref 1988. Gwelwn: (\u00f4l) Beti, Rona, Beryl, Carol, Rose, Joyce, Elin, Rhian, Dyfir, Ediwna, (canol) Ceinwen, Catrin, Elisabeth, Mair, Gwerfyl, Nansi, Gretta, Elen, Olsen, Kate, Gwylan, Elin, Cathie, Jean, Gwenfair (blaen) Enid, Bethan, Ann, Our, Gwenda, Winnie, Dorothy, Ann, Awel, Marian",
+        "cy": "Aelodau\u2019r Gangen yn dathlu ei 21ain, Hydref 1988. Gwelwn: (\u00f4l) Beti, Rona, Beryl, Carol, Rose, Joyce, Elin, Rhian, Dyfir, Ediwna, (canol) Ceinwen, Catrin, Elisabeth, Mair, Gwerfyl, Nansi, Gretta, Elen, Olsen, Kate, Gwylan, Elin, Cathie, Jean, Gwenfair (blaen) Enid, Bethan, Ann, Our, Gwenda, Winnie, Dorothy, Ann, Awel, Marian"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanuwchllyn",
+    "owner": "Cangen Llanuwchllyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanuwchllyn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanuwchllyn",
+        "Rhanbarth Meirionnydd",
+        "Drama Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.855261000000",
+            "lon": "-3.668657000000",
+            "description": {
+                "en": "Llanuwchllyn",
+                "cy": "Llanuwchllyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN016.jpg",
+            "type": "image",
+            "target_id": "753121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

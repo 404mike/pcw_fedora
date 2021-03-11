@@ -1,0 +1,66 @@
+{
+    "id": 1047606,
+    "title": {
+        "en": "Annual Meeting 2007",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047606",
+    "created": 1555590992,
+    "updated": 1555590992,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of Deudraeth branch MyW winning first prize for the best programme, from Dr Esyllt Jones, deputy President.",
+        "cy": "Aelodau cangen Deudraeth yn derbyn y wobr gyntaf am y rhaglen orau 2006\/07, oddi wrth Dr Esyllt Jones, Is-lywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_152.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_152.jpg",
+            "type": "image",
+            "target_id": "1047601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

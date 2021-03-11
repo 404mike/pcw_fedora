@@ -1,0 +1,75 @@
+{
+    "id": 600851,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch, An evening of hats",
+        "cy": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch, Noson o Hetiau  \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600851",
+    "created": 1502448331,
+    "updated": 1502448331,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch, Hetiau Mrs Skym 2016\nRowena Fowler, Margaret Regean, Carol Howells, Olwen Williams, Shirley Thomas, Gillian Tancock, Meriel Thomas",
+        "cy": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch, Hetiau Mrs Skym 2016\nRowena Fowler, Margaret Regean, Carol Howells, Olwen Williams, Shirley Thomas, Gillian Tancock, Meriel Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-172.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-172.jpg",
+            "type": "image",
+            "target_id": "600850"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

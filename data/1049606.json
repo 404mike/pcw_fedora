@@ -1,0 +1,73 @@
+{
+    "id": 1049606,
+    "title": {
+        "en": "MyW Residential Weekend 2011, Bangor \u2013 Bwrlwm a Bantams",
+        "cy": "Penwythnos Preswyl MyW 2011, Bangor \u2013 Bwrlwm a Bantams"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049606",
+    "created": 1555591980,
+    "updated": 1555591980,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Saturday night's entertainment. Da Capo \u2013 former pupils of Glaenaethwy School.",
+        "cy": "Adloniant nos Sadwrn. Da Capo \u2013 cyn ddisgyblion Ysgol Glanaethwy."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "bwrlwm a bantams",
+        "ysgol glanaethwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_377.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_377.jpg",
+            "type": "image",
+            "target_id": "1049596"
+        },
+        {
+            "originalFilename": "df_myw_378.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_378.jpg",
+            "type": "image",
+            "target_id": "1049601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

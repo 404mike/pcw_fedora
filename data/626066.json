@@ -1,0 +1,93 @@
+{
+    "id": 626066,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Club Gwawr y Goes Goch, Anglesey.",
+        "cy": "Erthygl o \u201cY Wawr\u2019, Haf 1999 gan Glenys Ann Roberts, aelod cangen Clwb Gwawr y Goes Goch, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626066",
+    "created": 1511280365,
+    "updated": 1511280365,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o \u201cY Wawr\u2019, Haf 1999 gan Glenys Ann Roberts (aelod o\u2019r Clwb) yn croesawu\u2019r Eisteddfod Genedlaethol i F\u00f4n.",
+        "cy": "Erthygl o \u201cY Wawr\u2019, Haf 1999 gan Glenys Ann Roberts (aelod o\u2019r Clwb) yn croesawu\u2019r Eisteddfod Genedlaethol i F\u00f4n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Clwb Gwawr y Gors Goch",
+    "owner": "Clwb Gwawr y Gors Goch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Y Goes Goch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr y Gors Goch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.300238000000",
+            "lon": "-4.236423000000",
+            "description": {
+                "en": "Llanbedrgoch",
+                "cy": "Llanbedrgoch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CG_YGORSGOCH_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CG_YGORSGOCH_003.jpg",
+            "type": "image",
+            "target_id": "626051"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CG_YGORSGOCH_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CG_YGORSGOCH_004.jpg",
+            "type": "image",
+            "target_id": "626056"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

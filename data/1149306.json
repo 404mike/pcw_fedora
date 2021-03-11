@@ -1,0 +1,64 @@
+{
+    "id": 1149306,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2006",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149306",
+    "created": 1562066223,
+    "updated": 1562066223,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Table Tennis \u2013 1st  Glyn Maelor Team",
+        "cy": "Tenis Bwrdd \u2013 1af  T\u00eem Glyn Maelor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_130.jpg",
+            "type": "image",
+            "target_id": "1149301"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

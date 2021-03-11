@@ -1,0 +1,81 @@
+{
+    "id": 1046346,
+    "title": {
+        "en": "Annual Meeting 2002",
+        "cy": "Cyfarfod Blynyddol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046346",
+    "created": 1555590172,
+    "updated": 1555590172,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 Photographs from the Annual Meeing at the Tabernacle Machynlleth 2002. i) Sharon Owen receiving the Patagonia Prize for the best article in Y Wawr, from the Editor Janet Evans. ii) Rita Mitchell, Meirioneth Region winner of the Welsh Learner Prize. Iii) Grace Jones, Pensarn, Anglesey, winner of the Literary Prize.",
+        "cy": "3 Llun o'r Cyfarfod Blynyddol 2002 yn y Tabernacl, Machynlleth. i) Sharon Owen yn derbyn Gwobr Patagonia am yr erthygl orau yn Y Wawr o law Janet Evans, Golygydd Y Wawr. ii) Rita Mitchell, Rhanbarth Meirion, enillydd Tlws y Dysgwyr. Iii) Grace Jones, Pensarn, Ynys M\u00f4n, enillydd Tlws Merched y Wawr am waith llenyddol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2002",
+        "patagonia prize",
+        "welsh learner prize",
+        "cyfarfod blynyddol 2002",
+        "gwobr patagonia",
+        "Tabernacl",
+        "Machynlleth",
+        "tlws y dysgwyr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_027.jpg",
+            "type": "image",
+            "target_id": "1046331"
+        },
+        {
+            "originalFilename": "df_myw_027-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_027-001.jpg",
+            "type": "image",
+            "target_id": "1046336"
+        },
+        {
+            "originalFilename": "df_myw_027-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_027-002.jpg",
+            "type": "image",
+            "target_id": "1046341"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

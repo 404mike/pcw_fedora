@@ -1,0 +1,89 @@
+{
+    "id": 470228,
+    "title": {
+        "en": "Betws Garmon, Arfon branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Betws Garmon, Arfon i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470228",
+    "created": 1441700654,
+    "updated": 1441700654,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Betws Garmon, Arfon, branch of Merched y Wawr. It contains a list of field names in the Waunfawr and Betws Garmon area.",
+        "cy": "Gwybodaeth am waith cangen Betws Garmon, Arfon o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau yn ardaloedd Waunfawr a Betws Garmon."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10400.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10400.jpg",
+            "type": "image",
+            "target_id": "470222"
+        },
+        {
+            "originalFilename": "pcw001_10401.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10401.jpg",
+            "type": "image",
+            "target_id": "470223"
+        },
+        {
+            "originalFilename": "pcw001_10402.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10402.jpg",
+            "type": "image",
+            "target_id": "470224"
+        },
+        {
+            "originalFilename": "pcw001_10403.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10403.jpg",
+            "type": "image",
+            "target_id": "470225"
+        },
+        {
+            "originalFilename": "pcw001_10404.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10404.jpg",
+            "type": "image",
+            "target_id": "470226"
+        },
+        {
+            "originalFilename": "pcw001_10405.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10405.jpg",
+            "type": "image",
+            "target_id": "470227"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10400",
+    "publisher_ref": ""
+}

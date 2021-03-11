@@ -1,0 +1,85 @@
+{
+    "id": 621566,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henllan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Henllan, Rhanbarth Colwyn yn dathlu\u2019r Nadolig, 70au hwyr."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621566",
+    "created": 1511278879,
+    "updated": 1511278879,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yn dathlu\u2019r Nadolig a\u2019u gwesteion\/ gwyr yn y 70au hwyr.",
+        "cy": "Aelodau\u2019r gangen yn dathlu\u2019r Nadolig a\u2019u gwesteion\/ gwyr yn y 70au hwyr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henllan",
+    "owner": "Cangen Henllan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Henllan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Henllan"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.200626000000",
+            "lon": "-3.461812000000",
+            "description": {
+                "en": "Henllan",
+                "cy": "Henllan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_024.jpg",
+            "type": "image",
+            "target_id": "621556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

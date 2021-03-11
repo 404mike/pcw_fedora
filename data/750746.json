@@ -1,0 +1,84 @@
+{
+    "id": 750746,
+    "title": {
+        "en": "Merched y Wawr Ystalyfera Branch award the Learner of the Year",
+        "cy": "Merched y Wawr Cangen Ystalyfera yn cyflwyno anrheg i Ddysgwr y Flwyddyn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750746",
+    "created": 1516899617,
+    "updated": 1516899617,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Mavis Llewelyn, Llywydd Merched y Wawr Cangen Ystalyfera yn cyflwyno anrheg i Ddysgwr y Flwyddyn yn Ysgol y Wern, Ystalyfera Gorffennaf 1992 ym mhresenoldeb y Brifathrawes, Mrs Clarke.  Yn y llun mae Mrs Beth Clarke (Prifathrawes), Disgybl (dim enw), Mrs Mavis Llewelyn. Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe",
+        "cy": "Mrs Mavis Llewelyn, Llywydd Merched y Wawr Cangen Ystalyfera yn cyflwyno anrheg i Ddysgwr y Flwyddyn yn Ysgol y Wern, Ystalyfera Gorffennaf 1992 ym mhresenoldeb y Brifathrawes, Mrs Clarke.  Yn y llun mae Mrs Beth Clarke (Prifathrawes), Disgybl (dim enw), Mrs Mavis Llewelyn. Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Rhanbarth Gorllewin Morgannwg)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Ystalyfera"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.765597000000",
+            "lon": "-3.790227000000",
+            "description": {
+                "en": "Ysgol y Wern, Ystalyfera",
+                "cy": "Ysgol y Wern, Ystalyfera"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ystalyfera%202%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ystalyfera%25202%2520001.jpg",
+            "type": "image",
+            "target_id": "750736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

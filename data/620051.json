@@ -1,0 +1,89 @@
+{
+    "id": 620051,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr St Asaph, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanelwy, Rhanbarth Colwyn. Ffair Aeaf, 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620051",
+    "created": 1511278324,
+    "updated": 1511278324,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eirlys Savage yn hapus iawn o ddod yn fuddugol yn y Ffair Aeaf, 2015.",
+        "cy": "Eirlys Savage yn hapus iawn o ddod yn fuddugol yn y Ffair Aeaf, 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanelwy",
+    "owner": "Cangen Llanelwy",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llanelwy",
+                "cy": "Cangen Merched y Wawr Llanelwy"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "St Asaph",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanelwy",
+        "Rhanbarth Colwyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.257851000000",
+            "lon": "-3.440893000000",
+            "description": {
+                "en": "Llanelwy",
+                "cy": "Llanelwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANELWY_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANELWY_023.jpg",
+            "type": "image",
+            "target_id": "620041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1046596,
+    "title": {
+        "en": "President's Dinner in South Wales 2004",
+        "cy": "Cinio&#039;r Llywydd yn y De 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046596",
+    "created": 1555590313,
+    "updated": 1555590313,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph of Bro Cennech branch of MyW receiving the Tegwen Morris Shield for increase in membership during the year, from the National President, Gwyneth Morus Jones.",
+        "cy": "Cangen Bro Cennech yn derbyn Tarian Tegwen Morris am y cynnydd mewn aelodaeth yn ystod y flwyddyn gan y Llywydd Cenedlaethol. Elizabeth Griffiths; Margaret Griffiths; Liz Fidler; Gwyneth Morus Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2004",
+        "president",
+        "bro cennech branch",
+        "cinior llywydd yn y de 2004",
+        "llywydd",
+        "Cangen Bro Cennech"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_048.jpg",
+            "type": "image",
+            "target_id": "1046591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

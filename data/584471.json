@@ -1,0 +1,130 @@
+{
+    "id": 584471,
+    "title": {
+        "en": "Crochan Coginio - Cooking Cauldron - A Collection of Recipes by Merched y Wawr Ystrad Mynach Branch 1988",
+        "cy": "Crochan Coginio - Casgliad o ryseitiau gan Gangen Ystrad Mynach Merched y Wawr 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584471",
+    "created": 1499871095,
+    "updated": 1499871095,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Ystrad Mynach \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \n Tudalen fewn \u2013 Cyheddwyd gyda chymorth busnesau Ystrad Mynach",
+        "cy": "Cangen Ystrad Mynach \u2013 Casgliad o ryseitiau a wnaethpwyd gan aelodau\u2019r gangen ym 1988 ac a werthwyd er budd Eisteddfod Genedlaethol Cwm Rhymni 1990. \n Tudalen fewn \u2013 Cyheddwyd gyda chymorth busnesau Ystrad Mynach"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-011.jpg",
+            "type": "image",
+            "target_id": "584461"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-012.jpg",
+            "type": "image",
+            "target_id": "584462"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-013.jpg",
+            "type": "image",
+            "target_id": "584463"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-015.jpg",
+            "type": "image",
+            "target_id": "584464"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-016.jpg",
+            "type": "image",
+            "target_id": "584465"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-017.jpg",
+            "type": "image",
+            "target_id": "584466"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-018.jpg",
+            "type": "image",
+            "target_id": "584467"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-019.jpg",
+            "type": "image",
+            "target_id": "584468"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-020.jpg",
+            "type": "image",
+            "target_id": "584469"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-021.jpg",
+            "type": "image",
+            "target_id": "584470"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

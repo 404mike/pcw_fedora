@@ -1,0 +1,64 @@
+{
+    "id": 470610,
+    "title": {
+        "en": "Tymbl, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangenTymbl, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470610",
+    "created": 1441700816,
+    "updated": 1441700816,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Tymbl, Carmarthenshire branch of Merched y Wawr. It contains a possible explanation on the place name; lists of farm and field names in the Llanon and Tymbl area.",
+        "cy": "Gwybodaeth am waith cangen y Tymbl, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys esboniad posibl am yr enw a rhest o enwau ffermydd a chaeau yn ardal Llanon a'r Tymbl."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10754.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10754.jpg",
+            "type": "image",
+            "target_id": "470608"
+        },
+        {
+            "originalFilename": "pcw001_10755.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10755.jpg",
+            "type": "image",
+            "target_id": "470609"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10754",
+    "publisher_ref": ""
+}

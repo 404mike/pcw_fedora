@@ -1,0 +1,66 @@
+{
+    "id": 1046606,
+    "title": {
+        "en": "Annual Meeting 2004",
+        "cy": "Cyfarfod Blynyddol 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046606",
+    "created": 1555590319,
+    "updated": 1555590319,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph at the Annual meeting at the Tabernacl, Machynlleth 2004. Glenys Thomas; Marged Jones; Gwyneth Morus Jones; Tegwen Morris; Elinor Davies; Morfudd Jones.",
+        "cy": "Llun yn y Cyfarfod Blynyddol yn y Tabernacl Machynlleth 2004. Glenys Thomas, Is-Lywydd; Marged Jones, Llywydd Anrhydeddus; Gwyneth Morus Jones, Llywydd Cenedlaethol; Tegwen Morris, Trefnydd Cenedlaethol; Elinor Davies, Trysorydd ; Morfudd Jones, Ysgrifennydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2004",
+        "cyfarfod blynyddol 2004",
+        "Tabernacl",
+        "Machynlleth",
+        "trefnyd cenedlaethol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_049.jpg",
+            "type": "image",
+            "target_id": "1046601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

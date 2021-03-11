@@ -1,0 +1,73 @@
+{
+    "id": 554409,
+    "title": {
+        "en": " Merched y Wawr Christmas Card Competition 2000",
+        "cy": "Cystadleuaeth Cardiau Nadolig Merched y Wawr 2000 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554409",
+    "created": 1487591777,
+    "updated": 1487591777,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen yn rhoi manylion cystadleuaeth Cardiau Nadolig Merched y Wawr 2000",
+        "cy": "Taflen yn rhoi manylion cystadleuaeth Cardiau Nadolig Merched y Wawr 2000"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000002.jpg",
+            "type": "image",
+            "target_id": "554408"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

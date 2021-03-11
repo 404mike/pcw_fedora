@@ -1,0 +1,67 @@
+{
+    "id": 1047486,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed \u2013 Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047486",
+    "created": 1555590927,
+    "updated": 1555590927,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ceredigion Gwawr Clubs presenting 'Dathlu'r 40' by Dwynwen Lloyd Evans.",
+        "cy": "Clybiau Gwawr Ceredigion yn cyflwyno Dathlu'r 40 gan Dwynwen Lloyd Evans."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Lampeter",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_138.jpg",
+            "type": "image",
+            "target_id": "1047481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,620 @@
+{
+    "id": 816836,
+    "title": {
+        "en": "Sculpture of the Pencaeneur Branch",
+        "cy": "Llyfr lloffion Cangen Pencaenewydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/816836",
+    "created": 1523360570,
+    "updated": 1523360570,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Pencaenewydd",
+    "owner": "Cangen Pencaenewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Pencaenewydd"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Pencaenewydd00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00001.jpg",
+            "type": "image",
+            "target_id": "816376"
+        },
+        {
+            "originalFilename": "Pencaenewydd00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00002.jpg",
+            "type": "image",
+            "target_id": "816381"
+        },
+        {
+            "originalFilename": "Pencaenewydd00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00003.jpg",
+            "type": "image",
+            "target_id": "816386"
+        },
+        {
+            "originalFilename": "Pencaenewydd00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00004.jpg",
+            "type": "image",
+            "target_id": "816391"
+        },
+        {
+            "originalFilename": "Pencaenewydd00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00005.jpg",
+            "type": "image",
+            "target_id": "816396"
+        },
+        {
+            "originalFilename": "Pencaenewydd00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00006.jpg",
+            "type": "image",
+            "target_id": "816401"
+        },
+        {
+            "originalFilename": "Pencaenewydd00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00007.jpg",
+            "type": "image",
+            "target_id": "816406"
+        },
+        {
+            "originalFilename": "Pencaenewydd00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00008.jpg",
+            "type": "image",
+            "target_id": "816411"
+        },
+        {
+            "originalFilename": "Pencaenewydd00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00009.jpg",
+            "type": "image",
+            "target_id": "816416"
+        },
+        {
+            "originalFilename": "Pencaenewydd00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00010.jpg",
+            "type": "image",
+            "target_id": "816421"
+        },
+        {
+            "originalFilename": "Pencaenewydd00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00011.jpg",
+            "type": "image",
+            "target_id": "816426"
+        },
+        {
+            "originalFilename": "Pencaenewydd00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00012.jpg",
+            "type": "image",
+            "target_id": "816431"
+        },
+        {
+            "originalFilename": "Pencaenewydd00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00013.jpg",
+            "type": "image",
+            "target_id": "816436"
+        },
+        {
+            "originalFilename": "Pencaenewydd00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00014.jpg",
+            "type": "image",
+            "target_id": "816441"
+        },
+        {
+            "originalFilename": "Pencaenewydd00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00015.jpg",
+            "type": "image",
+            "target_id": "816446"
+        },
+        {
+            "originalFilename": "Pencaenewydd00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00016.jpg",
+            "type": "image",
+            "target_id": "816451"
+        },
+        {
+            "originalFilename": "Pencaenewydd00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00017.jpg",
+            "type": "image",
+            "target_id": "816456"
+        },
+        {
+            "originalFilename": "Pencaenewydd00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00018.jpg",
+            "type": "image",
+            "target_id": "816461"
+        },
+        {
+            "originalFilename": "Pencaenewydd00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00019.jpg",
+            "type": "image",
+            "target_id": "816466"
+        },
+        {
+            "originalFilename": "Pencaenewydd00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00020.jpg",
+            "type": "image",
+            "target_id": "816471"
+        },
+        {
+            "originalFilename": "Pencaenewydd00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00021.jpg",
+            "type": "image",
+            "target_id": "816476"
+        },
+        {
+            "originalFilename": "Pencaenewydd00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00022.jpg",
+            "type": "image",
+            "target_id": "816481"
+        },
+        {
+            "originalFilename": "Pencaenewydd00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00023.jpg",
+            "type": "image",
+            "target_id": "816486"
+        },
+        {
+            "originalFilename": "Pencaenewydd00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00024.jpg",
+            "type": "image",
+            "target_id": "816491"
+        },
+        {
+            "originalFilename": "Pencaenewydd00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00025.jpg",
+            "type": "image",
+            "target_id": "816496"
+        },
+        {
+            "originalFilename": "Pencaenewydd00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00026.jpg",
+            "type": "image",
+            "target_id": "816501"
+        },
+        {
+            "originalFilename": "Pencaenewydd00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00027.jpg",
+            "type": "image",
+            "target_id": "816506"
+        },
+        {
+            "originalFilename": "Pencaenewydd00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00028.jpg",
+            "type": "image",
+            "target_id": "816511"
+        },
+        {
+            "originalFilename": "Pencaenewydd00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00029.jpg",
+            "type": "image",
+            "target_id": "816516"
+        },
+        {
+            "originalFilename": "Pencaenewydd00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00030.jpg",
+            "type": "image",
+            "target_id": "816521"
+        },
+        {
+            "originalFilename": "Pencaenewydd00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00031.jpg",
+            "type": "image",
+            "target_id": "816526"
+        },
+        {
+            "originalFilename": "Pencaenewydd00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00032.jpg",
+            "type": "image",
+            "target_id": "816531"
+        },
+        {
+            "originalFilename": "Pencaenewydd00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00033.jpg",
+            "type": "image",
+            "target_id": "816536"
+        },
+        {
+            "originalFilename": "Pencaenewydd00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00034.jpg",
+            "type": "image",
+            "target_id": "816541"
+        },
+        {
+            "originalFilename": "Pencaenewydd00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00035.jpg",
+            "type": "image",
+            "target_id": "816546"
+        },
+        {
+            "originalFilename": "Pencaenewydd00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00036.jpg",
+            "type": "image",
+            "target_id": "816551"
+        },
+        {
+            "originalFilename": "Pencaenewydd00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00037.jpg",
+            "type": "image",
+            "target_id": "816556"
+        },
+        {
+            "originalFilename": "Pencaenewydd00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00038.jpg",
+            "type": "image",
+            "target_id": "816561"
+        },
+        {
+            "originalFilename": "Pencaenewydd00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00039.jpg",
+            "type": "image",
+            "target_id": "816566"
+        },
+        {
+            "originalFilename": "Pencaenewydd00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00040.jpg",
+            "type": "image",
+            "target_id": "816571"
+        },
+        {
+            "originalFilename": "Pencaenewydd00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00041.jpg",
+            "type": "image",
+            "target_id": "816576"
+        },
+        {
+            "originalFilename": "Pencaenewydd00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00042.jpg",
+            "type": "image",
+            "target_id": "816581"
+        },
+        {
+            "originalFilename": "Pencaenewydd00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00043.jpg",
+            "type": "image",
+            "target_id": "816586"
+        },
+        {
+            "originalFilename": "Pencaenewydd00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00044.jpg",
+            "type": "image",
+            "target_id": "816591"
+        },
+        {
+            "originalFilename": "Pencaenewydd00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00045.jpg",
+            "type": "image",
+            "target_id": "816596"
+        },
+        {
+            "originalFilename": "Pencaenewydd00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00046.jpg",
+            "type": "image",
+            "target_id": "816601"
+        },
+        {
+            "originalFilename": "Pencaenewydd00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00047.jpg",
+            "type": "image",
+            "target_id": "816606"
+        },
+        {
+            "originalFilename": "Pencaenewydd00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00048.jpg",
+            "type": "image",
+            "target_id": "816611"
+        },
+        {
+            "originalFilename": "Pencaenewydd00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00049.jpg",
+            "type": "image",
+            "target_id": "816616"
+        },
+        {
+            "originalFilename": "Pencaenewydd00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00050.jpg",
+            "type": "image",
+            "target_id": "816621"
+        },
+        {
+            "originalFilename": "Pencaenewydd00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00051.jpg",
+            "type": "image",
+            "target_id": "816626"
+        },
+        {
+            "originalFilename": "Pencaenewydd00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00052.jpg",
+            "type": "image",
+            "target_id": "816631"
+        },
+        {
+            "originalFilename": "Pencaenewydd00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00053.jpg",
+            "type": "image",
+            "target_id": "816636"
+        },
+        {
+            "originalFilename": "Pencaenewydd00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00054.jpg",
+            "type": "image",
+            "target_id": "816641"
+        },
+        {
+            "originalFilename": "Pencaenewydd00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00055.jpg",
+            "type": "image",
+            "target_id": "816646"
+        },
+        {
+            "originalFilename": "Pencaenewydd00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00056.jpg",
+            "type": "image",
+            "target_id": "816651"
+        },
+        {
+            "originalFilename": "Pencaenewydd00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00057.jpg",
+            "type": "image",
+            "target_id": "816656"
+        },
+        {
+            "originalFilename": "Pencaenewydd00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00058.jpg",
+            "type": "image",
+            "target_id": "816661"
+        },
+        {
+            "originalFilename": "Pencaenewydd00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00059.jpg",
+            "type": "image",
+            "target_id": "816666"
+        },
+        {
+            "originalFilename": "Pencaenewydd00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00060.jpg",
+            "type": "image",
+            "target_id": "816671"
+        },
+        {
+            "originalFilename": "Pencaenewydd00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00061.jpg",
+            "type": "image",
+            "target_id": "816676"
+        },
+        {
+            "originalFilename": "Pencaenewydd00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00062.jpg",
+            "type": "image",
+            "target_id": "816681"
+        },
+        {
+            "originalFilename": "Pencaenewydd00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00063.jpg",
+            "type": "image",
+            "target_id": "816686"
+        },
+        {
+            "originalFilename": "Pencaenewydd00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00064.jpg",
+            "type": "image",
+            "target_id": "816691"
+        },
+        {
+            "originalFilename": "Pencaenewydd00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00065.jpg",
+            "type": "image",
+            "target_id": "816696"
+        },
+        {
+            "originalFilename": "Pencaenewydd00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00066.jpg",
+            "type": "image",
+            "target_id": "816701"
+        },
+        {
+            "originalFilename": "Pencaenewydd00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00067.jpg",
+            "type": "image",
+            "target_id": "816706"
+        },
+        {
+            "originalFilename": "Pencaenewydd00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00068.jpg",
+            "type": "image",
+            "target_id": "816711"
+        },
+        {
+            "originalFilename": "Pencaenewydd00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00069.jpg",
+            "type": "image",
+            "target_id": "816716"
+        },
+        {
+            "originalFilename": "Pencaenewydd00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00070.jpg",
+            "type": "image",
+            "target_id": "816721"
+        },
+        {
+            "originalFilename": "Pencaenewydd00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00071.jpg",
+            "type": "image",
+            "target_id": "816726"
+        },
+        {
+            "originalFilename": "Pencaenewydd00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00072.jpg",
+            "type": "image",
+            "target_id": "816731"
+        },
+        {
+            "originalFilename": "Pencaenewydd00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00073.jpg",
+            "type": "image",
+            "target_id": "816736"
+        },
+        {
+            "originalFilename": "Pencaenewydd00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00074.jpg",
+            "type": "image",
+            "target_id": "816741"
+        },
+        {
+            "originalFilename": "Pencaenewydd00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00075.jpg",
+            "type": "image",
+            "target_id": "816746"
+        },
+        {
+            "originalFilename": "Pencaenewydd00076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00076.jpg",
+            "type": "image",
+            "target_id": "816751"
+        },
+        {
+            "originalFilename": "Pencaenewydd00077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00077.jpg",
+            "type": "image",
+            "target_id": "816756"
+        },
+        {
+            "originalFilename": "Pencaenewydd00078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00078.jpg",
+            "type": "image",
+            "target_id": "816761"
+        },
+        {
+            "originalFilename": "Pencaenewydd00079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00079.jpg",
+            "type": "image",
+            "target_id": "816766"
+        },
+        {
+            "originalFilename": "Pencaenewydd00080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00080.jpg",
+            "type": "image",
+            "target_id": "816771"
+        },
+        {
+            "originalFilename": "Pencaenewydd00081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00081.jpg",
+            "type": "image",
+            "target_id": "816776"
+        },
+        {
+            "originalFilename": "Pencaenewydd00082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00082.jpg",
+            "type": "image",
+            "target_id": "816781"
+        },
+        {
+            "originalFilename": "Pencaenewydd00083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00083.jpg",
+            "type": "image",
+            "target_id": "816786"
+        },
+        {
+            "originalFilename": "Pencaenewydd00084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00084.jpg",
+            "type": "image",
+            "target_id": "816791"
+        },
+        {
+            "originalFilename": "Pencaenewydd00085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00085.jpg",
+            "type": "image",
+            "target_id": "816796"
+        },
+        {
+            "originalFilename": "Pencaenewydd00086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00086.jpg",
+            "type": "image",
+            "target_id": "816801"
+        },
+        {
+            "originalFilename": "Pencaenewydd00087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00087.jpg",
+            "type": "image",
+            "target_id": "816806"
+        },
+        {
+            "originalFilename": "Pencaenewydd00088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00088.jpg",
+            "type": "image",
+            "target_id": "816811"
+        },
+        {
+            "originalFilename": "Pencaenewydd00089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00089.jpg",
+            "type": "image",
+            "target_id": "816816"
+        },
+        {
+            "originalFilename": "Pencaenewydd00090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00090.jpg",
+            "type": "image",
+            "target_id": "816821"
+        },
+        {
+            "originalFilename": "Pencaenewydd00091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00091.jpg",
+            "type": "image",
+            "target_id": "816826"
+        },
+        {
+            "originalFilename": "Pencaenewydd00092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Pencaenewydd00092.jpg",
+            "type": "image",
+            "target_id": "816831"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

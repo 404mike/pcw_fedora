@@ -1,0 +1,75 @@
+{
+    "id": 1146426,
+    "title": {
+        "en": "Winter Fair 2016",
+        "cy": "Ffair Aeaf 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146426",
+    "created": 1562063873,
+    "updated": 1562063873,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 Golden Celebrations. 1st Janet Evans, Beulah, Ceredigion.",
+        "cy": "Cystadleuaeth Dathlu'r Aur.1af Janet Evans, cangen Beulah, Rhanbarth Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_798.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_798.jpg",
+            "type": "image",
+            "target_id": "1146411"
+        },
+        {
+            "originalFilename": "df_myw_799.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_799.jpg",
+            "type": "image",
+            "target_id": "1146416"
+        },
+        {
+            "originalFilename": "df_myw_800.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_800.jpg",
+            "type": "image",
+            "target_id": "1146421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

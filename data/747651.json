@@ -1,0 +1,84 @@
+{
+    "id": 747651,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Aelodau Cangen Newydd yn dathlu Chwarter Canrif Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747651",
+    "created": 1516897975,
+    "updated": 1516897975,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Newydd yn dathlu 25 oed mudiad Merched y Wawr yn y Parc, Bala 1992.  \nRhes Gefn \u2013 Marion Bowen, Hannah Thomas, Jean George, Myfi James, Glenys Todd, Myfanwy Davies, Mella Jenkins, Beryl George\nRhes flaen \u2013 Donna George, Ann John, Wendy Lewis",
+        "cy": "Aelodau Cangen Newydd yn dathlu 25 oed mudiad Merched y Wawr yn y Parc, Bala 1992.  \nRhes Gefn \u2013 Marion Bowen, Hannah Thomas, Jean George, Myfi James, Glenys Todd, Myfanwy Davies, Mella Jenkins, Beryl George\nRhes flaen \u2013 Donna George, Ann John, Wendy Lewis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Capel Newydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890702000000",
+            "lon": "-3.671821000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-003_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-003_0.jpg",
+            "type": "image",
+            "target_id": "747641"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

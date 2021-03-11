@@ -1,0 +1,75 @@
+{
+    "id": 600229,
+    "title": {
+        "en": "Poems by Rachel Anna Thomas, Merched y Wawr Bro Alma Branch",
+        "cy": "Penillion Rachel Anna Thomas, Merched y Wawr Cangen Bro Alma\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600229",
+    "created": 1502447456,
+    "updated": 1502447456,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion a gyfansoddwyd gan Rachel Anna Thomas, Merched y Wawr Cangen Bro Alma, gogyfer a Chwefror 24ain",
+        "cy": "Penillion a gyfansoddwyd gan Rachel Anna Thomas, Merched y Wawr Cangen Bro Alma, gogyfer a Chwefror 24ain"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_073.jpg",
+            "type": "image",
+            "target_id": "600228"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

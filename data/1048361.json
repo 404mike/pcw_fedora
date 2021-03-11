@@ -1,0 +1,65 @@
+{
+    "id": 1048361,
+    "title": {
+        "en": "Meirionethshire and district National Eisteddfod 2009",
+        "cy": "Eisteddfod Genedlaethol Meirion a&#039;r cyffiniau 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048361",
+    "created": 1555591437,
+    "updated": 1555591437,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "From the presentation 'Y Dechreuad' \u2013 Lona Puw; Sylwen Davies; Mair Edwards.",
+        "cy": "O gyflwyniad 'Y Dechreuad' \u2013 Lona Puw; Sylwen davies; Mair Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "Eisteddfod Genedlaethol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_237.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_237.jpg",
+            "type": "image",
+            "target_id": "1048356"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

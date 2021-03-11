@@ -1,0 +1,114 @@
+{
+    "id": 470159,
+    "title": {
+        "en": "Oswestry, Maldwyn Powys branch of Merched y Wawr's contribution to the project on Welsh Place names.",
+        "cy": "Cyfraniad cangen Croesoswallt, Maldwyn Powys i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470159",
+    "created": 1441700618,
+    "updated": 1441700618,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": ".Information on work collected by Oswestry, Maldwyn Powys branch of Merched y Wawr. It contains names of houses, farms and fields.",
+        "cy": "Gwybodaeth am waith cangen Croesoswallt, Maldwyn Powys o Ferched y Wawr. Mae'n cynnwys enwau tai, ffermydd a caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10337.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10337.jpg",
+            "type": "image",
+            "target_id": "470149"
+        },
+        {
+            "originalFilename": "pcw001_10338.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10338.jpg",
+            "type": "image",
+            "target_id": "470150"
+        },
+        {
+            "originalFilename": "pcw001_10339.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10339.jpg",
+            "type": "image",
+            "target_id": "470151"
+        },
+        {
+            "originalFilename": "pcw001_10340.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10340.jpg",
+            "type": "image",
+            "target_id": "470152"
+        },
+        {
+            "originalFilename": "pcw001_10341.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10341.jpg",
+            "type": "image",
+            "target_id": "470153"
+        },
+        {
+            "originalFilename": "pcw001_10342.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10342.jpg",
+            "type": "image",
+            "target_id": "470154"
+        },
+        {
+            "originalFilename": "pcw001_10343.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10343.jpg",
+            "type": "image",
+            "target_id": "470155"
+        },
+        {
+            "originalFilename": "pcw001_10344.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10344.jpg",
+            "type": "image",
+            "target_id": "470156"
+        },
+        {
+            "originalFilename": "pcw001_10345.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10345.jpg",
+            "type": "image",
+            "target_id": "470157"
+        },
+        {
+            "originalFilename": "pcw001_10346.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10346.jpg",
+            "type": "image",
+            "target_id": "470158"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10337",
+    "publisher_ref": ""
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1046846,
+    "title": {
+        "en": "Annual Meeting 2005",
+        "cy": "Cyfarfod Blynyddol 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046846",
+    "created": 1555590452,
+    "updated": 1555590452,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llinos Roberts presenting a flag designed and made by her on the occasion of the sponsered bike ride by Elsi Annwyn Roberts and Einir Wyn. Also in the picture, Glenys Thomas, President.",
+        "cy": "Llinos Roberts yn cyflwyno'r faner a gynlluniwyd ac a wnaethpwyd ganddi ar achlysur y Daith Feicio gan Elsi Annwyn Roberts a Einir Wyn. Hefyd yn y llun Glenys Thomas, Llywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2005",
+        "cyfarfod blynyddol 2005"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_069.jpg",
+            "type": "image",
+            "target_id": "1046841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

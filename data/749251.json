@@ -1,0 +1,75 @@
+{
+    "id": 749251,
+    "title": {
+        "en": "Merched y Wawr Treboeth Branch perform",
+        "cy": "Merched y Wawr Cangen Treboeth yn perfformio"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749251",
+    "created": 1516898925,
+    "updated": 1516898925,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Treboeth yn perfformio \u2018Hen Feic Peniffardding\u2019 yn \u2018Codi\u2019r To\u2019, Castell Nedd, 1979.  Ymhlith yr aelodau yn y llun mae Margaret Pugh, Gwyneth Davies a Miriam Evans",
+        "cy": "Merched y Wawr Cangen Treboeth yn perfformio \u2018Hen Feic Peniffardding\u2019 yn \u2018Codi\u2019r To\u2019, Castell Nedd, 1979.  Ymhlith yr aelodau yn y llun mae Margaret Pugh, Gwyneth Davies a Miriam Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treboeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treboeth",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-124.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-124.jpg",
+            "type": "image",
+            "target_id": "749246"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

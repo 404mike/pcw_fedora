@@ -1,0 +1,86 @@
+{
+    "id": 625621,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Brynsiencyn, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Brynsiencyn, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625621",
+    "created": 1511280218,
+    "updated": 1511280218,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Brynsiencyn yn cyflwyno siec o Mr Iorwerth Davies, Trysorydd Ap\u00eal Haemotoleg a chymorth Cancr Gwynedd am \u00a3860, fe godir yr arian drwy gynnal taith gerdded noddedig ar yr 29ain o Ebrill, 1993.",
+        "cy": "Cangen Brynsiencyn yn cyflwyno siec o Mr Iorwerth Davies, Trysorydd Ap\u00eal Haemotoleg a chymorth Cancr Gwynedd am \u00a3860, fe godir yr arian drwy gynnal taith gerdded noddedig ar yr 29ain o Ebrill, 1993."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Brynsiencyn",
+    "owner": "Cangen Brynsiencyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Brynsiencyn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Brynsiencyn",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178433000000",
+            "lon": "-4.274895000000",
+            "description": {
+                "en": "Brynsiencyn",
+                "cy": "Brynsiencyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BRYNSIENCYN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BRYNSIENCYN_006.jpg",
+            "type": "image",
+            "target_id": "625611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

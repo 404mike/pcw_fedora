@@ -1,0 +1,96 @@
+{
+    "id": 601382,
+    "title": {
+        "en": "Merched y Wawr Garreg Wen Branch First Book of Minutes",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen y Garreg Wen "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601382",
+    "created": 1502449279,
+    "updated": 1502449279,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Cangen y Garreg Wen \nCofnodion cyfarfod sefydlu\u2019r gangen, Chwefror 5ed, 1974\nTudalen 1",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen y Garreg Wen \nCofnodion cyfarfod sefydlu\u2019r gangen, Chwefror 5ed, 1974\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.103476000000",
+            "lon": "-4.376660000000",
+            "description": {
+                "en": "Ffostrasol",
+                "cy": "Ffostrasol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-143.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-143.jpg",
+            "type": "image",
+            "target_id": "601378"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-144.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-144.jpg",
+            "type": "image",
+            "target_id": "601379"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-145.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-145.jpg",
+            "type": "image",
+            "target_id": "601380"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

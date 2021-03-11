@@ -1,0 +1,91 @@
+{
+    "id": 622971,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhos a Phencae, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Rhos a Phencae, Glyn Maelor. Cyngor Cenedlaethol, Aberystwyth 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622971",
+    "created": 1511279344,
+    "updated": 1511279344,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau o rhai o\u2019r aelodau yn teithio lawr i gynrychioli\u2019r gangen yn y Cyngor Cenedlaethol, Aberystwyth 1991. (Cangen bellach wedi cau).",
+        "cy": "Lluniau o rhai o\u2019r aelodau yn teithio lawr i gynrychioli\u2019r gangen yn y Cyngor Cenedlaethol, Aberystwyth 1991. (Cangen bellach wedi cau)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhos a Phencae",
+    "owner": "Cangen Rhos a Phencae",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhos a Phencae",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhos a Phencae",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.012565000000",
+            "lon": "-3.057659000000",
+            "description": {
+                "en": "Rhos a Phencae",
+                "cy": "Rhos a Phencae"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_015.jpg",
+            "type": "image",
+            "target_id": "622956"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_016.jpg",
+            "type": "image",
+            "target_id": "622961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

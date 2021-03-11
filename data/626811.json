@@ -1,0 +1,87 @@
+{
+    "id": 626811,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfairpwll, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanfairpwll, Rhanbarth M\u00f4n.Gwyl Ddrama y Mudiad ar Ynys Mon ym 1978"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626811",
+    "created": 1511280616,
+    "updated": 1511280616,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o\u2019r gangen yn cymeryd rhan yng Nghwyl Ddrama y Mudiad ar Ynys Mon ym 1978 - yn cyflwyno\u2019r ddrama \u201cModryb\u201d. (Cefn) Gwyneth Edwards, Jean Ogwen Williams, Beryl Hughes, Nest Jones a Bethan Gwilym (Eistedd) Muriel Jones a Wenna Williams.",
+        "cy": "Aelodau o\u2019r gangen yn cymeryd rhan yng Nghwyl Ddrama y Mudiad ar Ynys Mon ym 1978 - yn cyflwyno\u2019r ddrama \u201cModryb\u201d. (Cefn) Gwyneth Edwards, Jean Ogwen Williams, Beryl Hughes, Nest Jones a Bethan Gwilym (Eistedd) Muriel Jones a Wenna Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfairpwll",
+    "owner": "Cangen Llanfairpwll",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfairpwll",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfairpwll",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.225660000000",
+            "lon": "-4.199370000000",
+            "description": {
+                "en": "Llanfairpwll",
+                "cy": "Llanfairpwll"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYM_GOG_MON_Llanfairpwll_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYM_GOG_MON_Llanfairpwll_005.jpg",
+            "type": "image",
+            "target_id": "626801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

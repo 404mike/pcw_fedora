@@ -1,0 +1,75 @@
+{
+    "id": 600892,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch Creative Dance Party 1992",
+        "cy": "Parti Dawns Greadigol Merched y Wawr Cangen San Cler 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600892",
+    "created": 1502448384,
+    "updated": 1502448384,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti Dawns Greadigol Merched y Wawr Cangen San Cler a fu\u2019n cystadlu  yn Eisteddfod y Rhanbarth 1992\nRhes gefn \u2013 Janet Lewis, Iona Morgan, Ceirios Williams, Doreen Thomas, Sandra Davies, Ann Page, Rhian Williams, Margaret Rees\nYn penlinio \u2013 Ann Morris, Beti-Wyn James",
+        "cy": "Parti Dawns Greadigol Merched y Wawr Cangen San Cler a fu\u2019n cystadlu  yn Eisteddfod y Rhanbarth 1992\nRhes gefn \u2013 Janet Lewis, Iona Morgan, Ceirios Williams, Doreen Thomas, Sandra Davies, Ann Page, Rhian Williams, Margaret Rees\nYn penlinio \u2013 Ann Morris, Beti-Wyn James"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-025.jpg",
+            "type": "image",
+            "target_id": "600891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

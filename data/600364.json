@@ -1,0 +1,73 @@
+{
+    "id": 600364,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Alternative Fashion Show",
+        "cy": "Sioe Ffasiwn Amgen gan Ferched y Wawr Cangen Bro Cennech"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600364",
+    "created": 1502447643,
+    "updated": 1502447643,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sioe Ffasiwn Amgen gan Ferched y Wawr Cangen Bro Cennech \u2013 Brethyn Cartref\nGaynor Thomas, Brenda Williams, Liz Griffiths, Eirian Davies, Anne Marie Marks",
+        "cy": "Sioe Ffasiwn Amgen gan Ferched y Wawr Cangen Bro Cennech \u2013 Brethyn Cartref\nGaynor Thomas, Brenda Williams, Liz Griffiths, Eirian Davies, Anne Marie Marks"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-008.jpg",
+            "type": "image",
+            "target_id": "600363"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,66 @@
+{
+    "id": 1047906,
+    "title": {
+        "en": "MyW Residential Weekend 2007 \u2013 Bangor",
+        "cy": "Penwythnos Preswyl MyW 2007 \u2013 Rialtwch y Rhuddem"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047906",
+    "created": 1555591178,
+    "updated": 1555591178,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying tea at Plas Newydd.",
+        "cy": "Aelodau yn mwynhau te ym Mhlas Newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Bangor",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_188.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_188.jpg",
+            "type": "image",
+            "target_id": "1047901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

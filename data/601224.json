@@ -1,0 +1,84 @@
+{
+    "id": 601224,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch plant a tree to mark their 40th Anniversary",
+        "cy": "Merched y Wawr Cangen Aberporth yn Plannu coeden i Ddathlu Deugain y Gangen\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601224",
+    "created": 1502449053,
+    "updated": 1502449053,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Aberporth yn Plannu coeden yn Ysgol Feithrin Aberporth i Ddathlu\u2019r Deugain (2011)\nYn y llun mae Annita Williams, Menna Richards, Tegwen Gibby, Molly Thomas, Gwenyth Owen, Margaret Reed, Elizabeth Davies, Sally Jones, Mary Bott, Blodwen Williams, Deanna Hywel",
+        "cy": "Merched y Wawr Cangen Aberporth yn Plannu coeden yn Ysgol Feithrin Aberporth i Ddathlu\u2019r Deugain (2011)\nYn y llun mae Annita Williams, Menna Richards, Tegwen Gibby, Molly Thomas, Gwenyth Owen, Margaret Reed, Elizabeth Davies, Sally Jones, Mary Bott, Blodwen Williams, Deanna Hywel"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.132778000000",
+            "lon": "-4.547723000000",
+            "description": {
+                "en": "Ysgol Feithrin Aberporth",
+                "cy": "Ysgol Feithrin Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-095_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-095_0.jpg",
+            "type": "image",
+            "target_id": "601222"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

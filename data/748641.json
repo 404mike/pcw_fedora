@@ -1,0 +1,84 @@
+{
+    "id": 748641,
+    "title": {
+        "en": "Merched y Wawr Rhydypennau Branch winning the Ceredigion Arts and Crafts Trophy",
+        "cy": "Merched y Wawr Cangen Rhydypennau gyda Tharian Celf a Chrefft Rhanbarth Ceredigion\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748641",
+    "created": 1516898640,
+    "updated": 1516898640,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Rhydypennau yn ennill Tarian Celf a Chrefft Rhanbarth Ceredigion yn Neuadd Felinfach 2016.  \nYn y llun mae Joyce Bowen, Brenda Jones, Sh\u00e2n Hayward (Llywydd y Gangen), Beryl Hughes, Mair Davies",
+        "cy": "Merched y Wawr Cangen Rhydypennau yn ennill Tarian Celf a Chrefft Rhanbarth Ceredigion yn Neuadd Felinfach 2016.  \nYn y llun mae Joyce Bowen, Brenda Jones, Sh\u00e2n Hayward (Llywydd y Gangen), Beryl Hughes, Mair Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Rhydypennau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Rhydypennau"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.182181000000",
+            "lon": "-4.153367000000",
+            "description": {
+                "en": "Neuadd Felinfach",
+                "cy": "Neuadd Felinfach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-232.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-232.jpg",
+            "type": "image",
+            "target_id": "748631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1143636,
+    "title": {
+        "en": "Urdd National Eisteddfod Pembrokeshire 2013",
+        "cy": "Eisteddfod Genedlaethol yr Urdd Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143636",
+    "created": 1562061078,
+    "updated": 1562061078,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Helpers on the Stand \u2013 Maureen George, Area Treasurer; Tegwen Morris, Director; Aeres James, Area Chairman; Delyth Fletcher, National Secretary.",
+        "cy": "Cynorthwy-wyr ar y Stondin \u2013 Maureen George, Trysorydd Penfro; Tegwen Morris, Cyfarwyddwr MyW; Aeres James, Cadeirydd Penfro; Delyth Fletcher, Ysgrifennydd Cenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod",
+        "Pembrokeshire",
+        "eisteddfod genedlaethol yr urdd",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_480.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_480.jpg",
+            "type": "image",
+            "target_id": "1143631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

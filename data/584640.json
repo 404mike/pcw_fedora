@@ -1,0 +1,94 @@
+{
+    "id": 584640,
+    "title": {
+        "en": "Y Gymraeg, a poem by the Rev W Rhys Nicholas, printed onto posters by Merched y Wawr",
+        "cy": "Pennill Y Gymraeg  gan y Parch W Rhys Nicholas a argraffwyd i bosteri gan Ferched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584640",
+    "created": 1499871301,
+    "updated": 1499871301,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pennill Y Gymraeg gan y Parch W Rhys Nicholas wedi ei ysgrifennu gan galigraffydd a argraffwyd i bosteri gan Merched y Wawr, Rhanbarth De a Chanol Morgannwg a Gwent er mwyn eu gwerthu i\u2019r cyhoedd",
+        "cy": "Pennill Y Gymraeg gan y Parch W Rhys Nicholas wedi ei ysgrifennu gan galigraffydd a argraffwyd i bosteri gan Merched y Wawr, Rhanbarth De a Chanol Morgannwg a Gwent er mwyn eu gwerthu i\u2019r cyhoedd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Parch W Rhys Nicholas",
+    "owner": "Cangen Caerdydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "W Rhys Nicholas",
+                "cy": "W Rhys Nicholas"
+            },
+            "year": null,
+            "type": "Copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-066.jpg",
+            "type": "image",
+            "target_id": "584636"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-067.jpg",
+            "type": "image",
+            "target_id": "584637"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-068.jpg",
+            "type": "image",
+            "target_id": "584638"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-069.jpg",
+            "type": "image",
+            "target_id": "584639"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

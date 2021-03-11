@@ -1,0 +1,102 @@
+{
+    "id": 748521,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch 40th Anniversary Concert Programme",
+        "cy": "Rhaglen Cyngerdd Mawreddog i Ddathlu Deugain Merched y Wawr Cangen Pontarddulais a&#039;r Cylch\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748521",
+    "created": 1516898587,
+    "updated": 1516898587,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cyngerdd Mawreddog i Ddathlu Penblwydd Merched y Wawr Cangen Pontarddulais yn 40 Mlwydd Oed. Cynhaliwyd y cyngerdd yn Capel Hope-Siloh, Ebrill 25ain, 2015. Tu fewn, gan gynnwys Gwahoddiad i\u2019r Gangen ac hefyd Tocyn i\u2019r Gyngerdd. Tu fewn \u2013 rhaglen y noson. Cefn, gyda cydnabyddiaeth i Meriel Davies o\u2019r gangen wnaeth ddylunio clawr y rhaglen.",
+        "cy": "Rhaglen Cyngerdd Mawreddog i Ddathlu Penblwydd Merched y Wawr Cangen Pontarddulais yn 40 Mlwydd Oed. Cynhaliwyd y cyngerdd yn Capel Hope-Siloh, Ebrill 25ain, 2015. Tu fewn, gan gynnwys Gwahoddiad i\u2019r Gangen ac hefyd Tocyn i\u2019r Gyngerdd. Tu fewn \u2013 rhaglen y noson. Cefn, gyda cydnabyddiaeth i Meriel Davies o\u2019r gangen wnaeth ddylunio clawr y rhaglen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.715591000000",
+            "lon": "-4.049642000000",
+            "description": {
+                "en": "Capel Hope-Siloh",
+                "cy": "Capel Hope-Siloh"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-101.jpg",
+            "type": "image",
+            "target_id": "748496"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-102.jpg",
+            "type": "image",
+            "target_id": "748501"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-103.jpg",
+            "type": "image",
+            "target_id": "748506"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-104.jpg",
+            "type": "image",
+            "target_id": "748511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

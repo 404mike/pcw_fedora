@@ -1,0 +1,126 @@
+{
+    "id": 599657,
+    "title": {
+        "en": "A collection of photographs of MyW Betws y Coed celebrating their branch\u2019s milestones",
+        "cy": "Casgliad o luniau o MyW Betws y Coed yn dathlu pen-blwyddi arbennig y Gangen\/ Mudiad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599657",
+    "created": 1502446746,
+    "updated": 1502446746,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Dathlu Penblwydd y Gangen yn 10 oed (1981), 2. Cacen dathlu y Cangen yn 18 (1989), 3. Torri\u2019r gacen 18, Dilys Thomas, Gwen Owen (1989)",
+        "cy": "1. Dathlu Penblwydd y Gangen yn 10 oed (1981), 2. Cacen dathlu y Cangen yn 18 (1989), 3. Torri\u2019r gacen 18, Dilys Thomas, Gwen Owen (1989)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy",
+        "Dathlu 10",
+        "Dathlu 18",
+        "Cacen MyW",
+        "Cacenni MyW",
+        "Penblwydd Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_023.jpg",
+            "type": "image",
+            "target_id": "599649"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_024.jpg",
+            "type": "image",
+            "target_id": "599650"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_025.jpg",
+            "type": "image",
+            "target_id": "599651"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_026.jpg",
+            "type": "image",
+            "target_id": "599652"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_027.jpg",
+            "type": "image",
+            "target_id": "599653"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_028.jpg",
+            "type": "image",
+            "target_id": "599654"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_029.jpg",
+            "type": "image",
+            "target_id": "599655"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

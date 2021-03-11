@@ -1,0 +1,75 @@
+{
+    "id": 749656,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch modelling at a Fashion Show",
+        "cy": "Merched y Wawr Cangen Tregaron yn modelu mewn Sioe Ffasiwn\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749656",
+    "created": 1516899101,
+    "updated": 1516899101,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau Merched y Wawr Cangen Tregaron yn modelu mewn Sioe Ffasiwn yn 1990. \nRhes flaen \u2013 Ceridwen Morris, Yvonne Jones, Mai Williams, Jane Hughes \nRhes gefn \u2013 Catherine Hughes, Diana Jones, Mair Hughes, Megan Morris, Aerona Rees, Delyth Rees, Jennie Samuel, Glenys Daniel, Dorothy Morgan, Ann Davies, Margaret Lewis, Betty Jones",
+        "cy": "Rhai o aelodau Merched y Wawr Cangen Tregaron yn modelu mewn Sioe Ffasiwn yn 1990. \nRhes flaen \u2013 Ceridwen Morris, Yvonne Jones, Mai Williams, Jane Hughes \nRhes gefn \u2013 Catherine Hughes, Diana Jones, Mair Hughes, Megan Morris, Aerona Rees, Delyth Rees, Jennie Samuel, Glenys Daniel, Dorothy Morgan, Ann Davies, Margaret Lewis, Betty Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-023.jpg",
+            "type": "image",
+            "target_id": "749651"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

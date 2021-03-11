@@ -1,0 +1,84 @@
+{
+    "id": 750361,
+    "title": {
+        "en": "An Information Leaflet placed in the Merched y Wawr Time Capsule in 2009",
+        "cy": "Taflen ar gyfer Capsiwl Amser Merched y Wawr yn 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750361",
+    "created": 1516899431,
+    "updated": 1516899431,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen ar gyfer Capsiwl Amser Merched y Wawr yn 2009\nDyma\u2019r daflen a roddwyd yn y Capsiwl Amser a gladdwyd ar dir Canolfan Cywain yn y Bala pan oedd yr Eisteddfod Genedlaethol yno mis Awst 2009 \u2013 sef ymweliad cyntaf yr Eisteddfod \u00e2\u2019r Bala (man dechrau\u2019r mudiad) ers i\u2019r mudiad ddathlu penblwydd yn 40 oed yn 2007. \nPwrpas y daflen gan y Llywydd Cenedlaethol ar y pryd, Esyllt Jones, oedd rhoi gwybodaeth i\u2019r sawl a fydd yn agor y Capsiwl mewn can mlynedd.  Mae llechen o waith Hedd Bleddyn yn dynodi\u2019r union fan y claddwyd y capsiwl.",
+        "cy": "Taflen ar gyfer Capsiwl Amser Merched y Wawr yn 2009\nDyma\u2019r daflen a roddwyd yn y Capsiwl Amser a gladdwyd ar dir Canolfan Cywain yn y Bala pan oedd yr Eisteddfod Genedlaethol yno mis Awst 2009 \u2013 sef ymweliad cyntaf yr Eisteddfod \u00e2\u2019r Bala (man dechrau\u2019r mudiad) ers i\u2019r mudiad ddathlu penblwydd yn 40 oed yn 2007. \nPwrpas y daflen gan y Llywydd Cenedlaethol ar y pryd, Esyllt Jones, oedd rhoi gwybodaeth i\u2019r sawl a fydd yn agor y Capsiwl mewn can mlynedd.  Mae llechen o waith Hedd Bleddyn yn dynodi\u2019r union fan y claddwyd y capsiwl."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.915876000000",
+            "lon": "-3.595092000000",
+            "description": {
+                "en": "Canolfan Cywain, Y Bala",
+                "cy": "Canolfan Cywain, Y Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-038.jpg",
+            "type": "image",
+            "target_id": "750351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,170 @@
+{
+    "id": 628396,
+    "title": {
+        "en": "A collection of photographs showing the beautiful Windmills created by Merched y Wawr, Anglesey as part of their exhibition at the Royal Welsh Show in 2014. ",
+        "cy": "Casgliad o luniau o arddangosfa \u2018Melinau M\u00f4n&#039;, a greuwyd gan ganghennau Merched y Wawr, Ynys Mon yn 2014 ar gyfer Sioe Llanelwedd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628396",
+    "created": 1511281142,
+    "updated": 1511281142,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ar nos lun y 23ain o Chwefror, 2014 yn Oriel M\u00f4n, Llangefni, cafwyd noson i ddathlu arddangosfa hynod o lwyddiannus Merched y Wawr, Mon - \u2018Melinau Mon\u2019 o Sioe Llanelwedd. Dyma lun o rhai o aelodau aeth ati i greu y gwaith yn ogystal \u00e2 Meryl Davies, Llywydd Merched y Wawr, Margaret Roberts, Llywydd Rhanbarth Mon, Rhun ap Iorwerth a Cyng. Vaughan Hughes.",
+        "cy": "Ar nos lun y 23ain o Chwefror, 2014 yn Oriel M\u00f4n, Llangefni, cafwyd noson i ddathlu arddangosfa hynod o lwyddiannus Merched y Wawr, Mon - \u2018Melinau Mon\u2019 o Sioe Llanelwedd. Dyma lun o rhai o aelodau aeth ati i greu y gwaith yn ogystal \u00e2 Meryl Davies, Llywydd Merched y Wawr, Margaret Roberts, Llywydd Rhanbarth Mon, Rhun ap Iorwerth a Cyng. Vaughan Hughes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth M\u00f4n",
+    "owner": "Rhanbarth M\u00f4n",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft",
+        "Melinau Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_001.jpg",
+            "type": "image",
+            "target_id": "628316"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_002.jpg",
+            "type": "image",
+            "target_id": "628321"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_003.jpg",
+            "type": "image",
+            "target_id": "628326"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_004.jpg",
+            "type": "image",
+            "target_id": "628331"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_005.jpg",
+            "type": "image",
+            "target_id": "628336"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_006.jpg",
+            "type": "image",
+            "target_id": "628341"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_007.jpg",
+            "type": "image",
+            "target_id": "628346"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_008.jpg",
+            "type": "image",
+            "target_id": "628351"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_009.jpg",
+            "type": "image",
+            "target_id": "628356"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_010.jpg",
+            "type": "image",
+            "target_id": "628361"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_011.jpg",
+            "type": "image",
+            "target_id": "628366"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_012.jpg",
+            "type": "image",
+            "target_id": "628371"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MELINAU_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MELINAU_013.jpg",
+            "type": "image",
+            "target_id": "628376"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_SIOE_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_SIOE_002.jpg",
+            "type": "image",
+            "target_id": "628381"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_SIOE_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_SIOE_003.jpg",
+            "type": "image",
+            "target_id": "628386"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

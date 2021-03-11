@@ -1,0 +1,90 @@
+{
+    "id": 613066,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Celebrate 21 Years",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi yn dathlu penblwydd yn 21ain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613066",
+    "created": 1510753860,
+    "updated": 1510753860,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 21oed, Hydref 22, 2010, ym Mhlas Pantyrathro.\nCerdyn gwahoddiad a baratowyd gan Mrs Marlene Thomas.  \nTudalen flaen",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 21oed, Hydref 22, 2010, ym Mhlas Pantyrathro.\nCerdyn gwahoddiad a baratowyd gan Mrs Marlene Thomas.  \nTudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_037.jpg",
+            "type": "image",
+            "target_id": "613051"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_038.jpg",
+            "type": "image",
+            "target_id": "613056"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

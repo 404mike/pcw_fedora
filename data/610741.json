@@ -1,0 +1,73 @@
+{
+    "id": 610741,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch as extras in a TV Drama",
+        "cy": "Merched y Wawr Cangen Llandeilo fel \u2018extras\u2019 mewn drama deledu"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610741",
+    "created": 1510753283,
+    "updated": 1510753283,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llandeilo yn cymryd rhan fel \u2018extras\u2019 yn nrama deledu \u2018Dihirod Dyfed\u2019",
+        "cy": "Merched y Wawr Cangen Llandeilo yn cymryd rhan fel \u2018extras\u2019 yn nrama deledu \u2018Dihirod Dyfed\u2019"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-014.jpg",
+            "type": "image",
+            "target_id": "610736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 615221,
+    "title": {
+        "en": "Merched y Wawr Cangen Cwm Rhymni yn codi arian",
+        "cy": "Merched y Wawr Cangen Cwm Rhymni yn codi arian"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615221",
+    "created": 1510755201,
+    "updated": 1510755201,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o fwclysau, scarffiau, ayb, i\u2019w hychwanegu at y prif gasgliad o eitemau i\u2019w gwerthu i godi arian i Sefydliad y Calon Cymru.",
+        "cy": "Casgliad o fwclysau, scarffiau, ayb, i\u2019w hychwanegu at y prif gasgliad o eitemau i\u2019w gwerthu i godi arian i Sefydliad y Calon Cymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cwm%20Rhymni%20-%20Nosweithiau%20Cymdeithasol%203.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Cwm%2520Rhymni%2520-%2520Nosweithiau%2520Cymdeithasol%25203.jpg",
+            "type": "image",
+            "target_id": "615216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

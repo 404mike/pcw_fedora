@@ -1,0 +1,85 @@
+{
+    "id": 622566,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwyddelwern, Glyn Maelor",
+        "cy": "Gwibdaith cangen Merched y Wawr Gwyddelwern, Glyn Maelor  i Swydd Efrog, 1979."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622566",
+    "created": 1511279212,
+    "updated": 1511279212,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y gangen ym 1979 i Swydd Efrog. Helen Jones, Beryl Roberts, Nerys Watson, Menna Williams, Mr W M Jones, Mrs Jones (Pen y Foel).",
+        "cy": "Gwibdaith y gangen ym 1979 i Swydd Efrog. Helen Jones, Beryl Roberts, Nerys Watson, Menna Williams, Mr W M Jones, Mrs Jones (Pen y Foel)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwyddelwern",
+    "owner": "Cangen Gwyddelwern",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "gwyddelwern",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwyddelwern",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.011795000000",
+            "lon": "-3.378912000000",
+            "description": {
+                "en": "Gwyddelwern",
+                "cy": "Gwyddelwern"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_GWYDDELWERN_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_GWYDDELWERN_008.jpg",
+            "type": "image",
+            "target_id": "622556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

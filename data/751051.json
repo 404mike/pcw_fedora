@@ -1,0 +1,84 @@
+{
+    "id": 751051,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Sarnau, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Sarnau, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751051",
+    "created": 1516899772,
+    "updated": 1516899772,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r Gangen yn dathlu yng nghwmni Marged Lloyd Jones (nid oes nodyn o\u2019r flwyddyn).",
+        "cy": "Llun o\u2019r Gangen yn dathlu yng nghwmni Marged Lloyd Jones (nid oes nodyn o\u2019r flwyddyn)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Sarnau",
+    "owner": "Cangen Sarnau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sarnau",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Sarnau",
+        "Rhanbarth Meirionnydd",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.941751000000",
+            "lon": "-3.531525000000",
+            "description": {
+                "en": "Sarnau",
+                "cy": "Sarnau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_SARNAU_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_SARNAU_005.jpg",
+            "type": "image",
+            "target_id": "751041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

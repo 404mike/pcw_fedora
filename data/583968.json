@@ -1,0 +1,82 @@
+{
+    "id": 583968,
+    "title": {
+        "en": "Merched y Wawr at the Royal Welsh Show, Llanelwedd 1977 ",
+        "cy": " Merched y Wawr yn Sioe Frenhinol Cymru, Llanelwedd 1977"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583968",
+    "created": 1499870170,
+    "updated": 1499870170,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r criw wnaeth wasanaeth ym Mhabell Merched y Wawr y tro cyntaf iddynt gynnal pabell ar Faes Sioe Llanelwedd ym 1977.  Y De-Ddwyrain oedd yn gyfrifol am y babell ond gan eu bod yn griw bach gofynnwyd i Ranbarth Gorllewin Morgannwg helpu yn ystod y digwyddiad.  Yn y llun mae Myfanwy Jenkins, Rosemary Davies, Myra Jenkins (Y dair o Ranbarth y De-Ddwyrain), Nest Davies (Pontardawe), Rhydwen James (Pontardawe), Malvina Ley  (Rhanbarth Gorllewin Morgannwg)",
+        "cy": "Llun o\u2019r criw wnaeth wasanaeth ym Mhabell Merched y Wawr y tro cyntaf iddynt gynnal pabell ar Faes Sioe Llanelwedd ym 1977.  Y De-Ddwyrain oedd yn gyfrifol am y babell ond gan eu bod yn griw bach gofynnwyd i Ranbarth Gorllewin Morgannwg helpu yn ystod y digwyddiad.  Yn y llun mae Myfanwy Jenkins, Rosemary Davies, Myra Jenkins (Y dair o Ranbarth y De-Ddwyrain), Nest Davies (Pontardawe), Rhydwen James (Pontardawe), Malvina Ley  (Rhanbarth Gorllewin Morgannwg)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.156611000000",
+            "lon": "-3.406091000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-003.jpg",
+            "type": "image",
+            "target_id": "583966"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

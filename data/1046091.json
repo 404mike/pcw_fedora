@@ -1,0 +1,70 @@
+{
+    "id": 1046091,
+    "title": {
+        "en": "Presentation of 'Swyn y Sosban' August 2000",
+        "cy": "Cyflwyniad o &#039;Swyn y Sosban&#039; Awst 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046091",
+    "created": 1555590015,
+    "updated": 1555590015,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs showing  the audience. Front Row \u2013 Mererid James (former Organiser); Gwyneth Morus Jones (former President); Valerie James; Nan Lewis; Margarette Huws; Eirlys Peris-Davies; Megan Creunant Davies; Eleanor Glyn Thomas and Marged Jones (Past Presidents).",
+        "cy": "2 lun yn dangos y gynulleidfa yn 'Swyn y Sosban', a gyflwynwyd yn Eisteddfod Genedlaethol Llanelli a'r Cylch.  Rhes flaen:  Mererid James (cyn Drefnydd); Gwyneth Morus Jones (cyn Lywydd); Valerie James; Nan Lewis; Margarette Huws; Eirlys Peris-Davies; Megan Creunant Davies; Eleanor Glyn Thomas a Marged Jones (cyn Lywyddion)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "llanelli and district national eisteddfod 2000",
+        "swyn y sosban",
+        "eisteddfod genedlaethol llanelli ar cylch 2000"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_008.jpg",
+            "type": "image",
+            "target_id": "1046081"
+        },
+        {
+            "originalFilename": "df_myw_008-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_008-001.jpg",
+            "type": "image",
+            "target_id": "1046086"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

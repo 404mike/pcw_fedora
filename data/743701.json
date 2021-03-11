@@ -1,0 +1,82 @@
+{
+    "id": 743701,
+    "title": {
+        "en": "Poems to celebrate Merched y Wawr Blaenffos Branch",
+        "cy": "Penillion gan  i ddathlu Cangen Merched y Wawr Blaenffos"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743701",
+    "created": 1516895980,
+    "updated": 1516895980,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion gan Glenys Davies i ddathlu Merched y Wawr, Cangen Blaenffos a ddechreuwyd ym 1968.  Mae\u2019n s\u00f4n am y gwahanol gweithgareddau dros y blynyddoedd \u2013 i\u2019w chanu ar y d\u00f4n \u2018Hen Feic Peniffardding\u2019.",
+        "cy": "Penillion gan Glenys Davies i ddathlu Merched y Wawr, Cangen Blaenffos a ddechreuwyd ym 1968.  Mae\u2019n s\u00f4n am y gwahanol gweithgareddau dros y blynyddoedd \u2013 i\u2019w chanu ar y d\u00f4n \u2018Hen Feic Peniffardding\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Blaenffos"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.003153000000",
+            "lon": "-4.638326000000",
+            "description": {
+                "en": "Blaenffos",
+                "cy": "Blaenffos"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-006.jpg",
+            "type": "image",
+            "target_id": "743691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,73 @@
+{
+    "id": 400024,
+    "title": {
+        "en": "Dolgwm Uchaf, Pencarreg Field Names",
+        "cy": "Enwau Caeau Dolgwm Uchaf, Pencarreg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400024",
+    "created": 1416923873,
+    "updated": 1416923873,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Field names of Dolgwm Uchaf, Pencarreg, Caeau Cefnbryn, Caeau Maes Canol",
+        "cy": "Enwau Caeau Dolgwm Uchaf, Pencarreg, Caeau Cefnbryn, Caeau Maes Canol"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names in Dolgwm Uchaf",
+        "Pencarreg",
+        "Enwau Caeau in Dolgwm Uchaf"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.084930000000",
+            "lon": "-4.139310000000",
+            "description": {
+                "en": "Pencarreg, Caerfyrddin",
+                "cy": "Pencarreg, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010553.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010553.jpg",
+            "type": "image",
+            "target_id": "400022"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010553",
+    "publisher_ref": ""
+}

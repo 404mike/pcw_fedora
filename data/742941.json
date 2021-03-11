@@ -1,0 +1,73 @@
+{
+    "id": 742941,
+    "title": {
+        "en": "Merched y Wawr Abernant Bowling",
+        "cy": "Merched y Wawr Cangen Abernant yn Bowlio"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742941",
+    "created": 1516895645,
+    "updated": 1516895645,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Abernant yn bowlio\nLon Griffiths, Jennifer Evasns, Buddug Thomas, Sylvia Thomas, Sian Phillips, Anita Davies, Winnie Thomas, Freda Harries, Elsie Williams, Lily Thomas, Mary Rees",
+        "cy": "Merched y Wawr Cangen Abernant yn bowlio\nLon Griffiths, Jennifer Evasns, Buddug Thomas, Sylvia Thomas, Sian Phillips, Anita Davies, Winnie Thomas, Freda Harries, Elsie Williams, Lily Thomas, Mary Rees"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abernant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abernant",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-110417-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CAERFYRDDIN-110417-020.jpg",
+            "type": "image",
+            "target_id": "742936"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

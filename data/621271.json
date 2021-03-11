@@ -1,0 +1,86 @@
+{
+    "id": 621271,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr taking part in the Flint Show. ",
+        "cy": "Arddangosfa Nantglyn o\u2019r 80au. Merched y Wawr, Sioe Dinbych a Fflint. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621271",
+    "created": 1511278735,
+    "updated": 1511278735,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa Nantglyn o\u2019r 80au.",
+        "cy": "Arddangosfa Nantglyn o\u2019r 80au."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bae Colwyn",
+    "owner": "Cangen Bae Colwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Colwyn Bae",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Nantglyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.257851000000",
+            "lon": "-3.440888000000",
+            "description": {
+                "en": "Llanelwy",
+                "cy": "Llanelwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HANES_SIOE_FFLINT_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HANES_SIOE_FFLINT_011.jpg",
+            "type": "image",
+            "target_id": "621261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

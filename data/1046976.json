@@ -1,0 +1,77 @@
+{
+    "id": 1046976,
+    "title": {
+        "en": "Eryri and Region National Eisteddfod 2005",
+        "cy": "Eisteddfod Genedlaethol Eryri a&#039;r Cyffiniau 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046976",
+    "created": 1555590643,
+    "updated": 1555590643,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation by members of Arfon and Dwyfor Region at the Eisteddfod 2005 \u2013 'Be 'di Geiria Rhwng Gwragedd'.",
+        "cy": "Cyflwyniad gan aelodau Rhanbarthau Arfon a Dwyfor yn yr Eisteddfod Genedlaethol Eryri a'r Cyffiniau 2005 \u2013 'Be 'di Geiria Rhwng Gwragedd'"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "eryri and district national eisteddfod 2005",
+        "presentation",
+        "eisteddfod genedlaethol eryri ar cyffiniau 2005",
+        "cyflwyniad"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_079.jpg",
+            "type": "image",
+            "target_id": "1046961"
+        },
+        {
+            "originalFilename": "df_myw_080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_080.jpg",
+            "type": "image",
+            "target_id": "1046966"
+        },
+        {
+            "originalFilename": "df_myw_081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_081.jpg",
+            "type": "image",
+            "target_id": "1046971"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

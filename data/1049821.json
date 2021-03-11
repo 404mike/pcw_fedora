@@ -1,0 +1,67 @@
+{
+    "id": 1049821,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049821",
+    "created": 1555592062,
+    "updated": 1555592062,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Exhibition of the Project Collecting Welsh Names \u2013 houses, ffarms, fields.",
+        "cy": "Arddangosfa o'r Prosiect Casglu Enwau Cymraeg \u2013 tai, ffermydd, caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "exhibition",
+        "cyfarfod blynyddol",
+        "arddangpsfa"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_404.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_404.jpg",
+            "type": "image",
+            "target_id": "1049816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

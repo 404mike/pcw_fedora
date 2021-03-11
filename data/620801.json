@@ -1,0 +1,117 @@
+{
+    "id": 620801,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Rhaglen 1996 - 1997. Dathlu 25 y Gangen. Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620801",
+    "created": 1511278575,
+    "updated": 1511278575,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen 1996 - 1997. Dathlu 25 y Gangen.",
+        "cy": "Rhaglen 1996 - 1997. Dathlu 25 y Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Dathlu 25",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_017.jpg",
+            "type": "image",
+            "target_id": "620766"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_018.jpg",
+            "type": "image",
+            "target_id": "620771"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_019.jpg",
+            "type": "image",
+            "target_id": "620776"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_020.jpg",
+            "type": "image",
+            "target_id": "620781"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_021.jpg",
+            "type": "image",
+            "target_id": "620786"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_022.jpg",
+            "type": "image",
+            "target_id": "620791"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 745226,
+    "title": {
+        "en": "Merched y Wawr Ffynnongroes Branch supporting the local nursery school",
+        "cy": "Merched y Wawr Cangen Ffynnongroes yn cefnogi&#039;r Ysgol Feithrin leol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745226",
+    "created": 1516896716,
+    "updated": 1516896716,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Ffynnongroes yn cyflwyno hamperi gwobrau raffl i gyngerdd Nadolig Ysgol Feithrin Eglwyswrw, Rhagfyr 2016.\nYn y llun mae Bethan Picton-Davies a Llinos Davies o Gangen Ffynnongroes, staff a phlant y Cylch Meithrin.",
+        "cy": "Merched y Wawr Cangen Ffynnongroes yn cyflwyno hamperi gwobrau raffl i gyngerdd Nadolig Ysgol Feithrin Eglwyswrw, Rhagfyr 2016.\nYn y llun mae Bethan Picton-Davies a Llinos Davies o Gangen Ffynnongroes, staff a phlant y Cylch Meithrin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.013786000000",
+            "lon": "-4.709472000000",
+            "description": {
+                "en": "Cylch Meithrin Eglwyswrw",
+                "cy": "Cylch Meithrin Eglwyswrw"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "ffynnongroes%201.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/ffynnongroes%25201.jpg",
+            "type": "image",
+            "target_id": "745216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

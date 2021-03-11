@@ -1,0 +1,84 @@
+{
+    "id": 600764,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch in the 'Hwyl Ebrill' (April Fun) Competition",
+        "cy": "Merched y Wawr Cangen Peniel yng nghystadleuaeth &#039;Hwyl Ebrill&#039;\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600764",
+    "created": 1502448207,
+    "updated": 1502448207,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Peniel yng Nghystadleuaeth Rhanbarth Caerfyrddin \u2018Hwyl Ebrill\u2019 yn 2006 yn Ysgol Maes yr Yrfa, Cefneithin.  Cafodd y gangen y wobr gyntaf am Gydadrodd \u2018Salm y Genedl\u2019.  \nMyra James, Menna Lenny, Beti Howells, Betty Davies, Marian Evans",
+        "cy": "Merched y Wawr Cangen Peniel yng Nghystadleuaeth Rhanbarth Caerfyrddin \u2018Hwyl Ebrill\u2019 yn 2006 yn Ysgol Maes yr Yrfa, Cefneithin.  Cafodd y gangen y wobr gyntaf am Gydadrodd \u2018Salm y Genedl\u2019.  \nMyra James, Menna Lenny, Beti Howells, Betty Davies, Marian Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.802764000000",
+            "lon": "-4.089527000000",
+            "description": {
+                "en": "Ysgol Maes yr Yrfa, Cefneithin",
+                "cy": "Ysgol Maes yr Yrfa, Cefneithin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-145.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-145.jpg",
+            "type": "image",
+            "target_id": "600762"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

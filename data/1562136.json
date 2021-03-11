@@ -1,0 +1,49 @@
+{
+    "id": 1562136,
+    "title": {
+        "en": "Fideo Dathlu'r 50 - Merched y Wawr Cylch Aeron",
+        "cy": "Fideo Dathlu&#039;r 50 - Merched y Wawr Cylch Aeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1562136",
+    "created": 1597138527,
+    "updated": 1598260358,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Creuwyd y fideo gan gwmni 'Cynhyrchiad CLIC Productions'\r\nSiaradwyr: Llywyddion Anrhydeddus - Enidwen Jones, Ffos y Ffin\r\nOwenna James, Aberaeron\r\n\r\nFfotograffiau sy\u2019n ymddangos: \r\nEisteddfod\r\nCelf a Chrefft\r\nDathlu\u2019r 20\r\nY sioe Frenhinol\r\nCanu carolau\r\nGwyl Ddewi\r\nTarian Mair Kitchener Davies\r\nDathlu\u2019r 25\r\nCinio Nadolig\r\nGwyl Fai\r\nGwyl Haf\r\nTaith Ddirgel\r\nCwis\r\nElusennau\r\nSiani bob Man\r\nCarnifal Aberaeron\r\nDathlu\u2019r hanner Canrif\r\nYr Egin\r\nTaith I Lunden\r\nY T\u0177 Cyffredin\r\nBen Lake\r\nBryn Briallu\r\nCangen MYW Llundain",
+        "cy": "Creuwyd y fideo gan gwmni 'Cynhyrchiad CLIC Productions'\r\nSiaradwyr: Llywyddion Anrhydeddus - Enidwen Jones, Ffos y Ffin\r\nOwenna James, Aberaeron\r\n\r\nFfotograffiau sy\u2019n ymddangos: \r\nEisteddfod\r\nCelf a Chrefft\r\nDathlu\u2019r 20\r\nY sioe Frenhinol\r\nCanu carolau\r\nGwyl Ddewi\r\nTarian Mair Kitchener Davies\r\nDathlu\u2019r 25\r\nCinio Nadolig\r\nGwyl Fai\r\nGwyl Haf\r\nTaith Ddirgel\r\nCwis\r\nElusennau\r\nSiani bob Man\r\nCarnifal Aberaeron\r\nDathlu\u2019r hanner Canrif\r\nYr Egin\r\nTaith I Lunden\r\nY T\u0177 Cyffredin\r\nBen Lake\r\nBryn Briallu\r\nCangen MYW Llundain"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cynhyrchiad CLIC Productions",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "myw.mp4",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/item_videos\/original\/2020\/August\/myw.mp4",
+            "type": "video",
+            "target_id": "1562141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

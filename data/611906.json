@@ -1,0 +1,73 @@
+{
+    "id": 611906,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch enjoy a Cooking Demonstration",
+        "cy": "Merched y Wawr Cangen Rhydaman yn cael Noson o Goginio"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611906",
+    "created": 1510753574,
+    "updated": 1510753574,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman o Ferched y Wawr, Noson gyda Gareth Richards",
+        "cy": "Cangen Rhydaman o Ferched y Wawr, Noson gyda Gareth Richards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-155a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-155a.jpg",
+            "type": "image",
+            "target_id": "611901"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1046131,
+    "title": {
+        "en": "Presenting Eirlys Phillips",
+        "cy": "Cyflwyniad i Eirlys Phillips"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046131",
+    "created": 1555590043,
+    "updated": 1555590043,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elinor Davies, deputy Treasurer; Eirlys Phillips, retiring Treasurer; Delyth Fletcher.Presentation in recognition of her long service as National Treasurer, 2000. Venue \u2013 Belle Vue, Aberystwyth.",
+        "cy": "Elinor Davies, dirprwy Drysorydd; Eirlys Phillips, Trysorydd yn ymddeol; Delyth Fletcher. Cyflwyniad  yn gydnabyddiaeth am ei gwasanaeth hir fel Trysorydd Cenedlaethol, 2000. Lleoliad: Belle Vue, Aberystwyth"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "transfer ceremony of national treasurer 2000",
+        "cermony",
+        "national tresurer",
+        "seremoni trosglwyddo trysoryddiaeth cenedlaethol 2000",
+        "Seremoni",
+        "trosglwyddo",
+        "trysorydd cenedlaethol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_011.jpg",
+            "type": "image",
+            "target_id": "1046126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

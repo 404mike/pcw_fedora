@@ -1,0 +1,66 @@
+{
+    "id": 1049841,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049841",
+    "created": 1555592070,
+    "updated": 1555592070,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Literary Prize \u2013 My Favourite Place. Winner Elizabeth Catherine Ellis, Penygroes Branch, Arfon Region.",
+        "cy": "Tlws y Llenor \u2013 Fy Hoff Le. Enillydd \u2013 Elizabeth Catherine Ellis, cangen Penygroes, Rhanbarth Arfon."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "tlws y llenor"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_406.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_406.jpg",
+            "type": "image",
+            "target_id": "1049836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

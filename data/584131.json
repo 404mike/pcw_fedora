@@ -1,0 +1,82 @@
+{
+    "id": 584131,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - North Wales Trip 2014",
+        "cy": "Merched y Wawr Cangen Maenclochog - Taith i Ogledd Cymru 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584131",
+    "created": 1499870396,
+    "updated": 1499870396,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Mehefin 2014.  Arianwyd y daith i Ogledd Cymeu gan arian Loteri. Tu fas Yr Ysgwrn, cartref Hedd Wyn.\nMary Llewellyn, Ann Morris, Gina Lewis, Beryl John a Maureen George.",
+        "cy": "Merched y Wawr Maenclochog, Mehefin 2014.  Arianwyd y daith i Ogledd Cymeu gan arian Loteri. Tu fas Yr Ysgwrn, cartref Hedd Wyn.\nMary Llewellyn, Ann Morris, Gina Lewis, Beryl John a Maureen George."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.896914000000",
+            "lon": "-3.903066000000",
+            "description": {
+                "en": "Yr Ysgwrn, Trasfynydd",
+                "cy": "Yr Ysgwrn, Trasfynydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-062.jpg",
+            "type": "image",
+            "target_id": "584129"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

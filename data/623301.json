@@ -1,0 +1,86 @@
+{
+    "id": 623301,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Cynwyd, Glyn Maelor",
+        "cy": "40 mlynedd ers sefydlu cangen Merched y Wawr Cynwyd, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623301",
+    "created": 1511279457,
+    "updated": 1511279457,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "y Gangen yn dathlu ei rhuddem (40 mlynedd ers sefydlu\u2019r gangen) yn 2007. Prynwyd Perth o ddail coch i ddathlu\u2019r achlysur a phlanwyd yng ngardd yr ysgol. Pat, Edna, Gwenda, Llinos, Meirrionwen, Bronwen, Dorothy, Sylvia, Rhanwen, Deltyh, May, Kathryn, May, Kathryn, Gwen, Margaret, Mair.",
+        "cy": "y Gangen yn dathlu ei rhuddem (40 mlynedd ers sefydlu\u2019r gangen) yn 2007. Prynwyd Perth o ddail coch i ddathlu\u2019r achlysur a phlanwyd yng ngardd yr ysgol. Pat, Edna, Gwenda, Llinos, Meirrionwen, Bronwen, Dorothy, Sylvia, Rhanwen, Deltyh, May, Kathryn, May, Kathryn, Gwen, Margaret, Mair."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Cynwyd,",
+    "owner": "Cangen Cynwyd,",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cynwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cynwyd",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Cynwyd",
+                "cy": "Cynwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CYNWYD_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CYNWYD_003.jpg",
+            "type": "image",
+            "target_id": "623291"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

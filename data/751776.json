@@ -1,0 +1,128 @@
+{
+    "id": 751776,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Bro Tryweryn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bro Tryweryn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751776",
+    "created": 1516958016,
+    "updated": 1516958016,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r aelodau a fu\u2019n paratoi a chynhyrchu\u2019r llyfryn \u2018Blas y Cwm\u2019. Sef, llyfryn yn cynnwys atogofion, straeon, penillion, dywedion a reseitiau o\u2019r ardal. Gwelwn: Morfydd Thomas, Miriam Roberts, Buddug Medi (C. Y Bala), Marged Jones, Ceri Morries (2il res) Eirola Williams, Olwen Davies, Elinor Jones, Jane Willia,s, Gwen Roberts Gwenfair Jones (3ydd rhes) Nia Wyn Davies, Lisa Roberts, Sioned Jones, Mai Jones, Freda Williams, Eirian Dascalu.",
+        "cy": "Llun o\u2019r aelodau a fu\u2019n paratoi a chynhyrchu\u2019r llyfryn \u2018Blas y Cwm\u2019. Sef, llyfryn yn cynnwys atogofion, straeon, penillion, dywedion a reseitiau o\u2019r ardal. Gwelwn: Morfydd Thomas, Miriam Roberts, Buddug Medi (C. Y Bala), Marged Jones, Ceri Morries (2il res) Eirola Williams, Olwen Davies, Elinor Jones, Jane Willia,s, Gwen Roberts Gwenfair Jones (3ydd rhes) Nia Wyn Davies, Lisa Roberts, Sioned Jones, Mai Jones, Freda Williams, Eirian Dascalu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bro Tryweryn",
+    "owner": "Cangen Bro Tryweryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bro Tryweryn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Tryweryn",
+        "Rhanbarth Meirionnydd",
+        "Llyfryn Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.939553000000",
+            "lon": "-3.631991000000",
+            "description": {
+                "en": "Bro Tryweryn",
+                "cy": "Bro Tryweryn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_010.jpg",
+            "type": "image",
+            "target_id": "751731"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_011.jpg",
+            "type": "image",
+            "target_id": "751736"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_012.jpg",
+            "type": "image",
+            "target_id": "751741"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_013.jpg",
+            "type": "image",
+            "target_id": "751746"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_014.jpg",
+            "type": "image",
+            "target_id": "751751"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_015.jpg",
+            "type": "image",
+            "target_id": "751756"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_016.jpg",
+            "type": "image",
+            "target_id": "751761"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRO_TRYWERYN_017.jpg",
+            "type": "image",
+            "target_id": "751766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

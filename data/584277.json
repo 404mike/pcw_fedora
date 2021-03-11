@@ -1,0 +1,90 @@
+{
+    "id": 584277,
+    "title": {
+        "en": "\"Yr Oedd yno Ffrainc\" (There was France) - Feature programme by Carmarthenshire Merched y Wawr on the life of TH Parry-Williams, 1987",
+        "cy": "\u201cYr Oedd yno Ffrainc\u201d Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli.  Rhaglen Nodwedd ar Fywyd a Gwaith TH Parry Williams."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584277",
+    "created": 1499870860,
+    "updated": 1499870860,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u201cYr Oedd yno Ffrainc\u201d Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli.  Rhaglen Nodwedd ar Fywyd a Gwaith TH Parry Williams gan Nan Lewis, Capel Nebo, Efailwen.  Tachwedd 1af, 1987  Tudalen flaen",
+        "cy": "\u201cYr Oedd yno Ffrainc\u201d Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli.  Rhaglen Nodwedd ar Fywyd a Gwaith TH Parry Williams gan Nan Lewis, Capel Nebo, Efailwen.  Tachwedd 1af, 1987  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.898675000000",
+            "lon": "-4.705705000000",
+            "description": {
+                "en": "Capel Nebo, Efailwen",
+                "cy": "Capel Nebo, Efailwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-065.jpg",
+            "type": "image",
+            "target_id": "584274"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-066.jpg",
+            "type": "image",
+            "target_id": "584275"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 601165,
+    "title": {
+        "en": "Merched y Wawr Tumble Branch at National Botanic Garden of Wales",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn yr Ardd Fotaneg Genedlaethol "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601165",
+    "created": 1502448738,
+    "updated": 1502448738,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Tymbl yn ymweld \u00e2\u2019r Ardd Fotaneg Genedlaethol yn Llanarthne cyn iddi agor yn 2000.  \nYn y llun mae Meinir Williams, Rhion Elias, Meryl Evans, Erica Samuel, Delyth Lewis, Miriam Phillips, Delyth Armstrong, Bet Davies, Jean Thomas, Caryl Thomas",
+        "cy": "Merched y Wawr Cangen Y Tymbl yn ymweld \u00e2\u2019r Ardd Fotaneg Genedlaethol yn Llanarthne cyn iddi agor yn 2000.  \nYn y llun mae Meinir Williams, Rhion Elias, Meryl Evans, Erica Samuel, Delyth Lewis, Miriam Phillips, Delyth Armstrong, Bet Davies, Jean Thomas, Caryl Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.840217000000",
+            "lon": "-4.151136000000",
+            "description": {
+                "en": "Gardd Fotaneg Genedlaethol",
+                "cy": "Gardd Fotaneg Genedlaethol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_089.jpg",
+            "type": "image",
+            "target_id": "601163"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

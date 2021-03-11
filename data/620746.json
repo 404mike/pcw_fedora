@@ -1,0 +1,86 @@
+{
+    "id": 620746,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Uwchaled, Colwyn.",
+        "cy": "Cangen Merched y Wawr Uwchaled, Rhanbarth Colwyn. Gweu sgwariau \/ blancedi noddedig"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620746",
+    "created": 1511278558,
+    "updated": 1511278558,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Uwchaled yn gweu sgwariau \/ blancedi noddedig fel rhan o ymgrych genedlaethol y Mudiad, Gwyl Ddewi 1993. Gwelwn: Ellen Ellis, Rhian Jones, Lowri Williams, Laura Jones, Nesta Thomas, Laura Ellis, Ceinwen Ellis, Catherine Jones, Hefina Williams, Eleri Price, Luned Jones, Maggie Ellis.",
+        "cy": "Merched y Wawr Cangen Uwchaled yn gweu sgwariau \/ blancedi noddedig fel rhan o ymgrych genedlaethol y Mudiad, Gwyl Ddewi 1993. Gwelwn: Ellen Ellis, Rhian Jones, Lowri Williams, Laura Jones, Nesta Thomas, Laura Ellis, Ceinwen Ellis, Catherine Jones, Hefina Williams, Eleri Price, Luned Jones, Maggie Ellis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Uwchaled",
+    "owner": "Cangen Uwchaled",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Uwchaled",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Uwchaled",
+        "Rhanbarth Colwyn",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.024778000000",
+            "lon": "-3.561282000000",
+            "description": {
+                "en": "Uwchaled",
+                "cy": "Uwchaled"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_UWCHALED_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_UWCHALED_014.jpg",
+            "type": "image",
+            "target_id": "620736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

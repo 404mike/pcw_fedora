@@ -1,0 +1,87 @@
+{
+    "id": 753521,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mawddwy, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mawddwy, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753521",
+    "created": 1516958495,
+    "updated": 1516958495,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r Gangen noson ei sefydlu yng nghwmni Sulwen Lloyd Davies (Y Parc), Gwyneth Evans a Zonia Bowen.",
+        "cy": "Llun o\u2019r Gangen noson ei sefydlu yng nghwmni Sulwen Lloyd Davies (Y Parc), Gwyneth Evans a Zonia Bowen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mawddwy,",
+    "owner": "Cangen Mawddwy,",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mawddwy",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mawddwy",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr",
+        "Llywyddion Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.721860000000",
+            "lon": "-3.688326000000",
+            "description": {
+                "en": "Dinas Mawddwy",
+                "cy": "Dinas Mawddwy"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAWDDWY011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAWDDWY011.jpg",
+            "type": "image",
+            "target_id": "753511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

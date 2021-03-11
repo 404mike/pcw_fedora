@@ -1,0 +1,75 @@
+{
+    "id": 747866,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Merched y Wawr Llanafan, Carnifal Llanafan, 1997"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747866",
+    "created": 1516898315,
+    "updated": 1516898315,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Offeiriaid\u2019 Merched y Wawr Llanafan yng Ngharnifal Llanafan, 1997, i ddathlu\u2019r penderfyniad i ethol offeiriaid benywaidd yng Nghymru.  \nYn y llun \u2013 Winnie Evans, Gwyneth Jones, Eluned Richards, Cassie Williams, Cynthia Edwards, Olive Jones, Mair Williams, Joan Jones, Glenda Davies",
+        "cy": "\u2018Offeiriaid\u2019 Merched y Wawr Llanafan yng Ngharnifal Llanafan, 1997, i ddathlu\u2019r penderfyniad i ethol offeiriaid benywaidd yng Nghymru.  \nYn y llun \u2013 Winnie Evans, Gwyneth Jones, Eluned Richards, Cassie Williams, Cynthia Edwards, Olive Jones, Mair Williams, Joan Jones, Glenda Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-177_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-177_0.jpg",
+            "type": "image",
+            "target_id": "747861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

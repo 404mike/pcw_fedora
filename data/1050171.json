@@ -1,0 +1,66 @@
+{
+    "id": 1050171,
+    "title": {
+        "en": "MyW Residential Weekend at Lampeter 2012",
+        "cy": "Penwythnos Preswyl MyW 2012 yn Llanbed \u2013 Cainc a Chelfyddyd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050171",
+    "created": 1555592214,
+    "updated": 1555592214,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Three former Presidents enjoying the sun during the coffee break \u2013 Margarette Huws; Nan Lewis; Mererid Jones.",
+        "cy": "Tair cyn \u2013 Lywydd yn mwynhau'r haul amser coffi \u2013 Margarette Huws; NanLewis; Mererid Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_442.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_442.jpg",
+            "type": "image",
+            "target_id": "1050166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

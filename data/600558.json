@@ -1,0 +1,84 @@
+{
+    "id": 600558,
+    "title": {
+        "en": "Photo and Progranne of 'A Duw a greodd Wraig' (And God ceated Woman) by Rhoswen Llewellyn of Gronw Branch",
+        "cy": "Llun a rhaglen \u2018A Duw a greodd Wraig\u2019, gan Rhoswen Llewellyn o Gangen Gronw"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600558",
+    "created": 1502447898,
+    "updated": 1502447898,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun a rhaglen \u2018A Duw a greodd Wraig\u2019, ag ysgrifenwyd gan Rhoswen Llewellyn o Gangen Gronw ac a gyflwynwyd yng Nghapel y Tabernacl, Hendygwyn ar Ebrill 15, 1983 gan aelodau Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli (Rhanbarth Caerfyrddin).",
+        "cy": "Llun a rhaglen \u2018A Duw a greodd Wraig\u2019, ag ysgrifenwyd gan Rhoswen Llewellyn o Gangen Gronw ac a gyflwynwyd yng Nghapel y Tabernacl, Hendygwyn ar Ebrill 15, 1983 gan aelodau Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli (Rhanbarth Caerfyrddin)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819351000000",
+            "lon": "-4.607099000000",
+            "description": {
+                "en": "Capel Y Tabernacl Hendygwyn",
+                "cy": "Capel Y Tabernacl Hendygwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-277.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-277.jpg",
+            "type": "image",
+            "target_id": "600556"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

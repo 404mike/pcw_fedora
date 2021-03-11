@@ -1,0 +1,85 @@
+{
+    "id": 584555,
+    "title": {
+        "en": "Merched y Wawr Pontypridd Branch during a local walk around Ynysangharad Park 2015",
+        "cy": "Cangen Pontypridd Merched y Wawr ar daith gerdded ym Mharc Ynysangharad 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584555",
+    "created": 1499871188,
+    "updated": 1499871188,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Pontypridd o Ferched y Wawr ar daith gerdded lleol ar 02\/07\/2015.  Tynnywd y llun ym Mharc Ynysangharad, Pontypridd\nSian Cadifor, Lis Morgan-Jones, Dil Davies, Jayne Rees, Menna Lewis, Delyth Blainey, Myfanwy Lloyd, Mair Edwards, Wini Davies, Meinir Heulyn, Dorothy Todd, Glyn Hughes \nMr Glyn Hughes oedd yn tywys, gan ddweud ychydig o hanes y llefydd y buont yn ymweld \u00e2 nhw.",
+        "cy": "Cangen Pontypridd o Ferched y Wawr ar daith gerdded lleol ar 02\/07\/2015.  Tynnywd y llun ym Mharc Ynysangharad, Pontypridd\nSian Cadifor, Lis Morgan-Jones, Dil Davies, Jayne Rees, Menna Lewis, Delyth Blainey, Myfanwy Lloyd, Mair Edwards, Wini Davies, Meinir Heulyn, Dorothy Todd, Glyn Hughes \nMr Glyn Hughes oedd yn tywys, gan ddweud ychydig o hanes y llefydd y buont yn ymweld \u00e2 nhw."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pontypridd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontypridd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.601323000000",
+            "lon": "-3.335666000000",
+            "description": {
+                "en": "Parc Ynysangharad, Pontypridd",
+                "cy": "Parc Ynysangharad, Pontypridd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-082.jpg",
+            "type": "image",
+            "target_id": "584553"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

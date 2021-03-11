@@ -1,0 +1,65 @@
+{
+    "id": 1145746,
+    "title": {
+        "en": "MyW Residential Weekend 2015",
+        "cy": "Penwythnos Preswyl MyW 2015 \u2013 Croesi Pontydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145746",
+    "created": 1562062992,
+    "updated": 1562062992,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Present from MyW to Patagonia.",
+        "cy": "Rhodd MyW i'r Wladfa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2015",
+        "penwythnos preswyl myw",
+        "croesi pontydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_718.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_718.jpg",
+            "type": "image",
+            "target_id": "1145741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

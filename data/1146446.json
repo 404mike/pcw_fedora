@@ -1,0 +1,76 @@
+{
+    "id": 1146446,
+    "title": {
+        "en": "Winter Fair 2016",
+        "cy": "Ffair Aeaf 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146446",
+    "created": 1562063879,
+    "updated": 1562063879,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Buntings: 1st Aeres James, Newport, Pembrokeshire.",
+        "cy": "Byntins: 1af Aeres James, Cangen Trefdraeth, Rhanbarth Penfro."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_801.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_801.jpg",
+            "type": "image",
+            "target_id": "1146431"
+        },
+        {
+            "originalFilename": "df_myw_802.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_802.jpg",
+            "type": "image",
+            "target_id": "1146436"
+        },
+        {
+            "originalFilename": "df_myw_803.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_803.jpg",
+            "type": "image",
+            "target_id": "1146441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

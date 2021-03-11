@@ -1,0 +1,65 @@
+{
+    "id": 1049781,
+    "title": {
+        "en": "Annual Meeting 2012",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049781",
+    "created": 1555592045,
+    "updated": 1555592045,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rosie Pearce, won the Patagonia prize for the best article in Y Wawr. Meri Huws, Welsh Language Comisioner; Representative of Rosie Pearce; Rhinannon Parry, Editor.",
+        "cy": "Rosie Pearce enillodd Wobr Patagonia am yr erthygl orau. Meri Huws, Comisiynydd Iaith; Cynrychiolydd Rosie Pearce; Rhiannon Parry, Golygydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_400.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_400.jpg",
+            "type": "image",
+            "target_id": "1049776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

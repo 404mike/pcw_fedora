@@ -1,0 +1,78 @@
+{
+    "id": 1049526,
+    "title": {
+        "en": "MyW Residential Weekend 2011, Bangor \u2013 Bwrlwm a Bantams",
+        "cy": "Penwythnos Preswyl MyW 2011, Bangor \u2013 Bwrlwm a Bantams"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049526",
+    "created": 1555591952,
+    "updated": 1555591952,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Friday night's entertainment. Tudur Owen; Deiniolen Brass Band; John and Alun.",
+        "cy": "Adloniaint nos Wener. Tudur Owen; Seindorf Arian Deiniolen; John ac Alun."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "bwrlwm a bantams"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_365.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_365.jpg",
+            "type": "image",
+            "target_id": "1049511"
+        },
+        {
+            "originalFilename": "df_myw_366.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_366.jpg",
+            "type": "image",
+            "target_id": "1049516"
+        },
+        {
+            "originalFilename": "df_myw_367.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_367.jpg",
+            "type": "image",
+            "target_id": "1049521"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

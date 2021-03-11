@@ -1,0 +1,83 @@
+{
+    "id": 746806,
+    "title": {
+        "en": "Merched y Wawr Celebrate Twenty Five Years",
+        "cy": "Dathliadau Chwarter Canrif Merched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746806",
+    "created": 1516897447,
+    "updated": 1516897447,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathliadau Chwarter Canrif Merched y Wawr yn y Bala, Mai 16, 1992.  Mae Baner Rhanbarth Ceredigion yn y blaen.",
+        "cy": "Dathliadau Chwarter Canrif Merched y Wawr yn y Bala, Mai 16, 1992.  Mae Baner Rhanbarth Ceredigion yn y blaen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llannon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.891511000000",
+            "lon": "-3.670517000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-226.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-226.jpg",
+            "type": "image",
+            "target_id": "746796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 613081,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Celebrate 21 Years",
+        "cy": "Merched y Wawr Llannau\u2019r Tywi yn dathlu penblwydd yn 21ain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613081",
+    "created": 1510753864,
+    "updated": 1510753864,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 21oed ym Mhlas Pantyrathro, Hydref 22, 2010.\nLlun top \u2013 Jane Davies, Llywydd cyntaf y gangen yn torri\u2019r gacen, Diane Davies a Buddug Thomas\nLlun canol \u2013 Y gacen \nLlun gwaelod \u2013 Glenys Thomas, Llywydd y Rhanbarth ar y pryd, oedd y gwestai, Clive Edwards, canwr a digrifwr y noson, a Jane Davies",
+        "cy": "Lluniau Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu penblwydd yn 21oed ym Mhlas Pantyrathro, Hydref 22, 2010.\nLlun top \u2013 Jane Davies, Llywydd cyntaf y gangen yn torri\u2019r gacen, Diane Davies a Buddug Thomas\nLlun canol \u2013 Y gacen \nLlun gwaelod \u2013 Glenys Thomas, Llywydd y Rhanbarth ar y pryd, oedd y gwestai, Clive Edwards, canwr a digrifwr y noson, a Jane Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_039.jpg",
+            "type": "image",
+            "target_id": "613071"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

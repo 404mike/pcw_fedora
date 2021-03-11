@@ -1,0 +1,82 @@
+{
+    "id": 554508,
+    "title": {
+        "en": "Merched y Wawr Capel Newydd Branch, Merched y Wawr Residential School 2007 ",
+        "cy": "Cangen Capel Newydd yn Ysgol Breswyl Merched y Wawr 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554508",
+    "created": 1487592130,
+    "updated": 1487592130,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nAelodau Cangen Capel Newydd yn ystod Ysgol Breswyl Bangor, Plas Menai 2007   Tegwen Morris (Cyfarwyddwr Cenedlaethol Merched y Wawr), Catrin Stevens (Llywydd Merched y Wawr 2000 - 2002), Mary Price, Nest Davies, Esyllt a Beryl",
+        "cy": "Aelodau Cangen Capel Newydd yn ystod Ysgol Breswyl Bangor, Plas Menai 2007   Tegwen Morris (Cyfarwyddwr Cenedlaethol Merched y Wawr), Catrin Stevens (Llywydd Merched y Wawr 2000 - 2002), Mary Price, Nest Davies, Esyllt a Beryl"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.168298000000",
+            "lon": "-4.238085000000",
+            "description": {
+                "en": "Plas Menai, Bangor",
+                "cy": "Plas Menai, Bangor"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-171016-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-171016-005.jpg",
+            "type": "image",
+            "target_id": "554506"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

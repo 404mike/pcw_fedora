@@ -1,0 +1,82 @@
+{
+    "id": 584012,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth (Newport) Branch - Craft work",
+        "cy": "Merched y Wawr Cangen Trefdraeth - Gwaith Crefft"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584012",
+    "created": 1499870227,
+    "updated": 1499870227,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched dawnus Cangen Trefdraeth o Ferched y Wawr yn dangos eu gwaith crefft yn y Clwb Golff lleol\nBeti James, Eiry Ladd-Lewis, Aeres James",
+        "cy": "Merched dawnus Cangen Trefdraeth o Ferched y Wawr yn dangos eu gwaith crefft yn y Clwb Golff lleol\nBeti James, Eiry Ladd-Lewis, Aeres James"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": " Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trefdraeth",
+        "Rhanbarth Penfro"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.027829000000",
+            "lon": "-4.835840000000",
+            "description": {
+                "en": "Clwb Golff Trefdraeth",
+                "cy": "Clwb Golff Trefdraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-009.jpg",
+            "type": "image",
+            "target_id": "584010"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

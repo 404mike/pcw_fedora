@@ -1,0 +1,75 @@
+{
+    "id": 745086,
+    "title": {
+        "en": "Merched y Wawr Ffair Rhos Branch present a specialist bed to Bronglais Hospital",
+        "cy": "Merched y Wawr Cangen Ffair Rhos cyflwyno gwely arbennig i Ysbyty Bronglai"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745086",
+    "created": 1516896653,
+    "updated": 1516896653,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Ffair Rhos a\u2019r Cylch yn cyflwyno gwely arbennig i Ysbyty Bronglais, Aberystwyth o ganlyniad i Daith Gerdded yn 1970au.  Trefnwyd Teithiau Cerdded yn rheolaidd tuag at achosion lleol yn y 70au.\nYn y llun mae cynrychiolydd o\u2019r ysbyty, Jenny Jones, Myfanwy Huws, Katie Morgam, Joan Evans, Cynrychiolydd o\u2019r Ysbyty.",
+        "cy": "Merched y Wawr Cangen Ffair Rhos a\u2019r Cylch yn cyflwyno gwely arbennig i Ysbyty Bronglais, Aberystwyth o ganlyniad i Daith Gerdded yn 1970au.  Trefnwyd Teithiau Cerdded yn rheolaidd tuag at achosion lleol yn y 70au.\nYn y llun mae cynrychiolydd o\u2019r ysbyty, Jenny Jones, Myfanwy Huws, Katie Morgam, Joan Evans, Cynrychiolydd o\u2019r Ysbyty."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffair Rhos a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Ffair Rhos"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-189.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-189.jpg",
+            "type": "image",
+            "target_id": "745081"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

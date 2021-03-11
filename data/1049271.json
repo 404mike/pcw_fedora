@@ -1,0 +1,66 @@
+{
+    "id": 1049271,
+    "title": {
+        "en": "Annual Meeting 2011",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049271",
+    "created": 1555591853,
+    "updated": 1555591853,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition for the best branch programme. Winners \u2013 Bro Cyfeiliog branch, Maldwyn Powys. Heulwen Parry Jones receiving the certificate from Vice President, Gill Griffiths.",
+        "cy": "Cystadleuaeth y Rhaglen Orau. Enillwyr \u2013 Cangen Bro Cyfeiliog, Maldwyn Powys. Heulwen Parry Jones yn derbyn tystysgrif gan yr Is-Lywydd Gill Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_337.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_337.jpg",
+            "type": "image",
+            "target_id": "1049266"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

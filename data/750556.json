@@ -1,0 +1,73 @@
+{
+    "id": 750556,
+    "title": {
+        "en": "A Plate from the Collection of the Late Wendy Richards, Merched y Wawr National President 1976-1978",
+        "cy": "Pl\u00e2t o gasgliad y diweddar Wendy Richards, Llywydd Cenedlaethol Merched y Wawr 1976 \u2013 1978"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750556",
+    "created": 1516899519,
+    "updated": 1516899519,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pl\u00e2t o gasgliad y diweddar Wendy Richards, Llywydd Cenedlaethol Merched y Wawr 1976 \u2013 1978 (ac aelod o Gangen Castell Nedd), darn o waith gan M Jones, Llandeilo.",
+        "cy": "Pl\u00e2t o gasgliad y diweddar Wendy Richards, Llywydd Cenedlaethol Merched y Wawr 1976 \u2013 1978 (ac aelod o Gangen Castell Nedd), darn o waith gan M Jones, Llandeilo."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr, Rhanbarth Gorllewin Morgannwg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Castell Nedd"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170216_124823.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_124823.jpg",
+            "type": "image",
+            "target_id": "750551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

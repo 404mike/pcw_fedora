@@ -1,0 +1,63 @@
+{
+    "id": 1146406,
+    "title": {
+        "en": "Winter Fair 2016",
+        "cy": "Ffair Aeaf 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146406",
+    "created": 1562063865,
+    "updated": 1562063865,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand with Cynthia Edwards; Catherine Watkin Thomas and Alwena Richards.",
+        "cy": "Stondin MyW gyda Cynthia Edwards; Catherine Watkin Thomas ac Alwena Richards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_797.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_797.jpg",
+            "type": "image",
+            "target_id": "1146401"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

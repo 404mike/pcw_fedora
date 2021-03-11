@@ -1,0 +1,67 @@
+{
+    "id": 1047916,
+    "title": {
+        "en": "MyW Residential Weekend 2007 \u2013 Bangor",
+        "cy": "Penwythnos Preswyl MyW 2007 \u2013 Rialtwch y Rhuddem"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047916",
+    "created": 1555591183,
+    "updated": 1555591183,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Saturday night concert with Aled Hall and Elin Manahan Thomas.",
+        "cy": "Cyngerdd nos Sadwrn gyda Aled Hall ac Elin Manahan Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Bangor",
+        "elin manahan thomas",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_189.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_189.jpg",
+            "type": "image",
+            "target_id": "1047911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

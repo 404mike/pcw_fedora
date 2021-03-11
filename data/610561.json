@@ -1,0 +1,84 @@
+{
+    "id": 610561,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch celebrate 18th Birthday",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu\u2019r 18fed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610561",
+    "created": 1510753232,
+    "updated": 1510753232,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gronw yn Dathlu\u2019r 18fed, Gwesty\u2019r Hebog, Caerfyrddin, 1993.\n\nOedd y gangen eisoes wedi bod yn weithgar iawn, fel tystiwyd gan y casgliad o dariannau ac ati.  Buon nhw hefyd yn cystadlu ar y llwyfan mewn dramau, cyd-adrodd a chanu gwerin.  \n\nRhes Flaen: Meirwen Evans; Bessie Bowen; Bethan Richards; Enid Jones o Gaerfyrddin; Nan Lewis, Llywydd Cenedlaethol; Buddug Jones, Llywydd Rhanbarthol; Rhoswen Llewellyn; Tegwen James.\nAil Res: Vanna Evans; Llinos Thomas; Heather Phillips; Irene Edwards; Betty Edwards; Doris Davies; Elsie Davies; Maisie Harris; Nesta Morris; Nansi Evans; Lon Melchior.\nRhes Gefn: Caroline Walton; Eppie Isaac; Mary Davies; Lily Phillips; Elvira Jones; Gwyneth Griffiths; Eiddwen Morgan; Morfydd James.",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu\u2019r 18fed, Gwesty\u2019r Hebog, Caerfyrddin, 1993.\n\nOedd y gangen eisoes wedi bod yn weithgar iawn, fel tystiwyd gan y casgliad o dariannau ac ati.  Buon nhw hefyd yn cystadlu ar y llwyfan mewn dramau, cyd-adrodd a chanu gwerin.  \n\nRhes Flaen: Meirwen Evans; Bessie Bowen; Bethan Richards; Enid Jones o Gaerfyrddin; Nan Lewis, Llywydd Cenedlaethol; Buddug Jones, Llywydd Rhanbarthol; Rhoswen Llewellyn; Tegwen James.\nAil Res: Vanna Evans; Llinos Thomas; Heather Phillips; Irene Edwards; Betty Edwards; Doris Davies; Elsie Davies; Maisie Harris; Nesta Morris; Nansi Evans; Lon Melchior.\nRhes Gefn: Caroline Walton; Eppie Isaac; Mary Davies; Lily Phillips; Elvira Jones; Gwyneth Griffiths; Eiddwen Morgan; Morfydd James."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856372000000",
+            "lon": "-4.310564000000",
+            "description": {
+                "en": "Gwesty'r Hebog, Caerfyrddin",
+                "cy": "Gwesty'r Hebog, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-267.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-267.jpg",
+            "type": "image",
+            "target_id": "610551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

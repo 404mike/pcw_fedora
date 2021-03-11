@@ -1,0 +1,86 @@
+{
+    "id": 753116,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr  Llanuwchllyn, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanuwchllyn, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753116",
+    "created": 1516958383,
+    "updated": 1516958383,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei 40 ar y Wyddfa, Mehefin 2009. O flaen y tren bach, cyn mynd am y Copa.",
+        "cy": "Y Gangen yn dathlu ei 40 ar y Wyddfa, Mehefin 2009. O flaen y tren bach, cyn mynd am y Copa."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanuwchllyn",
+    "owner": "Cangen Llanuwchllyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanuwchllyn",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanuwchllyn",
+        "Rhanbarth Meirionnydd",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.855261000000",
+            "lon": "-3.668657000000",
+            "description": {
+                "en": "Llanuwchllyn",
+                "cy": "Llanuwchllyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANUWCHLLYN015.jpg",
+            "type": "image",
+            "target_id": "753106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

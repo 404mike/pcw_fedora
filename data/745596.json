@@ -1,0 +1,75 @@
+{
+    "id": 745596,
+    "title": {
+        "en": "Article from the 'Wawr', Merched y Wawr's magazine about a member of Gwaun Gors Branch",
+        "cy": "Erthygl o\u2019r Wawr am aelod Merched y Wawr Gwaun Gors"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745596",
+    "created": 1516896880,
+    "updated": 1516896880,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o\u2019r Wawr (Rhhifyn 169, Gaeaf 2009) am Emily Hinshelwood, aelod o Gangen Merched y Wawr Gwaun Gors",
+        "cy": "Erthygl o\u2019r Wawr (Rhhifyn 169, Gaeaf 2009) am Emily Hinshelwood, aelod o Gangen Merched y Wawr Gwaun Gors"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gwaun Gors",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwaun Gors",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-063.jpg",
+            "type": "image",
+            "target_id": "745591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

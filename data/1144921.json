@@ -1,0 +1,72 @@
+{
+    "id": 1144921,
+    "title": {
+        "en": "MyW Residential Weekend, 2014",
+        "cy": "Penwythnos Preswyl MyW 2014 yn Llanbed \u2013 &#039;Cyfaredd y Canolbarth&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144921",
+    "created": 1562062631,
+    "updated": 1562062631,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Derfel Williams giving a talk on being a Ringmaster in the circus.",
+        "cy": "Derfel Williams yn rhoi sgwrs am fod yn Gylchfeistr mewn syrcas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2014",
+        "penwythnos preswyl myw",
+        "Llanbed",
+        "cyfaredd y canolbarth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_628.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_628.jpg",
+            "type": "image",
+            "target_id": "1144911"
+        },
+        {
+            "originalFilename": "df_myw_629.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_629.jpg",
+            "type": "image",
+            "target_id": "1144916"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

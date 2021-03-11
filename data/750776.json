@@ -1,0 +1,82 @@
+{
+    "id": 750776,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch in Tregaron",
+        "cy": "Merched y Wawr Cangen Ystalyfera yn Nhregaron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750776",
+    "created": 1516899628,
+    "updated": 1516899628,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Ystalyfera o Ferched y Wawr y tu allan i Westy\u2019r Talbot, Tregaron, wedi bod yn ymweld \u00e2\u2019r Ganolfan Grefftau ac ar ei ffordd i Ganolfan Genedlaethol Merched y Wawr yn Aberystwyth. Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe",
+        "cy": "Cangen Ystalyfera o Ferched y Wawr y tu allan i Westy\u2019r Talbot, Tregaron, wedi bod yn ymweld \u00e2\u2019r Ganolfan Grefftau ac ar ei ffordd i Ganolfan Genedlaethol Merched y Wawr yn Aberystwyth. Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Rhanbarth Gorllewin Morgannwg)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Ystalyfera"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.219552000000",
+            "lon": "-3.932955000000",
+            "description": {
+                "en": "Sgwar Tregaron",
+                "cy": "Sgwar Tregaron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ystalyfera%204%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ystalyfera%25204%2520001.jpg",
+            "type": "image",
+            "target_id": "750766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 746646,
+    "title": {
+        "en": "Merched y Wawr Llanfarian Branch Exhibition 1992",
+        "cy": "Arddangosfa Merched y Wawr Cangen Llanfarian 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746646",
+    "created": 1516897374,
+    "updated": 1516897374,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanfarian yn creu arddangosfa Dathlu Chwarter Canrif y Mudiad yn 1992 (yng nghystadleuaeth y Rhanbarth)",
+        "cy": "Merched y Wawr Cangen Llanfarian yn creu arddangosfa Dathlu Chwarter Canrif y Mudiad yn 1992 (yng nghystadleuaeth y Rhanbarth)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-221.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-221.jpg",
+            "type": "image",
+            "target_id": "746641"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

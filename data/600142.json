@@ -1,0 +1,85 @@
+{
+    "id": 600142,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanrwst, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llanrwst, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600142",
+    "created": 1502447302,
+    "updated": 1502447302,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llanrwst yn dathlu Dydd G\u0175yl Dewi yn Festri Seion Llanrwst yn 2016.",
+        "cy": "Cangen Llanrwst yn dathlu Dydd G\u0175yl Dewi yn Festri Seion Llanrwst yn 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanrwst",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanrwst",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799719000000",
+            "description": {
+                "en": "Llanrwst",
+                "cy": "Llanrwst"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_LLANRWST_038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_LLANRWST_038.jpg",
+            "type": "image",
+            "target_id": "600140"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

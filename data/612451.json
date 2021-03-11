@@ -1,0 +1,84 @@
+{
+    "id": 612451,
+    "title": {
+        "en": "Unveiling The Gwenllian Memorial",
+        "cy": "Dadorchuddio Cofeb Gwenllian 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612451",
+    "created": 1510753708,
+    "updated": 1510753708,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dadorchuddio Cofeb Gwenllian, Cydweli, Mai 23, 1991.  Gwynfor Evans yn annerch.  \nPwyllgor Dyfed Merched y Wawr wnaeth drefnu a chodi arian tuag at Cofeb Gwenllian yng Nghydweli.  Breuddwyd Dr Gwynfor Evans oedd y gofeb yn wreiddiol ac ef wnaeth ei dadorchuddio.    Ieuan Rees o Rydaman oedd y cerflunydd.  \nBu farw\u2019r Dywysoges Gwenllian, ynghyd \u00e2\u2019i mab Morgan, ar faes y gad ym 1136 yng Nghydweli wrth ymladd arglwydd y castell, Maurice de Londres, er mwyn achub Deheubarth (de-orllewin Cymru) rhag goresgynwyr Normanaidd.  Roedd Gwenllian yn ferch i Gruffydd ap Cynan ac yn wraig i Gruffydd ap Rhys, Tywysog y Deheubarth ac Arglwydd Ystrad Tywi.  Cafodd Gwenllian bedwar o feibion, gan gynnwys Rhys ap Gruffudd, yr Arglwydd Rhys. \nGwnaeth Gwenllian gyfraniad arwrol yn y brwydro hir a thyngedfennol yn erbyn y Normaniaid a sicrhaodd barhad yr iaith Gymraeg a chenedligrwydd Cymru.",
+        "cy": "Dadorchuddio Cofeb Gwenllian, Cydweli, Mai 23, 1991.  Gwynfor Evans yn annerch.  \nPwyllgor Dyfed Merched y Wawr wnaeth drefnu a chodi arian tuag at Cofeb Gwenllian yng Nghydweli.  Breuddwyd Dr Gwynfor Evans oedd y gofeb yn wreiddiol ac ef wnaeth ei dadorchuddio.    Ieuan Rees o Rydaman oedd y cerflunydd.  \nBu farw\u2019r Dywysoges Gwenllian, ynghyd \u00e2\u2019i mab Morgan, ar faes y gad ym 1136 yng Nghydweli wrth ymladd arglwydd y castell, Maurice de Londres, er mwyn achub Deheubarth (de-orllewin Cymru) rhag goresgynwyr Normanaidd.  Roedd Gwenllian yn ferch i Gruffydd ap Cynan ac yn wraig i Gruffydd ap Rhys, Tywysog y Deheubarth ac Arglwydd Ystrad Tywi.  Cafodd Gwenllian bedwar o feibion, gan gynnwys Rhys ap Gruffudd, yr Arglwydd Rhys. \nGwnaeth Gwenllian gyfraniad arwrol yn y brwydro hir a thyngedfennol yn erbyn y Normaniaid a sicrhaodd barhad yr iaith Gymraeg a chenedligrwydd Cymru."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gwendraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gwendraeth",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.739022000000",
+            "lon": "-4.306038000000",
+            "description": {
+                "en": "Cofeb Gwenllian, Cydweli",
+                "cy": "Cofeb Gwenllian, Cydweli"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_100.jpg",
+            "type": "image",
+            "target_id": "612441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

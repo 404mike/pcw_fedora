@@ -1,0 +1,65 @@
+{
+    "id": 1147496,
+    "title": {
+        "en": "50 Celebrations at  Parc, Y Bala",
+        "cy": "Dathliadau 50 yn Y Parc, Y Bala"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147496",
+    "created": 1562065386,
+    "updated": 1562065386,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Past Presidents: Meryl Davies; Mererid Jones; Esyllt Jones; Mary Price; Glenys Thomas; Rhianwen Roberts; Nan Lewis; Mair Penri; Margarette Huws a Sylwen Davies.",
+        "cy": "Cyn Lywyddion: Meryl Davies; Mererid Jones; Esyllt Jones; Mary Price; Glenys Thomas; Rhianwen Roberts; Nan Lewis; Mair Penri; Margarette Huws a Sylwen Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "50 celebrations",
+        "dathliadau 50",
+        "Y Parc",
+        "Y Bala"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_920.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_920.jpg",
+            "type": "image",
+            "target_id": "1147491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

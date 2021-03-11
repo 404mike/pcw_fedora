@@ -1,0 +1,67 @@
+{
+    "id": 1143756,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143756",
+    "created": 1562061131,
+    "updated": 1562061131,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Visiting Glynsaithmaen where the first meeting of the Rebecca Rioters met.",
+        "cy": "Ymweld  \u00e2  Sgubor Glynsaithmaen lle bu cyfarfod cyntaf i drefnu Terfysgoedd Beca."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "rebecca rioters",
+        "taith myw",
+        "Sir Benfro",
+        "terfysgoedd beca"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_493.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_493.jpg",
+            "type": "image",
+            "target_id": "1143751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

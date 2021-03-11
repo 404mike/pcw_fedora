@@ -1,0 +1,75 @@
+{
+    "id": 749461,
+    "title": {
+        "en": "Merched y Wawr Morriston Branch's Certificate for Attracting New Members",
+        "cy": "Tystysgrif i wobrwyo Merched y Wawr Treforys "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749461",
+    "created": 1516899015,
+    "updated": 1516899015,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif i wobrwyo Merched y Wawr Treforys am ddenu aelodau newydd yn nhymor 2004-2005.",
+        "cy": "Tystysgrif i wobrwyo Merched y Wawr Treforys am ddenu aelodau newydd yn nhymor 2004-2005."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treforys",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-136.jpg",
+            "type": "image",
+            "target_id": "749456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

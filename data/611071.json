@@ -1,0 +1,82 @@
+{
+    "id": 611071,
+    "title": {
+        "en": "Llangadog Branch in a Merched y Wawr Residential Weekend, Lampeter",
+        "cy": "Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr, Llanbed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611071",
+    "created": 1510753364,
+    "updated": 1510753364,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr yn Llanbed.  Hwyl gyda\u2019r nos - Eirlys Lewis gyda\u2019r mop, Nan Morse gyda\u2019r bag",
+        "cy": "Aelodau Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr yn Llanbed.  Hwyl gyda\u2019r nos - Eirlys Lewis gyda\u2019r mop, Nan Morse gyda\u2019r bag"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112971000000",
+            "lon": "-4.078629000000",
+            "description": {
+                "en": "Llanbed",
+                "cy": "Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-220.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-220.jpg",
+            "type": "image",
+            "target_id": "611061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

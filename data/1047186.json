@@ -1,0 +1,79 @@
+{
+    "id": 1047186,
+    "title": {
+        "en": "Annual Meeting 2006",
+        "cy": "Cyfarfod Blynyddol 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047186",
+    "created": 1555590759,
+    "updated": 1555590759,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentations of the entertainment competition \u2013 Iechyd a Ffitrwydd.",
+        "cy": "Detholiad o gyflwyniadau adloniant \u2013 Iechyd a Ffitrwydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "cyfarfod blynyddol",
+        "iechyd",
+        "ffitrwydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_103.jpg",
+            "type": "image",
+            "target_id": "1047171"
+        },
+        {
+            "originalFilename": "df_myw_104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_104.jpg",
+            "type": "image",
+            "target_id": "1047176"
+        },
+        {
+            "originalFilename": "df_myw_105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_105.jpg",
+            "type": "image",
+            "target_id": "1047181"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

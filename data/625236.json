@@ -1,0 +1,86 @@
+{
+    "id": 625236,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Benllech Anglesey.",
+        "cy": "Aelodau cyntaf cangen Merched y Wawr Benllech, Rhanbarth M\u00f4n. 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625236",
+    "created": 1511280095,
+    "updated": 1511280095,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Founding members in 1969.",
+        "cy": "Llun o aelodau cyntaf\/ sefydlu y gangen ym 1969. (cefn) L\u00eas Parry, Megan Lloyd, Myfanwy Evans, Menna Jones, Let Roberts, Dilys Humphries (canol) Mrs Roscoe, Mair Williams, Elizabeth Rees, Jenny L. Jones, Mona Jones, Nansi Roberts, Meinir W Meredith, Aela Thomas (blaen) Dilys Griffiths, Maira Hughes, Marian Lloyd, Nansi L Jones, Mair Jones, Nerys Hughes, Ann Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Benllech",
+    "owner": "Cangen Benllech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Benllech",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Benllech",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320158000000",
+            "lon": "-4.226139000000",
+            "description": {
+                "en": "Benllech",
+                "cy": "Benllech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BENLLECH_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BENLLECH_001.jpg",
+            "type": "image",
+            "target_id": "625226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

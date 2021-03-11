@@ -1,0 +1,77 @@
+{
+    "id": 1049211,
+    "title": {
+        "en": "MyW Trip to Stratford 2011",
+        "cy": "Taith MyW i Stratford 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049211",
+    "created": 1555591827,
+    "updated": 1555591827,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying the evening's entertainment at the hotel.",
+        "cy": "Aelodau yn mwynhau adloniant yn y gwesty."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "stratford",
+        "taith"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_329.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_329.jpg",
+            "type": "image",
+            "target_id": "1049196"
+        },
+        {
+            "originalFilename": "df_myw_330.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_330.jpg",
+            "type": "image",
+            "target_id": "1049201"
+        },
+        {
+            "originalFilename": "df_myw_331.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_331.jpg",
+            "type": "image",
+            "target_id": "1049206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

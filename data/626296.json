@@ -1,0 +1,93 @@
+{
+    "id": 626296,
+    "title": {
+        "en": "Elen Roger Jones\u2019 personal collection of Merched y Wawr memorabilia ",
+        "cy": "Casgliad Elen Roger Jones, aelod selog a gweithgar o F\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626296",
+    "created": 1511280444,
+    "updated": 1511280444,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Erthygl o \u2018Y Wawr\u2019 yn son am Pasiant Merched y Wawr, Ynys Mon. Rhifyn 33, Hydref 1976.",
+        "cy": "Erthygl o \u2018Y Wawr\u2019 yn son am Pasiant Merched y Wawr, Ynys Mon. Rhifyn 33, Hydref 1976."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Elen Roger Jones",
+    "owner": "Casgliad Elen Roger Jones",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Elen Roger Jones",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon",
+        "Y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255816000000",
+            "lon": "-4.312139000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_084.jpg",
+            "type": "image",
+            "target_id": "626281"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_085.jpg",
+            "type": "image",
+            "target_id": "626286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

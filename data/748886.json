@@ -1,0 +1,78 @@
+{
+    "id": 748886,
+    "title": {
+        "en": "A Report about the start of Merched y Wawr Tal-y-Bont Branch",
+        "cy": "Adroddiad am ddechrau Merched y Wawr Tal-y-Bont a\u2019r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748886",
+    "created": 1516898748,
+    "updated": 1516898748,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad Papur Pawb am ddechrau Merched y Wawr Tal-y-Bont a\u2019r Cylch, gan gynnwys llun o swyddogion cyntaf y gangen.  \nYn y llun mae Ann Jenkins, Delyth Jones, Rita Lloyd, Eleri Huws, Mriel Morgan, Valmai Jones",
+        "cy": "Adroddiad Papur Pawb am ddechrau Merched y Wawr Tal-y-Bont a\u2019r Cylch, gan gynnwys llun o swyddogion cyntaf y gangen.  \nYn y llun mae Ann Jenkins, Delyth Jones, Rita Lloyd, Eleri Huws, Mriel Morgan, Valmai Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Papur Pawb",
+    "owner": "Cangen Tal-y-bont a\u2019r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Papur Pawb",
+                "cy": "Papur Pawb"
+            },
+            "year": "1974",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Tal-y-bont ar Cylch"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-243.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-243.jpg",
+            "type": "image",
+            "target_id": "748881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

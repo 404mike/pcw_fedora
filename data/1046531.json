@@ -1,0 +1,80 @@
+{
+    "id": 1046531,
+    "title": {
+        "en": "Montgomeryshire National Eisteddfod 2003",
+        "cy": "Eisteddfod Genedlaethol Maldwyn a&#039;r Gororau 2003"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046531",
+    "created": 1555590279,
+    "updated": 1555590279,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs showing MyW stand. The stand won the prize for best on the field.",
+        "cy": "3 llun yn dangos stondin Myw ar faes yr Eisteddfod. Enillodd y stondin wobr am y stondin orau ar y Maes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "montgomeryshire national eisteddfod 2003",
+        "stall",
+        "prize",
+        "eisteddfod genedlaethol maldwyn ar gororau 2003",
+        "Maldwyn",
+        "stondin",
+        "Gwobr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_042.jpg",
+            "type": "image",
+            "target_id": "1046516"
+        },
+        {
+            "originalFilename": "df_myw_042-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_042-001.jpg",
+            "type": "image",
+            "target_id": "1046521"
+        },
+        {
+            "originalFilename": "df_myw_042-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_042-002.jpg",
+            "type": "image",
+            "target_id": "1046526"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1049936,
+    "title": {
+        "en": "Urdd National Eisteddfod Eryri 2012",
+        "cy": "Eisteddfod yr Urdd Eryri 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049936",
+    "created": 1555592114,
+    "updated": 1555592114,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Enjoying the celebration cake to congratulate the bikers. Meryl Davies, Mererid Jones, President, Einir Wyn, Elsie Roberts.",
+        "cy": "Mwynhau'r gacen i ddathlu camp y beicwyr. Meryl Davies; Mererid Jones, Llywydd; Einir Wyn; Elsie Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod eryri 2012",
+        "eisteddfod yr urdd eryri 2012"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_416.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_416.jpg",
+            "type": "image",
+            "target_id": "1049931"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

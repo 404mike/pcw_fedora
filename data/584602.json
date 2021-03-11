@@ -1,0 +1,88 @@
+{
+    "id": 584602,
+    "title": {
+        "en": "A Year in the Life of Newport Branch' - The activities of Merched y Wawr Newport Branch 2005-2006",
+        "cy": " \u2018Blwyddyn ym Mywyd Cangen Casnewydd, Gwent 2005-2006\u2019 - Gweithgareddau Merched y Wawr Casnewydd\nTudalen Gweithgaredd Mis  Ebrill 2006 \u2013 Cyfarfod Blynyddol\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584602",
+    "created": 1499871256,
+    "updated": 1499871256,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Blwyddyn ym Mywyd Cangen Casnewydd, Gwent 2005-2006\u2019 - Llyfryn yn s\u00f4n am weithgareddau\u2019r Gangen 2005-06.  Casglwyd gan Vivien Lee.  Cynnwys ffotograffau gan Vivien ac aelodau eraill.  \nTudalen flaen",
+        "cy": "\u2018Blwyddyn ym Mywyd Cangen Casnewydd, Gwent 2005-2006\u2019 - Llyfryn yn s\u00f4n am weithgareddau\u2019r Gangen 2005-06.  Casglwyd gan Vivien Lee.  Cynnwys ffotograffau gan Vivien ac aelodau eraill.  \nTudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-102.jpg",
+            "type": "image",
+            "target_id": "584599"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-103.jpg",
+            "type": "image",
+            "target_id": "584600"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-104.jpg",
+            "type": "image",
+            "target_id": "584601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

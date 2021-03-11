@@ -1,0 +1,86 @@
+{
+    "id": 625671,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "C\u00f4r Adrodd cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n. Llannerch-Y-Medd, 24 Mehefin, 1981."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625671",
+    "created": 1511280234,
+    "updated": 1511280234,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r C\u00f4r Adrodd yng Nh\u0175yl Werin y Mudiad yn Llannerch-Y-Medd ar y 24ain o Fehefin, 1981. Yma Ceir, Iona, Gladys, Catherine, Mrs Price, Iola J, Mair, Mr R Roberts, Cadi a Helen.",
+        "cy": "Llun o\u2019r C\u00f4r Adrodd yng Nh\u0175yl Werin y Mudiad yn Llannerch-Y-Medd ar y 24ain o Fehefin, 1981. Yma Ceir, Iona, Gladys, Catherine, Mrs Price, Iola J, Mair, Mr R Roberts, Cadi a Helen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_004.jpg",
+            "type": "image",
+            "target_id": "625661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

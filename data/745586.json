@@ -1,0 +1,111 @@
+{
+    "id": 745586,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch Scrapbook",
+        "cy": "Llyfr Llofion Merched y Wawr Gorseinon "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745586",
+    "created": 1516896873,
+    "updated": 1516896873,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr Llofion Merched y Wawr Gorseinon i ddathlu penblwydd y Gangen yn 40\nTudalen mewn yn dangos Rhaglen cynnar,  tymor 1970-71 a rhaglen 2009-2010\nLlun cynnar a detholiad o luniau o 1988\nDetholiad o luniau 1991\nDetholiad o luniau 1999, 2000, 2002\nDetholiad o luniau 2009\nDetholiad o luniau\u2019r dathliadau penblwydd yn 2009\n\nClawr",
+        "cy": "Llyfr Llofion Merched y Wawr Gorseinon i ddathlu penblwydd y Gangen yn 40\nTudalen mewn yn dangos Rhaglen cynnar,  tymor 1970-71 a rhaglen 2009-2010\nLlun cynnar a detholiad o luniau o 1988\nDetholiad o luniau 1991\nDetholiad o luniau 1999, 2000, 2002\nDetholiad o luniau 2009\nDetholiad o luniau\u2019r dathliadau penblwydd yn 2009\n\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "20170216_105822.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105822.jpg",
+            "type": "image",
+            "target_id": "745551"
+        },
+        {
+            "originalFilename": "20170216_105841.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105841.jpg",
+            "type": "image",
+            "target_id": "745556"
+        },
+        {
+            "originalFilename": "20170216_105852.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105852.jpg",
+            "type": "image",
+            "target_id": "745561"
+        },
+        {
+            "originalFilename": "20170216_105909.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105909.jpg",
+            "type": "image",
+            "target_id": "745566"
+        },
+        {
+            "originalFilename": "20170216_105926.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105926.jpg",
+            "type": "image",
+            "target_id": "745571"
+        },
+        {
+            "originalFilename": "20170216_105954.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_105954.jpg",
+            "type": "image",
+            "target_id": "745576"
+        },
+        {
+            "originalFilename": "20170216_110004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170216_110004.jpg",
+            "type": "image",
+            "target_id": "745581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

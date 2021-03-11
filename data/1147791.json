@@ -1,0 +1,63 @@
+{
+    "id": 1147791,
+    "title": {
+        "en": "Anglesey National Eisteddfod 2017",
+        "cy": "Eisteddfod Genedlaethol Ynys M\u00f4n 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147791",
+    "created": 1562065509,
+    "updated": 1562065509,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Birthday Cake in the shape of a bag presented by Christian Aid. Tegwen Morris; Tom Davies, C.A.; Sandra Morris Jones, President; Gill Griffiths, the president when MyW collected bags in aid of Christian Aid.",
+        "cy": "Torri cacen pen blwydd mewn siap bag a gyflwynwyd i MyW gan Gymorth Cristnogol. Yn y llun: Tegwen Morris; Tom Davies, C.C.; Sandra Morris Jones, Llywydd; Gill Griffiths, y llywydd pan gasglodd MyW fagiau er budd Cymorth Cristnogol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod 2017",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_954.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_954.jpg",
+            "type": "image",
+            "target_id": "1147786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

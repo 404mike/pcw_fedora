@@ -1,0 +1,84 @@
+{
+    "id": 584397,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Area - Enid Jones' Celebration Dinner 1977",
+        "cy": "Merched y Wawr, Rhanbarth Caerfyrddin.  Cinio Dathlu Mrs Enid Jones 1977"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584397",
+    "created": 1499870990,
+    "updated": 1499870990,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Rhanbarth Caerfyrddin.  Cinio Dathlu Mrs Enid Jones, Ysgrifennydd Cenedlaethol Merched y Wawr, Mai 14, 1977.  Anrhegu Enid Jones gyda Chloc. Yn y llun mae Beti Hughes, Enid Jones, Eirlys Lewis Evans, Elinor Glyn Thomas, Bronwen Wilkins, Glenys Thomas, Rhiannon Howell, ymysg eraill",
+        "cy": "Merched y Wawr, Rhanbarth Caerfyrddin.  Cinio Dathlu Mrs Enid Jones, Ysgrifennydd Cenedlaethol Merched y Wawr, Mai 14, 1977.  Anrhegu Enid Jones gyda Chloc. Yn y llun mae Beti Hughes, Enid Jones, Eirlys Lewis Evans, Elinor Glyn Thomas, Bronwen Wilkins, Glenys Thomas, Rhiannon Howell, ymysg eraill"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856576000000",
+            "lon": "-4.303443000000",
+            "description": {
+                "en": "Gwesty'r Llwyn Iorwg, Caerfyrddin (Ivy Bush)",
+                "cy": "Gwesty'r Llwyn Iorwg, Caerfyrddin (Ivy Bush)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-049.jpg",
+            "type": "image",
+            "target_id": "584395"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

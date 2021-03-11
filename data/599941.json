@@ -1,0 +1,97 @@
+{
+    "id": 599941,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henryd, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Henryd, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599941",
+    "created": 1502447070,
+    "updated": 1502447070,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglenni Rali Merched y Wawr, Sir Gaernarfon. 12fed  Ebrill 1969 a 25ain o Ebrill 1970.",
+        "cy": "Rhaglenni Rali Merched y Wawr, Sir Gaernarfon. 12fed  Ebrill 1969 a 25ain o Ebrill 1970."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henryd",
+    "owner": "Cangen Henryd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "henryd",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Henryd",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255077000000",
+            "lon": "-3.846170000000",
+            "description": {
+                "en": "Henryd",
+                "cy": "Henryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_011.jpg",
+            "type": "image",
+            "target_id": "599937"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_009.jpg",
+            "type": "image",
+            "target_id": "599938"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_012.jpg",
+            "type": "image",
+            "target_id": "599939"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

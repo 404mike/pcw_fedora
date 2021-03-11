@@ -1,0 +1,81 @@
+{
+    "id": 747966,
+    "title": {
+        "en": "Merched y Wawr Pontardawe Branch Programme 2005-2006",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2005 \u2013 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747966",
+    "created": 1516898360,
+    "updated": 1516898360,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Pontardawe 2005 \u2013 2006\nGweithgareddau\u2019r Gangen gan gynnwys enwau Swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2005 \u2013 2006\nGweithgareddau\u2019r Gangen gan gynnwys enwau Swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-086.jpg",
+            "type": "image",
+            "target_id": "747956"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-087.jpg",
+            "type": "image",
+            "target_id": "747961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 616156,
+    "title": {
+        "en": " Llygaid y Dydd Gwawr Club Programme 2011-2012 ",
+        "cy": "Rhaglen Clwb Gwawr Llygaid y Dydd 2011-2012 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/616156",
+    "created": 1510755410,
+    "updated": 1510755410,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Clwb Gwawr Llygaid y Dydd 2011-2012",
+        "cy": "Rhaglen Clwb Gwawr Llygaid y Dydd 2011-2012"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-065.jpg",
+            "type": "image",
+            "target_id": "616146"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

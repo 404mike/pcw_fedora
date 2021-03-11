@@ -1,0 +1,84 @@
+{
+    "id": 600912,
+    "title": {
+        "en": "Merched y Wawr Cross Hands Branch Christmas Dinner 1978",
+        "cy": "Cinio Nadolig Merched y Wawr Cangen Cross Hands ym 1978.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600912",
+    "created": 1502448411,
+    "updated": 1502448411,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Nadolig Merched y Wawr Cangen Cross Hands ym 1978.  Mae\u2019r gangen bellach wedi cau.  \nRhes flaen - ?, Gwenith Davies, Lena Davies, Aeres Evans, Dora Hughes, Miriam Phillips, Tilly Culpitt, Eiry  Rowe\nAil Res \u2013 Let Rees, Olwen Rees, ?, Megan Price, Hannah Elvira Thomas, Rachel Roberts, ? Jenny, ? Bessie Owen\nRhes gefn - ? ? Olive Jones, Cissy Walters, ?",
+        "cy": "Cinio Nadolig Merched y Wawr Cangen Cross Hands ym 1978.  Mae\u2019r gangen bellach wedi cau.  \nRhes flaen - ?, Gwenith Davies, Lena Davies, Aeres Evans, Dora Hughes, Miriam Phillips, Tilly Culpitt, Eiry  Rowe\nAil Res \u2013 Let Rees, Olwen Rees, ?, Megan Price, Hannah Elvira Thomas, Rachel Roberts, ? Jenny, ? Bessie Owen\nRhes gefn - ? ? Olive Jones, Cissy Walters, ?"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Unknown",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cross Hands",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.794357000000",
+            "lon": "-4.087449000000",
+            "description": {
+                "en": "Cross Hands ",
+                "cy": "Cross Hands "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_094.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_094.jpg",
+            "type": "image",
+            "target_id": "600910"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

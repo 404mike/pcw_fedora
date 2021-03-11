@@ -1,0 +1,76 @@
+{
+    "id": 584531,
+    "title": {
+        "en": "Merched y Wawr Tonysguboriau Branch Christmas 2005",
+        "cy": "Cangen Tonysguboriau o Ferched y Wawr yn dathlu Nadolig 2005.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584531",
+    "created": 1499871162,
+    "updated": 1499871162,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Tonysguboriau o Ferched y Wawr, Nadolig 2005.  Gyda\u2019r \u2018Lost Chords\u2019",
+        "cy": "Cangen Tonysguboriau o Ferched y Wawr, Nadolig 2005.  Gyda\u2019r \u2018Lost Chords\u2019"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Tonysguboriau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tonysguboriau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-096.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-096.jpg",
+            "type": "image",
+            "target_id": "584530"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

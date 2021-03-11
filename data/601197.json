@@ -1,0 +1,82 @@
+{
+    "id": 601197,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch enjoy an evening of entertainment",
+        "cy": "Merched y Wawr Cangen Aberporth yn mwynhau Noson Lawen \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601197",
+    "created": 1502449013,
+    "updated": 1502449013,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Aberporth yn mwynhau Noson Lawen yn Neuadd Aberporth \nCyfeilydd \u2013 Dilys Davies\nEsta Davies, Nansi Davies, Anne Betts. Gwenda Vale, Annita Williams, Joyce Waters, Anne Rees, Elizabeth Davies, Eluned Harries",
+        "cy": "Merched y Wawr Cangen Aberporth yn mwynhau Noson Lawen yn Neuadd Aberporth \nCyfeilydd \u2013 Dilys Davies\nEsta Davies, Nansi Davies, Anne Betts. Gwenda Vale, Annita Williams, Joyce Waters, Anne Rees, Elizabeth Davies, Eluned Harries"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.133463000000",
+            "lon": "-4.541604000000",
+            "description": {
+                "en": "Neuadd Aberporth",
+                "cy": "Neuadd Aberporth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-079_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-079_0.jpg",
+            "type": "image",
+            "target_id": "601195"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

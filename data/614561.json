@@ -1,0 +1,84 @@
+{
+    "id": 614561,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Feature Programme - The Dancers",
+        "cy": "Rhaglen Nodwedd Merched y Wawr Llandysul a&#039;r Cylch - Y Dawnswyr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614561",
+    "created": 1510755031,
+    "updated": 1510755031,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991 \u2013 ysgrifenwyd y sgript gan Eleri Davies o\u2019r gangen.  Perfformiwyd yn Neuadd Llandysul a wedyn gofynnwyd iddynt ail-berfformio\u2019r rhaglen yn Theatr Felinfach.  Aelodau Merched y Wawr Cangen Llandysul yn dawnsio\u2019r can can yn y perfformiad \u2013 Sheila Freeman, Petra Jones, Wendy Davies (athrawes ddawnsio), Megan Foulkes, Pat Davies",
+        "cy": "Rhaglen nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991 \u2013 ysgrifenwyd y sgript gan Eleri Davies o\u2019r gangen.  Perfformiwyd yn Neuadd Llandysul a wedyn gofynnwyd iddynt ail-berfformio\u2019r rhaglen yn Theatr Felinfach.  Aelodau Merched y Wawr Cangen Llandysul yn dawnsio\u2019r can can yn y perfformiad \u2013 Sheila Freeman, Petra Jones, Wendy Davies (athrawes ddawnsio), Megan Foulkes, Pat Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.040625000000",
+            "lon": "-4.308961000000",
+            "description": {
+                "en": "Neuadd Tysul, Llandysul",
+                "cy": "Neuadd Tysul, Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-166.jpg",
+            "type": "image",
+            "target_id": "614551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

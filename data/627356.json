@@ -1,0 +1,88 @@
+{
+    "id": 627356,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Menai Bridge, Anglesey.",
+        "cy": "Cangen Merched y Wawr Porthaethwy, Rhanbarth M\u00f4n. Gwyl Ddrama Merched y Wawr Mon\/ Pasiant Mon o\u2019r 70au."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627356",
+    "created": 1511280799,
+    "updated": 1511280799,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Porthaethwy yn cymeryd rhan yng Nghwyl Ddrama Merched y Wawr Mon\/ Pasiant Mon o\u2019r 70au. Diarwybod, Meinir Roberts, Faleri Roberts, Elsie Herbett, Ceinwen Morgan, Mari Jones, Meira Jones, Jane Parry, Marian Thomas, Betty Parry, Mair Williams, Ela Owens, Ann Williams.",
+        "cy": "Cangen Porthaethwy yn cymeryd rhan yng Nghwyl Ddrama Merched y Wawr Mon\/ Pasiant Mon o\u2019r 70au. Diarwybod, Meinir Roberts, Faleri Roberts, Elsie Herbett, Ceinwen Morgan, Mari Jones, Meira Jones, Jane Parry, Marian Thomas, Betty Parry, Mair Williams, Ela Owens, Ann Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llannerch-y-Medd",
+    "owner": "Cangen Llannerch-y-Medd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Menai Bridge",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Porthaethwy",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon",
+        "Pasiant Mon 1976"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.330448000000",
+            "lon": "-4.377493000000",
+            "description": {
+                "en": "Llannerch-y-Medd",
+                "cy": "Llannerch-y-Medd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY014.jpg",
+            "type": "image",
+            "target_id": "627346"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

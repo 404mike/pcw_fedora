@@ -1,0 +1,87 @@
+{
+    "id": 748691,
+    "title": {
+        "en": "Merched y Wawr Rhydypennau Branch First Book of Minutes",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Rhydypennau 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748691",
+    "created": 1516898663,
+    "updated": 1516898663,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Cangen Rhydypennau 1969\nCofnodion cyfarfod sefydlu\u2019r gangen, Mehefin 24, 1969",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Rhydypennau 1969\nCofnodion cyfarfod sefydlu\u2019r gangen, Mehefin 24, 1969"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Rhydypennau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Rhydypennau"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-236.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-236.jpg",
+            "type": "image",
+            "target_id": "748676"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-237.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-237.jpg",
+            "type": "image",
+            "target_id": "748681"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-238.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-238.jpg",
+            "type": "image",
+            "target_id": "748686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

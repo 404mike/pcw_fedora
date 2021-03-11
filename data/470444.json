@@ -1,0 +1,65 @@
+{
+    "id": 470444,
+    "title": {
+        "en": "Towyn, Meirionethshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Tywyn, Meirionnydd i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470444",
+    "created": 1441700739,
+    "updated": 1441700739,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information collected by Towyn, Meirionethshire branch of Merched y Wawr. It contains a list of farm names in the Abergeirw and Llanfihangel y pennant valleys. Also field names of Cyple and Bodilan Fawr.",
+        "cy": "Gwybodaeth am waith cangen Tywyn, Meirionnydd o Ferched y Wawr. Mae'n cynnwys rhestri o enwau ffermydd yng nghymoedd Abergeirw a Llanfihangel ym Mhennant. Mae hefyd yn cynnwys enwau caeau ffermyddCyple a Bodilanfawr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10604.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10604.jpg",
+            "type": "image",
+            "target_id": "470442"
+        },
+        {
+            "originalFilename": "pcw001_10605.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10605.jpg",
+            "type": "image",
+            "target_id": "470443"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10604",
+    "publisher_ref": ""
+}

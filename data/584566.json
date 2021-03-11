@@ -1,0 +1,88 @@
+{
+    "id": 584566,
+    "title": {
+        "en": "The launch of a book of recipes collected by the Rhumney Valley Branch of Merched y Wawr",
+        "cy": "Noson lansio llyfr o ryseitiau a gasglwyd gan aelodau Cangen Cwm Rhymni o Ferched y Wawr, 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584566",
+    "created": 1499871201,
+    "updated": 1499871201,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o noson lansio llyfr o ryseitiau a gasglwyd gan aelodau Cangen Cwm Rhymni yn 2011. Yn y llun o\u2019r chwith i\u2019r dde \u2013 Margaret Griffiths, Dorothy Morgan, Gaynor Williams",
+        "cy": "Llun o noson lansio llyfr o ryseitiau a gasglwyd gan aelodau Cangen Cwm Rhymni yn 2011. Yn y llun o\u2019r chwith i\u2019r dde \u2013 Margaret Griffiths, Dorothy Morgan, Gaynor Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-046.jpg",
+            "type": "image",
+            "target_id": "584563"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-047.jpg",
+            "type": "image",
+            "target_id": "584564"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-048.jpg",
+            "type": "image",
+            "target_id": "584565"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

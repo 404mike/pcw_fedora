@@ -1,0 +1,72 @@
+{
+    "id": 554487,
+    "title": {
+        "en": "Merched y Wawr Royal Welsh Show Competition 1988, Ceredigion Area - Gifts from Wales",
+        "cy": "Taflen gwybodaeth Cystadeluaeth Sioe Llanelwedd Merched y Wawr 1988, Rhanbarth Ceredigion. Thema - Anrhegion o Gymru"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554487",
+    "created": 1487592050,
+    "updated": 1487592050,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cystadleuaeth Sioe LLanelwedd, 1988, Rhanbarth Ceredigion.  Thema: Anrhegion o Gymru  21 Mai, 1988, Neuadd Goffa Aberaeron.",
+        "cy": "Taflen Cystadleuaeth Sioe LLanelwedd, 1988, Rhanbarth Ceredigion.  Thema: Anrhegion o Gymru  21 Mai, 1988, Neuadd Goffa Aberaeron."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisation",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-300916-000039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CEREDIGION-300916-000039.jpg",
+            "type": "image",
+            "target_id": "554486"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

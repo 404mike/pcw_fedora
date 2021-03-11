@@ -1,0 +1,76 @@
+{
+    "id": 584606,
+    "title": {
+        "en": "Poem to mark the 40th Aniversary of Merched y Wawr's Newport Branch",
+        "cy": "Cerdd \u2018Dathlu\u2019r Deugain&#039; - Merched y Wawr Cangen Casnewydd yn Dathlu 40 Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584606",
+    "created": 1499871264,
+    "updated": 1499871264,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd \u2018Dathlu\u2019r Deugain\u2019 gan Bronwen Green, aelod o Gangen Casnewydd Merched y Wawr, i nodi\u2019r ffaith fod y Gangen yn dathlu 40 mlynedd (Cangen Gwent oedd yr enw yn wreiddiol).",
+        "cy": "Cerdd \u2018Dathlu\u2019r Deugain\u2019 gan Bronwen Green, aelod o Gangen Casnewydd Merched y Wawr, i nodi\u2019r ffaith fod y Gangen yn dathlu 40 mlynedd (Cangen Gwent oedd yr enw yn wreiddiol)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-106.jpg",
+            "type": "image",
+            "target_id": "584605"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 752901,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Harlech, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Harlech, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752901",
+    "created": 1516958324,
+    "updated": 1516958324,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen yn cyflwyno siec i T\u0177 Gobaith yn Haf 2004, arian noddi Noel Evans, mab un o\u2019r aelodau - Edwina, a rhedodd Marathon Llundain i godi arian. Gwelwn: Maureen Jones, Mair Lloyd, Edwina Evans, Linda Evans, Meinir Lewis.",
+        "cy": "Rhai o aelodau\u2019r Gangen yn cyflwyno siec i T\u0177 Gobaith yn Haf 2004, arian noddi Noel Evans, mab un o\u2019r aelodau - Edwina, a rhedodd Marathon Llundain i godi arian. Gwelwn: Maureen Jones, Mair Lloyd, Edwina Evans, Linda Evans, Meinir Lewis."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Harlech",
+    "owner": "Cangen Harlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Harlech",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Harlech",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.859766000000",
+            "lon": "-4.106688000000",
+            "description": {
+                "en": "Harlech",
+                "cy": "Harlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_HARLECH_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_HARLECH_009.jpg",
+            "type": "image",
+            "target_id": "752891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

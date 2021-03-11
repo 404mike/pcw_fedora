@@ -1,0 +1,75 @@
+{
+    "id": 613866,
+    "title": {
+        "en": "Poems to celebrate Merched y Wawr Aberporth Branch turning 40",
+        "cy": "Penillion dathlu penblwydd Cangen Aberporth o Ferched y Wawr yn 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613866",
+    "created": 1510754864,
+    "updated": 1510754864,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion i ddathlu Deunawfed penblwydd Cangen Aberporth o Ferched y Wawr (dechreuwyd y Gangen yn Medi 1971)",
+        "cy": "Penillion i ddathlu Deunawfed penblwydd Cangen Aberporth o Ferched y Wawr (dechreuwyd y Gangen yn Medi 1971)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-081_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-081_0.jpg",
+            "type": "image",
+            "target_id": "613861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

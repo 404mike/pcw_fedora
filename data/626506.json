@@ -1,0 +1,93 @@
+{
+    "id": 626506,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llangefni, Anglesey.",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llangefni, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626506",
+    "created": 1511280513,
+    "updated": 1511280513,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Tocyn gwbor 1af - Merched y Wawr, Llangefni o\u2019r Sioe Frenhinol yng nghystadleuaeth - cynnwys 3 eitem o fwyd, gosodiad o flodau a chrefft draddodiadol o\u2019r ardal. Rhoddwyd sylw arbennig i\u2019r hen grefft o wneud basgedi a matiau moresg - gan Miss Roberts, Fronheulog - yr unig sy\u2019n gallu hyd yn hyn. Dewiswyd trol bren i dwangos y blodau a\u2019r bwyd o\u2019r taats popety, pwdin reis a taarten afal. Derbynwyd y gangen Cwpan Rodi Thomas. 2. Dyma Mrs Audrey Jones a Mrs Morfudd Petty yn derbyn gwobr Rodi Thomas yn ogystal \u00e2 tharian MyW Ynys Mon (a ennillwyd yn y rhagbrawf) yn dilyn llwyddiant cangen Llangefni yn y Sioe Amaethyddol Frenhinol.",
+        "cy": "1. Tocyn gwbor 1af - Merched y Wawr, Llangefni o\u2019r Sioe Frenhinol yng nghystadleuaeth - cynnwys 3 eitem o fwyd, gosodiad o flodau a chrefft draddodiadol o\u2019r ardal. Rhoddwyd sylw arbennig i\u2019r hen grefft o wneud basgedi a matiau moresg - gan Miss Roberts, Fronheulog - yr unig sy\u2019n gallu hyd yn hyn. Dewiswyd trol bren i dwangos y blodau a\u2019r bwyd o\u2019r taats popety, pwdin reis a taarten afal. Derbynwyd y gangen Cwpan Rodi Thomas. 2. Dyma Mrs Audrey Jones a Mrs Morfudd Petty yn derbyn gwobr Rodi Thomas yn ogystal \u00e2 tharian MyW Ynys Mon (a ennillwyd yn y rhagbrawf) yn dilyn llwyddiant cangen Llangefni yn y Sioe Amaethyddol Frenhinol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangefni",
+    "owner": "Cangen Llangefni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llangefni",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangefni",
+        "Rhanbarth Mon",
+        "Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.256156000000",
+            "lon": "-4.314298000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_010.jpg",
+            "type": "image",
+            "target_id": "626491"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANGEFNI_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANGEFNI_011.jpg",
+            "type": "image",
+            "target_id": "626496"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

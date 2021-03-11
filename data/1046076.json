@@ -1,0 +1,68 @@
+{
+    "id": 1046076,
+    "title": {
+        "en": "Llanelli and District National Eisteddfod 2000",
+        "cy": "Eisteddfod Genedlaethol Llanelli a&#039;r Cylch 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046076",
+    "created": 1555590004,
+    "updated": 1555590004,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "View of Merched y Wawr's Stand at the Eisteddfod.",
+        "cy": "Llun o babell Merched y Wawr yn yr Eisteddfod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "llanelli and district national eisteddfod 2000",
+        "national eisteddfod",
+        "stand",
+        "eisteddfod genedlaethol llanelli ar cylch 2000",
+        "Eisteddfod Genedlaethol",
+        "stondin",
+        "pabell"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_007.jpg",
+            "type": "image",
+            "target_id": "1046071"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

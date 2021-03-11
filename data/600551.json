@@ -1,0 +1,75 @@
+{
+    "id": 600551,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch present a cheque to Glanwili Hospital 1983",
+        "cy": "Merched y Wawr, Cangen Gronw, cyflwyno siec i Ysbyty Glangwili"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600551",
+    "created": 1502447887,
+    "updated": 1502447887,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Cangen Gronw, Mary Davies yn cyflwyno siec o \u00a3200 i Uned Llys Myddfai, Ysbyty Glangwili.  Roedd yr arian wedi ei godi mewn Noson Ddrama a gynhaliwyd ar Fedi 30ain, 1983.",
+        "cy": "Merched y Wawr, Cangen Gronw, Mary Davies yn cyflwyno siec o \u00a3200 i Uned Llys Myddfai, Ysbyty Glangwili.  Roedd yr arian wedi ei godi mewn Noson Ddrama a gynhaliwyd ar Fedi 30ain, 1983."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-274a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-274a.jpg",
+            "type": "image",
+            "target_id": "600550"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

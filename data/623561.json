@@ -1,0 +1,86 @@
+{
+    "id": 623561,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gwawr Club, Ser Maelor, Glyn Maelor",
+        "cy": "Noson sefydlu\u2019r cangen Cl\u0175b Gwawr S\u00ear Maelor, Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623561",
+    "created": 1511279545,
+    "updated": 1511279545,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson sefydlu\u2019r gangen - llun y Saith Seren. Gwenda, Bronwen (Swyddog Datblygu Clybiau Gwawr y Gogledd), Jo-Anne, (cefn) Morfudd, Rhian, Rebecca, Heddus, Helen, Bethan.",
+        "cy": "Noson sefydlu\u2019r gangen - llun y Saith Seren. Gwenda, Bronwen (Swyddog Datblygu Clybiau Gwawr y Gogledd), Jo-Anne, (cefn) Morfudd, Rhian, Rebecca, Heddus, Helen, Bethan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "owner": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cl\u0175b Gwawr",
+        "S\u00ear Maelor Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cl\u0175b Gwawr S\u00ear Maelor",
+        "Rhanbarth Glyn Maelor",
+        "Clybiau Gwawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_SER_MAELOR_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_SER_MAELOR_003.jpg",
+            "type": "image",
+            "target_id": "623551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

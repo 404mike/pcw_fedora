@@ -1,0 +1,65 @@
+{
+    "id": 1049711,
+    "title": {
+        "en": "President's Dinner at Halfway, Nantgaredig 2012",
+        "cy": "Cinio&#039;r Llywydd  yn yr Hanner Ffordd, Nantgaredig 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049711",
+    "created": 1555592020,
+    "updated": 1555592020,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Entertainment by Bois Bro Teifi",
+        "cy": "Adloniant gan Bois Bro Teifi. Hefyd yn y llun Mererid Jones, Llywydd; Angharad Mair, Gwraig Wadd; Delyth Rees, Arweinydd BBT."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_391.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_391.jpg",
+            "type": "image",
+            "target_id": "1049706"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

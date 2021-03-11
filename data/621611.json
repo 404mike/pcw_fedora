@@ -1,0 +1,86 @@
+{
+    "id": 621611,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henllan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Henllan, Rhanbarth Colwyn. Eisteddfod y Bala yn 1997."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621611",
+    "created": 1511278894,
+    "updated": 1511278894,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen yn perfformio yn Eisteddfod y Bala yn 1997.",
+        "cy": "Rhai o aelodau\u2019r gangen yn perfformio yn Eisteddfod y Bala yn 1997."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henllan",
+    "owner": "Cangen Henllan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Henllan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Henllan",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.200626000000",
+            "lon": "-3.461812000000",
+            "description": {
+                "en": "Henllan",
+                "cy": "Henllan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HENLLAN_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HENLLAN_029.jpg",
+            "type": "image",
+            "target_id": "621601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

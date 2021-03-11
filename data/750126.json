@@ -1,0 +1,75 @@
+{
+    "id": 750126,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch 1970s",
+        "cy": "Merched y Wawr Cangen Gorseinon 1970au"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750126",
+    "created": 1516899319,
+    "updated": 1516899319,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Gorseinon yn y 1970au cynnar.  Rhes gefn: Rhiannon Rasbridge; Maggie Davies, Eiddwen Jenkins; Peggy Richards, Betty Thomas; Eirlys Rees; Jean Price\nAil res: Jean Watkins; Enid Gronw; Bessie Evans, Meima Howells; Ann Howells, Evelyn Davies, Myra Ferris; Glenys Briscoe Williams;\nRhes flaen: Ingrid Honeybone; Mary Thomas; Cordelia Harries; Menai Morgan (Jones); Betty Edwards.",
+        "cy": "Aelodau Merched y Wawr Gorseinon yn y 1970au cynnar.  Rhes gefn: Rhiannon Rasbridge; Maggie Davies, Eiddwen Jenkins; Peggy Richards, Betty Thomas; Eirlys Rees; Jean Price\nAil res: Jean Watkins; Enid Gronw; Bessie Evans, Meima Howells; Ann Howells, Evelyn Davies, Myra Ferris; Glenys Briscoe Williams;\nRhes flaen: Ingrid Honeybone; Mary Thomas; Cordelia Harries; Menai Morgan (Jones); Betty Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cangen%20Gorseinon%201970au%20cynnar%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Cangen%2520Gorseinon%25201970au%2520cynnar%2520001.jpg",
+            "type": "image",
+            "target_id": "750121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

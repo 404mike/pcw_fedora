@@ -1,0 +1,103 @@
+{
+    "id": 599639,
+    "title": {
+        "en": "A collection of photographs of MyW Betws y Coed and their charitable work ",
+        "cy": "Casgliad o luniau o MyW Betws y Coed a\u2019i gwaith da yn y gymuned"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599639",
+    "created": 1502446729,
+    "updated": 1502446729,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Ffair Nadolig, Mair Miller a Joan Williams. 2. Gwerthu Raffle yn y ffair Nadolig, Audrey Roberts a Phyllis Roberts. 3. Cyflwyno cadeiriau haul a darluniau i Gartref Bryn Derwen, Llanrwst.",
+        "cy": "1. Ffair Nadolig, Mair Miller a Joan Williams. 2. Gwerthu Raffle yn y ffair Nadolig, Audrey Roberts a Phyllis Roberts. 3. Cyflwyno cadeiriau haul a darluniau i Gartref Bryn Derwen, Llanrwst."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_014.jpg",
+            "type": "image",
+            "target_id": "599634"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_015.jpg",
+            "type": "image",
+            "target_id": "599635"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_016.jpg",
+            "type": "image",
+            "target_id": "599636"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_017.jpg",
+            "type": "image",
+            "target_id": "599637"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

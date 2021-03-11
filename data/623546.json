@@ -1,0 +1,86 @@
+{
+    "id": 623546,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gwawr Club, Ser Maelor, Glyn Maelor",
+        "cy": "Rhaglen Tymor 2012 - 2013 cangen Cl\u0175b Gwawr S\u00ear Maelor, Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623546",
+    "created": 1511279540,
+    "updated": 1511279540,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 2012 - 2013.",
+        "cy": "Rhaglen Tymor 2012 - 2013."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "owner": "Cl\u0175b Gwawr S\u00ear Maelor",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Cl\u0175b Gwawr",
+        "S\u00ear Maelor Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cl\u0175b Gwawr S\u00ear Maelor",
+        "Rhanbarth Glyn Maelor",
+        "Clybiau Gwawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_SER_MAELOR_002.pdf",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/MYW_GOG_GLYNMAELOR_SER_MAELOR_002_0.pdf",
+            "type": "office_doc",
+            "target_id": "623536"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

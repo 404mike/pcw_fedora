@@ -1,0 +1,84 @@
+{
+    "id": 746601,
+    "title": {
+        "en": "Merched y Wawr Llanfarian Branch's First Photograph 1971",
+        "cy": "Llun cyntaf Merched y Wawr Llanfarian 1971"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746601",
+    "created": 1516897353,
+    "updated": 1516897353,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun cyntaf Merched y Wawr Llanfarian yn Ysgoldy Bont, Llanfarian, Ebrill 21, 1971.\nFfurfiwyd y gangen ar Ionawr 19, 1969.\nRhes gefn \u2013 Beti Jones, Phillys Bowen, Prescilla Evans, Hefina Davies, Beti Wyn Emanuel, Beryl Davies, Valmair Davies, Margaret Griffiths, Eirian Rowlands, Ruth Morris, Beti Evans, Bet Jones, Hilda Evans\nRhes ganol \u2013 Sally Lewis, Gini Davies, Elizabeth Thomas, Megan Williams, Betty Williams, Nansi Jones, Sal Evans, Doris Edwards, Doris Williamson, Bronwen Jones, Sal Owen, Blodwen Hughes, Janet James\nRhes flaen \u2013 Iona Mason, Mary Parry, Mary Jones, Nita Thomas, Dilys Thomasm Menna Davies, Elizabeth Evans, Nesta Edwards, Mary Morris, Gwen James, Marged James, Beti Jones",
+        "cy": "Llun cyntaf Merched y Wawr Llanfarian yn Ysgoldy Bont, Llanfarian, Ebrill 21, 1971.\nFfurfiwyd y gangen ar Ionawr 19, 1969.\nRhes gefn \u2013 Beti Jones, Phillys Bowen, Prescilla Evans, Hefina Davies, Beti Wyn Emanuel, Beryl Davies, Valmair Davies, Margaret Griffiths, Eirian Rowlands, Ruth Morris, Beti Evans, Bet Jones, Hilda Evans\nRhes ganol \u2013 Sally Lewis, Gini Davies, Elizabeth Thomas, Megan Williams, Betty Williams, Nansi Jones, Sal Evans, Doris Edwards, Doris Williamson, Bronwen Jones, Sal Owen, Blodwen Hughes, Janet James\nRhes flaen \u2013 Iona Mason, Mary Parry, Mary Jones, Nita Thomas, Dilys Thomasm Menna Davies, Elizabeth Evans, Nesta Edwards, Mary Morris, Gwen James, Marged James, Beti Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.377206000000",
+            "lon": "-4.076832000000",
+            "description": {
+                "en": "Ysgoldy Bont, Llanfarian",
+                "cy": "Ysgoldy Bont, Llanfarian"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-216.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-216.jpg",
+            "type": "image",
+            "target_id": "746591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

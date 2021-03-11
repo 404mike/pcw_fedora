@@ -1,0 +1,84 @@
+{
+    "id": 611796,
+    "title": {
+        "en": "Merched y Wawr Pumsaint Branch in Caio Fair 1989",
+        "cy": "Merched y Wawr Cangen Pumsaint yn Ffair Caio 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611796",
+    "created": 1510753547,
+    "updated": 1510753547,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ann Williams, Iris Evans a Ray Davies, aelodau Merched y Wawr Cangen Pumsaint yn Ffair Caio 1989",
+        "cy": "Ann Williams, Iris Evans a Ray Davies, aelodau Merched y Wawr Cangen Pumsaint yn Ffair Caio 1989"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pumsaint",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pumsaint",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.041620000000",
+            "lon": "-3.932906000000",
+            "description": {
+                "en": "Caio",
+                "cy": "Caio"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-182.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-182.jpg",
+            "type": "image",
+            "target_id": "611786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

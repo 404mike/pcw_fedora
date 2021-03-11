@@ -1,0 +1,82 @@
+{
+    "id": 554526,
+    "title": {
+        "en": "Merched y Wawr, Capel Newydd Branch - Celebrating the Organisation's Twenty-fifth Anniversary",
+        "cy": "Merched y Wawr, Cangen Capel Newydd.  Gorymdeithio - Dathlu Chwarter Canrif y Mudiad 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554526",
+    "created": 1487592182,
+    "updated": 1487592182,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nMerched y Wawr, Cangen Capel Newydd, Penfro.  Gorymdeithio dan faner Merched y Wawr Preseli a De Penfro, Mai 16, 1992, Y Parc, Bala \u2013 Dathlu Chwarter Canrif y Mudiad",
+        "cy": "Merched y Wawr, Cangen Capel Newydd, Penfro.  Gorymdeithio dan faner Merched y Wawr Preseli a De Penfro, Mai 16, 1992, Y Parc, Bala \u2013 Dathlu Chwarter Canrif y Mudiad"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.828049000000",
+            "lon": "-4.175395000000",
+            "description": {
+                "en": "Capel Newydd, Penfro",
+                "cy": "Capel Newydd, Penfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-007.jpg",
+            "type": "image",
+            "target_id": "554524"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

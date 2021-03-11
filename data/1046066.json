@@ -1,0 +1,65 @@
+{
+    "id": 1046066,
+    "title": {
+        "en": "Thank You Dinner to Retiring National Officials 2000",
+        "cy": "Cinio Diolch i Swyddogion Cenedlaethol yn ymddeol 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046066",
+    "created": 1555589997,
+    "updated": 1555589997,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presenting bouquets to the 3 retiring officials. Eryl Jones, Deputy Treasurer; Sylwen Davies, National President; Elinor Davies, National Secretary.",
+        "cy": "Cyflwyno blodau i'r 3 swyddog oedd yn ymddeol. Eryl Jones, Is-Drysorydd Cenedlaethol; Sulwen Davies, Llywydd Cenedlaethol; Elinor Davies, Ysgrifennydd Cenedlaethol"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "thank you dinner",
+        "2000",
+        "cinio diolch 2000",
+        "diolch"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_006.jpg",
+            "type": "image",
+            "target_id": "1046061"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

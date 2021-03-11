@@ -1,0 +1,65 @@
+{
+    "id": 1048596,
+    "title": {
+        "en": "Annual Meeting 2010",
+        "cy": "Cyfarfod Blynyddol 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048596",
+    "created": 1555591563,
+    "updated": 1555591563,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elenid Jones, from the South East Area inviting the members to the National Eisteddfod at Blaenau Gwent and the Valleys.",
+        "cy": "Elenid Jones, Rhanbarth De Ddwyrain, yn gwahodd y Mudiad i Eisteddfod Genedlaethol Blaenau Gwent a'r Cymoedd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_263.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_263.jpg",
+            "type": "image",
+            "target_id": "1048591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

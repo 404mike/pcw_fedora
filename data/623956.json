@@ -1,0 +1,86 @@
+{
+    "id": 623956,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Denbigh, Glyn Maelor",
+        "cy": "Arddangosfa cangen Merched y Wawr Dinbych, Glyn Maelor yn Sioe Dinbych, 1982"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623956",
+    "created": 1511279683,
+    "updated": 1511279683,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa\u2019r Gangen yn Sioe Dinbych, 1982, ar y thema \u2018T\u00ea yn y Grug\u2019, Dr Kate Roberts. Gwelwn Eurwen a Nora.",
+        "cy": "Arddangosfa\u2019r Gangen yn Sioe Dinbych, 1982, ar y thema \u2018T\u00ea yn y Grug\u2019, Dr Kate Roberts. Gwelwn Eurwen a Nora."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dinbych",
+    "owner": "Cangen Dinbych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Denbigh",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinbych",
+        "Rhanbarth Glyn Maelor",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.183592000000",
+            "lon": "-3.422938000000",
+            "description": {
+                "en": "Denbigh",
+                "cy": "Dinbych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_013.jpg",
+            "type": "image",
+            "target_id": "623946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

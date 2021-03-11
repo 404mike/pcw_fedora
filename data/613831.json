@@ -1,0 +1,72 @@
+{
+    "id": 613831,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch Annual Dinner",
+        "cy": "Cinio Blynyddol Merched y Wawr Cangen Aberporth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613831",
+    "created": 1510754334,
+    "updated": 1510754334,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "cy": "Cinio Blynyddol Merched y Wawr Cangen Aberporth. \nLlywydd gyda\u2019r blodau \u2013 Reseia Jones Davies \nRhes flaen \u2013 Mabel Davies, Menna Richards, Jenny Jones, Annita Williams, Glenys James, Deanna Hywel, Esta Davies, Joyce Waters, Ann Rees"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-077.jpg",
+            "type": "image",
+            "target_id": "613826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

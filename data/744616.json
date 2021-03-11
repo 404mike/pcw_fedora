@@ -1,0 +1,73 @@
+{
+    "id": 744616,
+    "title": {
+        "en": "The Merched y Wawr Badge' (\u2018Bathodyn Merched y Wawr\u2019) - Pardody ",
+        "cy": "Cerdd \u2018Bathodyn Merched y Wawr\u2019 (Parodi) "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744616",
+    "created": 1516896407,
+    "updated": 1516896407,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd \u2018Bathodyn Merched y Wawr\u2019 (Parodi) \u2013 amau mai y diweddar Wendy Richards (Llwydd Merched y Wawr 1976-1978) oedd y bardd.",
+        "cy": "Cerdd \u2018Bathodyn Merched y Wawr\u2019 (Parodi) \u2013 amau mai y diweddar Wendy Richards (Llwydd Merched y Wawr 1976-1978) oedd y bardd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-056.jpg",
+            "type": "image",
+            "target_id": "744611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

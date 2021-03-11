@@ -1,0 +1,82 @@
+{
+    "id": 400006,
+    "title": {
+        "en": "Fardre Farm, Kinmel Estate",
+        "cy": "Fferm y Fardre, Stad y Cinmel"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400006",
+    "created": 1416923831,
+    "updated": 1417016357,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Fardre Farm, part of Kinmel Estate owned by the Holland family. First owner was Gruffydd ap Dafydd who supported Owain Glyndwr",
+        "cy": "Fferm y Fardre, rhan o stad Cinmel y teulu Holland, y perchennog cyntaf oedd Gruffydd ap Dafydd a oedd yn cefnogi Owain Glyndwr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Fardre Farm",
+        "Kinmel Estate",
+        "Holland Family",
+        "Fferm Fardre",
+        "Stad Cinmel",
+        "Teulu Holland"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010542.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010542.jpg",
+            "type": "image",
+            "target_id": "400004"
+        },
+        {
+            "originalFilename": "pcw0010543.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010543.jpg",
+            "type": "image",
+            "target_id": "400005"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010542",
+    "publisher_ref": ""
+}

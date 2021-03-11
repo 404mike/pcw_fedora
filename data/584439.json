@@ -1,0 +1,74 @@
+{
+    "id": 584439,
+    "title": {
+        "en": "Merched y Wawr - Marking 600 years since OwainGlynd\u0175r's Welsh Parliament",
+        "cy": "Merched y Wawr - Nodi 600 mlynedd ers Senedd Owain Glynd\u0175r"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584439",
+    "created": 1499871053,
+    "updated": 1499871053,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glenys Thomas, Llywydd Cenedlaethol Merched y Wawr (2004-2006) yn cyflwyno crair o waith Llinos Roberts i Elin Jones ar gyfer y Cynulliad i ddathlu 600 mlynedd ers Senedd i Gymru Owain Glynd\u0175r, 1404.",
+        "cy": "Glenys Thomas, Llywydd Cenedlaethol Merched y Wawr (2004-2006) yn cyflwyno crair o waith Llinos Roberts i Elin Jones ar gyfer y Cynulliad i ddathlu 600 mlynedd ers Senedd i Gymru Owain Glynd\u0175r, 1404."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "??",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-082.jpg",
+            "type": "image",
+            "target_id": "584438"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

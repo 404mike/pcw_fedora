@@ -1,0 +1,75 @@
+{
+    "id": 746376,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch 2006 Trip",
+        "cy": "Merched y Wawr Cangen Llanafan ar Wibdaith 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746376",
+    "created": 1516897258,
+    "updated": 1516897258,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanafan yn dathlu ar y bws yn ystod gwibdaith y gangen yn 2006, wedi cyrraedd Llanrhystud ar y ffordd i Sir Benfro.\nYn y llun mae Verona Davies, Hawys Hughes, Enid Evans, Enid Richards, Margaret Williams, Glenda Evans, Karen Eldridge, Llinos Morgan, Donia Richards",
+        "cy": "Merched y Wawr Cangen Llanafan yn dathlu ar y bws yn ystod gwibdaith y gangen yn 2006, wedi cyrraedd Llanrhystud ar y ffordd i Sir Benfro.\nYn y llun mae Verona Davies, Hawys Hughes, Enid Evans, Enid Richards, Margaret Williams, Glenda Evans, Karen Eldridge, Llinos Morgan, Donia Richards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ar%20y%20bws%20Llanafan.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ar%2520y%2520bws%2520Llanafan.jpg",
+            "type": "image",
+            "target_id": "746371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

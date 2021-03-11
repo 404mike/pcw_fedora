@@ -1,0 +1,81 @@
+{
+    "id": 584140,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch 1972 - 73 Programme ",
+        "cy": "Mudiad Merched y Wawr Cangen Caerfyrddin Rhaglen Tymor 1972-73"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584140",
+    "created": 1499870407,
+    "updated": 1499870407,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mudiad Merched y Wawr Cangen Caerfyrddin Rhaglen Tymor 1972-73 (cynnwys enwau y Swyddogion ar y blaen) Tudalen Flaen a Chefn",
+        "cy": "Mudiad Merched y Wawr Cangen Caerfyrddin Rhaglen Tymor 1972-73 (cynnwys enwau y Swyddogion ar y blaen) Tudalen Flaen a Chefn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerfyrddin",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-001.jpg",
+            "type": "image",
+            "target_id": "584138"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-261016-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-261016-002.jpg",
+            "type": "image",
+            "target_id": "584139"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

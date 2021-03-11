@@ -1,0 +1,81 @@
+{
+    "id": 749321,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth Branch (Newport, Pembs) - First Meeting Minutes",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Trefdraeth 1977"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749321",
+    "created": 1516898953,
+    "updated": 1516898953,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion Cyntaf Merched y Wawr Cangen Trefdraeth 1977\nCofnodion cyfarfod sefydlu\u2019r gangen, Mai 10, 1977.  Dechreuodd gweithgareddau\u2019r gangen ar Fedi 13, 1977.",
+        "cy": "Cofnodion Cyntaf Merched y Wawr Cangen Trefdraeth 1977\nCofnodion cyfarfod sefydlu\u2019r gangen, Mai 10, 1977.  Dechreuodd gweithgareddau\u2019r gangen ar Fedi 13, 1977."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Trefdraeth"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-035.jpg",
+            "type": "image",
+            "target_id": "749311"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-036.jpg",
+            "type": "image",
+            "target_id": "749316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

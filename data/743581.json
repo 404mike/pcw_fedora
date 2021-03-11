@@ -1,0 +1,84 @@
+{
+    "id": 743581,
+    "title": {
+        "en": "Merched y Wawr Beca Branch Celebrates its 10th Anniversary",
+        "cy": "Merched y Wawr Cangen Beca yn Dathlu Deg Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743581",
+    "created": 1516895938,
+    "updated": 1516895938,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu Penblwydd Cangen Beca o Ferched y Wawr yn 10 oed yng Ngwesty Nantyffin ym 1983.  \nYn y llun mae:-\nBeryl Llewelyn, Joy Llewelyn, Mair Eynon, Ann Phillips,, Marion, Yvonne Vaughan, Martha, Annette Llewellyn, Mary Llewellyn, Lil Davies, Rhiannon, Megan Rees, Ella Evans, Louvaine? Davies, Ogwen Wheeler, Margaret Davies, Eirian Bowen, Mefin Lewis, Avril Owen, Lula Phillips, Enid Thomas",
+        "cy": "Dathlu Penblwydd Cangen Beca o Ferched y Wawr yn 10 oed yng Ngwesty Nantyffin ym 1983.  \nYn y llun mae:-\nBeryl Llewelyn, Joy Llewelyn, Mair Eynon, Ann Phillips,, Marion, Yvonne Vaughan, Martha, Annette Llewellyn, Mary Llewellyn, Lil Davies, Rhiannon, Megan Rees, Ella Evans, Louvaine? Davies, Ogwen Wheeler, Margaret Davies, Eirian Bowen, Mefin Lewis, Avril Owen, Lula Phillips, Enid Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853721000000",
+            "lon": "-4.728589000000",
+            "description": {
+                "en": "Gwesty Nanytffin",
+                "cy": "Gwesty Nanytffin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-050.jpg",
+            "type": "image",
+            "target_id": "743571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

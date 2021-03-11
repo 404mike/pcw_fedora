@@ -1,0 +1,78 @@
+{
+    "id": 750001,
+    "title": {
+        "en": "Cancer Charity Tenovus receive a cheque from Merched y Wawr",
+        "cy": "Tenovus yn derbyn siec gan Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750001",
+    "created": 1516899261,
+    "updated": 1516899261,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Catrin Stevens, Llywydd Cenedlaethol Merched y Wawr 2000-2002, yn cyflwyno siec am \u00a312,382 i gynrychiolwyr yr elusen Tenovus yn dilyn ei thaith gerdded o gwmpas Cymru 2002.  Yn y llun mae Gwyneth Morus Jones (Is-lywydd), Catrin Stevens (Llywydd), Rebecca (o Tenovus), Robert o Tenovus",
+        "cy": "Catrin Stevens, Llywydd Cenedlaethol Merched y Wawr 2000-2002, yn cyflwyno siec am \u00a312,382 i gynrychiolwyr yr elusen Tenovus yn dilyn ei thaith gerdded o gwmpas Cymru 2002.  Yn y llun mae Gwyneth Morus Jones (Is-lywydd), Catrin Stevens (Llywydd), Rebecca (o Tenovus), Robert o Tenovus"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Y WAWR 137, 2002",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Y WAWR",
+                "cy": "Y WAWR"
+            },
+            "year": "2002",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Siec%20Tenovus%202002%20y%20wawr%20137%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Siec%2520Tenovus%25202002%2520y%2520wawr%2520137%2520001.jpg",
+            "type": "image",
+            "target_id": "749996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

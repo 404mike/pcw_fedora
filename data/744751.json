@@ -1,0 +1,87 @@
+{
+    "id": 744751,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch Celebrate 40 Years",
+        "cy": "Merched y Wawr Cylch Aeron yn Dathlu 40 mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744751",
+    "created": 1516896469,
+    "updated": 1516896469,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cylch Aeron yn Dathlu Deugain y Gangen yn y Marine, Aberystwyth. Dechreuwyd y Gangen ym 1969.\nO\u2019r rhes flaen ar y chwith - Gwenda Davies, Eirian Lloyd, Bethan Lloyd, Mererid Jones, Owenna James, Enidwen Jones, Margaret Jones, Mari Jones, Marina Evans, Gwendoline, Angharad Merwah, Morina Jones, Marina James, Eiddwen Jones, Una Harries, Margaret Evans, End Jones, Rhiannon Hawkins, Dilwen Lloyd, Hillary Evans, Susan Howells, Eunice Jones, Ann Lloyd Thomas, Margaret Jones, Liz Evans, Eifiona Davies, Ray Jones, Heulwen Davies, Winnie Charlton, Betty Davies, Delyth Jenkins, Janet Morgan, Myfanwy Williams, Sandra Lake, Ann Jones, Mair Jones",
+        "cy": "Merched y Wawr Cylch Aeron yn Dathlu Deugain y Gangen yn y Marine, Aberystwyth. Dechreuwyd y Gangen ym 1969.\nO\u2019r rhes flaen ar y chwith - Gwenda Davies, Eirian Lloyd, Bethan Lloyd, Mererid Jones, Owenna James, Enidwen Jones, Margaret Jones, Mari Jones, Marina Evans, Gwendoline, Angharad Merwah, Morina Jones, Marina James, Eiddwen Jones, Una Harries, Margaret Evans, End Jones, Rhiannon Hawkins, Dilwen Lloyd, Hillary Evans, Susan Howells, Eunice Jones, Ann Lloyd Thomas, Margaret Jones, Liz Evans, Eifiona Davies, Ray Jones, Heulwen Davies, Winnie Charlton, Betty Davies, Delyth Jenkins, Janet Morgan, Myfanwy Williams, Sandra Lake, Ann Jones, Mair Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Tim Jones",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Tim Jones",
+                "cy": "Tim Jones"
+            },
+            "year": "2009",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.409044000000",
+            "lon": "-4.087002000000",
+            "description": {
+                "en": "Marine, Aberystwyth",
+                "cy": "Marine, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-036.jpg",
+            "type": "image",
+            "target_id": "744741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

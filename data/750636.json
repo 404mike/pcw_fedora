@@ -1,0 +1,81 @@
+{
+    "id": 750636,
+    "title": {
+        "en": "Merched y Wawr Millennium Residential Weekend ",
+        "cy": "Penwythnos Preswyl Merched y Wawr - &#039;Moliant i&#039;r Mileniwm&#039;."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750636",
+    "created": 1516899561,
+    "updated": 1516899561,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Penwythnos Preswyl Merched y Wawr - 'Moliant i'r Mileniwm'.  15-17 Medi, 2000",
+        "cy": "Taflen Penwythnos Preswyl Merched y Wawr - 'Moliant i'r Mileniwm'.  15-17 Medi, 2000"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-056.jpg",
+            "type": "image",
+            "target_id": "750626"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-057.jpg",
+            "type": "image",
+            "target_id": "750631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

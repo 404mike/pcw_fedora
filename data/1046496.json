@@ -1,0 +1,64 @@
+{
+    "id": 1046496,
+    "title": {
+        "en": "President's Dinner in South Wales 2003",
+        "cy": "Cinio Llywydd yn y De 2003"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046496",
+    "created": 1555590259,
+    "updated": 1555590259,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "President's Dinner at the Halfway, Nantgaredig 2003. President, Gwyneth Morus Jones welcoming the members.",
+        "cy": "Cinio'r Llywydd yn yr Hanner Ffordd, Nantgaredig 2003. Llywydd Gwyneth Morus Jones yn croesawu yr aelodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2000",
+        "presidents dinner",
+        "cinior llywydd yn y de 2003"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_039.jpg",
+            "type": "image",
+            "target_id": "1046491"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

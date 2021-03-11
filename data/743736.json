@@ -1,0 +1,84 @@
+{
+    "id": 743736,
+    "title": {
+        "en": "Merched y Wawr Blaenffos Branch Christmas 2005",
+        "cy": "Merched y Wawr Blaenffos Nadolig 2005\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743736",
+    "created": 1516895991,
+    "updated": 1516895991,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathliad Nadolig Merched y Wawr Cangen Blaenffos ym Mhlas Rhosygilwen, gyda\u2019r wraig gwadd, Ann Pash, yn 2005.\nYn y llun :- Mary Thomas, Morfydd Thomas, Sheila John, Barbara Thomas, Yvonne Williams, Gwenda John, Euronwy Vaughan, Sian Davies, Rhian Clwyd Davies, Catrin Davies, Hannah Thomas, Eurfron Bowen, Helen Davies, Ann Jones, Sharon Jones, Rhian Davies, Ann Pash, Glenys Davies, Alwena Smith, Gill Davies",
+        "cy": "Dathliad Nadolig Merched y Wawr Cangen Blaenffos ym Mhlas Rhosygilwen, gyda\u2019r wraig gwadd, Ann Pash, yn 2005.\nYn y llun :- Mary Thomas, Morfydd Thomas, Sheila John, Barbara Thomas, Yvonne Williams, Gwenda John, Euronwy Vaughan, Sian Davies, Rhian Clwyd Davies, Catrin Davies, Hannah Thomas, Eurfron Bowen, Helen Davies, Ann Jones, Sharon Jones, Rhian Davies, Ann Pash, Glenys Davies, Alwena Smith, Gill Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Blaenffos"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.054762000000",
+            "lon": "-4.631917000000",
+            "description": {
+                "en": "Rhosygilwen, Cilgerran",
+                "cy": "Rhosygilwen, Cilgerran"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-009.jpg",
+            "type": "image",
+            "target_id": "743726"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,116 @@
+{
+    "id": 626276,
+    "title": {
+        "en": "Elen Roger Jones\u2019 personal collection of Merched y Wawr memorabilia ",
+        "cy": "Casgliad Elen Roger Jones, aelod selog a gweithgar o F\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626276",
+    "created": 1511280436,
+    "updated": 1511280436,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Gwyl Ddrama, Merched y Wawr, M\u00f4n (12 Drama Fer) - Mehefin 1980 a gynhalwyd yn Theatr Fach Llangefni.",
+        "cy": "Rhaglen Gwyl Ddrama, Merched y Wawr, M\u00f4n (12 Drama Fer) - Mehefin 1980 a gynhalwyd yn Theatr Fach Llangefni."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Elen Roger Jones",
+    "owner": "Casgliad Elen Roger Jones",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Elen Roger Jones",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255816000000",
+            "lon": "-4.312139000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_049.jpg",
+            "type": "image",
+            "target_id": "626241"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_050.jpg",
+            "type": "image",
+            "target_id": "626246"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_051.jpg",
+            "type": "image",
+            "target_id": "626251"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_052.jpg",
+            "type": "image",
+            "target_id": "626256"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_053.jpg",
+            "type": "image",
+            "target_id": "626261"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELLENROGERSJONES_082.jpg",
+            "type": "image",
+            "target_id": "626266"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

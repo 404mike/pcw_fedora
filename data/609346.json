@@ -1,0 +1,100 @@
+{
+    "id": 609346,
+    "title": {
+        "en": "\u2018Remembering \u2013 Daniel Evan Jones 1860-1941\u2019, an event organised by Merched y Wawr Bargod Teifi  Branch",
+        "cy": "Digwyddiad \u2018Cofio \u2013 Daniel Evan Jones 1860-1941\u2019, a drefnwyd gan aelodau Merched y Wawr Cangen Bargod Teifi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609346",
+    "created": 1510752955,
+    "updated": 1510752955,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen ar gyfer digwyddiad \u2018Cofio \u2013 Daniel Evan Jones 1860-1941\u2019, sef awdur Hanes Plwyfi Llangeler a Phenboyr.  Trefnwyd y noson gan aelodau Merched y Wawr Cangen Bargod Teifi",
+        "cy": "Rhaglen ar gyfer digwyddiad \u2018Cofio \u2013 Daniel Evan Jones 1860-1941\u2019, sef awdur Hanes Plwyfi Llangeler a Phenboyr.  Trefnwyd y noson gan aelodau Merched y Wawr Cangen Bargod Teifi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.025820000000",
+            "lon": "-4.399287000000",
+            "description": {
+                "en": "Amgueddfa Wl\u00e2n Cymru, Drefach Felindre",
+                "cy": "Amgueddfa Wl\u00e2n Cymru, Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-031.jpg",
+            "type": "image",
+            "target_id": "609321"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-033.jpg",
+            "type": "image",
+            "target_id": "609326"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-032.jpg",
+            "type": "image",
+            "target_id": "609331"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-034.jpg",
+            "type": "image",
+            "target_id": "609336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

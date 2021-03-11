@@ -1,0 +1,84 @@
+{
+    "id": 584301,
+    "title": {
+        "en": "Ceremony to Ordain the New Merched y Wawr President 1990 - 92 (Mair Penri Jones) - Leaflet",
+        "cy": "Taflen Seremoni Urddo Llywydd Cenedlaethol Merched y Wawr 1990-92 (Mair Penri Jones).  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584301",
+    "created": 1499870887,
+    "updated": 1499870887,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Seremoni Urddo Llywydd Cenedlaethol Merched y Wawr 1990\/92 (Mair Penri Jones).  Sinema\u2019r Commodore, Aberystwyth, 24 Tachwedd, 1990",
+        "cy": "Taflen Seremoni Urddo Llywydd Cenedlaethol Merched y Wawr 1990\/92 (Mair Penri Jones).  Sinema\u2019r Commodore, Aberystwyth, 24 Tachwedd, 1990"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.417141000000",
+            "lon": "-4.083400000000",
+            "description": {
+                "en": "Sinema\u2019r Commodore, Aberystwyth",
+                "cy": "Sinema\u2019r Commodore, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-081.jpg",
+            "type": "image",
+            "target_id": "584299"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

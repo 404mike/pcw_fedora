@@ -1,0 +1,73 @@
+{
+    "id": 600837,
+    "title": {
+        "en": "First meeting to discuss Merched y Wawr Ammanford Branch",
+        "cy": "Cyfarfod cyntaf i drafod Cangen Merched y Wawr Cangen Rhydaman a\u2019r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600837",
+    "created": 1502448313,
+    "updated": 1502448313,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyfarfod cyntaf i drafod Cangen Merched y Wawr Cangen Rhydaman a\u2019r Cylch.  Yn y llun mae ?? Williams, Mrs EJ James, Bethan Thomas a Eiry Davies",
+        "cy": "Cyfarfod cyntaf i drafod Cangen Merched y Wawr Cangen Rhydaman a\u2019r Cylch.  Yn y llun mae ?? Williams, Mrs EJ James, Bethan Thomas a Eiry Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-165.jpg",
+            "type": "image",
+            "target_id": "600836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

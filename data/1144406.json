@@ -1,0 +1,63 @@
+{
+    "id": 1144406,
+    "title": {
+        "en": "MyW Residential Weekend 2013 Cardiff",
+        "cy": "Penwythnos Preswyl MyW 2013 Caerdydd \u2013 Hanes a Hamdden"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144406",
+    "created": 1562061775,
+    "updated": 1562061775,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Entertainment \u2013 Parti'r Efail with their conductor Menna Thomas",
+        "cy": "Adloniant \u2013 Parti'r Efail gyda'u harweinydd Menna Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2013 cardiff",
+        "penwythnos preswyl myw 2013 caerdydd - hanes a hamdden"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_530_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_530_0.jpg",
+            "type": "image",
+            "target_id": "1144401"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

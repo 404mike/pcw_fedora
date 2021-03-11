@@ -1,0 +1,84 @@
+{
+    "id": 615891,
+    "title": {
+        "en": "The formation of Merched y Wawr Ystrad Mynach Branch",
+        "cy": "Ffurfio Cangen Ystrad Mynach o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615891",
+    "created": 1510755351,
+    "updated": 1510755351,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffurflen Cangen Newydd a arwyddwyd ar Ebrill 23, 1985 i ddweud for Cangen Ystrad Mynach yn ymuno \u00e2 Mudiad Merched y Wawr",
+        "cy": "Ffurflen Cangen Newydd a arwyddwyd ar Ebrill 23, 1985 i ddweud for Cangen Ystrad Mynach yn ymuno \u00e2 Mudiad Merched y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.642356000000",
+            "lon": "-3.235211000000",
+            "description": {
+                "en": "Ystrad Mynach ",
+                "cy": "Ystrad Mynach "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-054.jpg",
+            "type": "image",
+            "target_id": "615881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

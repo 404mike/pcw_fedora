@@ -1,0 +1,82 @@
+{
+    "id": 600854,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch visits Llyn Brianne ",
+        "cy": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch yn Llyn Brianne\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600854",
+    "created": 1502448335,
+    "updated": 1502448335,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch ar wibdaith i Lyn Brianne\nMarlene Moses, Eirlys Williams, Edwina Leech, Ann Jones, Jean Huw Jones, Ruth Bowen, Enid Davies, Mair Smith, Gillian Tancock, Gill Howells, Eiddwen Mainwaring, Lilian Powell",
+        "cy": "Merched y Wawr Cangen Rhydaman a\u2019r Cylch ar wibdaith i Lyn Brianne\nMarlene Moses, Eirlys Williams, Edwina Leech, Ann Jones, Jean Huw Jones, Ruth Bowen, Enid Davies, Mair Smith, Gillian Tancock, Gill Howells, Eiddwen Mainwaring, Lilian Powell"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.122008000000",
+            "lon": "-3.765173000000",
+            "description": {
+                "en": "Llyn Brianne",
+                "cy": "Llyn Brianne"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-173.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-173.jpg",
+            "type": "image",
+            "target_id": "600852"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

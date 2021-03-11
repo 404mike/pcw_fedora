@@ -1,0 +1,65 @@
+{
+    "id": 1145521,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2015",
+        "cy": "Sioe Frenhinol Llanelwedd 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145521",
+    "created": 1562062896,
+    "updated": 1562062896,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sellig the Accessories.",
+        "cy": "Gwerthu'r Ategolion \u2013 Catherine Watkin Thomas a Meryl Davies."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "2015",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_691.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_691.jpg",
+            "type": "image",
+            "target_id": "1145516"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

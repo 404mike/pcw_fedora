@@ -1,0 +1,63 @@
+{
+    "id": 1145616,
+    "title": {
+        "en": "Maldwyn and the Marches National Eisteddfod 2015",
+        "cy": "Eisteddfod Genedlaethol Maldwyn a&#039;r Gororau 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145616",
+    "created": 1562062936,
+    "updated": 1562062936,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of Bro Cyfeiliog branch serving drinks.",
+        "cy": "Aelodau o gangen Bro Cyfeiliog yn gweini diod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "maldwyn and the marches national eisteddfod 2015",
+        "eisteddfod genedlaethol maldwyn ar gororau"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_702.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_702.jpg",
+            "type": "image",
+            "target_id": "1145611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

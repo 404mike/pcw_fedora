@@ -1,0 +1,84 @@
+{
+    "id": 747611,
+    "title": {
+        "en": "A Bit of Fun' '('Pwt o Lawenydd') Leaflet by Merched y Wawr West Glamorgan Area ",
+        "cy": "Taflen \u2018Pwt o Lawenydd\u2019 gan Merched y Wawr Rhanbarth Gorllewin Morgannwg "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747611",
+    "created": 1516897830,
+    "updated": 1516897830,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen ar gyfer noson \u2018Pwt o Lawenydd\u2019 gan Merched y Wawr Rhanbarth Gorllewin Morgannwg yn y Neuadd L\u00eas yn Ystradgynlais, Ebrill 4, 1981",
+        "cy": "Taflen ar gyfer noson \u2018Pwt o Lawenydd\u2019 gan Merched y Wawr Rhanbarth Gorllewin Morgannwg yn y Neuadd L\u00eas yn Ystradgynlais, Ebrill 4, 1981"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.778514000000",
+            "lon": "-3.757505000000",
+            "description": {
+                "en": "Neuadd L\u00eas Ystradgynlais",
+                "cy": "Neuadd L\u00eas Ystradgynlais"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-082.jpg",
+            "type": "image",
+            "target_id": "747601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

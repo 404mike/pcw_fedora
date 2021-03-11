@@ -1,0 +1,75 @@
+{
+    "id": 748721,
+    "title": {
+        "en": "Merched y Wawr Rhydypennau Branch enjoy a macrame lesson",
+        "cy": "Dosbarth \u2018macrame\u2019 yn Merched y Wawr Rhydypennau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748721",
+    "created": 1516898679,
+    "updated": 1516898679,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Rhydypennau yn mwynhau dosbarth nos \u2018macrame\u2019, Hydref 1979, yng ngofal Mrs Buddug Thomas",
+        "cy": "Merched y Wawr Cangen Rhydypennau yn mwynhau dosbarth nos \u2018macrame\u2019, Hydref 1979, yng ngofal Mrs Buddug Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Rhydypennau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Rhydypennau"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-241.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-241.jpg",
+            "type": "image",
+            "target_id": "748716"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

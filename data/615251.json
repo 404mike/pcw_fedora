@@ -1,0 +1,82 @@
+{
+    "id": 615251,
+    "title": {
+        "en": "Merched y Wawr Cangen Cwm Rhymni yn Sain Ffagan ",
+        "cy": "Merched y Wawr Cangen Cwm Rhymni yn Sain Ffagan "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615251",
+    "created": 1510755208,
+    "updated": 1510755208,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cwm Rhymni yn crwydro'r gerddi yn Sain Ffagan.  Yn y llun mae Gwyneth Davies, Eirlys Thomas, Elin Jones, Margaret Griffiths, Wilma Davies, Janet Cumpstone",
+        "cy": "Merched y Wawr Cangen Cwm Rhymni yn crwydro'r gerddi yn Sain Ffagan.  Yn y llun mae Gwyneth Davies, Eirlys Thomas, Elin Jones, Margaret Griffiths, Wilma Davies, Janet Cumpstone"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.486617000000",
+            "lon": "-3.273033000000",
+            "description": {
+                "en": "Amgueddfa Sain Ffagan",
+                "cy": "Amgueddfa Sain Ffagan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Cwm%20Rhymni%20-%20Trip%20Sain%20Ffagan%201.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Cwm%2520Rhymni%2520-%2520Trip%2520Sain%2520Ffagan%25201.jpg",
+            "type": "image",
+            "target_id": "615241"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

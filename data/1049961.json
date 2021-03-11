@@ -1,0 +1,66 @@
+{
+    "id": 1049961,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2012",
+        "cy": "Sioe Frenhinol Llanelwedd 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049961",
+    "created": 1555592124,
+    "updated": 1555592124,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cardiganshire winning the Radi Thomas cup.",
+        "cy": "Rhanbarth Ceredigion yn ennill Cwpan Radi Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "merched y wawr",
+        "MYW",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_419.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_419.jpg",
+            "type": "image",
+            "target_id": "1049956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

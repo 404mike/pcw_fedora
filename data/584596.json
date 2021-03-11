@@ -1,0 +1,85 @@
+{
+    "id": 584596,
+    "title": {
+        "en": "Merched y Wawr South-East Area, Christmas Service Programme 2006 ",
+        "cy": "Rhaglen Gwasanaeth Nadolig Merched y Wawr, Rhanbarth y De-Ddwyrain, 2006  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584596",
+    "created": 1499871248,
+    "updated": 1499871248,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen (clawr) Gwasanaeth Nadolig y Rhanbarth 2006 a drefnwyd gan aelodau Cangen Casnewydd.  Cynhaliwyd y Gwasanaeth yn Eglwys y Methodistiaid, Radur.  Thema\u2019r gwasanaeth oedd \u2018Nadolig o Gwympas y Byd.\u2019",
+        "cy": "Rhaglen (clawr) Gwasanaeth Nadolig y Rhanbarth 2006 a drefnwyd gan aelodau Cangen Casnewydd.  Cynhaliwyd y Gwasanaeth yn Eglwys y Methodistiaid, Radur.  Thema\u2019r gwasanaeth oedd \u2018Nadolig o Gwympas y Byd.\u2019"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Casnewydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Casnewydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.515445000000",
+            "lon": "-3.252457000000",
+            "description": {
+                "en": "Eglwys y Methodistiaid, Radur",
+                "cy": "Eglwys y Methodistiaid, Radur"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-100.jpg",
+            "type": "image",
+            "target_id": "584594"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

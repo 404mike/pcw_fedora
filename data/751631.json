@@ -1,0 +1,85 @@
+{
+    "id": 751631,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Brithdir, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Brithdir, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751631",
+    "created": 1516957979,
+    "updated": 1516957979,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen yn mwynhau swper yn Borthwen, Dolgellau ar ol ymweld a Meithrinfa Bysgod Dolgellau. Gwelwn: Llinos Lloyd, Euliyn Price, Bet Griffth, Gwefyl Price, Lisabeth Richards, Dorwenn Williams, Megan Evans (blaen) Ann Jones, Aurwen Jones, Gwen Jones, Catrin Rowlands, Mair Jones, Annie Meirion Evans.",
+        "cy": "Rhai o aelodau\u2019r Gangen yn mwynhau swper yn Borthwen, Dolgellau ar ol ymweld a Meithrinfa Bysgod Dolgellau. Gwelwn: Llinos Lloyd, Euliyn Price, Bet Griffth, Gwefyl Price, Lisabeth Richards, Dorwenn Williams, Megan Evans (blaen) Ann Jones, Aurwen Jones, Gwen Jones, Catrin Rowlands, Mair Jones, Annie Meirion Evans."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Brithdir",
+    "owner": "Cangen Brithdir",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Brithdir",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Brithdir",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.754851000000",
+            "lon": "-3.827000000000",
+            "description": {
+                "en": "Brithdir",
+                "cy": "Brithdir"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRITHDIR_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRITHDIR_002.jpg",
+            "type": "image",
+            "target_id": "751621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

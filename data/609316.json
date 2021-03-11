@@ -1,0 +1,90 @@
+{
+    "id": 609316,
+    "title": {
+        "en": "Merched y Wawr Bargod Teifi Branch, Programme 1997 - 1998",
+        "cy": "Merched y Wawr Cangen Bargod Teifi Tocyn Aelodaeth a Rhaglen 1997 \u2013 1998"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609316",
+    "created": 1510752950,
+    "updated": 1510752950,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bargod Teifi Tocyn Aelodaeth a Rhaglen 1997 \u2013 1998 \nClawr y rhaglen",
+        "cy": "Merched y Wawr Cangen Bargod Teifi Tocyn Aelodaeth a Rhaglen 1997 \u2013 1998 \nClawr y rhaglen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "C",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.019737000000",
+            "lon": "-4.400262000000",
+            "description": {
+                "en": "Drefach Felindre",
+                "cy": "Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-029.jpg",
+            "type": "image",
+            "target_id": "609301"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-030.jpg",
+            "type": "image",
+            "target_id": "609306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

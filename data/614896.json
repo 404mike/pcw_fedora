@@ -1,0 +1,75 @@
+{
+    "id": 614896,
+    "title": {
+        "en": "Merched y Wawr Cardiff Branch making soft toys",
+        "cy": "\nMerched y Wawr Cangen Caerdydd yn gwneud tegannau \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614896",
+    "created": 1510755125,
+    "updated": 1510755125,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o Ferched Gangen Caerdydd yn gwneud tegannau meddal ar gyfer yr Ysgol Feithrin (diwedd y 60au)\nYn y llun - Meirwen Gwynn Jones, Enid Jones, Marian Jones, Catherine Watkin Thomas, Mair Saunders Jones, Myra Jenkins, Enid Jones",
+        "cy": "Aelodau o Ferched Gangen Caerdydd yn gwneud tegannau meddal ar gyfer yr Ysgol Feithrin (diwedd y 60au)\nYn y llun - Meirwen Gwynn Jones, Enid Jones, Marian Jones, Catherine Watkin Thomas, Mair Saunders Jones, Myra Jenkins, Enid Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerdydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Caerdydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-050117-002.jpg",
+            "type": "image",
+            "target_id": "614891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

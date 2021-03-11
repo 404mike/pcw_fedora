@@ -1,0 +1,96 @@
+{
+    "id": 615721,
+    "title": {
+        "en": "Merched y Wawr Ystrad Mynach Branch Programme 1995 -1996",
+        "cy": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1995 \u2013 1996"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615721",
+    "created": 1510755319,
+    "updated": 1510755319,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1995 \u2013 1996\nClawr",
+        "cy": "Rhaglen Merched y Wawr Cangen Ystrad Mynach 1995 \u2013 1996\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Ystrad Mynach (Y gangen wedi darfod, aelodau nawr yng Nghangen Cwm Rhymni)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ystrad Mynach",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.642356000000",
+            "lon": "-3.235211000000",
+            "description": {
+                "en": "Ystrad Mynach ",
+                "cy": "Ystrad Mynach "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-030.jpg",
+            "type": "image",
+            "target_id": "615701"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-031.jpg",
+            "type": "image",
+            "target_id": "615706"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-032.jpg",
+            "type": "image",
+            "target_id": "615711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,89 @@
+{
+    "id": 601151,
+    "title": {
+        "en": "An Evening to Celebrate Merched y Wawr Carmarthen Area's 10th Anniversary ",
+        "cy": "Rhaglen Noson Ddathlu Degfed Penblwydd Rhanbarth Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601151",
+    "created": 1502448721,
+    "updated": 1502448721,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Noson Ddathlu Degfed Penblwydd Rhanbarth Caerfyrddin, Gwesty\u2019r Llwyn Iorwg, Mai 24ain, 1979\nTudalen flaen",
+        "cy": "Rhaglen Noson Ddathlu Degfed Penblwydd Rhanbarth Caerfyrddin, Gwesty\u2019r Llwyn Iorwg, Mai 24ain, 1979\nTudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856631000000",
+            "lon": "-4.303462000000",
+            "description": {
+                "en": "Gwesty'r Llwyn Iorwg, Caerfyrddin",
+                "cy": "Gwesty'r Llwyn Iorwg, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-058.jpg",
+            "type": "image",
+            "target_id": "601148"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-059.jpg",
+            "type": "image",
+            "target_id": "601149"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

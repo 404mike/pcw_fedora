@@ -1,0 +1,73 @@
+{
+    "id": 584416,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch Banner",
+        "cy": "Baner Rhanbarth Caerfyrddin o Ferched y Wawr "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584416",
+    "created": 1499871019,
+    "updated": 1499871019,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun Ann Williams Llanymddyfri a wnaeth Faner Rhanbarth Caerfyrddin y mudiad.  Enillodd Ann y gystadleuaeth cynllunio baner i\u2019r rhanbarth yn Eisteddfod Merched y Wawr",
+        "cy": "Llun Ann Williams Llanymddyfri a wnaeth Faner Rhanbarth Caerfyrddin y mudiad.  Enillodd Ann y gystadleuaeth cynllunio baner i\u2019r rhanbarth yn Eisteddfod Merched y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Rhanbarth Caerfyrddin Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-059.jpg",
+            "type": "image",
+            "target_id": "584415"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,69 @@
+{
+    "id": 1047146,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2006",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047146",
+    "created": 1555590741,
+    "updated": 1555590741,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Linda Gay, winner of the Welsh Learners competition, for conversing on the theme 'Travel' with Enid Jones, Rhydypennau branch.",
+        "cy": "Linda Gay, enillydd Cystadleuaeth y Dysgwyr am sgwrsio ar y thema Teithio gyda Enid Jones, Cangen Rhydypennau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "merched y wawr",
+        "MYW",
+        "welsh learners competition",
+        "welsh learners",
+        "cyfarfod blynyddol",
+        "cystadleuaeth y dysgwyr",
+        "Dysgwyr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_100.jpg",
+            "type": "image",
+            "target_id": "1047141"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600437,
+    "title": {
+        "en": "Merched y Wawr Capel Iwan Branch, Sponsored Knit 1993",
+        "cy": "Cangen Capel Iwan o Ferched y Wawr yn cymryd rhan mewn gwau noddedig 1993"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600437",
+    "created": 1502447740,
+    "updated": 1502447740,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau Cangen Capel Iwan o Ferched y Wawr gyda blancedi wedi eu gwau ganddynt.  \nMae cofnodion y Gangen o Fawrth y 3ydd, 1993 yn nodi \u2018Wrth i\u2019r aelodau gymryd rhan yn y gwau noddedig casglwyd cyfanswm o \u00a3390, swydd i\u2019w rannu rhwng y gangen a danfon nwyddau allan i Lesotho.  Bydd y blancedi yn cael eu dangos yn y Pwyllgor Rhanbarth ar Fawrth 8fed a penderfynwyd rhoi\u2019r blancedi i Mr Teifryn Harries a fydd yn teithio allan i Romania, i\u2019w dosbarthu rhwng y tlodion yno.\u2019\nRhes gefn \u2013 Nel Morgan, Martha Harries, Margaret Holman, A.M. Harries, Gladys Jenkins, Enid Thomas, Jean Harries, Margaret Jones, Mair Evans, Peggy Jones \nRhes flaen - ? Morris, Linda Bowen, Rita Davies, Gwyneth Phillips, Eilwen Jenkins",
+        "cy": "Llun o aelodau Cangen Capel Iwan o Ferched y Wawr gyda blancedi wedi eu gwau ganddynt.  \nMae cofnodion y Gangen o Fawrth y 3ydd, 1993 yn nodi \u2018Wrth i\u2019r aelodau gymryd rhan yn y gwau noddedig casglwyd cyfanswm o \u00a3390, swydd i\u2019w rannu rhwng y gangen a danfon nwyddau allan i Lesotho.  Bydd y blancedi yn cael eu dangos yn y Pwyllgor Rhanbarth ar Fawrth 8fed a penderfynwyd rhoi\u2019r blancedi i Mr Teifryn Harries a fydd yn teithio allan i Romania, i\u2019w dosbarthu rhwng y tlodion yno.\u2019\nRhes gefn \u2013 Nel Morgan, Martha Harries, Margaret Holman, A.M. Harries, Gladys Jenkins, Enid Thomas, Jean Harries, Margaret Jones, Mair Evans, Peggy Jones \nRhes flaen - ? Morris, Linda Bowen, Rita Davies, Gwyneth Phillips, Eilwen Jenkins"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Capel Iwan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Capel Iwan",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.998612000000",
+            "lon": "-4.492446000000",
+            "description": {
+                "en": "Capel Iwan",
+                "cy": "Capel Iwan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-123.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-123.jpg",
+            "type": "image",
+            "target_id": "600435"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

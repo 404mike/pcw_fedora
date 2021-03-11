@@ -1,0 +1,84 @@
+{
+    "id": 611406,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch carol singing in a local old people's home",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn canu carolau mewn cartref i&#039;r henoed\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611406",
+    "created": 1510753447,
+    "updated": 1510753447,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn canu carolau yng nghartref yr henoed, Tremle, Pencader yn 2000\nYn y llun mae Doreen Jones, Pauline Jones, Kyria Jenkins, Jean Evans, Irene Davies, Haulwen Lewis, Deci Evans, Nancy Jones \u2013 gyda rhai o\u2019r trigolion",
+        "cy": "Merched y Wawr Cangen Pencader a\u2019r Cylch yn canu carolau yng nghartref yr henoed, Tremle, Pencader yn 2000\nYn y llun mae Doreen Jones, Pauline Jones, Kyria Jenkins, Jean Evans, Irene Davies, Haulwen Lewis, Deci Evans, Nancy Jones \u2013 gyda rhai o\u2019r trigolion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.991614000000",
+            "lon": "-4.265168000000",
+            "description": {
+                "en": "Cartref Tremle, Pencader",
+                "cy": "Cartref Tremle, Pencader"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-093.jpg",
+            "type": "image",
+            "target_id": "611396"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

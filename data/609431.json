@@ -1,0 +1,82 @@
+{
+    "id": 609431,
+    "title": {
+        "en": "Griffith Jones, Llanddowror, 1683 \u2013 1761, Memorial ",
+        "cy": "Cofeb i Griffith Jones, Llanddowror, 1683 \u2013 1761"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609431",
+    "created": 1510752975,
+    "updated": 1510752975,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofeb i'r Parchedig Griffith Jones, Llanddowror, 1683 \u2013 1761, ar wal Ysgol Penboyr.  Ganwyd yn y plwyf.  \nMerched y Wawr Cangen Bargod Teifi",
+        "cy": "Cofeb i'r Parchedig Griffith Jones, Llanddowror, 1683 \u2013 1761, ar wal Ysgol Penboyr.  Ganwyd yn y plwyf.  \nMerched y Wawr Cangen Bargod Teifi"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bargod Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bargod Teifi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.019050000000",
+            "lon": "-4.400377000000",
+            "description": {
+                "en": "Ysgol Penboyr, Drefach Felindre",
+                "cy": "Ysgol Penboyr, Drefach Felindre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-040.jpg",
+            "type": "image",
+            "target_id": "609421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,83 @@
+{
+    "id": 600148,
+    "title": {
+        "en": "Photograph showing the members of Merched y Mawr Aberconwy on their visit to Jersey in 1980\u2019s. ",
+        "cy": "Gwibdaith Merched y Wawr Rhanbarth Aberconwy i Jersey."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600148",
+    "created": 1502447310,
+    "updated": 1502447310,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o aelodau Merched y Wawr Rhanbarth Aberconwy ar eu gwibdaith i Jersey yn yr 1980au.",
+        "cy": "Llun o aelodau Merched y Wawr Rhanbarth Aberconwy ar eu gwibdaith i Jersey yn yr 1980au."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanrwst",
+    "owner": "Cangen Llanrwst",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Aberconwy",
+        "MYW",
+        "Deathly 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139354000000",
+            "lon": "-3.799720000000",
+            "description": {
+                "en": "Llanrwst",
+                "cy": "Llanrwst"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_TRIPJERSEY_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_TRIPJERSEY_001.jpg",
+            "type": "image",
+            "target_id": "600146"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

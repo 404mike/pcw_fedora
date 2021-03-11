@@ -1,0 +1,69 @@
+{
+    "id": 1047326,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed - Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047326",
+    "created": 1555590837,
+    "updated": 1555590837,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members from left to right: Marged Jones, Honarary President; Glenys Thomas, former President; Gwyneth Morus Jones, former President; Elinor Davies, Treasurer",
+        "cy": "Llun o'r aelodau o'r chwith i'r dde: Marged Jones, Llywydd Anrhydeddus; Glenys Thomas a Gwyneth Morus Jones, cyn-Lywyddion; Elinor Davies, Trysorydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "members",
+        "residential weekend",
+        "Lampeter",
+        "aelodau",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_120.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_120.jpg",
+            "type": "image",
+            "target_id": "1047321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

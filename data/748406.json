@@ -1,0 +1,84 @@
+{
+    "id": 748406,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch at the Merched y Wawr Eisteddfod 1999",
+        "cy": "Aelodau Cangen Pontarddulais a&#039;r Cylch yn Eisteddfod Merched y Wawr 1999.  \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748406",
+    "created": 1516898535,
+    "updated": 1516898535,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gr\u0175p o aelodau Merched y Wawr Cangen Pontarddulais yn paratoi i gystadlu ym Mhafiliwn  Llandrindod yn Eisteddfod Merched y Wawr 1999.  \nYr arweinydd yw Iris Thomas \nCefn \u2013 Lorraine Rees, Eryl Williams, Beti Williams, Meriel Davies, Nan Lloyd-Jones, Non Jones\nBlaen \u2013 Delyth Nicholas, Millicent Phillpot, Sally Evans, Elsie Nicholas, Helen Evans, Enid Jones, Delyth Williams, Sheila Evans, Enid Morris",
+        "cy": "Gr\u0175p o aelodau Merched y Wawr Cangen Pontarddulais yn paratoi i gystadlu ym Mhafiliwn  Llandrindod yn Eisteddfod Merched y Wawr 1999.  \nYr arweinydd yw Iris Thomas \nCefn \u2013 Lorraine Rees, Eryl Williams, Beti Williams, Meriel Davies, Nan Lloyd-Jones, Non Jones\nBlaen \u2013 Delyth Nicholas, Millicent Phillpot, Sally Evans, Elsie Nicholas, Helen Evans, Enid Jones, Delyth Williams, Sheila Evans, Enid Morris"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.238924000000",
+            "lon": "-3.379721000000",
+            "description": {
+                "en": "Pafiliwn Llandrindod",
+                "cy": "Pafiliwn Llandrindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-090.jpg",
+            "type": "image",
+            "target_id": "748396"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

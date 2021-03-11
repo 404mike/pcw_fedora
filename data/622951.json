@@ -1,0 +1,85 @@
+{
+    "id": 622951,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhos a Phencae, Glyn Maelor",
+        "cy": "Hanes Mrs Dorothy Taylor. Tudalen o\u2019r Llyfr Llofion cangen Merched y Wawr Rhos a Phencae, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622951",
+    "created": 1511279338,
+    "updated": 1511279338,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tudalen o\u2019r Llyfr Llofion, sy\u2019n nodi hanes Mrs Dorothy Taylor, Llywydd y Gangen 1990 - 1992. (Cangen bellach wedi cau).",
+        "cy": "Tudalen o\u2019r Llyfr Llofion, sy\u2019n nodi hanes Mrs Dorothy Taylor, Llywydd y Gangen 1990 - 1992. (Cangen bellach wedi cau)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhos a Phencae",
+    "owner": "Cangen Rhos a Phencae",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhos a Phencae",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhos a Phencae",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.012565000000",
+            "lon": "-3.057659000000",
+            "description": {
+                "en": "Rhos a Phencae",
+                "cy": "Rhos a Phencae"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_010.jpg",
+            "type": "image",
+            "target_id": "622941"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

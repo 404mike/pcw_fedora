@@ -1,0 +1,75 @@
+{
+    "id": 745331,
+    "title": {
+        "en": "Merched y Wawr Genau'r Glyn Branch winning a Dyfed Libraries Quiz 1981-82",
+        "cy": "Merched y Wawr Genau\u2019r Glyn yn ennill Cwis Llyfrgell Dyfed 1981-82"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745331",
+    "created": 1516896759,
+    "updated": 1516896759,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Genau\u2019r Glyn yn fuddugol yng Nghwis Llyfrgell Dyfed 1981-82\nMenna Morgan, Linda Jones, Buddug Thomas Mary Thomas, Margaret Matthews, Gwenno Watkin",
+        "cy": "Merched y Wawr Genau\u2019r Glyn yn fuddugol yng Nghwis Llyfrgell Dyfed 1981-82\nMenna Morgan, Linda Jones, Buddug Thomas Mary Thomas, Margaret Matthews, Gwenno Watkin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gennau&#039;r Glyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Gennaur Glyn"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-009.jpg",
+            "type": "image",
+            "target_id": "745326"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

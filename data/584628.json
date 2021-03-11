@@ -1,0 +1,95 @@
+{
+    "id": 584628,
+    "title": {
+        "en": "Minutes book of the Caerphilly Branch of Merched y Wawr, which ran from the late 1970s to the early 1990s",
+        "cy": "Llyfr Cofnodion Cangen Caerffili a oedd yn bodoli ar ddiwedd y 1970au tan ddechrau\u2019r 1990au."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584628",
+    "created": 1499871285,
+    "updated": 1499871285,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr Cofnodion Cangen Caerffili a oedd yn bodoli ar ddiwedd y 1970au tan ddechrau\u2019r 1990au.\nMae'n cynnwys Cofnodion a Rhaglenni y gangen o 1977-78 tan 1991-92, ynghyd ag enwau\u2019r Swyddogion.\nTudalen 1 \u2013 Cofnodion Cyfarfod Cyffredinol Haf 1977 31\/5\/77 (a) \u2013 enwau\u2019r swyddogion",
+        "cy": "Llyfr Cofnodion Cangen Caerffili a oedd yn bodoli ar ddiwedd y 1970au tan ddechrau\u2019r 1990au.\nMae'n cynnwys Cofnodion a Rhaglenni y gangen o 1977-78 tan 1991-92, ynghyd ag enwau\u2019r Swyddogion.\nTudalen 1 \u2013 Cofnodion Cyfarfod Cyffredinol Haf 1977 31\/5\/77 (a) \u2013 enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni (nifer o aelodau yn gyn-aelodau yng Nghaerffili)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Cangen Caerffili",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-039.jpg",
+            "type": "image",
+            "target_id": "584624"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-040.jpg",
+            "type": "image",
+            "target_id": "584625"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-041.jpg",
+            "type": "image",
+            "target_id": "584626"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-041_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-041_0.jpg",
+            "type": "image",
+            "target_id": "584627"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

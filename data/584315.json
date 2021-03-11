@@ -1,0 +1,96 @@
+{
+    "id": 584315,
+    "title": {
+        "en": "Merched y Wawr Residential Weekend Programme1999 (Iechyd Da - Good Health)",
+        "cy": "Rhaglen Iechyd Da, Penwythnos Preswyl Merched y Wawr,1999.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584315",
+    "created": 1499870901,
+    "updated": 1499870901,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Iechyd Da, Penwythnos Preswyl Merched y Wawr, 17 \u2013 19 Medi, 1999.  Llandrindod Tudalen flaen",
+        "cy": "Rhaglen Iechyd Da, Penwythnos Preswyl Merched y Wawr, 17 \u2013 19 Medi, 1999.  Llandrindod Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.241437000000",
+            "lon": "-3.377849000000",
+            "description": {
+                "en": "Llandrindod",
+                "cy": "Llandrindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-087.jpg",
+            "type": "image",
+            "target_id": "584311"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-088.jpg",
+            "type": "image",
+            "target_id": "584312"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-089.jpg",
+            "type": "image",
+            "target_id": "584313"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

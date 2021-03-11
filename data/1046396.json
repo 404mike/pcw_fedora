@@ -1,0 +1,70 @@
+{
+    "id": 1046396,
+    "title": {
+        "en": "Transfer Ceremony of National President 2002",
+        "cy": "Seremoni Trosglwyddo Llywydd Cenedlaethol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046396",
+    "created": 1555590201,
+    "updated": 1555590201,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "2 photographs of the ceremony when Catrin Stevens transferred the national Presidency to Gwyneth Morus Jones, in the Theatre during the St David's National Eisteddfod 2002",
+        "cy": "2 lun o Catrin Stevens yn trosglwyddo y Llywyddiaeth Cenedlaethol i Gwyneth Morus Jones yn Theatr y Maes adeg Eisteddfod Tyddewi 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "transfer ceremony of national president 2002",
+        "seremoni trosglwyddo llywyddiaeth cenedlaethol 2002",
+        "Tyddewi"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_031.jpg",
+            "type": "image",
+            "target_id": "1046386"
+        },
+        {
+            "originalFilename": "df_myw_031-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_031-001.jpg",
+            "type": "image",
+            "target_id": "1046391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

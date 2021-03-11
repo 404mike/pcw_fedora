@@ -1,0 +1,75 @@
+{
+    "id": 749371,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth Branch (Newport, Pembs) visit the National Library and celebrate 30th Anniversary",
+        "cy": "Merched y Wawr Trefdraeth yn y Llyfrgell Genedlaethol ac yn Dathlu 30 Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749371",
+    "created": 1516898978,
+    "updated": 1516898978,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad am ymweliad Merched y Wawr Trefdraeth i\u2019r Llyfrgell Genedlaethol (yn ystod blwyddyn canmlwyddiant y Llyfrgell) a swper yn Highbury, Aberteifi wedyn, a hynny er mwyn dathlu penblwydd y Gangen yn 30, Awst 20, 2007.",
+        "cy": "Adroddiad am ymweliad Merched y Wawr Trefdraeth i\u2019r Llyfrgell Genedlaethol (yn ystod blwyddyn canmlwyddiant y Llyfrgell) a swper yn Highbury, Aberteifi wedyn, a hynny er mwyn dathlu penblwydd y Gangen yn 30, Awst 20, 2007."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Trefdraeth"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-041.jpg",
+            "type": "image",
+            "target_id": "749366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

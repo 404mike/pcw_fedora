@@ -1,0 +1,85 @@
+{
+    "id": 622116,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Gwyl Haf, Machynlleth, 2016."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622116",
+    "created": 1511279062,
+    "updated": 1511279062,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Medwen Roberts (Llywydd) yn llongyfarch Sheila Dafis ar ennill y Brif Gystadleuaeth lenyddol yn yr Wyl Haf am yr ail flynedd yn olynol (Machynlleth 2016). Cacen Marian Davies yn llongyfarch Sheila ar ei buddolgiaeth yn ogystal \u00e2 Cath am ennill gwobr am ei erthyglau \u2018As fy meic\u2019.",
+        "cy": "1. Medwen Roberts (Llywydd) yn llongyfarch Sheila Dafis ar ennill y Brif Gystadleuaeth lenyddol yn yr Wyl Haf am yr ail flynedd yn olynol (Machynlleth 2016). Cacen Marian Davies yn llongyfarch Sheila ar ei buddolgiaeth yn ogystal \u00e2 Cath am ennill gwobr am ei erthyglau \u2018As fy meic\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_006.jpg",
+            "type": "image",
+            "target_id": "622106"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

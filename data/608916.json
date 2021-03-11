@@ -1,0 +1,82 @@
+{
+    "id": 608916,
+    "title": {
+        "en": "Merched y Wawr Abergorlech Branch Celebrate 30 Years ",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Dathlu 30 Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608916",
+    "created": 1510752855,
+    "updated": 1510752855,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y wawr Cangen Abergorlech yn Dathlu 30 mlynedd ym Mrechfa yng nghwmni Nan Lewis (a oedd wedi bod yn Lywydd Cenedlaethol 1992 \u2013 1994)\nYn y llun mae Mary Thomas, Betty Thomas, Ceridwen Jones, Betty Thomas, Aerwen Davies, Beti Davies, Fanw Phillips",
+        "cy": "Merched y wawr Cangen Abergorlech yn Dathlu 30 mlynedd ym Mrechfa yng nghwmni Nan Lewis (a oedd wedi bod yn Lywydd Cenedlaethol 1992 \u2013 1994)\nYn y llun mae Mary Thomas, Betty Thomas, Ceridwen Jones, Betty Thomas, Aerwen Davies, Beti Davies, Fanw Phillips"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.951787000000",
+            "lon": "-4.147105000000",
+            "description": {
+                "en": "Brechfa",
+                "cy": "Brechfa"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117011.jpg",
+            "type": "image",
+            "target_id": "608906"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

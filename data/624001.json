@@ -1,0 +1,85 @@
+{
+    "id": 624001,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Denbigh, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Dinbych, Glyn Maelor yn ymweld \u00e2 T\u0177 Gobaith, Mehefin 2004. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624001",
+    "created": 1511279698,
+    "updated": 1511279698,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r Gangen yn ymweld \u00e2 T\u0177 Gobaith, Mehefin 2004. Gwelwn Veronica, Janet, Eluned a Gwenda.",
+        "cy": "Aelodau\u2019r Gangen yn ymweld \u00e2 T\u0177 Gobaith, Mehefin 2004. Gwelwn Veronica, Janet, Eluned a Gwenda."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dinbych",
+    "owner": "Cangen Dinbych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Denbigh",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinbych",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.183592000000",
+            "lon": "-3.422938000000",
+            "description": {
+                "en": "Denbigh",
+                "cy": "Dinbych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_022.jpg",
+            "type": "image",
+            "target_id": "623991"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

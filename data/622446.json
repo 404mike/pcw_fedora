@@ -1,0 +1,116 @@
+{
+    "id": 622446,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Llyfryn dathlu Ysgol Feithrin Llansannan yn 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622446",
+    "created": 1511279169,
+    "updated": 1511279169,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn dathlu Ysgol Feithrin Llansannan yn 40. Cylch meithrin Llansannan oedd y cyntaf yw sefydlu yng Ngymru, yn Hydref 1968. Tudalen diwethaf -  gangen Llanfyllin yn ciniawa yng Nghesty Bodfach ym 1968 i godi arian i\u2019r Cylch Meithrin. Daw\u2019r llun o lyfr \u2018Perlau\u2019r Wawr\u2019.",
+        "cy": "Llyfryn dathlu Ysgol Feithrin Llansannan yn 40. Cylch meithrin Llansannan oedd y cyntaf yw sefydlu yng Ngymru, yn Hydref 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Mudiad Ysgol Meithrin"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_065.jpg",
+            "type": "image",
+            "target_id": "622411"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_066.jpg",
+            "type": "image",
+            "target_id": "622416"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_067.jpg",
+            "type": "image",
+            "target_id": "622421"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_068.jpg",
+            "type": "image",
+            "target_id": "622426"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_069.jpg",
+            "type": "image",
+            "target_id": "622431"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_070.jpg",
+            "type": "image",
+            "target_id": "622436"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

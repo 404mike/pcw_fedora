@@ -1,0 +1,75 @@
+{
+    "id": 750266,
+    "title": {
+        "en": "Y Gwenoliaid Gwawr Club Programme 2011-2012",
+        "cy": "Rhaglen Clwb Gwawr Y Gwenoliaid Tymor 2011 - 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750266",
+    "created": 1516899386,
+    "updated": 1516899386,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Clwb Gwawr Y Gwenoliaid Tymor 2011 - 2012",
+        "cy": "Rhaglen Clwb Gwawr Y Gwenoliaid Tymor 2011 - 2012"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Y Gwenoliaid",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau yng Ng\u0175yl Haf Merched y Wawr Chlybiau",
+        "Clwb Gwawr y Gwenoliaid",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-142.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-142.jpg",
+            "type": "image",
+            "target_id": "750261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

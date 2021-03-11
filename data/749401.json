@@ -1,0 +1,82 @@
+{
+    "id": 749401,
+    "title": {
+        "en": "Merched y Wawr Morriston Branch Celebrates 20 Years",
+        "cy": "Merched y Wawr Treforys yn dathlu 20 mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749401",
+    "created": 1516898988,
+    "updated": 1516898988,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Teisen dathlu gan Teifi Davies ar achlysur Merched y Wawr Treforys yn dathlu 20 mlynedd.  Cafodd y gangen barti yn y Tabernacl a\u2019r siaradwrag oedd Mrs Catherine Watkins, sef gwraig cyn-weinidog y capel, Y Parchedig John Watkin.  Ei neges i ni gyd oedd i warchod ein hiaith a\u2019n diwylliant trwy fynychu cyfarfodydd y mudiad.",
+        "cy": "Teisen dathlu gan Teifi Davies ar achlysur Merched y Wawr Treforys yn dathlu 20 mlynedd.  Cafodd y gangen barti yn y Tabernacl a\u2019r siaradwrag oedd Mrs Catherine Watkins, sef gwraig cyn-weinidog y capel, Y Parchedig John Watkin.  Ei neges i ni gyd oedd i warchod ein hiaith a\u2019n diwylliant trwy fynychu cyfarfodydd y mudiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Treforys",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.663314000000",
+            "lon": "-3.925200000000",
+            "description": {
+                "en": "Capel Tabernacl, Treforys",
+                "cy": "Capel Tabernacl, Treforys"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-130.jpg",
+            "type": "image",
+            "target_id": "749391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

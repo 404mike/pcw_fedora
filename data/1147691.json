@@ -1,0 +1,64 @@
+{
+    "id": 1147691,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2017",
+        "cy": "Sioe Frenhinol Llanelwedd 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147691",
+    "created": 1562065468,
+    "updated": 1562065468,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The Eisteddfod Crown that was presented to the Anglesey  National Eisteddfod 2017 by MyW to celebrate 50 years. The crown was designed and made by John Price, Machynlleth.",
+        "cy": "Y goron a gyflwynwyd i Eisteddfod Genedlaethol M\u00f4n gan MyW i ddathlu 50 oed y Mudiad. Crewyd y goron gan John Price, Machynlleth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Royal Welsh Show",
+        "Builth",
+        "sioe frenhinol llanelwedd 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_943.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_943.jpg",
+            "type": "image",
+            "target_id": "1147686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

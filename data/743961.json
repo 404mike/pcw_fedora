@@ -1,0 +1,75 @@
+{
+    "id": 743961,
+    "title": {
+        "en": "Merched y Wawr Bro Gwili 10th Anniversary",
+        "cy": "Merched y Wawr Bro Gwili yn Dathlu 10"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743961",
+    "created": 1516896083,
+    "updated": 1516896083,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cacen dathlu Merched y Wawr Cangen Bro Gwili ym 1990, pan roedd y gangen yn dathlu penblwydd yn 10 oed.",
+        "cy": "Cacen dathlu Merched y Wawr Cangen Bro Gwili ym 1990, pan roedd y gangen yn dathlu penblwydd yn 10 oed."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Gwili",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Gwili",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Bro%20Gwili%20Cacen%20Dathlu.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Bro%2520Gwili%2520Cacen%2520Dathlu.jpg",
+            "type": "image",
+            "target_id": "743956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

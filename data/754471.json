@@ -1,0 +1,86 @@
+{
+    "id": 754471,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Parc, Meirionnydd",
+        "cy": "Casgliad o luniau a dogfennau gan gangen Merched y Wawr y Parc, Meirionnydd. Cangen gyntaf y Mudiad. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754471",
+    "created": 1516958744,
+    "updated": 1516958744,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau gan Eirian Roberts, aelod o Gangen y Parc, ses cangen cyntaf \/ sefydlu\u2019r Mudiad nol ym 1967. Yma welwn Sylwen Lloyd Davies fel Llywydd Rhanbarth Meirionnydd ag Is-Lywydd Cenedlaethol y Mudiad ym mhabell y Mudiad yn Eisteddfod Genedlaethol Meirionnydd ym 1997.",
+        "cy": "Casgliad o luniau gan Eirian Roberts, aelod o Gangen y Parc, ses cangen cyntaf \/ sefydlu\u2019r Mudiad nol ym 1967. Yma welwn Sylwen Lloyd Davies fel Llywydd Rhanbarth Meirionnydd ag Is-Lywydd Cenedlaethol y Mudiad ym mhabell y Mudiad yn Eisteddfod Genedlaethol Meirionnydd ym 1997."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Parc",
+    "owner": "Cangen y Parc",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Y Parc",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Parc",
+        "Pererindod y Parc",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890620000000",
+            "lon": "-3.671856000000",
+            "description": {
+                "en": "Y Parc ",
+                "cy": "Y Parc"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_EIRIANROBERTS_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_EIRIANROBERTS_002.jpg",
+            "type": "image",
+            "target_id": "754461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

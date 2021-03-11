@@ -1,0 +1,67 @@
+{
+    "id": 1050211,
+    "title": {
+        "en": "Christmas Fair 2012",
+        "cy": "Ffair Aeaf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050211",
+    "created": 1555592231,
+    "updated": 1555592231,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members busy on the MyW stand.",
+        "cy": "Aelodau yn brysur ar stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Christmas Fair",
+        "l",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_446.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_446.jpg",
+            "type": "image",
+            "target_id": "1050206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

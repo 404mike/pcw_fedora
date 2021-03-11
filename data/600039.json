@@ -1,0 +1,115 @@
+{
+    "id": 600039,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Eigiau, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Eigiau, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600039",
+    "created": 1502447179,
+    "updated": 1502447179,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o waith llaw\/ crefft gan aelodau\u2019r gangen. Yma ceir 2 eitem yn defnyddio botymau o Sioe Llanrwst 2015.",
+        "cy": "Casgliad o luniau o waith llaw\/ crefft gan aelodau\u2019r gangen. Yma ceir 2 eitem yn defnyddio botymau o Sioe Llanrwst 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Eigiau",
+    "owner": "Cangen Eigiau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Eigiau",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Eigiau",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.201950000000",
+            "lon": "-3.847700000000",
+            "description": {
+                "en": "Eigiau",
+                "cy": "Eigiau"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_019.jpg",
+            "type": "image",
+            "target_id": "600032"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_020.jpg",
+            "type": "image",
+            "target_id": "600033"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_021.jpg",
+            "type": "image",
+            "target_id": "600034"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_041.jpg",
+            "type": "image",
+            "target_id": "600035"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_042.jpg",
+            "type": "image",
+            "target_id": "600036"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_EIGIAU_043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_EIGIAU_043.jpg",
+            "type": "image",
+            "target_id": "600037"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

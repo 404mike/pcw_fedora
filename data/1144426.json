@@ -1,0 +1,66 @@
+{
+    "id": 1144426,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2014",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144426",
+    "created": 1562061905,
+    "updated": 1562061905,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elen Pencwm, adjudicator of the Sketch based on the theme Drama, Learners and Goodness.",
+        "cy": "Elen Pencwm, beirniad y sgets wedi ei seilio ar Drama, Dysgwyr, Daioni."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "summer festival",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "elen pencwm"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_569.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_569.jpg",
+            "type": "image",
+            "target_id": "1144421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

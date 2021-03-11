@@ -1,0 +1,92 @@
+{
+    "id": 627016,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanddeusant, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanddeusant, Rhanbarth M\u00f4n. Capsiwl amser Merched y Wawr, y Bala 1998. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627016",
+    "created": 1511280686,
+    "updated": 1511280686,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Detholiad a luniau\/ cyfraniad Cangen Llanddeusant i capsiwl amser Merched y Wawr, y Bala 1998.",
+        "cy": "Detholiad a luniau\/ cyfraniad Cangen Llanddeusant i capsiwl amser Merched y Wawr, y Bala 1998."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddeusant",
+    "owner": "Cangen Llanddeusant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanddeusant",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddeusant",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.338113000000",
+            "lon": "-4.485818000000",
+            "description": {
+                "en": "Llanddeusant",
+                "cy": "Llanddeusant"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_016.jpg",
+            "type": "image",
+            "target_id": "627001"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_LLANDDEUSANT_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANDDEUSANT_017.jpg",
+            "type": "image",
+            "target_id": "627006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

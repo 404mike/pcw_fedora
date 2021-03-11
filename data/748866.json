@@ -1,0 +1,82 @@
+{
+    "id": 748866,
+    "title": {
+        "en": "Merched y Wawr Talgarreg Branch Artwork",
+        "cy": "Gwaith Celf Merched y Wawr Cangen Talgarreg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748866",
+    "created": 1516898738,
+    "updated": 1516898738,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Roedd gan Cangen Talgarreg traddodiad o gynnal cyfres o weithdai amrywiol yn ystod y tymor \u2013 ee Gwaith basgedi, tapestri, coginio a gwn\u00efo.  Fe gawsant gwmni Caradog Williams fel tiwtor ar sawl tymor.  \nYn y llun mae enghraifft o\u2019r gwaith celf a gr\u00ebwyd dan gyfarwyddyd Caradog Williams \u2013 gwaith Mary Davies o\u2019r gangen.",
+        "cy": "Roedd gan Cangen Talgarreg traddodiad o gynnal cyfres o weithdai amrywiol yn ystod y tymor \u2013 ee Gwaith basgedi, tapestri, coginio a gwn\u00efo.  Fe gawsant gwmni Caradog Williams fel tiwtor ar sawl tymor.  \nYn y llun mae enghraifft o\u2019r gwaith celf a gr\u00ebwyd dan gyfarwyddyd Caradog Williams \u2013 gwaith Mary Davies o\u2019r gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Talgarreg",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Talgarreg",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.136830000000",
+            "lon": "-4.302740000000",
+            "description": {
+                "en": "Talgarreg",
+                "cy": "Talgarreg"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "20170315_134844.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/20170315_134844.jpg",
+            "type": "image",
+            "target_id": "748856"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

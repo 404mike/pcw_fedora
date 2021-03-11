@@ -1,0 +1,77 @@
+{
+    "id": 1046936,
+    "title": {
+        "en": "Annual Meeting 2005",
+        "cy": "Cyfarfod Blynyddol 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046936",
+    "created": 1555590619,
+    "updated": 1555590619,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 Photographs from the Annual Meeing at the Tabernacle Machynlleth 20025. Entertainment competition on the theme 'Hysbyseb Wreiddiol'.",
+        "cy": "3 Llun o'r Cyfarfod Blynyddol 2005 yn y Tabernacl, Machynlleth. Detholiad o gystadleuaeth adloniant 'Hysbyseb Wreiddiol'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2005",
+        "entertainment competition",
+        "cyfarfod blynyddol 2005",
+        "cystadleuaeth adloniant"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_076.jpg",
+            "type": "image",
+            "target_id": "1046921"
+        },
+        {
+            "originalFilename": "df_myw_076-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_076-001.jpg",
+            "type": "image",
+            "target_id": "1046926"
+        },
+        {
+            "originalFilename": "df_myw_076-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_076-002.jpg",
+            "type": "image",
+            "target_id": "1046931"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

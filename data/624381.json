@@ -1,0 +1,85 @@
+{
+    "id": 624381,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor",
+        "cy": "Gwibdaith cangen Merched y Wawr Llanfair Dyffryn Clwyd, Glyn Maelor i Gastell y Waen, 2004."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624381",
+    "created": 1511279818,
+    "updated": 1511279818,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y Gangen yn 2004 i Gastell y Waen. Gwelwn: Anwen Jones, Mai Williams, Gwenfron Jones, Beti Lloyd, Evelyn Jones, Olwen Gwent, Ceinwen Jones, Alys Lloyd.",
+        "cy": "Gwibdaith y Gangen yn 2004 i Gastell y Waen. Gwelwn: Anwen Jones, Mai Williams, Gwenfron Jones, Beti Lloyd, Evelyn Jones, Olwen Gwent, Ceinwen Jones, Alys Lloyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Dyffryn Clwyd",
+    "owner": "Cangen Llanfair Dyffryn Clwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Dyffryn Clwyd",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfair Dyffryn Clwyd",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.089706000000",
+            "lon": "-3.294789000000",
+            "description": {
+                "en": "Llanfair Dyffryn Clwyd",
+                "cy": "Llanfair Dyffryn Clwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_LLANFAIRDYFFRYNCLWYD_008.jpg",
+            "type": "image",
+            "target_id": "624371"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

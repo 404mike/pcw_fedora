@@ -1,0 +1,84 @@
+{
+    "id": 584095,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Trip to Cardiff 2007",
+        "cy": "Merched y Wawr Cangen Maenclochog - Trip i Gaerdydd 2007\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584095",
+    "created": 1499870346,
+    "updated": 1499870346,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog\nCafwyd arian Loteri i fynd i Gaerdydd.  Medi 2007.  Barod i fynd ar y tren ffordd Bae Caerdydd.  \nRhes gefn \u2013 Peggy Phillips, Ann Morris a Mai Morris\nRhes flaen \u2013 Beryl John, Eirianwen Thomas, Maureen George a Mary Llewellyn",
+        "cy": "Merched y Wawr Maenclochog\nCafwyd arian Loteri i fynd i Gaerdydd.  Medi 2007.  Barod i fynd ar y tren ffordd Bae Caerdydd.  \nRhes gefn \u2013 Peggy Phillips, Ann Morris a Mai Morris\nRhes flaen \u2013 Beryl John, Eirianwen Thomas, Maureen George a Mary Llewellyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463110000000",
+            "lon": "-3.164545000000",
+            "description": {
+                "en": "Bae Caerdydd",
+                "cy": "Bae Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-045.jpg",
+            "type": "image",
+            "target_id": "584093"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1149156,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2006",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149156",
+    "created": 1562066121,
+    "updated": 1562066121,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tippit \u2013 1st Bro Ddyfi, Maldwyn",
+        "cy": "Dewis Dau Ddwrn \u2013 1af Bro Ddyfi, Maldwyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_115.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_115.jpg",
+            "type": "image",
+            "target_id": "1149151"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

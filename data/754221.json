@@ -1,0 +1,85 @@
+{
+    "id": 754221,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Trawsfynydd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Trawsfynydd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/754221",
+    "created": 1516958685,
+    "updated": 1516958685,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o daith Cangen Trawsfynydd i wlad Belg, ym 1987, i ymweld \u00e2 cofeb blodau er c\u00f4f am Hedd Wyn yn Ebrilll 1977 yng Ngapel Sant Sior Ypres. Gwelwn: Y Gwenidog, Annie Williams, Deilwen Evans, Mair Thomas, Nansi Thomas.",
+        "cy": "Llun o daith Cangen Trawsfynydd i wlad Belg, ym 1987, i ymweld \u00e2 cofeb blodau er c\u00f4f am Hedd Wyn yn Ebrilll 1977 yng Ngapel Sant Sior Ypres. Gwelwn: Y Gwenidog, Annie Williams, Deilwen Evans, Mair Thomas, Nansi Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Trawsfynydd",
+    "owner": "Cangen Trawsfynydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Trawsfynydd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trawsfynydd",
+        "hedd wyn"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.902317000000",
+            "lon": "-3.923549000000",
+            "description": {
+                "en": "Trawsfynydd",
+                "cy": "Trawsfynydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_TRAWSFYNYDD_007.jpg",
+            "type": "image",
+            "target_id": "754211"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

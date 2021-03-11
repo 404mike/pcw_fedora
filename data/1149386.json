@@ -1,0 +1,64 @@
+{
+    "id": 1149386,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2010",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149386",
+    "created": 1562066273,
+    "updated": 1562066273,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Whist \u20131st Nantgaredig, Carmarthenshire",
+        "cy": "Chwist \u2013 1af Nantgaredig, Caerfyrddin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_138.jpg",
+            "type": "image",
+            "target_id": "1149381"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

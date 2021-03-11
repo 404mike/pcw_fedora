@@ -1,0 +1,85 @@
+{
+    "id": 627476,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Rhosmeirch, Anglesey.",
+        "cy": "Cangen Merched y Wawr Rhosmeirch, Rhanbarth M\u00f4n. Dathlu ei phenblwydd yn ugain - Gorffennaf 1988."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627476",
+    "created": 1511280839,
+    "updated": 1511280839,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhosmeirch yn dathlu ei phenblwydd yn ugain - Gorffennaf 1988. Cacen gan Mrs Enid Williams (Ysg. 1af y gangen) a wedi\u2019i harddurno gan Mrs Ann Jones.",
+        "cy": "Cangen Rhosmeirch yn dathlu ei phenblwydd yn ugain - Gorffennaf 1988. Cacen gan Mrs Enid Williams (Ysg. 1af y gangen) a wedi\u2019i harddurno gan Mrs Ann Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhosmeirch",
+    "owner": "Cangen Rhosmeirch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhosmeirch Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhosmeirch",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275049000000",
+            "lon": "-4.311482000000",
+            "description": {
+                "en": "Rhosmeirch",
+                "cy": "Rhosmeirch"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_RHOSMEIRCH007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_RHOSMEIRCH007.jpg",
+            "type": "image",
+            "target_id": "627466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

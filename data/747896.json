@@ -1,0 +1,75 @@
+{
+    "id": 747896,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Merched y Wawr Cangen Penrhyncoch yng nghystadleuaeth \u2018Anrhegion o Gymru\u2019 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747896",
+    "created": 1516898327,
+    "updated": 1516898327,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Yn 1988 fe wnaeth Merched y Wawr Cangen Penrhyncoch gynrychioli Rhanbarth Ceredigion yng nghystadleuaeth Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd dan y thema \u2018Anrhegion o Gymru\u2019.  Dyma\u2019r taflen pwyntiau gan y beirniad yn y Sioe.",
+        "cy": "Yn 1988 fe wnaeth Merched y Wawr Cangen Penrhyncoch gynrychioli Rhanbarth Ceredigion yng nghystadleuaeth Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd dan y thema \u2018Anrhegion o Gymru\u2019.  Dyma\u2019r taflen pwyntiau gan y beirniad yn y Sioe."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Penrhyncoch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Penrhyncoch"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-258_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-258_0.jpg",
+            "type": "image",
+            "target_id": "747891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

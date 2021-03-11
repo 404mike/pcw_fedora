@@ -1,0 +1,84 @@
+{
+    "id": 747541,
+    "title": {
+        "en": "Merched y Wawr Mynachlogddu Celebrates Forty Years",
+        "cy": "Merched y Wawr Mynachlogddu yn dathlu Penblwydd yn ddeugain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747541",
+    "created": 1516897769,
+    "updated": 1516897769,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o bwyllgor gwreiddiol Merched y Wawr Cangen Mynachlogddu, a sefydlwyd yn Medi 1973, yn torri cacen dathlu deugain y gangen yng Ngwesty Nantyffin, Llandysilio, Tachwedd 7, 2014.\nHaulwen Parri Roberys (Trysorydd Cyntaf), Cymraes Davies (Ysgrifennydd Cyntaf), Barbara Williams (Llywydd Cyntaf), Eileen Griffiths (Is-Lywydd Cyntaf)",
+        "cy": "Llun o bwyllgor gwreiddiol Merched y Wawr Cangen Mynachlogddu, a sefydlwyd yn Medi 1973, yn torri cacen dathlu deugain y gangen yng Ngwesty Nantyffin, Llandysilio, Tachwedd 7, 2014.\nHaulwen Parri Roberys (Trysorydd Cyntaf), Cymraes Davies (Ysgrifennydd Cyntaf), Barbara Williams (Llywydd Cyntaf), Eileen Griffiths (Is-Lywydd Cyntaf)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynachlogddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Mynachlogddu"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853780000000",
+            "lon": "-4.728459000000",
+            "description": {
+                "en": "Gwesty Nantyffin, Llandysilio",
+                "cy": "Gwesty Nantyffin, Llandysilio"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-102.jpg",
+            "type": "image",
+            "target_id": "747531"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

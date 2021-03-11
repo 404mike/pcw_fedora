@@ -1,0 +1,75 @@
+{
+    "id": 612776,
+    "title": {
+        "en": "A Letter from the Carmarthenshire Urdd Eisteddfod Committee thanking Llanddarog Branch of Merched y Wawr ",
+        "cy": "Llythyr gan Bwyllgor Ap\u00eal Eisteddfod yr Urdd Sir G\u00e2r i Ferched y Wawr Cangen Llanddarog "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612776",
+    "created": 1510753787,
+    "updated": 1510753787,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr (Rhagfyr 9, 2005) gan Bwyllgor Ap\u00eal Eisteddfod yr Urdd Sir G\u00e2r 2007 i Ferched y Wawr Cangen Llanddarog i ddiolch am y cyfraniad ariannol o \u00a3300.",
+        "cy": "Llythyr (Rhagfyr 9, 2005) gan Bwyllgor Ap\u00eal Eisteddfod yr Urdd Sir G\u00e2r 2007 i Ferched y Wawr Cangen Llanddarog i ddiolch am y cyfraniad ariannol o \u00a3300."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_160.jpg",
+            "type": "image",
+            "target_id": "612771"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

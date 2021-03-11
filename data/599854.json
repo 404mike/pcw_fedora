@@ -1,0 +1,85 @@
+{
+    "id": 599854,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mochdre, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mochdre, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599854",
+    "created": 1502446973,
+    "updated": 1502446973,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith cangen Mochdre i Meithrinfa Glyndwr, Corwen, 2015. (cefn) Ann Roberts, Eluned Davies, Iona Webster, Catherine Jones, Beryl DAvies, Annwen Edwards, Glenys Williams, Doreen Davies, Rhiannon Parry, Eluned Jones (canol) Helen Jones, Shirley Carruthers, Morfudd Bellis, Mona Gliss, (blaen) Eirlys Hughes, Gwenda Williams, Gaynor Jones, Dulun Waters, Hafwen Williams, Rhiannon Dart, Julie Williams.",
+        "cy": "Gwibdaith cangen Mochdre i Meithrinfa Glyndwr, Corwen, 2015. (cefn) Ann Roberts, Eluned Davies, Iona Webster, Catherine Jones, Beryl DAvies, Annwen Edwards, Glenys Williams, Doreen Davies, Rhiannon Parry, Eluned Jones (canol) Helen Jones, Shirley Carruthers, Morfudd Bellis, Mona Gliss, (blaen) Eirlys Hughes, Gwenda Williams, Gaynor Jones, Dulun Waters, Hafwen Williams, Rhiannon Dart, Julie Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mochdre",
+    "owner": "Cangen Mochdre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mochdre Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mochdre",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293500000000",
+            "lon": "-3.761071000000",
+            "description": {
+                "en": "Mochdre",
+                "cy": "Mochdre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_MOCHDRE_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_MOCHDRE_001.jpg",
+            "type": "image",
+            "target_id": "599852"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

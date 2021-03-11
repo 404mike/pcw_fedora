@@ -1,0 +1,65 @@
+{
+    "id": 1145126,
+    "title": {
+        "en": "President's Dinner at Victoria Hotel, Llanberis, 2015",
+        "cy": "Cinio Llywydd yn y Gogledd \u2013 Gwesty Victoria, Llanberis 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145126",
+    "created": 1562062719,
+    "updated": 1562062719,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Entertainment by Steffan Rhys Hughes and Ceri Haf Richards.",
+        "cy": "Adloniant gan Steffan Rhys Hughes a Ceri Haf Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Llanberis",
+        "2015",
+        "cinio llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_650.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_650.jpg",
+            "type": "image",
+            "target_id": "1145121"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,71 @@
+{
+    "id": 470431,
+    "title": {
+        "en": "Corris, Meirionethshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Corris, Meirionnydd i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470431",
+    "created": 1441700732,
+    "updated": 1441700732,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Corris, Meirionethshire branch of Merched y Wawr. It contains a list of names of smallholdings and buildings that have disappeared in the parish of Talyllyn.",
+        "cy": "Gwybodaeth am waith cangen Corris, Meirionnydd o Ferched y Wawr. Mae'n cynnwys rhestr o enwau Tyddynnod ac Adeiladau sydd wedi diflannu ym Mhlwy Talyllyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10592.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10592.jpg",
+            "type": "image",
+            "target_id": "470428"
+        },
+        {
+            "originalFilename": "pcw001_10593.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10593.jpg",
+            "type": "image",
+            "target_id": "470429"
+        },
+        {
+            "originalFilename": "pcw001_10594.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10594.jpg",
+            "type": "image",
+            "target_id": "470430"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10592",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584009,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth (Newport) Branch - One Brave Man",
+        "cy": "Merched y Wawr Cangen Trefdraeth - Un dyn dewr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584009",
+    "created": 1499870224,
+    "updated": 1499870224,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Un dyn dewr, Rob Williams yn rhoi bocs adar Merched y Wawr Trefdraeth yn ddiogel ar goeden yn Ysgol Bro Ingli gyda Ann Rees yn cadw llygad ofalus.  2012",
+        "cy": "Un dyn dewr, Rob Williams yn rhoi bocs adar Merched y Wawr Trefdraeth yn ddiogel ar goeden yn Ysgol Bro Ingli gyda Ann Rees yn cadw llygad ofalus.  2012"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": " Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trefdraeth",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.018681000000",
+            "lon": "-4.831505000000",
+            "description": {
+                "en": "Ysgol Bro Ingli, Trefdraeth",
+                "cy": "Ysgol Bro Ingli, Trefdraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-008.jpg",
+            "type": "image",
+            "target_id": "584007"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,1221 @@
+{
+    "id": 814551,
+    "title": {
+        "en": "Llanddarog Branch scrapbook",
+        "cy": "Llyfr lloffion Cangen Llanddarog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/814551",
+    "created": 1523360102,
+    "updated": 1523360102,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanddarog",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Llanddarog00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00001.jpg",
+            "type": "image",
+            "target_id": "813591"
+        },
+        {
+            "originalFilename": "Llanddarog00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00002.jpg",
+            "type": "image",
+            "target_id": "813596"
+        },
+        {
+            "originalFilename": "Llanddarog00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00003.jpg",
+            "type": "image",
+            "target_id": "813601"
+        },
+        {
+            "originalFilename": "Llanddarog00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00004.jpg",
+            "type": "image",
+            "target_id": "813606"
+        },
+        {
+            "originalFilename": "Llanddarog00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00005.jpg",
+            "type": "image",
+            "target_id": "813611"
+        },
+        {
+            "originalFilename": "Llanddarog00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00006.jpg",
+            "type": "image",
+            "target_id": "813616"
+        },
+        {
+            "originalFilename": "Llanddarog00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00007.jpg",
+            "type": "image",
+            "target_id": "813621"
+        },
+        {
+            "originalFilename": "Llanddarog00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00008.jpg",
+            "type": "image",
+            "target_id": "813626"
+        },
+        {
+            "originalFilename": "Llanddarog00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00009.jpg",
+            "type": "image",
+            "target_id": "813631"
+        },
+        {
+            "originalFilename": "Llanddarog00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00010.jpg",
+            "type": "image",
+            "target_id": "813636"
+        },
+        {
+            "originalFilename": "Llanddarog00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00011.jpg",
+            "type": "image",
+            "target_id": "813641"
+        },
+        {
+            "originalFilename": "Llanddarog00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00012.jpg",
+            "type": "image",
+            "target_id": "813646"
+        },
+        {
+            "originalFilename": "Llanddarog00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00013.jpg",
+            "type": "image",
+            "target_id": "813651"
+        },
+        {
+            "originalFilename": "Llanddarog00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00014.jpg",
+            "type": "image",
+            "target_id": "813656"
+        },
+        {
+            "originalFilename": "Llanddarog00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00015.jpg",
+            "type": "image",
+            "target_id": "813661"
+        },
+        {
+            "originalFilename": "Llanddarog00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00016.jpg",
+            "type": "image",
+            "target_id": "813666"
+        },
+        {
+            "originalFilename": "Llanddarog00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00017.jpg",
+            "type": "image",
+            "target_id": "813671"
+        },
+        {
+            "originalFilename": "Llanddarog00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00018.jpg",
+            "type": "image",
+            "target_id": "813676"
+        },
+        {
+            "originalFilename": "Llanddarog00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00019.jpg",
+            "type": "image",
+            "target_id": "813681"
+        },
+        {
+            "originalFilename": "Llanddarog00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00020.jpg",
+            "type": "image",
+            "target_id": "813686"
+        },
+        {
+            "originalFilename": "Llanddarog00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00021.jpg",
+            "type": "image",
+            "target_id": "813691"
+        },
+        {
+            "originalFilename": "Llanddarog00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00022.jpg",
+            "type": "image",
+            "target_id": "813696"
+        },
+        {
+            "originalFilename": "Llanddarog00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00023.jpg",
+            "type": "image",
+            "target_id": "813701"
+        },
+        {
+            "originalFilename": "Llanddarog00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00024.jpg",
+            "type": "image",
+            "target_id": "813706"
+        },
+        {
+            "originalFilename": "Llanddarog00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00025.jpg",
+            "type": "image",
+            "target_id": "813711"
+        },
+        {
+            "originalFilename": "Llanddarog00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00026.jpg",
+            "type": "image",
+            "target_id": "813716"
+        },
+        {
+            "originalFilename": "Llanddarog00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00027.jpg",
+            "type": "image",
+            "target_id": "813721"
+        },
+        {
+            "originalFilename": "Llanddarog00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00028.jpg",
+            "type": "image",
+            "target_id": "813726"
+        },
+        {
+            "originalFilename": "Llanddarog00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00029.jpg",
+            "type": "image",
+            "target_id": "813731"
+        },
+        {
+            "originalFilename": "Llanddarog00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00030.jpg",
+            "type": "image",
+            "target_id": "813736"
+        },
+        {
+            "originalFilename": "Llanddarog00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00031.jpg",
+            "type": "image",
+            "target_id": "813741"
+        },
+        {
+            "originalFilename": "Llanddarog00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00032.jpg",
+            "type": "image",
+            "target_id": "813746"
+        },
+        {
+            "originalFilename": "Llanddarog00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00033.jpg",
+            "type": "image",
+            "target_id": "813751"
+        },
+        {
+            "originalFilename": "Llanddarog00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00034.jpg",
+            "type": "image",
+            "target_id": "813756"
+        },
+        {
+            "originalFilename": "Llanddarog00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00035.jpg",
+            "type": "image",
+            "target_id": "813761"
+        },
+        {
+            "originalFilename": "Llanddarog00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00036.jpg",
+            "type": "image",
+            "target_id": "813766"
+        },
+        {
+            "originalFilename": "Llanddarog00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00037.jpg",
+            "type": "image",
+            "target_id": "813771"
+        },
+        {
+            "originalFilename": "Llanddarog00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00038.jpg",
+            "type": "image",
+            "target_id": "813776"
+        },
+        {
+            "originalFilename": "Llanddarog00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00039.jpg",
+            "type": "image",
+            "target_id": "813781"
+        },
+        {
+            "originalFilename": "Llanddarog00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00040.jpg",
+            "type": "image",
+            "target_id": "813786"
+        },
+        {
+            "originalFilename": "Llanddarog00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00041.jpg",
+            "type": "image",
+            "target_id": "813791"
+        },
+        {
+            "originalFilename": "Llanddarog00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00042.jpg",
+            "type": "image",
+            "target_id": "813796"
+        },
+        {
+            "originalFilename": "Llanddarog00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00043.jpg",
+            "type": "image",
+            "target_id": "813801"
+        },
+        {
+            "originalFilename": "Llanddarog00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00044.jpg",
+            "type": "image",
+            "target_id": "813806"
+        },
+        {
+            "originalFilename": "Llanddarog00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00045.jpg",
+            "type": "image",
+            "target_id": "813811"
+        },
+        {
+            "originalFilename": "Llanddarog00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00046.jpg",
+            "type": "image",
+            "target_id": "813816"
+        },
+        {
+            "originalFilename": "Llanddarog00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00047.jpg",
+            "type": "image",
+            "target_id": "813821"
+        },
+        {
+            "originalFilename": "Llanddarog00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00048.jpg",
+            "type": "image",
+            "target_id": "813826"
+        },
+        {
+            "originalFilename": "Llanddarog00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00049.jpg",
+            "type": "image",
+            "target_id": "813831"
+        },
+        {
+            "originalFilename": "Llanddarog00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00050.jpg",
+            "type": "image",
+            "target_id": "813836"
+        },
+        {
+            "originalFilename": "Llanddarog00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00051.jpg",
+            "type": "image",
+            "target_id": "813841"
+        },
+        {
+            "originalFilename": "Llanddarog00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00052.jpg",
+            "type": "image",
+            "target_id": "813846"
+        },
+        {
+            "originalFilename": "Llanddarog00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00053.jpg",
+            "type": "image",
+            "target_id": "813851"
+        },
+        {
+            "originalFilename": "Llanddarog00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00054.jpg",
+            "type": "image",
+            "target_id": "813856"
+        },
+        {
+            "originalFilename": "Llanddarog00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00055.jpg",
+            "type": "image",
+            "target_id": "813861"
+        },
+        {
+            "originalFilename": "Llanddarog00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00056.jpg",
+            "type": "image",
+            "target_id": "813866"
+        },
+        {
+            "originalFilename": "Llanddarog00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00057.jpg",
+            "type": "image",
+            "target_id": "813871"
+        },
+        {
+            "originalFilename": "Llanddarog00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00058.jpg",
+            "type": "image",
+            "target_id": "813876"
+        },
+        {
+            "originalFilename": "Llanddarog00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00059.jpg",
+            "type": "image",
+            "target_id": "813881"
+        },
+        {
+            "originalFilename": "Llanddarog00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00060.jpg",
+            "type": "image",
+            "target_id": "813886"
+        },
+        {
+            "originalFilename": "Llanddarog00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00061.jpg",
+            "type": "image",
+            "target_id": "813891"
+        },
+        {
+            "originalFilename": "Llanddarog00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00062.jpg",
+            "type": "image",
+            "target_id": "813896"
+        },
+        {
+            "originalFilename": "Llanddarog00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00063.jpg",
+            "type": "image",
+            "target_id": "813901"
+        },
+        {
+            "originalFilename": "Llanddarog00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00064.jpg",
+            "type": "image",
+            "target_id": "813906"
+        },
+        {
+            "originalFilename": "Llanddarog00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00065.jpg",
+            "type": "image",
+            "target_id": "813911"
+        },
+        {
+            "originalFilename": "Llanddarog00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00066.jpg",
+            "type": "image",
+            "target_id": "813916"
+        },
+        {
+            "originalFilename": "Llanddarog00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00067.jpg",
+            "type": "image",
+            "target_id": "813921"
+        },
+        {
+            "originalFilename": "Llanddarog00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00068.jpg",
+            "type": "image",
+            "target_id": "813926"
+        },
+        {
+            "originalFilename": "Llanddarog00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00069.jpg",
+            "type": "image",
+            "target_id": "813931"
+        },
+        {
+            "originalFilename": "Llanddarog00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00070.jpg",
+            "type": "image",
+            "target_id": "813936"
+        },
+        {
+            "originalFilename": "Llanddarog00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00071.jpg",
+            "type": "image",
+            "target_id": "813941"
+        },
+        {
+            "originalFilename": "Llanddarog00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00072.jpg",
+            "type": "image",
+            "target_id": "813946"
+        },
+        {
+            "originalFilename": "Llanddarog00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00073.jpg",
+            "type": "image",
+            "target_id": "813951"
+        },
+        {
+            "originalFilename": "Llanddarog00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00074.jpg",
+            "type": "image",
+            "target_id": "813956"
+        },
+        {
+            "originalFilename": "Llanddarog00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00075.jpg",
+            "type": "image",
+            "target_id": "813961"
+        },
+        {
+            "originalFilename": "Llanddarog00076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00076.jpg",
+            "type": "image",
+            "target_id": "813966"
+        },
+        {
+            "originalFilename": "Llanddarog00077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00077.jpg",
+            "type": "image",
+            "target_id": "813971"
+        },
+        {
+            "originalFilename": "Llanddarog00078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00078.jpg",
+            "type": "image",
+            "target_id": "813976"
+        },
+        {
+            "originalFilename": "Llanddarog00079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00079.jpg",
+            "type": "image",
+            "target_id": "813981"
+        },
+        {
+            "originalFilename": "Llanddarog00080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00080.jpg",
+            "type": "image",
+            "target_id": "813986"
+        },
+        {
+            "originalFilename": "Llanddarog00081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00081.jpg",
+            "type": "image",
+            "target_id": "813991"
+        },
+        {
+            "originalFilename": "Llanddarog00082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00082.jpg",
+            "type": "image",
+            "target_id": "813996"
+        },
+        {
+            "originalFilename": "Llanddarog00083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00083.jpg",
+            "type": "image",
+            "target_id": "814001"
+        },
+        {
+            "originalFilename": "Llanddarog00084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00084.jpg",
+            "type": "image",
+            "target_id": "814006"
+        },
+        {
+            "originalFilename": "Llanddarog00085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00085.jpg",
+            "type": "image",
+            "target_id": "814011"
+        },
+        {
+            "originalFilename": "Llanddarog00086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00086.jpg",
+            "type": "image",
+            "target_id": "814016"
+        },
+        {
+            "originalFilename": "Llanddarog00087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00087.jpg",
+            "type": "image",
+            "target_id": "814021"
+        },
+        {
+            "originalFilename": "Llanddarog00088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00088.jpg",
+            "type": "image",
+            "target_id": "814026"
+        },
+        {
+            "originalFilename": "Llanddarog00089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00089.jpg",
+            "type": "image",
+            "target_id": "814031"
+        },
+        {
+            "originalFilename": "Llanddarog00090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00090.jpg",
+            "type": "image",
+            "target_id": "814036"
+        },
+        {
+            "originalFilename": "Llanddarog00091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00091.jpg",
+            "type": "image",
+            "target_id": "814041"
+        },
+        {
+            "originalFilename": "Llanddarog00092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00092.jpg",
+            "type": "image",
+            "target_id": "814046"
+        },
+        {
+            "originalFilename": "Llanddarog00093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00093.jpg",
+            "type": "image",
+            "target_id": "814051"
+        },
+        {
+            "originalFilename": "Llanddarog00094.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00094.jpg",
+            "type": "image",
+            "target_id": "814056"
+        },
+        {
+            "originalFilename": "Llanddarog00095.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00095.jpg",
+            "type": "image",
+            "target_id": "814061"
+        },
+        {
+            "originalFilename": "Llanddarog00096.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00096.jpg",
+            "type": "image",
+            "target_id": "814066"
+        },
+        {
+            "originalFilename": "Llanddarog00097.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00097.jpg",
+            "type": "image",
+            "target_id": "814071"
+        },
+        {
+            "originalFilename": "Llanddarog00098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00098.jpg",
+            "type": "image",
+            "target_id": "814076"
+        },
+        {
+            "originalFilename": "Llanddarog00099.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00099.jpg",
+            "type": "image",
+            "target_id": "814081"
+        },
+        {
+            "originalFilename": "Llanddarog00100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00100.jpg",
+            "type": "image",
+            "target_id": "814086"
+        },
+        {
+            "originalFilename": "Llanddarog00101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00101.jpg",
+            "type": "image",
+            "target_id": "814091"
+        },
+        {
+            "originalFilename": "Llanddarog00102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00102.jpg",
+            "type": "image",
+            "target_id": "814096"
+        },
+        {
+            "originalFilename": "Llanddarog00103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00103.jpg",
+            "type": "image",
+            "target_id": "814101"
+        },
+        {
+            "originalFilename": "Llanddarog00104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00104.jpg",
+            "type": "image",
+            "target_id": "814106"
+        },
+        {
+            "originalFilename": "Llanddarog00105.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00105.jpg",
+            "type": "image",
+            "target_id": "814111"
+        },
+        {
+            "originalFilename": "Llanddarog00106.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00106.jpg",
+            "type": "image",
+            "target_id": "814116"
+        },
+        {
+            "originalFilename": "Llanddarog00107.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00107.jpg",
+            "type": "image",
+            "target_id": "814121"
+        },
+        {
+            "originalFilename": "Llanddarog00108.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00108.jpg",
+            "type": "image",
+            "target_id": "814126"
+        },
+        {
+            "originalFilename": "Llanddarog00109.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00109.jpg",
+            "type": "image",
+            "target_id": "814131"
+        },
+        {
+            "originalFilename": "Llanddarog00110.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00110.jpg",
+            "type": "image",
+            "target_id": "814136"
+        },
+        {
+            "originalFilename": "Llanddarog00111.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00111.jpg",
+            "type": "image",
+            "target_id": "814141"
+        },
+        {
+            "originalFilename": "Llanddarog00112.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00112.jpg",
+            "type": "image",
+            "target_id": "814146"
+        },
+        {
+            "originalFilename": "Llanddarog00113.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00113.jpg",
+            "type": "image",
+            "target_id": "814151"
+        },
+        {
+            "originalFilename": "Llanddarog00114.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00114.jpg",
+            "type": "image",
+            "target_id": "814156"
+        },
+        {
+            "originalFilename": "Llanddarog00115.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00115.jpg",
+            "type": "image",
+            "target_id": "814161"
+        },
+        {
+            "originalFilename": "Llanddarog00116.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00116.jpg",
+            "type": "image",
+            "target_id": "814166"
+        },
+        {
+            "originalFilename": "Llanddarog00117.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00117.jpg",
+            "type": "image",
+            "target_id": "814171"
+        },
+        {
+            "originalFilename": "Llanddarog00118.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00118.jpg",
+            "type": "image",
+            "target_id": "814176"
+        },
+        {
+            "originalFilename": "Llanddarog00119.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00119.jpg",
+            "type": "image",
+            "target_id": "814181"
+        },
+        {
+            "originalFilename": "Llanddarog00120.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00120.jpg",
+            "type": "image",
+            "target_id": "814186"
+        },
+        {
+            "originalFilename": "Llanddarog00121.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00121.jpg",
+            "type": "image",
+            "target_id": "814191"
+        },
+        {
+            "originalFilename": "Llanddarog00122.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00122.jpg",
+            "type": "image",
+            "target_id": "814196"
+        },
+        {
+            "originalFilename": "Llanddarog00123.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00123.jpg",
+            "type": "image",
+            "target_id": "814201"
+        },
+        {
+            "originalFilename": "Llanddarog00124.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00124.jpg",
+            "type": "image",
+            "target_id": "814206"
+        },
+        {
+            "originalFilename": "Llanddarog00125.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00125.jpg",
+            "type": "image",
+            "target_id": "814211"
+        },
+        {
+            "originalFilename": "Llanddarog00126.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00126.jpg",
+            "type": "image",
+            "target_id": "814216"
+        },
+        {
+            "originalFilename": "Llanddarog00127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00127.jpg",
+            "type": "image",
+            "target_id": "814221"
+        },
+        {
+            "originalFilename": "Llanddarog00128.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00128.jpg",
+            "type": "image",
+            "target_id": "814226"
+        },
+        {
+            "originalFilename": "Llanddarog00129.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00129.jpg",
+            "type": "image",
+            "target_id": "814231"
+        },
+        {
+            "originalFilename": "Llanddarog00130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00130.jpg",
+            "type": "image",
+            "target_id": "814236"
+        },
+        {
+            "originalFilename": "Llanddarog00131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00131.jpg",
+            "type": "image",
+            "target_id": "814241"
+        },
+        {
+            "originalFilename": "Llanddarog00132.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00132.jpg",
+            "type": "image",
+            "target_id": "814246"
+        },
+        {
+            "originalFilename": "Llanddarog00133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00133.jpg",
+            "type": "image",
+            "target_id": "814251"
+        },
+        {
+            "originalFilename": "Llanddarog00134.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00134.jpg",
+            "type": "image",
+            "target_id": "814256"
+        },
+        {
+            "originalFilename": "Llanddarog00135.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00135.jpg",
+            "type": "image",
+            "target_id": "814261"
+        },
+        {
+            "originalFilename": "Llanddarog00136.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00136.jpg",
+            "type": "image",
+            "target_id": "814266"
+        },
+        {
+            "originalFilename": "Llanddarog00137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00137.jpg",
+            "type": "image",
+            "target_id": "814271"
+        },
+        {
+            "originalFilename": "Llanddarog00138.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00138.jpg",
+            "type": "image",
+            "target_id": "814276"
+        },
+        {
+            "originalFilename": "Llanddarog00139.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00139.jpg",
+            "type": "image",
+            "target_id": "814281"
+        },
+        {
+            "originalFilename": "Llanddarog00140.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00140.jpg",
+            "type": "image",
+            "target_id": "814286"
+        },
+        {
+            "originalFilename": "Llanddarog00141.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00141.jpg",
+            "type": "image",
+            "target_id": "814291"
+        },
+        {
+            "originalFilename": "Llanddarog00142.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00142.jpg",
+            "type": "image",
+            "target_id": "814296"
+        },
+        {
+            "originalFilename": "Llanddarog00143.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00143.jpg",
+            "type": "image",
+            "target_id": "814301"
+        },
+        {
+            "originalFilename": "Llanddarog00144.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00144.jpg",
+            "type": "image",
+            "target_id": "814306"
+        },
+        {
+            "originalFilename": "Llanddarog00145.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00145.jpg",
+            "type": "image",
+            "target_id": "814311"
+        },
+        {
+            "originalFilename": "Llanddarog00146.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00146.jpg",
+            "type": "image",
+            "target_id": "814316"
+        },
+        {
+            "originalFilename": "Llanddarog00147.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00147.jpg",
+            "type": "image",
+            "target_id": "814321"
+        },
+        {
+            "originalFilename": "Llanddarog00148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00148.jpg",
+            "type": "image",
+            "target_id": "814326"
+        },
+        {
+            "originalFilename": "Llanddarog00149.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00149.jpg",
+            "type": "image",
+            "target_id": "814331"
+        },
+        {
+            "originalFilename": "Llanddarog00150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00150.jpg",
+            "type": "image",
+            "target_id": "814336"
+        },
+        {
+            "originalFilename": "Llanddarog00151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00151.jpg",
+            "type": "image",
+            "target_id": "814341"
+        },
+        {
+            "originalFilename": "Llanddarog00152.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00152.jpg",
+            "type": "image",
+            "target_id": "814346"
+        },
+        {
+            "originalFilename": "Llanddarog00153.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00153.jpg",
+            "type": "image",
+            "target_id": "814351"
+        },
+        {
+            "originalFilename": "Llanddarog00154.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00154.jpg",
+            "type": "image",
+            "target_id": "814356"
+        },
+        {
+            "originalFilename": "Llanddarog00155.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00155.jpg",
+            "type": "image",
+            "target_id": "814361"
+        },
+        {
+            "originalFilename": "Llanddarog00156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00156.jpg",
+            "type": "image",
+            "target_id": "814366"
+        },
+        {
+            "originalFilename": "Llanddarog00157.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00157.jpg",
+            "type": "image",
+            "target_id": "814371"
+        },
+        {
+            "originalFilename": "Llanddarog00158.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00158.jpg",
+            "type": "image",
+            "target_id": "814376"
+        },
+        {
+            "originalFilename": "Llanddarog00159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00159.jpg",
+            "type": "image",
+            "target_id": "814381"
+        },
+        {
+            "originalFilename": "Llanddarog00160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00160.jpg",
+            "type": "image",
+            "target_id": "814386"
+        },
+        {
+            "originalFilename": "Llanddarog00161.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00161.jpg",
+            "type": "image",
+            "target_id": "814391"
+        },
+        {
+            "originalFilename": "Llanddarog00162.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00162.jpg",
+            "type": "image",
+            "target_id": "814396"
+        },
+        {
+            "originalFilename": "Llanddarog00163.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00163.jpg",
+            "type": "image",
+            "target_id": "814401"
+        },
+        {
+            "originalFilename": "Llanddarog00164.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00164.jpg",
+            "type": "image",
+            "target_id": "814406"
+        },
+        {
+            "originalFilename": "Llanddarog00165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00165.jpg",
+            "type": "image",
+            "target_id": "814411"
+        },
+        {
+            "originalFilename": "Llanddarog00166.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00166.jpg",
+            "type": "image",
+            "target_id": "814416"
+        },
+        {
+            "originalFilename": "Llanddarog00167.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00167.jpg",
+            "type": "image",
+            "target_id": "814421"
+        },
+        {
+            "originalFilename": "Llanddarog00168.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00168.jpg",
+            "type": "image",
+            "target_id": "814426"
+        },
+        {
+            "originalFilename": "Llanddarog00169.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00169.jpg",
+            "type": "image",
+            "target_id": "814431"
+        },
+        {
+            "originalFilename": "Llanddarog00170.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00170.jpg",
+            "type": "image",
+            "target_id": "814436"
+        },
+        {
+            "originalFilename": "Llanddarog00171.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00171.jpg",
+            "type": "image",
+            "target_id": "814441"
+        },
+        {
+            "originalFilename": "Llanddarog00172.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00172.jpg",
+            "type": "image",
+            "target_id": "814446"
+        },
+        {
+            "originalFilename": "Llanddarog00173.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00173.jpg",
+            "type": "image",
+            "target_id": "814451"
+        },
+        {
+            "originalFilename": "Llanddarog00174.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00174.jpg",
+            "type": "image",
+            "target_id": "814456"
+        },
+        {
+            "originalFilename": "Llanddarog00175.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00175.jpg",
+            "type": "image",
+            "target_id": "814461"
+        },
+        {
+            "originalFilename": "Llanddarog00176.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00176.jpg",
+            "type": "image",
+            "target_id": "814466"
+        },
+        {
+            "originalFilename": "Llanddarog00177.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00177.jpg",
+            "type": "image",
+            "target_id": "814471"
+        },
+        {
+            "originalFilename": "Llanddarog00178.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00178.jpg",
+            "type": "image",
+            "target_id": "814476"
+        },
+        {
+            "originalFilename": "Llanddarog00179.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00179.jpg",
+            "type": "image",
+            "target_id": "814481"
+        },
+        {
+            "originalFilename": "Llanddarog00180.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00180.jpg",
+            "type": "image",
+            "target_id": "814486"
+        },
+        {
+            "originalFilename": "Llanddarog00181.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00181.jpg",
+            "type": "image",
+            "target_id": "814491"
+        },
+        {
+            "originalFilename": "Llanddarog00182.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00182.jpg",
+            "type": "image",
+            "target_id": "814496"
+        },
+        {
+            "originalFilename": "Llanddarog00183.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00183.jpg",
+            "type": "image",
+            "target_id": "814501"
+        },
+        {
+            "originalFilename": "Llanddarog00184.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00184.jpg",
+            "type": "image",
+            "target_id": "814506"
+        },
+        {
+            "originalFilename": "Llanddarog00185.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00185.jpg",
+            "type": "image",
+            "target_id": "814511"
+        },
+        {
+            "originalFilename": "Llanddarog00186.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00186.jpg",
+            "type": "image",
+            "target_id": "814516"
+        },
+        {
+            "originalFilename": "Llanddarog00187.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00187.jpg",
+            "type": "image",
+            "target_id": "814521"
+        },
+        {
+            "originalFilename": "Llanddarog00188.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00188.jpg",
+            "type": "image",
+            "target_id": "814526"
+        },
+        {
+            "originalFilename": "Llanddarog00189.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00189.jpg",
+            "type": "image",
+            "target_id": "814531"
+        },
+        {
+            "originalFilename": "Llanddarog00190.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00190.jpg",
+            "type": "image",
+            "target_id": "814536"
+        },
+        {
+            "originalFilename": "Llanddarog00191.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00191.jpg",
+            "type": "image",
+            "target_id": "814541"
+        },
+        {
+            "originalFilename": "Llanddarog00192.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llanddarog00192.jpg",
+            "type": "image",
+            "target_id": "814546"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,82 @@
+{
+    "id": 601634,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club making Christmas decorations",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn gwneud addurniadau Nadolig.\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601634",
+    "created": 1502449641,
+    "updated": 1502449641,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Clwb Gwawr Llygaid y Dydd yn dangos ffrwyth eu gwaith ar \u00f4l noson o ddysgu sut i wneud addurniadau Nadolig.\nYn y llun mae Sian Roberts, Catrin Champion, Gwennan Evans, Joy Dyer, Catrin Williams-Jones",
+        "cy": "Aelodau Merched y Wawr Clwb Gwawr Llygaid y Dydd yn dangos ffrwyth eu gwaith ar \u00f4l noson o ddysgu sut i wneud addurniadau Nadolig.\nYn y llun mae Sian Roberts, Catrin Champion, Gwennan Evans, Joy Dyer, Catrin Williams-Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "image8.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/image8.jpg",
+            "type": "image",
+            "target_id": "601632"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

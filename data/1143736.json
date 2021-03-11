@@ -1,0 +1,65 @@
+{
+    "id": 1143736,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143736",
+    "created": 1562061120,
+    "updated": 1562061120,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Evening entertainment \u2013 Dorian Samson accompaning a local singing party",
+        "cy": "Adloniant nos Sadwrn \u2013 Dorian Samson yn cyfeilio i Barti Merched lleol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "taith myw",
+        "Sir Benfro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_491.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_491.jpg",
+            "type": "image",
+            "target_id": "1143731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

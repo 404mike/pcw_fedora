@@ -1,0 +1,92 @@
+{
+    "id": 622871,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhos a Phencae, Glyn Maelor",
+        "cy": "Rhaglen \u2018Tair Dawn, Tair Dynes\u2019 - Mehefin 1997. Cangen Merched y Wawr Rhos a Phencae, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622871",
+    "created": 1511279314,
+    "updated": 1511279314,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o rhaglen \u2018Tair Dawn, Tair Dynes\u2019 - Mehefin 1997, a perfformwyd ym Mhafiliwn Corwen.",
+        "cy": "Copi o rhaglen \u2018Tair Dawn, Tair Dynes\u2019 - Mehefin 1997, a perfformwyd ym Mhafiliwn Corwen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhos a Phencae",
+    "owner": "Cangen Rhos a Phencae",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhos a Phencae",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhos a Phencae",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.012565000000",
+            "lon": "-3.057659000000",
+            "description": {
+                "en": "Rhos a Phencae",
+                "cy": "Rhos a Phencae"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_002.jpg",
+            "type": "image",
+            "target_id": "622856"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHOS_A_PHENCAE_003.jpg",
+            "type": "image",
+            "target_id": "622861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

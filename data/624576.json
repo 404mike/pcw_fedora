@@ -1,0 +1,87 @@
+{
+    "id": 624576,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhuthun, Glyn Maelor",
+        "cy": "Cerdd dathlu cangen Merched y Wawr Rhuthun, Glyn Maelor, gan Mair Davies. 1994"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624576",
+    "created": 1511279880,
+    "updated": 1511279880,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd wedi\u2019i ysgrifennu gan Mair Davies ar achlysur dathlu y Gangen yn 1994.",
+        "cy": "Cerdd wedi\u2019i ysgrifennu gan Mair Davies ar achlysur dathlu y Gangen yn 1994."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhuthun",
+    "owner": "Cangen Rhuthun",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhuthun",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhuthun",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25",
+        "Barddoniaeth Merched y Waar"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.115170000000",
+            "lon": "-3.307627000000",
+            "description": {
+                "en": "Rhuthun",
+                "cy": "Rhuthun "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RHUTHUN_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RHUTHUN_005.jpg",
+            "type": "image",
+            "target_id": "624566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

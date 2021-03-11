@@ -1,0 +1,75 @@
+{
+    "id": 600761,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch presenting a cheque to a charity",
+        "cy": "Merched y Wawr Cangen Peniel yn cyflwyno siec elusennol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600761",
+    "created": 1502448203,
+    "updated": 1502448203,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Peniel yn cyflwyno siec o \u00a3580 i T\u0177 Cymorth yn y flwyddyn 2000.\nYn y llun mae Sally Jones, Cynrychiolydd T\u0177 Cymorth, Menna Lenny, Myra James, Betty Davies",
+        "cy": "Merched y Wawr Cangen Peniel yn cyflwyno siec o \u00a3580 i T\u0177 Cymorth yn y flwyddyn 2000.\nYn y llun mae Sally Jones, Cynrychiolydd T\u0177 Cymorth, Menna Lenny, Myra James, Betty Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-144.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-144.jpg",
+            "type": "image",
+            "target_id": "600760"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

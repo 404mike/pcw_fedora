@@ -1,0 +1,90 @@
+{
+    "id": 601434,
+    "title": {
+        "en": "Rhaglen Cangen y Bontfaen 2004-2005",
+        "cy": "Rhaglen Cangen y Bontfaen 2004-2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601434",
+    "created": 1502449370,
+    "updated": 1502449370,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cangen y Bontfaen 2004-2005\nTudalen flaen -  Swyddogion \/ Manylion cyfarfod \u2013 Neuadd y Groes Goch, Y Bontfaen",
+        "cy": "Rhaglen Cangen y Bontfaen 2004-2005\nTudalen flaen -  Swyddogion \/ Manylion cyfarfod \u2013 Neuadd y Groes Goch, Y Bontfaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.461640000000",
+            "lon": "-3.446968000000",
+            "description": {
+                "en": "Neuadd y Groes Goch, Y Bontfaen",
+                "cy": "Neuadd y Groes Goch, Y Bontfaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-014.jpg",
+            "type": "image",
+            "target_id": "601431"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-050117-015.jpg",
+            "type": "image",
+            "target_id": "601432"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 1147416,
+    "title": {
+        "en": "Urdd National Eisteddfod Bridgend Taf Ely 2017",
+        "cy": "Eisteddfod yr Urdd Pen-y-bont ar Ogwr Taf El\u00e1i 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147416",
+    "created": 1562065314,
+    "updated": 1562065314,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand.",
+        "cy": "Stondin MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "urdd national eisteddfod bridgend taf ely 2017",
+        "eisteddfod yr urdd pen-y-bont ar ogwr taf el\u00e1i 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_909.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_909.jpg",
+            "type": "image",
+            "target_id": "1147386"
+        },
+        {
+            "originalFilename": "df_myw_910_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_910_0.jpg",
+            "type": "image",
+            "target_id": "1147406"
+        },
+        {
+            "originalFilename": "df_myw_911_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_911_0.jpg",
+            "type": "image",
+            "target_id": "1147411"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

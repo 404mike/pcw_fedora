@@ -1,0 +1,108 @@
+{
+    "id": 743176,
+    "title": {
+        "en": "Merched y Wawr Aberystwyth Branch First Book of Minutes, 1969",
+        "cy": "Merched y Wawr Cangen Aberystwyth, Cofnodion Cyntaf 1969 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743176",
+    "created": 1516895750,
+    "updated": 1516895750,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Aberystwyth, Cofnodion Cyntaf 1969 \nCofnodion y cyfarfodydd cyntaf i ffurfio Cangen Aberystwyth o Ferched y Wawr o Fedi 24, 1969.",
+        "cy": "Merched y Wawr Cangen Aberystwyth, Cofnodion Cyntaf 1969 \nCofnodion y cyfarfodydd cyntaf i ffurfio Cangen Aberystwyth o Ferched y Wawr o Fedi 24, 1969\nClawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Aberystwyth"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.415504000000",
+            "lon": "-4.087293000000",
+            "description": {
+                "en": "9 Rhodfa'r Mor, Aberystwyth",
+                "cy": "9 Rhodfa'r Mor, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-060.jpg",
+            "type": "image",
+            "target_id": "743146"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-063.jpg",
+            "type": "image",
+            "target_id": "743151"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-062.jpg",
+            "type": "image",
+            "target_id": "743156"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-064.jpg",
+            "type": "image",
+            "target_id": "743161"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-065.jpg",
+            "type": "image",
+            "target_id": "743166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

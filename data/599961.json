@@ -1,0 +1,85 @@
+{
+    "id": 599961,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Henryd, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Henryd, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599961",
+    "created": 1502447095,
+    "updated": 1502447095,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Mrs Blodwen Jones, Llywydd Rh. Aberconwy yn Eisteddfod Genedlaethol Llanrwst ym 1989 tu allan i babell Merched y Wawr. Ceir hefyd erthygl gan Mrs Jones yn croesawy\u2019r mudiad i\u2019r Eisteddfod.",
+        "cy": "Llun o Mrs Blodwen Jones, Llywydd Rh. Aberconwy yn Eisteddfod Genedlaethol Llanrwst ym 1989 tu allan i babell Merched y Wawr. Ceir hefyd erthygl gan Mrs Jones yn croesawy\u2019r mudiad i\u2019r Eisteddfod."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Henryd",
+    "owner": "Cangen Henryd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "henryd",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Henryd",
+        "Rhanbarth Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255077000000",
+            "lon": "-3.846170000000",
+            "description": {
+                "en": "Henryd",
+                "cy": "Henryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_HENRYD_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_HENRYD_022.jpg",
+            "type": "image",
+            "target_id": "599959"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

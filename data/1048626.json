@@ -1,0 +1,65 @@
+{
+    "id": 1048626,
+    "title": {
+        "en": "Annual Meeting 2010",
+        "cy": "Cyfarfod Blynyddol 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048626",
+    "created": 1555591578,
+    "updated": 1555591578,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of Groeslon branch, Arfon Region who came first in the National Quiz on November 2009, receiving a shield from Tegwen Morris",
+        "cy": "Aelodau cangen Groeslon, Rhanbarth Arfon, a ddaeth yn gyntaf yn y Cwis Hwyl, Tachwedd 2009, yn derbyn  Tarian oddi wrth Tegwen Morris."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_266.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_266.jpg",
+            "type": "image",
+            "target_id": "1048621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

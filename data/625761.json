@@ -1,0 +1,86 @@
+{
+    "id": 625761,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "Cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n. Dathlu penblwydd 18 oed Gwesty\u2019r \u2018Bull\u2019, Llangefni. 1998 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625761",
+    "created": 1511280263,
+    "updated": 1511280263,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 18th birthday",
+        "cy": "Llun o\u2019r gangen yn dathlu ei phenblwydd yn 18 yma 1998 yng Nghwesty\u2019r \u2018Bull\u2019, Llangefni. Ceir llun o\u2019r Llywydd, Catherine yn torri\u2019r gacen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_017.jpg",
+            "type": "image",
+            "target_id": "625751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

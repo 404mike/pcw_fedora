@@ -1,0 +1,66 @@
+{
+    "id": 1144821,
+    "title": {
+        "en": "MyW Residential Weekend, 2014",
+        "cy": "Penwythnos Preswyl MyW 2014 yn Llanbed \u2013 &#039;Cyfaredd y Canolbarth&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144821",
+    "created": 1562062593,
+    "updated": 1562062593,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Euros Lewis showing the site of Ciliem school that was closed when the army took over this part of Epynt in June 1940.",
+        "cy": "Euros Lewis yn dangos safle Ysgol Ciliem a gaewyd ym Mehefin 1940 pan feddiannodd y fyddin y rhan yma o Epynt."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend",
+        "2014",
+        "penwythnos preswyl myw",
+        "Llanbed",
+        "cyfaredd y canolbarth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_617.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_617.jpg",
+            "type": "image",
+            "target_id": "1144816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

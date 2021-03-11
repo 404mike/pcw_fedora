@@ -1,0 +1,65 @@
+{
+    "id": 1048696,
+    "title": {
+        "en": "Ceredigion Urdd National Eisteddfod 2010 at  Llanerchaeron",
+        "cy": "Eisteddfod yr Urdd Ceredifgion 2010 yn Llanerchaeron"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048696",
+    "created": 1555591609,
+    "updated": 1555591609,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tom Davies; Emyr Llywelyn a Nia Llywelyn,  Clybiau Gwawr playing chess.",
+        "cy": "Tom Davies; Emyr Llywelyn a Nia Llywelyn swyddog Clybiau Gwawr yn chwarae gwyddbwyll."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod",
+        "eisteddfod yr urdd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_273.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_273.jpg",
+            "type": "image",
+            "target_id": "1048691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

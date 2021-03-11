@@ -1,0 +1,65 @@
+{
+    "id": 1049701,
+    "title": {
+        "en": "President's Dinner at Halfway, Nantgaredig 2012",
+        "cy": "Cinio&#039;r Llywydd  yn yr Hanner Ffordd, Nantgaredig 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049701",
+    "created": 1555592015,
+    "updated": 1555592015,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Guest Speaker \u2013 Angharad Mair, S4C, and Mererid Jones, President.",
+        "cy": "Y wraig wadd \u2013 Angharad Mair S4C, a Mererid Jones, Llywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_390.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_390.jpg",
+            "type": "image",
+            "target_id": "1049696"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

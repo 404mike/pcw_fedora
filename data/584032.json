@@ -1,0 +1,84 @@
+{
+    "id": 584032,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting North Wales",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Gogledd Cymru\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584032",
+    "created": 1499870253,
+    "updated": 1499870253,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cafwyd arian Loteri i Gangen Maenclocog o Ferched y Wawr ymweld \u00e2 Gogledd Cymru, Mehefin 2007.  Tu fewn i Gastell Caernarfon.  Yn y llun - Ogwen Phillips, Gretta Gibby, Beryl John, Mattie Lewis, Aerona Edwards, Mona Lewis a Vi Edwards.",
+        "cy": "Cafwyd arian Loteri i Gangen Maenclocog o Ferched y Wawr ymweld \u00e2 Gogledd Cymru, Mehefin 2007.  Tu fewn i Gastell Caernarfon.  Yn y llun - Ogwen Phillips, Gretta Gibby, Beryl John, Mattie Lewis, Aerona Edwards, Mona Lewis a Vi Edwards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139603000000",
+            "lon": "-4.276847000000",
+            "description": {
+                "en": "Castell Caernarfon",
+                "cy": "Castell Caernarfon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-020.jpg",
+            "type": "image",
+            "target_id": "584030"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,87 @@
+{
+    "id": 1146166,
+    "title": {
+        "en": "Monmouthshire and area National Eisteddfod 2016",
+        "cy": "Eisteddfod Genedlaethol Sir Fynwy a&#039;r Cyffniau 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146166",
+    "created": 1562063765,
+    "updated": 1562063765,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "South and East Region with their Presentation \u2013 Fashion Show.",
+        "cy": "Cyflwyniad Rhanbarth y De Ddwyrain \u2013 Sioe Ffasiwn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "monmouthshire and area national eisteddfod 2016",
+        "eisteddfod genedlaethol sir fynwy"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_767.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_767.jpg",
+            "type": "image",
+            "target_id": "1146141"
+        },
+        {
+            "originalFilename": "df_myw_768.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_768.jpg",
+            "type": "image",
+            "target_id": "1146146"
+        },
+        {
+            "originalFilename": "df_myw_769.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_769.jpg",
+            "type": "image",
+            "target_id": "1146151"
+        },
+        {
+            "originalFilename": "df_myw_770.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_770.jpg",
+            "type": "image",
+            "target_id": "1146156"
+        },
+        {
+            "originalFilename": "df_myw_771.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_771.jpg",
+            "type": "image",
+            "target_id": "1146161"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,87 @@
+{
+    "id": 751216,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Barmouth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Bermo a\u2019r Cylch, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751216",
+    "created": 1516957867,
+    "updated": 1516957867,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn ymweld \u00e2g Abaty Cymer, Llanelltyd, Mehefin, 1999. Gwelwn: Eurwen Thomas, Eirlys Williams, Gwyneth Edwards, Elinor Jones, Enid Evams, Glenys Ffoulkes, Elisabeth, Lilian Edwards, Joy Thurman (canol) Angharad Roberts, Gretta Jones, Geinor Lavender, Elisabeth, Annie May, (blaen)Dorothy Williams, Margaret Owen, Grace Williams, Llewela Edwards, Megan Vaughan.",
+        "cy": "Y gangen yn ymweld \u00e2g Abaty Cymer, Llanelltyd, Mehefin, 1999. Gwelwn: Eurwen Thomas, Eirlys Williams, Gwyneth Edwards, Elinor Jones, Enid Evams, Glenys Ffoulkes, Elisabeth, Lilian Edwards, Joy Thurman (canol) Angharad Roberts, Gretta Jones, Geinor Lavender, Elisabeth, Annie May, (blaen)Dorothy Williams, Margaret Owen, Grace Williams, Llewela Edwards, Megan Vaughan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Bermo, ",
+    "owner": "Cangen y Bermo, ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Barmouth",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bermo",
+        "Bermo",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.723722000000",
+            "lon": "-4.056849000000",
+            "description": {
+                "en": "Barmouth",
+                "cy": "Y Bermo"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BERMO_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BERMO_009.jpg",
+            "type": "image",
+            "target_id": "751206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

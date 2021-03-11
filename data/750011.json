@@ -1,0 +1,75 @@
+{
+    "id": 750011,
+    "title": {
+        "en": "Merched y Wawr's National Walking Tour 2002",
+        "cy": "Taith Cenedlaethol Merched y Wawr 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750011",
+    "created": 1516899266,
+    "updated": 1516899266,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Daith Gerdded Genedlaethol Catrin Stevens pan oedd yn Llywydd Cenedlaethol 2000-2002. Yma mae yn Felindre, Rhanbarth Gorllewin Morgannwg  gydag aelodau\u2019r Rhanbarth \u2013 Esyllt Jones, Jennifer Clarke, Marie Richards, Cathy Irons a Nest davies \u2013 Ebrill 2002. Mae\u2019n dal baner newydd genedlaethol y mudiad.",
+        "cy": "Llun o Daith Gerdded Genedlaethol Catrin Stevens pan oedd yn Llywydd Cenedlaethol 2000-2002. Yma mae yn Felindre, Rhanbarth Gorllewin Morgannwg  gydag aelodau\u2019r Rhanbarth \u2013 Esyllt Jones, Jennifer Clarke, Marie Richards, Cathy Irons a Nest davies \u2013 Ebrill 2002. Mae\u2019n dal baner newydd genedlaethol y mudiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Taith%20gerdded%20a%20baner%20newydd.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Taith%2520gerdded%2520a%2520baner%2520newydd.jpg",
+            "type": "image",
+            "target_id": "750006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

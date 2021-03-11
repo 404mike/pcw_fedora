@@ -1,0 +1,84 @@
+{
+    "id": 601065,
+    "title": {
+        "en": "Fashion and Merched y Wawr Llannau'r Tywi Branch",
+        "cy": "Ffasiwn a Merched y Wawr Cangen Llannau\u2019r Tywi\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601065",
+    "created": 1502448621,
+    "updated": 1502448621,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi, bu yna le blaenllaw i\u2019r byd ffasiwn yn rhaglenni\u2019r gangen ers y cychwyn ym 1989.   Ym 1991 daeth Mrs Jean Jones o Flaenycoed a chasgliad helaeth o hen ddillad yn perthy i\u2019w theulu i gyfarfod.  \nEdrych yn \u00f4l ar y byd ffasiwn wnaethpwyd yng nghwmni Mrs Gwenfudd James o Gaeo hefyd, gydag arddangosfa chwaethus o wisgoedd y ganrif ym Mhantyrathro.  \nYn y llun mae Jane yng nghwmni Mrs Gwenfudd James yn arddangos un o wisgoedd y ganrif",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi, bu yna le blaenllaw i\u2019r byd ffasiwn yn rhaglenni\u2019r gangen ers y cychwyn ym 1989.   Ym 1991 daeth Mrs Jean Jones o Flaenycoed a chasgliad helaeth o hen ddillad yn perthy i\u2019w theulu i gyfarfod.  \nEdrych yn \u00f4l ar y byd ffasiwn wnaethpwyd yng nghwmni Mrs Gwenfudd James o Gaeo hefyd, gydag arddangosfa chwaethus o wisgoedd y ganrif ym Mhantyrathro.  \nYn y llun mae Jane yng nghwmni Mrs Gwenfudd James yn arddangos un o wisgoedd y ganrif"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.795653000000",
+            "lon": "-4.367330000000",
+            "description": {
+                "en": "Plas Pantyrathro",
+                "cy": "Plas Pantyrathro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_050.jpg",
+            "type": "image",
+            "target_id": "601063"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

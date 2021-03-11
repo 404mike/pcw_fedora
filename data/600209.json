@@ -1,0 +1,75 @@
+{
+    "id": 600209,
+    "title": {
+        "en": "Merched y Wawr Bro Alma Branch compete in a local Jigsaw Competition, 1989",
+        "cy": "\nMerched y Wawr Bro Alma yn cymryd rhan mewn Cystadleuaeth Jig-so leol 1989\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600209",
+    "created": 1502447428,
+    "updated": 1502447428,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cystadleuaeth Jig-so leol ym 1989.  Daeth Cangen Merched y Wawr Bro Alma yn gydradd gyntaf am eu llyfr yn rhoi hanes yr ardal. Beirniadaeth y gystadleuaeth.",
+        "cy": "Cystadleuaeth Jig-so leol ym 1989.  Daeth Cangen Merched y Wawr Bro Alma yn gydradd gyntaf am eu llyfr yn rhoi hanes yr ardal. Beirniadaeth y gystadleuaeth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Alma ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_067.jpg",
+            "type": "image",
+            "target_id": "600208"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

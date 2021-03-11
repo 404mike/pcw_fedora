@@ -1,0 +1,81 @@
+{
+    "id": 750621,
+    "title": {
+        "en": "Concert for the Official Opening of the Merched y Wawr National Centre",
+        "cy": "Cyngerdd Dathlu Agoriad Swyddogol Canolfan Genedlaethol Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750621",
+    "created": 1516899554,
+    "updated": 1516899554,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cyngerdd Dathlu Agoriad Canolfan Genedlaethol Merched y Wawr, yn y Tabernacl, Mawrth 1af, 2000.",
+        "cy": "Taflen Cyngerdd Dathlu Agoriad Canolfan Genedlaethol Merched y Wawr, yn y Tabernacl, Mawrth 1af, 2000."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-054.jpg",
+            "type": "image",
+            "target_id": "750611"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-055.jpg",
+            "type": "image",
+            "target_id": "750616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

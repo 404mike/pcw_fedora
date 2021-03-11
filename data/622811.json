@@ -1,0 +1,86 @@
+{
+    "id": 622811,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhiwlas, Glyn Maelor",
+        "cy": "Rhaglen tymor 1994 - 1995 cangen Merched y Wawr Rhiwlas, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622811",
+    "created": 1511279295,
+    "updated": 1511279295,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 1994 - 1995.",
+        "cy": "Rhaglen tymor 1994 - 1995."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhiwlas",
+    "owner": "Cangen Rhiwlas",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhiwlas",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhiwlas",
+        "Rhanbarth Glyn Maelor",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.856437000000",
+            "lon": "-3.057820000000",
+            "description": {
+                "en": "Rhiwlas",
+                "cy": "Rhiwlas"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYN_MAELOR_RHIWLAS_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYN_MAELOR_RHIWLAS_012.jpg",
+            "type": "image",
+            "target_id": "622801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

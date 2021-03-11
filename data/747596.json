@@ -1,0 +1,81 @@
+{
+    "id": 747596,
+    "title": {
+        "en": "Merched y Wawr Pontardawe Branch Member 1973-1974",
+        "cy": "Rhestr Aelodau Merched y Wawr Cangen Pontardawe 1973 \u2013 1974\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747596",
+    "created": 1516897824,
+    "updated": 1516897824,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhestr Aelodau Merched y Wawr Cangen Pontardawe 1973 \u2013 1974\nTudalen 1",
+        "cy": "Rhestr Aelodau Merched y Wawr Cangen Pontardawe 1973 \u2013 1974\nTudalen 1"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-080.jpg",
+            "type": "image",
+            "target_id": "747586"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-081.jpg",
+            "type": "image",
+            "target_id": "747591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

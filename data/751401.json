@@ -1,0 +1,93 @@
+{
+    "id": 751401,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Blaenau Ffestiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Blaenau Ffestiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751401",
+    "created": 1516957918,
+    "updated": 1516957918,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o sgript sgets \u201cGwarchod y Babi\u201d gan Mena a Jan o 1985 - ar gyfer Gwyl Rhanbarth Meirionnydd.",
+        "cy": "Copi o sgript sgets \u201cGwarchod y Babi\u201d gan Mena a Jan o 1985 - ar gyfer Gwyl Rhanbarth Meirionnydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Blaenau Ffestiniog",
+    "owner": "Cangen Blaenau Ffestiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Blaenau Ffestiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Blaenau Ffestiniog",
+        "Rhanbarth Meirionnydd",
+        "Drama Meirionnydd",
+        "Drama Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.985611000000",
+            "lon": "-3.929878000000",
+            "description": {
+                "en": "Blaenau Ffestiniog",
+                "cy": "Blaenau Ffestiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_012.jpg",
+            "type": "image",
+            "target_id": "751386"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BLAENAUFFESTINIOG_013.jpg",
+            "type": "image",
+            "target_id": "751391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

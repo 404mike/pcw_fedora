@@ -1,0 +1,82 @@
+{
+    "id": 611976,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch Celebrate Christmas",
+        "cy": "Cangen Rhydaman a&#039;r Cylch o Ferched y Wawr yn Dathlu\u2019r Nadolig "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611976",
+    "created": 1510753591,
+    "updated": 1510753591,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman o Ferched y Wawr yn Dathlu\u2019r Nadolig yn Neuadd Gellimanwydd dan lywyddiaeth Mrs Mair Wyn.   Yn y llun hefyd mae Mrs Margaret Rees, Olga Tarr, Olive Tarr, Menai Davies, Margaret Regan, Rowena Fowler.",
+        "cy": "Cangen Rhydaman o Ferched y Wawr yn Dathlu\u2019r Nadolig yn Neuadd Gellimanwydd dan lywyddiaeth Mrs Mair Wyn.   Yn y llun hefyd mae Mrs Margaret Rees, Olga Tarr, Olive Tarr, Menai Davies, Margaret Regan, Rowena Fowler."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792371000000",
+            "lon": "-3.989308000000",
+            "description": {
+                "en": "Neuadd Gellimanwydd Rhydaman",
+                "cy": "Neuadd Gellimanwydd Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-159.jpg",
+            "type": "image",
+            "target_id": "611966"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

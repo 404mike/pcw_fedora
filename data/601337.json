@@ -1,0 +1,84 @@
+{
+    "id": 601337,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Feature Programme - The Choir",
+        "cy": "Rhaglen Nodwedd Merched y Wawr Llandysul a&#039;r Cylch - Y C\u00f4r"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601337",
+    "created": 1502449215,
+    "updated": 1502449215,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch seiliedig yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991 \u2013 ysgrifenwyd y sgript gan Eleri Davies o\u2019r gangen.  Perfformiwyd yn Neuadd Llandysul a wedyn gofynnwyd iddynt ail-berfformio\u2019r rhaglen yn Theatr Felinfach.  Yn y llun mae\u2019r c\u00f4r  o aelodau Merched y Wawr Cangen Llandysul oedd yn gefndir i\u2019r perfformiad.  \nRhes gefn \u2013 Annie Evans, Peggy Davies, Ceridwen Evans, Beryl Enoch, Lena Lewis, Dilys Colbourne, Eileen Davies, Nancy Williams, Gwenda Evans\nRhes flaen \u2013 Edith Davies, Marion Thomas, Chris Lloyd, Rosie Davies, Annie Davies, Jennie Davies, Betty Phillips, Betty Evans, Jane Mary Evans",
+        "cy": "Rhaglen nodwedd Merched y Wawr Cangen Llandysul a\u2019r Cylch seiliedig yn seiliedig ar lyfr \u2018Aur y Byd\u2019 gan Roy Davies a Dic Jones, Mai 17, 1991 \u2013 ysgrifenwyd y sgript gan Eleri Davies o\u2019r gangen.  Perfformiwyd yn Neuadd Llandysul a wedyn gofynnwyd iddynt ail-berfformio\u2019r rhaglen yn Theatr Felinfach.  Yn y llun mae\u2019r c\u00f4r  o aelodau Merched y Wawr Cangen Llandysul oedd yn gefndir i\u2019r perfformiad.  \nRhes gefn \u2013 Annie Evans, Peggy Davies, Ceridwen Evans, Beryl Enoch, Lena Lewis, Dilys Colbourne, Eileen Davies, Nancy Williams, Gwenda Evans\nRhes flaen \u2013 Edith Davies, Marion Thomas, Chris Lloyd, Rosie Davies, Annie Davies, Jennie Davies, Betty Phillips, Betty Evans, Jane Mary Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.040625000000",
+            "lon": "-4.308961000000",
+            "description": {
+                "en": "Neuadd Tysul, Llandysul",
+                "cy": "Neuadd Tysul, Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-165.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-165.jpg",
+            "type": "image",
+            "target_id": "601335"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

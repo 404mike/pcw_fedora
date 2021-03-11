@@ -1,0 +1,65 @@
+{
+    "id": 1046406,
+    "title": {
+        "en": "Transfer Ceremony of National President 2002",
+        "cy": "Seremoni Trosglwyddo Llywydd Cenedlaethol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046406",
+    "created": 1555590206,
+    "updated": 1555590206,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph of Glenys Thomas, Deputy President; Gwyneth Morus Jones, New President and Catrin Stevens former President  after the Transfer Ceremony at the St David's National Eisteddfod 2002.",
+        "cy": "Llun o Glenys Thomas, Is-lywydd, Gwyneth Morus Jones, Llywydd newydd, Catrin Stevens, cyn-lywydd, ar \u00f4l seremoni trosglwyddo'r Llywyddiaeth yn Eisteddfod Genedlaethol Tyddewi 2002"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "transfer ceremony of national president 2002",
+        "Seremoni",
+        "llywyddiaeth cenedlaethol 2002",
+        "eisteddfod genedlaethol tyddewi"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_032.jpg",
+            "type": "image",
+            "target_id": "1046401"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

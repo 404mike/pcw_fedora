@@ -1,0 +1,64 @@
+{
+    "id": 1048176,
+    "title": {
+        "en": "Cardiff and District National Eisteddfod 2008",
+        "cy": "Eisteddfod Genedlaethol Caerdydd a&#039;r cylch 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048176",
+    "created": 1555591327,
+    "updated": 1555591327,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Price transferring the Presidency to Dr Esyllt Jones, Gorseinon.",
+        "cy": "Mary Price yn trosglwyddo'r Llywyddiaeth i Dr Esyllt Jones, Gorseinon."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "eisteddfod genedlaethol caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_217.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_217.jpg",
+            "type": "image",
+            "target_id": "1048171"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

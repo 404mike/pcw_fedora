@@ -1,0 +1,67 @@
+{
+    "id": 1046626,
+    "title": {
+        "en": "Annual Meeting 2004",
+        "cy": "Cyfarfod Blynyddol 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046626",
+    "created": 1555590330,
+    "updated": 1555590330,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Member of Henllan Branch, Colwyn, receiving a certificate for the best programme, 2003\/4 from the adjudicators, Maureen Hughes and Heulwen Parry Jones.",
+        "cy": "Aelod o Gangen Henllan, Rhanbarth Colwyn yn derbyn tystysgrif am y raglen orau yn 2003\/4 oddi wrth y beirniaid, Maureen Hughes a Heulwen Parry Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2004",
+        "Certificate",
+        "colwyn",
+        "cyfarfod blynyddol 2004",
+        "Tystysgrif",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_051.jpg",
+            "type": "image",
+            "target_id": "1046621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

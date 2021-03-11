@@ -1,0 +1,70 @@
+{
+    "id": 1048191,
+    "title": {
+        "en": "Cardiff and District National Eisteddfod 2008",
+        "cy": "Eisteddfod Genedlaethol Caerdydd a&#039;r cylch 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048191",
+    "created": 1555591334,
+    "updated": 1555591334,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying the reception for the new President.",
+        "cy": "aelodau yn mwynhau'r derbyniad i'r Llywydd newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "eisteddfod genedlaethol caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_218.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_218.jpg",
+            "type": "image",
+            "target_id": "1048181"
+        },
+        {
+            "originalFilename": "df_myw_219.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_219.jpg",
+            "type": "image",
+            "target_id": "1048186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 628106,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maelog, Anglesey.",
+        "cy": "Cangen Merched y Wawr Maelog, Rhanbarth M\u00f4n. Cofnod hanes dathlu 30 mlynedd ers sefydlu cangen. Ebrill 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628106",
+    "created": 1511281049,
+    "updated": 1511281049,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnod sy\u2019n nodi hanes dathlu 30 mlynedd ers sefydlu Cangen Maelog - Ebrill 2009.",
+        "cy": "Cofnod sy\u2019n nodi hanes dathlu 30 mlynedd ers sefydlu Cangen Maelog - Ebrill 2009."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maelog",
+    "owner": "Cangen Maelog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maelog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maelog",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.224711000000",
+            "lon": "-4.513083000000",
+            "description": {
+                "en": "Maelog",
+                "cy": "Maelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_005.jpg",
+            "type": "image",
+            "target_id": "628096"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,65 @@
+{
+    "id": 1145086,
+    "title": {
+        "en": "Day Craft Course in South Wales at the White Hart, Llandeilo",
+        "cy": "Cwrs Crefft yn y De 2015 yn yr Hydd Gwyn, Llandeilo."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145086",
+    "created": 1562062701,
+    "updated": 1562062701,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A group showing the 3D boxes they had made with Bethan Frost.",
+        "cy": "Gr\u0175p wedi gwneud bocsys 3D gyda Bethan Frost."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "day craft course",
+        "Llandeilo",
+        "cwrs crefft",
+        "2015"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_646.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_646.jpg",
+            "type": "image",
+            "target_id": "1145081"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,77 @@
+{
+    "id": 1046466,
+    "title": {
+        "en": "MyW Residential Weekend 2002",
+        "cy": "Penwythnos Preswyl MyW 2002 \u2013 Llais a Llun"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046466",
+    "created": 1555590241,
+    "updated": 1555590241,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs of speakers at the Residential Weekend in Lampeter 2002, i) John Gower ii) Marian Delyth iii) Meinir Heulyn.",
+        "cy": "3 llun o rhai fu'n diddori ym Mhen Wythnos Breswyl Llanbed 2002. I) John Gower ii) Marian Delyth iii) Meinir Heulyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2002",
+        "penwythnos preswyl myw 2002",
+        "marian delyth",
+        "jon gower"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_036.jpg",
+            "type": "image",
+            "target_id": "1046451"
+        },
+        {
+            "originalFilename": "df_myw_036-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_036-002.jpg",
+            "type": "image",
+            "target_id": "1046456"
+        },
+        {
+            "originalFilename": "df_myw_036-002_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_036-002_0.jpg",
+            "type": "image",
+            "target_id": "1046461"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 1144516,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Eisteddfod Genedlaethol Caerfyrddin a&#039;r Cylch 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144516",
+    "created": 1562061944,
+    "updated": 1562061944,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The MyW Stand. Theme \u2013 Window on Carmarthenshire.",
+        "cy": "Pabell y Rhanbarth. Thema \u2013 Ffenest ar Sir G\u00e2r."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_580.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_580.jpg",
+            "type": "image",
+            "target_id": "1144501"
+        },
+        {
+            "originalFilename": "df_myw_581.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_581.jpg",
+            "type": "image",
+            "target_id": "1144506"
+        },
+        {
+            "originalFilename": "df_myw_582.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_582.jpg",
+            "type": "image",
+            "target_id": "1144511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1047836,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047836",
+    "created": 1555591137,
+    "updated": 1555591137,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebration at the Gorsedd Circle - Mary Price, President and Meri Huws, Welsh Language Board.",
+        "cy": "Dathliad yng Nghylch yr Orsedd \u2013 Mary Price, Llywydd a Meri Huws, Bwrdd yr Iaith."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_181.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_181.jpg",
+            "type": "image",
+            "target_id": "1047831"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

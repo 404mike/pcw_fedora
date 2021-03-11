@@ -1,0 +1,79 @@
+{
+    "id": 554440,
+    "title": {
+        "en": "Merched y Wawr Sports Leaflet - Rules",
+        "cy": "Taflen Rheolau Chwaraeon Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554440",
+    "created": 1487591892,
+    "updated": 1487591892,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Rheolau Chwaraeon Merched y Wawr (dim dyddiad) \u2013 tudalen flaen (Tud 1 o 2)",
+        "cy": "Taflen Rheolau Chwaraeon Merched y Wawr (dim dyddiad) \u2013 tudalen flaen (Tud 1 o 2)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Sports",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "chwaraeon"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000018.jpg",
+            "type": "image",
+            "target_id": "554438"
+        },
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000019.jpg",
+            "type": "image",
+            "target_id": "554439"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

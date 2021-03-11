@@ -1,0 +1,82 @@
+{
+    "id": 744646,
+    "title": {
+        "en": "Laura Ashley Fashion Show by Merched y Wawr Clydach Branch",
+        "cy": "Sioe Ffasiynau Laura Ashley gan Ferched y Wawr Clydach\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744646",
+    "created": 1516896417,
+    "updated": 1516896417,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sioe Ffasiynau Laura Ashley gan Ferched y Wawr Clydach yn Neuadd y Mond, Clydach, i godi arian tuag at yr Eisteddfod Genedlaethol.\nBethan Davies a Brenda Evans yw\u2019r ddwy yn y canol.",
+        "cy": "Sioe Ffasiynau Laura Ashley gan Ferched y Wawr Clydach yn Neuadd y Mond, Clydach, i godi arian tuag at yr Eisteddfod Genedlaethol.\nBethan Davies a Brenda Evans yw\u2019r ddwy yn y canol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Clydach",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Clydach",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.695887000000",
+            "lon": "-3.888702000000",
+            "description": {
+                "en": "Neuadd y Mond, Clydach",
+                "cy": "Neuadd y Mond, Clydach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-058.jpg",
+            "type": "image",
+            "target_id": "744636"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

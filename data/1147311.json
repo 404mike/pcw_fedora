@@ -1,0 +1,65 @@
+{
+    "id": 1147311,
+    "title": {
+        "en": "Annual Meeting 2017",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147311",
+    "created": 1562065135,
+    "updated": 1562065135,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Micro Story competition \u2013 Celebration. 1st Ann James, Whitland branch, Carmarthenshire. l>r Aeres James; Ann James; Mererid Jones.",
+        "cy": "Stori Feicro \u2013 Dathlu. Enillydd \u2013 Ann James, cangen Hendygwyn ar Daf, Caerfyrddin. O'r chwith i'r dde: Aeres James; Ann James; Mererid Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_901.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_901.jpg",
+            "type": "image",
+            "target_id": "1147306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

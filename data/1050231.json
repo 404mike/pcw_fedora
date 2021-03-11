@@ -1,0 +1,66 @@
+{
+    "id": 1050231,
+    "title": {
+        "en": "Christmas Fair 2012",
+        "cy": "Ffair Aeaf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050231",
+    "created": 1555592239,
+    "updated": 1555592239,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition: Xmas  Patchwork \u2013 1st Mary Mars Lloyd, Denbigh branch, Glyn Maelor.",
+        "cy": "Cystadleuaeth Clytwaith Nadolig \u2013 1af Mary Mars Lloyd, cangen Dinbych, Rhanbarth Glyn Maelor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Christmas Fair",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_448.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_448.jpg",
+            "type": "image",
+            "target_id": "1050226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

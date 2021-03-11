@@ -1,0 +1,77 @@
+{
+    "id": 1048166,
+    "title": {
+        "en": "Cardiff and District National Eisteddfod 2008",
+        "cy": "Eisteddfod Genedlaethol Caerdydd  a&#039;r cylch 2008"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048166",
+    "created": 1555591320,
+    "updated": 1555591320,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of South \u2013 East Region performing 'O'r Bannau i'r Bae' (From the Peaks to the Shore).",
+        "cy": "Rhanbarth De-Ddwyrain yn perfformio eu cyflwyniad 'O'r Bannau i'r Bae'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Eisteddfod Genedlaethol",
+        "Caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_214.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_214.jpg",
+            "type": "image",
+            "target_id": "1048151"
+        },
+        {
+            "originalFilename": "df_myw_215.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_215.jpg",
+            "type": "image",
+            "target_id": "1048156"
+        },
+        {
+            "originalFilename": "df_myw_216.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_216.jpg",
+            "type": "image",
+            "target_id": "1048161"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

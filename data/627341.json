@@ -1,0 +1,92 @@
+{
+    "id": 627341,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Menai Bridge, Anglesey.",
+        "cy": "Hanes plannu coeden yn Porthawethwy. Cangen Merched y Wawr Porthaethwy, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627341",
+    "created": 1511280794,
+    "updated": 1511280794,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hanes plannu coeden criafolen yng nghardd Lawnt Porthaethwy. Ceir aelodau\u2019r gangen yn ogystal \u00e2 Wil T\u00e2n a Maer y Dref, Hilary Hunt.",
+        "cy": "Hanes plannu coeden criafolen yng nghardd Lawnt Porthaethwy. Ceir aelodau\u2019r gangen yn ogystal \u00e2 Wil T\u00e2n a Maer y Dref, Hilary Hunt."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llannerch-y-Medd",
+    "owner": "Cangen Llannerch-y-Medd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Menai Bridge",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Porthaethwy",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.330448000000",
+            "lon": "-4.377493000000",
+            "description": {
+                "en": "Llannerch-y-Medd",
+                "cy": "Llannerch-y-Medd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY011.jpg",
+            "type": "image",
+            "target_id": "627326"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY012.jpg",
+            "type": "image",
+            "target_id": "627331"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

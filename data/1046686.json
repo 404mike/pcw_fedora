@@ -1,0 +1,71 @@
+{
+    "id": 1046686,
+    "title": {
+        "en": "Newport and District National Eisteddfod 2004",
+        "cy": "Eisteddfod Genedlaethol Casnewydd a&#039;r Cylch 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046686",
+    "created": 1555590363,
+    "updated": 1555590363,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "South and East Glamorgan's exhibition at MyW stand at the Eisteddfod.",
+        "cy": "Arddangosfa Rhanbarth De \u2013 ddwyrain Morgannwg ym mhabell MyW yn Eisteddfod Geedlaethol Casnewydd a'r cylch 2004"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "newport and district national eisteddfod 2004",
+        "exhibition",
+        "eisteddfod genedlaethol casnewydd ar cylch 2004",
+        "Arddangosfa"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_055.jpg",
+            "type": "image",
+            "target_id": "1046676"
+        },
+        {
+            "originalFilename": "df_myw_055-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_055-001.jpg",
+            "type": "image",
+            "target_id": "1046681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

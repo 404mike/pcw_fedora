@@ -1,0 +1,95 @@
+{
+    "id": 619581,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhyl, Colwyn.",
+        "cy": "Atgofion Eluned Tilsley o gangen Merched y Wawr Rhyl, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619581",
+    "created": 1511278158,
+    "updated": 1511278158,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Atgofion Eluned Tilsley (un o sylfaenwyr a Llywydd cyntaf Cangen Rhyl) o ddechrau'r gangen yn 1968.",
+        "cy": "Atgofion Eluned Tilsley (un o sylfaenwyr a Llywydd cyntaf Cangen Rhyl) o ddechrau'r gangen yn 1968."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhyl",
+    "owner": "Cangen Rhyl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Eluned Tilsley",
+                "cy": "Eluned Tilsley"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhyl",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhyl",
+        "Rhanbarth Colwyn",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320901000000",
+            "lon": "-3.495205000000",
+            "description": {
+                "en": "RHYL",
+                "cy": "RHYL"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_001.jpg",
+            "type": "image",
+            "target_id": "619566"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_002.jpg",
+            "type": "image",
+            "target_id": "619571"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

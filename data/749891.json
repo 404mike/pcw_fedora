@@ -1,0 +1,78 @@
+{
+    "id": 749891,
+    "title": {
+        "en": "A Calonnau' - A Drama by Rhiannon Parry",
+        "cy": "Drama \u2018A Calonnau\u2019 gan Rhiannon Parry "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749891",
+    "created": 1516899211,
+    "updated": 1516899211,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Drama \u2018A Calonnau\u2019 gan Rhiannon Parry \u2013 Clawr.  Perfformiwyd y ddrama gan an Ferched y Wawr Cangen y Gwter Fawr a Chwmni Drama\u2019r Gwter Fawr yn 2015.",
+        "cy": "Drama \u2018A Calonnau\u2019 gan Rhiannon Parry \u2013 Clawr.  Perfformiwyd y ddrama gan an Ferched y Wawr Cangen y Gwter Fawr a Chwmni Drama\u2019r Gwter Fawr yn 2015."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhiannon Parry",
+    "owner": "Cangen Y Gwter Fawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Rhiannon Parry",
+                "cy": "Rhiannon Parry"
+            },
+            "year": "2015",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Gwter Fawr",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-130.jpg",
+            "type": "image",
+            "target_id": "749886"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

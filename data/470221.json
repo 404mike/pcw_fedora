@@ -1,0 +1,65 @@
+{
+    "id": 470221,
+    "title": {
+        "en": "Dinorwig and Fachwen area of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad ardal Dinorwig a Fachwen, Arfon, i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470221",
+    "created": 1441700650,
+    "updated": 1441700650,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Dinorwig and Fachwen district of Merched y Wawr It contains a list of hose names in the area..",
+        "cy": "Gwybodaeth am waith ardal Dinorwig a Fachwen o Ferched y Wawr. Mae'n cynnwys rhestr o enwau tai."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10398.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10398.jpg",
+            "type": "image",
+            "target_id": "470219"
+        },
+        {
+            "originalFilename": "pcw001_10399.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10399.jpg",
+            "type": "image",
+            "target_id": "470220"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10398",
+    "publisher_ref": ""
+}

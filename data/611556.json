@@ -1,0 +1,75 @@
+{
+    "id": 611556,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch at the Carmarthen Area Eisteddfod ",
+        "cy": "Merched y Wawr Cangen Peniel yn Eisteddfod Rhanbarth Caerfyrin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611556",
+    "created": 1510753486,
+    "updated": 1510753486,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Peniel yn cystadlu yn Eisteddfod Rhanbarth Caerfyrddin y gystadleuaeth Cyd-adrodd, gan gipio\u2019r wobr gyntaf. Yn y 1980au.  \nBetty Davies, Nan Lewis, Myra James, Menna Lenny, Manon Evans, Beti Evans",
+        "cy": "Merched y Wawr Cangen Peniel yn cystadlu yn Eisteddfod Rhanbarth Caerfyrddin y gystadleuaeth Cyd-adrodd, gan gipio\u2019r wobr gyntaf. Yn y 1980au.  \nBetty Davies, Nan Lewis, Myra James, Menna Lenny, Manon Evans, Beti Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-130.jpg",
+            "type": "image",
+            "target_id": "611551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

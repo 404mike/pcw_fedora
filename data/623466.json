@@ -1,0 +1,87 @@
+{
+    "id": 623466,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Dathliadau cangen Merched y Wawr Corwen, Glyn Maelor yn 25 mlynedd. Pererindod y Parc, Mai 1992. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623466",
+    "created": 1511279513,
+    "updated": 1511279513,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Lluniau Cangen Corwen o ddathliadau 25 mlynedd y Mudiad yn y Parc, Bala - Pererindod y Parc, Mai 1992.",
+        "cy": "Lluniau Cangen Corwen o ddathliadau 25 mlynedd y Mudiad yn y Parc, Bala - Pererindod y Parc, Mai 1992."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 25",
+        "Pererindod y Parc"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890677000000",
+            "lon": "-3.672083000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_017.jpg",
+            "type": "image",
+            "target_id": "623456"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

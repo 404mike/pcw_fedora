@@ -1,0 +1,107 @@
+{
+    "id": 470441,
+    "title": {
+        "en": "Llan Ffestiniog, Meirionethshire branch of Merched y Wawr's contribution to th project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llan Ffestiniog, Meirionnydd i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470441",
+    "created": 1441700736,
+    "updated": 1441700736,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llan Ffestiniog, Meirionethshire of Merched y Wawr. It contains lists of farm and field names - many giving their meanings. Farms include Garth; Cynfal Fawr; Brynrodyn. Also some names from the Maentwrog and Ggellilydan area.There is also a sale notice of The Pengwern Arms.",
+        "cy": "Gwybodaeth am waith cangen Llan Ffestiniog, Meirionnydd o Ferched y Wawr. Mae'n cynnwys rhestri o enwau ffermydd a chaeau. Rhai gyda ystyron yr enwau. Cynnwys ffermydd Garth; Cynfal Fawr; Brynrodyn a rhai yn ardal Maentwrog a Gellilydan. Mae hefyd yn cynnwys copi o hysbyseb arwerthiant \"The Pengwern Arms\"."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10595.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10595.jpg",
+            "type": "image",
+            "target_id": "470432"
+        },
+        {
+            "originalFilename": "pcw001_10596.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10596.jpg",
+            "type": "image",
+            "target_id": "470433"
+        },
+        {
+            "originalFilename": "pcw001_10597.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10597.jpg",
+            "type": "image",
+            "target_id": "470434"
+        },
+        {
+            "originalFilename": "pcw001_10598.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10598.jpg",
+            "type": "image",
+            "target_id": "470435"
+        },
+        {
+            "originalFilename": "pcw001_10599.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10599.jpg",
+            "type": "image",
+            "target_id": "470436"
+        },
+        {
+            "originalFilename": "pcw001_10600.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10600.jpg",
+            "type": "image",
+            "target_id": "470437"
+        },
+        {
+            "originalFilename": "pcw001_10601.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10601.jpg",
+            "type": "image",
+            "target_id": "470438"
+        },
+        {
+            "originalFilename": "pcw001_10602.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10602.jpg",
+            "type": "image",
+            "target_id": "470439"
+        },
+        {
+            "originalFilename": "pcw001_10603.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10603.jpg",
+            "type": "image",
+            "target_id": "470440"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10595",
+    "publisher_ref": ""
+}

@@ -1,0 +1,110 @@
+{
+    "id": 622376,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Llyfryn \u2018Cynnyrch Cystadlaeuaeth Talwrn y Beirdd\u2019 . Cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Ysgol Breswyl 1986. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622376",
+    "created": 1511279146,
+    "updated": 1511279146,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfryn \u2018Cynnyrch Cystadlaeuaeth Talwrn y Beirdd\u2019 Merched y Wawr, Ysgol Breswyl 1986.",
+        "cy": "Llyfryn \u2018Cynnyrch Cystadlaeuaeth Talwrn y Beirdd\u2019 Merched y Wawr, Ysgol Breswyl 1986."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Barddoniaeth Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_047.jpg",
+            "type": "image",
+            "target_id": "622346"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_048.jpg",
+            "type": "image",
+            "target_id": "622351"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_049.jpg",
+            "type": "image",
+            "target_id": "622356"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_050.jpg",
+            "type": "image",
+            "target_id": "622361"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_051.jpg",
+            "type": "image",
+            "target_id": "622366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

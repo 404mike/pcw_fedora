@@ -1,0 +1,84 @@
+{
+    "id": 612706,
+    "title": {
+        "en": "Merched y Wawr Llanddarog Branch Celebrate 30 Years",
+        "cy": "Merched y Wawr Cangen Llanddarog yn dathlu 30 mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612706",
+    "created": 1510753768,
+    "updated": 1510753768,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad Merched y Wawr Cangen Llanddarog yn dathlu Penblwydd Perl (30 mlynedd) y gangen, gan gynnwys englyn o waith y bardd lleol, Aled Evans (mab Sian, aelod o\u2019r gangen), a gyfanswoddwyd ar gyfer yr achlysur yn 2011.",
+        "cy": "Adroddiad Merched y Wawr Cangen Llanddarog yn dathlu Penblwydd Perl (30 mlynedd) y gangen, gan gynnwys englyn o waith y bardd lleol, Aled Evans (mab Sian, aelod o\u2019r gangen), a gyfanswoddwyd ar gyfer yr achlysur yn 2011."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827415000000",
+            "lon": "-4.174250000000",
+            "description": {
+                "en": "Neuadd y Pentref, Llanddarog",
+                "cy": "Neuadd y Pentref, Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_154.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_154.jpg",
+            "type": "image",
+            "target_id": "612696"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

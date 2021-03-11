@@ -1,0 +1,64 @@
+{
+    "id": 1148841,
+    "title": {
+        "en": "Celebrating 200th edition of Y Wawr \u2013 MyW's magazine at the Conrah Hotel.",
+        "cy": "Dathlu rhifyn 200 o gylchgrawn Y Wawr yng ngwesty&#039;r Conrah."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148841",
+    "created": 1562065930,
+    "updated": 1562065930,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Past Editors and present  of  Y Wawr, left to right: Sian Lewis; Mair Edwards; Elin Angharad; Rhiannon Parry; Catrin Stevens; Janet Evans; Elin ap Howell (representing her mother, the late Rebecca Powell); Wendy Lloyd Jones.",
+        "cy": "Cyn-Olygyddion a Golygydd newydd Y Wawr, o'r chwith i'r dde:  Sian Lewis; Mair Edwards; Elin Angharad; Rhiannon Parry; Catrin Stevens; Janet Evans; Elin ap Howell (yn cynrychioli ei mam, y diweddar Rebecca Powell); Wendy Lloyd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Y Wawr",
+        "MYW",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_082.jpg",
+            "type": "image",
+            "target_id": "1148836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

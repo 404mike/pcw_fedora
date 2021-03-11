@@ -1,0 +1,77 @@
+{
+    "id": 1049691,
+    "title": {
+        "en": "President's Dinner at Halfway, Nantgaredig 2012",
+        "cy": "Cinio&#039;r Llywydd  yn yr Hanner Ffordd, Nantgaredig 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049691",
+    "created": 1555592010,
+    "updated": 1555592010,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members awaiting their meal and partaking in the quiz.",
+        "cy": "Aelodau yn brysur llanw'r cwis wrth ddiswyl am eu bwyd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_387.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_387.jpg",
+            "type": "image",
+            "target_id": "1049676"
+        },
+        {
+            "originalFilename": "df_myw_388.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_388.jpg",
+            "type": "image",
+            "target_id": "1049681"
+        },
+        {
+            "originalFilename": "df_myw_389.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_389.jpg",
+            "type": "image",
+            "target_id": "1049686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

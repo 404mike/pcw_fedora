@@ -1,0 +1,73 @@
+{
+    "id": 601287,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi perform a sketch",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn perfformio sgets "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601287",
+    "created": 1502449142,
+    "updated": 1502449142,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Teifi yn perfformio sgets \u2018Olew Cwmtydu\u2019\nYn y llun mae Phyllis Terry Thomas, Meinir Jerman, Pat Griffiths, Elfair James, Olwen Romney, Lowri Lewis, Beti Lloyd",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn perfformio sgets \u2018Olew Cwmtydu\u2019\nYn y llun mae Phyllis Terry Thomas, Meinir Jerman, Pat Griffiths, Elfair James, Olwen Romney, Lowri Lewis, Beti Lloyd"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-133.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-133.jpg",
+            "type": "image",
+            "target_id": "601286"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 742681,
+    "title": {
+        "en": "Merched y Wawr Neath Branch at the Residential Weekend in 1991",
+        "cy": "Cangen Castell Nedd ym Mhenwythnos Preswyl Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742681",
+    "created": 1516895145,
+    "updated": 1516895145,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Castell Nedd yn ymddangos fel 'Y Teulu ap Trap' ym Mhenwythnos Preswyl 'Ewrowawr' Merched y Wawr yng Ngholeg y Brifysgol, Bangor, Medi 13 i 15, 1991. Yn sefyll o\u2019r chwith: Rita Rosser, Sal Roberts, Glenda Williams, Phyllis Davies, Bethan Saunders \nYn eistedd: Rhian Thomas, Nesta Davies ?",
+        "cy": "Merched y Wawr Castell Nedd yn ymddangos fel 'Y Teulu ap Trap' ym Mhenwythnos Preswyl 'Ewrowawr' Merched y Wawr yng Ngholeg y Brifysgol, Bangor, Medi 13 i 15, 1991. Yn sefyll o\u2019r chwith: Rita Rosser, Sal Roberts, Glenda Williams, Phyllis Davies, Bethan Saunders \nYn eistedd: Rhian Thomas, Nesta Davies ?"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.229011000000",
+            "lon": "-4.130981000000",
+            "description": {
+                "en": "Coleg y Brifysgol, Bangor",
+                "cy": "Coleg y Brifysgol, Bangor"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "1991.09.%20Penwythnos%202b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/1991.09.%2520Penwythnos%25202b.jpg",
+            "type": "image",
+            "target_id": "742671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

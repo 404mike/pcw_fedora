@@ -1,0 +1,72 @@
+{
+    "id": 1143456,
+    "title": {
+        "en": "Day Craft Course, White Hart, Llandeilo 2013",
+        "cy": "Cwrs Crefft, Hydd Gwyn, Llandeilo 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143456",
+    "created": 1562056684,
+    "updated": 1562056684,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The work accomplished during the day.",
+        "cy": "Y gwaith a gyflawnwyd yn y Cwrs Crefft."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "craft course",
+        "Llandeilo",
+        "merched y wawr",
+        "MYW",
+        "cwrs crefft"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_461.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_461.jpg",
+            "type": "image",
+            "target_id": "1143446"
+        },
+        {
+            "originalFilename": "df_myw_462.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_462.jpg",
+            "type": "image",
+            "target_id": "1143451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

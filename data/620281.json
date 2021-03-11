@@ -1,0 +1,86 @@
+{
+    "id": 620281,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Nantglyn, Colwyn.",
+        "cy": "Cangen Merched y Wawr Nantglyn, Rhanbarth Colwyn. Dathliadau 25 mlwyddiant y Mudiad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620281",
+    "created": 1511278398,
+    "updated": 1511278398,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen gyda baner y Rhanbarth tra\u2019n ei gyflwyno i Ann Hughes, Cangen y Groes fel rhan o ddathliadau 25 mlwyddiant y Mudiad.",
+        "cy": "Aelodau\u2019r gangen gyda baner y Rhanbarth tra\u2019n ei gyflwyno i Ann Hughes, Cangen y Groes fel rhan o ddathliadau 25 mlwyddiant y Mudiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Nantglyn",
+    "owner": "Cangen Nantglyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "nantglyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantglyn",
+        "Rhanbarth Colwyn",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.143365000000",
+            "lon": "-3.489201000000",
+            "description": {
+                "en": "Nantglyn",
+                "cy": "Nantglyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_NANTGLYN_014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_NANTGLYN_014.jpg",
+            "type": "image",
+            "target_id": "620271"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

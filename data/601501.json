@@ -1,0 +1,81 @@
+{
+    "id": 601501,
+    "title": {
+        "en": "Merched y Wawr Merthyr Branch hear about the work of T\u0177 Hafan",
+        "cy": "Merched y Wawr Cangen Merthyr Tudful yn clywed am waith T\u0177 Hafan\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601501",
+    "created": 1502449466,
+    "updated": 1502449466,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad am ymweliad Hayley Mason \u00e2 Changen Merthyr Tudful o Ferched y Wawr ar Ebrill 11, 2013, i drafod ei gwaith yn hosbis plant T\u0177 Hafan.\nRhoddywd siec hael i\u2019r elusen yn sg\u00eel yr ymweliad.",
+        "cy": "Adroddiad am ymweliad Hayley Mason \u00e2 Changen Merthyr Tudful o Ferched y Wawr ar Ebrill 11, 2013, i drafod ei gwaith yn hosbis plant T\u0177 Hafan.\nRhoddywd siec hael i\u2019r elusen yn sg\u00eel yr ymweliad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Merthyr Tudful",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Merthyr Tudful",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-028.jpg",
+            "type": "image",
+            "target_id": "601499"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-029.jpg",
+            "type": "image",
+            "target_id": "601500"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

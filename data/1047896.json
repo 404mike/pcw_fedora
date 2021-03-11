@@ -1,0 +1,67 @@
+{
+    "id": 1047896,
+    "title": {
+        "en": "MyW Residential Weekend 2007 \u2013 Bangor",
+        "cy": "Penwythnos Preswyl MyW 2007 \u2013 Rialtwch y Rhuddem"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047896",
+    "created": 1555591172,
+    "updated": 1555591172,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sian Arwel Davies playing the piano on a visit to Plas Newydd.",
+        "cy": "Sian Arwel Davies yn rhoi tonc ar y piano ar ymweliad  \u00e2  Phlas Newydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Bangor",
+        "Plas Newydd",
+        "Penwythnos Preswyl"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_187.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_187.jpg",
+            "type": "image",
+            "target_id": "1047891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

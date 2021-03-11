@@ -1,0 +1,59 @@
+{
+    "id": 470218,
+    "title": {
+        "en": "Contribution from four branches in the Arfon district of Merched y Wawr towards the project on Welsh place names.",
+        "cy": "Cyfraniad pedair cangen o Ranbarth Arfon o Ferched y Wawr i&#039;r proiect ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470218",
+    "created": 1441700647,
+    "updated": 1441700647,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by the branches of Brynaearau, Llandwrog, Deiniolen and Bangor of Merched y Wawr. It contains lists of field names.",
+        "cy": "Gwybodaeth am waith canghennau Brynaerau,Llandwrog, Deiniolen a Bangor o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10397.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10397.jpg",
+            "type": "image",
+            "target_id": "470217"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10397",
+    "publisher_ref": ""
+}

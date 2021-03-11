@@ -1,0 +1,75 @@
+{
+    "id": 750151,
+    "title": {
+        "en": "Cylch Cennin Gwawr Club Craft Night ",
+        "cy": "Noswaith Grefft yng Clwb Gwawr Cylch Cennin \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750151",
+    "created": 1516899329,
+    "updated": 1516899329,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noswaith Grefft gan Dwynwen Jones yng Clwb Gwawr Cylch Cennin, Merched y Wawr, lle bu aelodau yn creu tlws cennin pedr, yn 2015.\nYn y llun :- Ceris Fychan, Carol Hope, Eleri Davies, Lynda Jones Morris, Ffion Llwyd Davies, Haf Meredith, Haf Highes, Mandy Rose, Dwynwen Jones",
+        "cy": "Noswaith Grefft gan Dwynwen Jones yng Clwb Gwawr Cylch Cennin, Merched y Wawr, lle bu aelodau yn creu tlws cennin pedr, yn 2015.\nYn y llun :- Ceris Fychan, Carol Hope, Eleri Davies, Lynda Jones Morris, Ffion Llwyd Davies, Haf Meredith, Haf Highes, Mandy Rose, Dwynwen Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Cylch Cennin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Cylch Cennin",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-137.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-137.jpg",
+            "type": "image",
+            "target_id": "750146"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

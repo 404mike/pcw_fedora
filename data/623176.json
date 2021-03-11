@@ -1,0 +1,139 @@
+{
+    "id": 623176,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Wrecsam, Glyn Maelor",
+        "cy": "Detholiad o luniau o Lyfr Llofion cangen Merched y Wawr Wrecsam, Glyn Maelor."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623176",
+    "created": 1511279412,
+    "updated": 1511279412,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Detholiad o luniau ac ati o Lyfr Llofion y Gangen sy\u2019n olrain hanes y gangen o 1968 (sefydlu) hyd at 2000.",
+        "cy": "Detholiad o luniau ac ati o Lyfr Llofion y Gangen sy\u2019n olrain hanes y gangen o 1968 (sefydlu) hyd at 2000."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Wrecsam",
+    "owner": "Cangen Wrecsam",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Wrecsam",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Wrecsam",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.048266000000",
+            "lon": "-2.988530000000",
+            "description": {
+                "en": "Wrecsam",
+                "cy": "Wrecsam"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_001.jpg",
+            "type": "image",
+            "target_id": "623121"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_002.jpg",
+            "type": "image",
+            "target_id": "623126"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_003.jpg",
+            "type": "image",
+            "target_id": "623131"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_004.jpg",
+            "type": "image",
+            "target_id": "623136"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_005.jpg",
+            "type": "image",
+            "target_id": "623141"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_006.jpg",
+            "type": "image",
+            "target_id": "623146"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_007.jpg",
+            "type": "image",
+            "target_id": "623151"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_008.jpg",
+            "type": "image",
+            "target_id": "623156"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_009.jpg",
+            "type": "image",
+            "target_id": "623161"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WRECSAM_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WRECSAM_010.jpg",
+            "type": "image",
+            "target_id": "623166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

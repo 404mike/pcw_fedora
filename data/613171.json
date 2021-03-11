@@ -1,0 +1,93 @@
+{
+    "id": 613171,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi - Poems to mark the 25th Anniversary",
+        "cy": "Penillion Dathlu Chwarter Canrif Merched y Wawr Cangen Llannau\u2019r Tywi "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613171",
+    "created": 1510753887,
+    "updated": 1510753887,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ar achlysur Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu Chwarter Canrif yn 2014 bu Gwyneth Stephens, Ann Thomas a Jill Davies yn barddoni\nCerdd Jill Davies \u2018Dathlu\u2019",
+        "cy": "Ar achlysur Merched y Wawr Cangen Llannau\u2019r Tywi yn dathlu Chwarter Canrif yn 2014 bu Gwyneth Stephens, Ann Thomas a Jill Davies yn barddoni\nCerdd Jill Davies \u2018Dathlu\u2019"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_046.jpg",
+            "type": "image",
+            "target_id": "613151"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_047.jpg",
+            "type": "image",
+            "target_id": "613156"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_048.jpg",
+            "type": "image",
+            "target_id": "613161"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_049.jpg",
+            "type": "image",
+            "target_id": "613166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

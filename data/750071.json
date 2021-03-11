@@ -1,0 +1,75 @@
+{
+    "id": 750071,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch perform their 'Bro a Bra' Sketch",
+        "cy": "Merched y Wawr Cangen Gorseinon yn Perfformio Sgets Bro a Bra"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750071",
+    "created": 1516899291,
+    "updated": 1516899291,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Gorseinon yn perfformio sgets \u2018BRO A BRA\u2019 a gafodd ail yn yr Wyl Haf Genedlaethol yn 2009.  Roedd Rahel wedi ysgrifennu ei geiriau ar hyd ffon ei hudlath!\n\nRahel Williams, Gwen Evans, Bethan Edwards, Esyllt Jones, Ann Davies, Margaret Williams, Catrin Stevens",
+        "cy": "Merched y Wawr Gorseinon yn perfformio sgets \u2018BRO A BRA\u2019 a gafodd ail yn yr Wyl Haf Genedlaethol yn 2009.  Roedd Rahel wedi ysgrifennu ei geiriau ar hyd ffon ei hudlath!\n\nRahel Williams, Gwen Evans, Bethan Edwards, Esyllt Jones, Ann Davies, Margaret Williams, Catrin Stevens"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Sgets%20Bro%20a%20Bra%202009%20%28v%29%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Sgets%2520Bro%2520a%2520Bra%25202009%2520%2528v%2529%2520001.jpg",
+            "type": "image",
+            "target_id": "750066"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

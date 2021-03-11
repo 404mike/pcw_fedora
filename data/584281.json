@@ -1,0 +1,90 @@
+{
+    "id": 584281,
+    "title": {
+        "en": "Carmarthenshire Merched y Wawr present \"A Duw a Greodd Wraig\" ('And God created the Woman'), 1983 ",
+        "cy": "Taflen \u201cA Duw a Greodd y Wraig\u201d - Merched y Wawr, Rhanbarth Myrddin, Dinefwr a Llanelli, 1983."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584281",
+    "created": 1499870865,
+    "updated": 1499870865,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u201cA Duw a Greodd y Wraig\u201d gan Rhoswen Llywelyn. Merched y Wawr, Rhanbarth Myddin, Dinefwr a Llanelli.  Capel y Tabernacl, Hendygwyn ar Daf.  Ebrill 15fed, 1983.  Tudalen flaen",
+        "cy": "\u201cA Duw a Greodd y Wraig\u201d gan Rhoswen Llywelyn. Merched y Wawr, Rhanbarth Myddin, Dinefwr a Llanelli.  Capel y Tabernacl, Hendygwyn ar Daf.  Ebrill 15fed, 1983.  Tudalen flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819365000000",
+            "lon": "-4.607261000000",
+            "description": {
+                "en": "Capel y Tabernacl, Hendygwyn",
+                "cy": "Capel y Tabernacl, Hendygwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-067.jpg",
+            "type": "image",
+            "target_id": "584278"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-068.jpg",
+            "type": "image",
+            "target_id": "584279"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

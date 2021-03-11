@@ -1,0 +1,75 @@
+{
+    "id": 744041,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch on a trip to Llanllyr Gardens",
+        "cy": "Trip Merched y Wawr Bro Ilar i Gerddi Llanllyr\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744041",
+    "created": 1516896121,
+    "updated": 1516896121,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip Merched y Wawr Bro Ilar i Gerddi Llanllyr, Talsarn, Mehefin 18, 2012\nYn y llun:- Elin ap Hywel, Jean Jones, Mair Jones, Ada Evans, Sara Jones, Debra Simpson-Jones, Ruth Morris, Sian Lewis, Mary Jones, Brenda Parry-Owen, Olwen Morgan, Jean Evans, Iol Alban, Jane Edwards, Olivia Lewis",
+        "cy": "Trip Merched y Wawr Bro Ilar i Gerddi Llanllyr, Talsarn, Mehefin 18, 2012\nYn y llun:- Elin ap Hywel, Jean Jones, Mair Jones, Ada Evans, Sara Jones, Debra Simpson-Jones, Ruth Morris, Sian Lewis, Mary Jones, Brenda Parry-Owen, Olwen Morgan, Jean Evans, Iol Alban, Jane Edwards, Olivia Lewis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-104.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-104.jpg",
+            "type": "image",
+            "target_id": "744036"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

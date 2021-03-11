@@ -1,0 +1,82 @@
+{
+    "id": 613746,
+    "title": {
+        "en": "The story of merched y Wawr Tumble Branch",
+        "cy": "Hanes Merched y Wawr Cangen Y Tymbl a\n  \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613746",
+    "created": 1510754010,
+    "updated": 1510754010,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hanes dechrau Merched y Wawr Cangen Y Tymbl a stori baner y Gangen.",
+        "cy": "Hanes dechrau Merched y Wawr Cangen Y Tymbl a stori baner y Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Tymbl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Tymbl",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.789237000000",
+            "lon": "-4.121080000000",
+            "description": {
+                "en": "Y Tymbl",
+                "cy": "Y Tymbl"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_093.jpg",
+            "type": "image",
+            "target_id": "613736"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

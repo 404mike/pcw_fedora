@@ -1,0 +1,90 @@
+{
+    "id": 744826,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch Programme 1994-1995",
+        "cy": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 1994 \u2013 1995\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744826",
+    "created": 1516896502,
+    "updated": 1516896502,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 1994 \u2013 1995\nClawr a cefn gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Rhaglen Tymor Merched y Wawr Cangen Cylch Aeron 1994 \u2013 1995\nClawr a cefn gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.240082000000",
+            "lon": "-4.255622000000",
+            "description": {
+                "en": "Neuadd Gymuned, Ysgol Gyfun Aberaeron",
+                "cy": "Neuadd Gymuned, Ysgol Gyfun Aberaeron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-044.jpg",
+            "type": "image",
+            "target_id": "744811"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-045.jpg",
+            "type": "image",
+            "target_id": "744816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

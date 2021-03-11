@@ -1,0 +1,83 @@
+{
+    "id": 743481,
+    "title": {
+        "en": "Merched y Wawr enjoy an evening with journalist Tweli Griffiths",
+        "cy": "Merched y Wawr yn gwrando ar y newyddiadurwr Tweli Griffths"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743481",
+    "created": 1516895898,
+    "updated": 1516895898,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Castell Nedd a Changen Afan yn mwynhau noson yng Nghapel Soar Maesyrhaf yng nghwmni Tweli Griffiths",
+        "cy": "Merched y Wawr Cangen Castell Nedd a Changen Afan yn mwynhau noson yng Nghapel Soar Maesyrhaf yng nghwmni Tweli Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Afan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Afan",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.662598000000",
+            "lon": "-3.806829000000",
+            "description": {
+                "en": "Capel Soar, Maesyrhaf",
+                "cy": "Capel Soar, Maesyrhaf"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Cangen%20Castell%20Nedd%20ac%20Afan%20yn%20mwynhau%20noson%20yng%20Nghapel%20Soar%20Maesyrhaf%20yng%20nghwmni%20Tweli%20Griffiths.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Cangen%2520Castell%2520Nedd%2520ac%2520Afan%2520yn%2520mwynhau%2520noson%2520yng%2520Nghapel%2520Soar%2520Maesyrhaf%2520yng%2520nghwmni%2520Tweli%2520Griffiths.jpg",
+            "type": "image",
+            "target_id": "743471"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

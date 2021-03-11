@@ -1,0 +1,75 @@
+{
+    "id": 743271,
+    "title": {
+        "en": "Merched y Wawr's National President's Dinner 2005",
+        "cy": "Cinio Llywydd Cenedlaethol Merched y Wawr 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743271",
+    "created": 1516895799,
+    "updated": 1516895799,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cinio\u2019r Llywydd Cenedlaethol, Tyglyn Aeron, 12 Mawrth, 2005.",
+        "cy": "Taflen Cinio\u2019r Llywydd Cenedlaethol, Tyglyn Aeron, 12 Mawrth, 2005."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Aberystwyth"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-098.jpg",
+            "type": "image",
+            "target_id": "743266"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

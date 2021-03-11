@@ -1,0 +1,107 @@
+{
+    "id": 471027,
+    "title": {
+        "en": "Llangernyw, Colwyn Region branch of Merched y Wawr's contribution to the project on Welsh place names. ",
+        "cy": "Cyfraniad cangen Llangernyw, Rhanbarth Colwyn i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/471027",
+    "created": 1441701030,
+    "updated": 1441701030,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llangernyw, Colwyn Region of Merched y Wawr. It contains a list of field names in the Llangernyw area collected from the Tithe Records of 1840.",
+        "cy": "Gwybodaeth am waith cangen Llangernyw, Rhanbarth Colwyn o Ferched y Wawr. Mae'n cynnwys enwau caeau yn ardal Llangernyw o gofnodion y Degwm 1840."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_11148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11148.jpg",
+            "type": "image",
+            "target_id": "471018"
+        },
+        {
+            "originalFilename": "pcw001_11149.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11149.jpg",
+            "type": "image",
+            "target_id": "471019"
+        },
+        {
+            "originalFilename": "pcw001_11150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11150.jpg",
+            "type": "image",
+            "target_id": "471020"
+        },
+        {
+            "originalFilename": "pcw001_11151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11151.jpg",
+            "type": "image",
+            "target_id": "471021"
+        },
+        {
+            "originalFilename": "pcw001_11152.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11152.jpg",
+            "type": "image",
+            "target_id": "471022"
+        },
+        {
+            "originalFilename": "pcw001_11153.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11153.jpg",
+            "type": "image",
+            "target_id": "471023"
+        },
+        {
+            "originalFilename": "pcw001_11154.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11154.jpg",
+            "type": "image",
+            "target_id": "471024"
+        },
+        {
+            "originalFilename": "pcw001_11155.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11155.jpg",
+            "type": "image",
+            "target_id": "471025"
+        },
+        {
+            "originalFilename": "pcw001_11156.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_11156.jpg",
+            "type": "image",
+            "target_id": "471026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_11148",
+    "publisher_ref": ""
+}

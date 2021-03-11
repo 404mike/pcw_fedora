@@ -1,0 +1,66 @@
+{
+    "id": 1050191,
+    "title": {
+        "en": "MyW Residential Weekend at Lampeter 2012",
+        "cy": "Penwythnos Preswyl MyW 2012 yn Llanbed \u2013 Cainc a Chelfyddyd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050191",
+    "created": 1555592222,
+    "updated": 1555592222,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elsie Roberts; Meryl Davies; Einir Wyn; Mererid Jones and a representative from Cancer Research, presenting a cheque for the money raised by the bike ride in lieu of Ovarian Cancer.",
+        "cy": "Elsie Roberts; Meryl Davies; Einir Wyn; Mererid Jones a chynrychiolydd o Ymchwil Cancr yr Wygelloedd, yn cyflwyno siec o'r arian a gasglwyd yn ystod y daith feicio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_444.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_444.jpg",
+            "type": "image",
+            "target_id": "1050186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

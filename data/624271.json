@@ -1,0 +1,85 @@
+{
+    "id": 624271,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Dyffryn Ceiriog, Glyn Maelor",
+        "cy": "Gwibdaith cangen Merched y Wawr Dyffryn Ceiriog, Glyn Maelor i Pen-Y-Bryn, Cartref Ceiriog. Mehefin, 1994."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624271",
+    "created": 1511279783,
+    "updated": 1511279783,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y Gangen i Pen-Y-Bryn, Cartref Ceiriog ym mis Mehefin, 1994. Deborah, Helen, Eirwen, Gaenor, Carys, Haf, Iola, Marian, Mair, Edwine, Einwen, Gaynor, Dorothy, Glenys, Betty, Elin, Sydney, Sheila, Llinos, Iris, Falmai, M. E. Roberts, Rita, Josie, Ann, Dilys, Mairan, Beryl.",
+        "cy": "Gwibdaith y Gangen i Pen-Y-Bryn, Cartref Ceiriog ym mis Mehefin, 1994. Deborah, Helen, Eirwen, Gaenor, Carys, Haf, Iola, Marian, Mair, Edwine, Einwen, Gaynor, Dorothy, Glenys, Betty, Elin, Sydney, Sheila, Llinos, Iris, Falmai, M. E. Roberts, Rita, Josie, Ann, Dilys, Mairan, Beryl."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Llinos Kilfoil ",
+    "owner": "Casgliad Llinos Kilfoil ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Dyffryn Ceiriog",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dyffryn Ceiriog",
+        "Rhanbarth Glyn Maelor"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.887562000000",
+            "lon": "-3.251440000000",
+            "description": {
+                "en": "Dyffryn Ceiriog",
+                "cy": "Dyffryn Ceiriog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DYFFRYNCEIRIOG_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DYFFRYNCEIRIOG_011.jpg",
+            "type": "image",
+            "target_id": "624261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

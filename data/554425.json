@@ -1,0 +1,83 @@
+{
+    "id": 554425,
+    "title": {
+        "en": "Merched y Wawr Sponsored Bike Ride ",
+        "cy": "Taith Feiciau Noddedig Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554425",
+    "created": 1487591838,
+    "updated": 1487591838,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffurflen Noddi Taith Feiciau gan Einir, Elsie ac Eraill i Gancr y Fron (dim dyddiad)",
+        "cy": "Ffurflen Noddi Taith Feiciau gan Einir, Elsie ac Eraill i Gancr y Fron (dim dyddiad)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Eisteddfod"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.238983000000",
+            "lon": "-3.379924000000",
+            "description": {
+                "en": "Pafiliwn, Llandrindod",
+                "cy": "Pafiliwn, Llandrindod"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000011.jpg",
+            "type": "image",
+            "target_id": "554423"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 624826,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Wuddgrug, Glyn Maelor yn cystadlu ym 1970 - \u2018Gwneud Hetiau Pasg\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624826",
+    "created": 1511279961,
+    "updated": 1511279961,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yn cystadlu ym 1970 - \u2018Gwneud Hetiau Pasg\u2019. Margaret Hogg, Ann Williams, Beryl Davies, Rhianwen Roberts,  Mrs Parry, Rhiannon Parry, Non Parry, Bethan Gwilym (a\u2019i merch), Coral Charles.",
+        "cy": "Aelodau\u2019r gangen yn cystadlu ym 1970 - \u2018Gwneud Hetiau Pasg\u2019. Margaret Hogg, Ann Williams, Beryl Davies, Rhianwen Roberts,  Mrs Parry, Rhiannon Parry, Non Parry, Bethan Gwilym (a\u2019i merch), Coral Charles."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_004.jpg",
+            "type": "image",
+            "target_id": "624816"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

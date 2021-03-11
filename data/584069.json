@@ -1,0 +1,84 @@
+{
+    "id": 584069,
+    "title": {
+        "en": "Merched y Wawr - Maenclochog Branch - Visiting St David's Hospital, Carmarthen",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Ward Aeron, Ysbyty Dewi Sant, Caerfyrddin."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584069",
+    "created": 1499870311,
+    "updated": 1499870311,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Gorffennaf 1988 Ymweld \u00e2 Ward Aeron, Ysbyty Dewi Sant, Caerfyrddin.  Ar \u00f4l pryd o fwyd, cyd-ganu emynau gyda Rhiannon Herbert ar yr acordion.  Pob cangen yn y Rhanbarth yn ymweld \u00e2 Ward Aeron yn eu tro",
+        "cy": "Merched y Wawr Maenclochog, Gorffennaf 1988 Ymweld \u00e2 Ward Aeron, Ysbyty Dewi Sant, Caerfyrddin.  Ar \u00f4l pryd o fwyd, cyd-ganu emynau gyda Rhiannon Herbert ar yr acordion.  Pob cangen yn y Rhanbarth yn ymweld \u00e2 Ward Aeron yn eu tro"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856522000000",
+            "lon": "-4.333816000000",
+            "description": {
+                "en": "Ysbyty Dewi Sant, Caerfyrddin",
+                "cy": "Ysbyty Dewi Sant, Caerfyrddin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-035.jpg",
+            "type": "image",
+            "target_id": "584067"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

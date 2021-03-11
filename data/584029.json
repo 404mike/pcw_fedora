@@ -1,0 +1,84 @@
+{
+    "id": 584029,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Visiting North Wales",
+        "cy": "Merched y Wawr Cangen Maenclochog - Ymweld \u00e2 Gogledd Cymru\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584029",
+    "created": 1499870249,
+    "updated": 1499870249,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cafwyd arian Loteri i ymweld \u00e2 Gogledd Gymru.  Cangen Maenclochog yng Nghaernarfon 2007, mynd am dro o gwympas y Castell. Yn y cart \u2013 Beryl John, Aerona Edwards a Maureen George.",
+        "cy": "Cafwyd arian Loteri i ymweld \u00e2 Gogledd Gymru.  Cangen Maenclochog yng Nghaernarfon 2007, mynd am dro o gwympas y Castell. Yn y cart \u2013 Beryl John, Aerona Edwards a Maureen George."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.139603000000",
+            "lon": "-4.276847000000",
+            "description": {
+                "en": "Castell Caernarfon",
+                "cy": "Castell Caernarfon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-019.jpg",
+            "type": "image",
+            "target_id": "584027"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

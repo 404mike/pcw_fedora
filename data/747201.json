@@ -1,0 +1,90 @@
+{
+    "id": 747201,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch Programme 2011-2012",
+        "cy": "Merched y Wawr Cangen Maenclochog, Rhaglen 2011-2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747201",
+    "created": 1516897626,
+    "updated": 1516897626,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog, Rhaglen 2011-2012, sef y flwyddyn wnaeth y gangen ddathlu penblwydd yn 40 oed.  \nNeuadd Maenclochog\nGweithgareddau\u2019r tymor gan gynnwys enwau swyddogion",
+        "cy": "Merched y Wawr Cangen Maenclochog, Rhaglen 2011-2012, sef y flwyddyn wnaeth y gangen ddathlu penblwydd yn 40 oed.  \nNeuadd Maenclochog\nGweithgareddau\u2019r tymor gan gynnwys enwau swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Maenclochog ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Maenclochog"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.910665000000",
+            "lon": "-4.789172000000",
+            "description": {
+                "en": "Neuadd Maenclochog",
+                "cy": "Neuadd Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-126.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-126.jpg",
+            "type": "image",
+            "target_id": "747186"
+        },
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-127.jpg",
+            "type": "image",
+            "target_id": "747191"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

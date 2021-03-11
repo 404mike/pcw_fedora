@@ -1,0 +1,81 @@
+{
+    "id": 742991,
+    "title": {
+        "en": "Merched y Wawr Swansea Branch Programme 1973-1974",
+        "cy": "Rhaglen Merched y Wawr Cangen Abertawe 1973-1974"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742991",
+    "created": 1516895668,
+    "updated": 1516895668,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Abertawe 1973 - 1974\nClawr gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Abertawe 1973 - 1974\nClawr gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-004.jpg",
+            "type": "image",
+            "target_id": "742981"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-005.jpg",
+            "type": "image",
+            "target_id": "742986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

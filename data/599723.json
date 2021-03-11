@@ -1,0 +1,86 @@
+{
+    "id": 599723,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr,Carmel, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Carmel, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599723",
+    "created": 1502446816,
+    "updated": 1502446816,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Net Ball team - 1987",
+        "cy": "T\u00eem Pel-Rhwyd Carmel a death yn 3ydd yn y chwaraeon Cendlaethol ym 1987. (cefn) Margaret Mathews, Nan Davies,  Sian Davies, Rhian Jones (blaen) Anwen Hughes Mai Evans, Rhian Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Carmel",
+    "owner": "Cangen Carmel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Carmel",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Carmel",
+        "Rhanbarth Aberconwy",
+        "Chwaraeon Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.142835000000",
+            "lon": "-3.739448000000",
+            "description": {
+                "en": "Carmel",
+                "cy": "Carmel "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_CARMEL_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_CARMEL_005.jpg",
+            "type": "image",
+            "target_id": "599721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

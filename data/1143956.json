@@ -1,0 +1,63 @@
+{
+    "id": 1143956,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2013",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143956",
+    "created": 1562061222,
+    "updated": 1562061222,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Handbag Fashion Show \u2013 Stifyn Parri opening the show.",
+        "cy": "Sioe Ffasiwn y Bagiau MyW ym Maes D \u2013 Stifyn Parri yn agor y Sioe."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "denbigh national eisteddfod 2013",
+        "eisteddfod genedlaethol dinbych ar cylch 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_520.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_520.jpg",
+            "type": "image",
+            "target_id": "1143951"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

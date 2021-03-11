@@ -1,0 +1,75 @@
+{
+    "id": 745181,
+    "title": {
+        "en": "The poet who wrote the poems ceebrating 25 years of Merched y Wawr Ffynnongroes Branch",
+        "cy": "Awdures penillion i dathlu Cangen Merched y Wawr Ffynnongroes"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745181",
+    "created": 1516896700,
+    "updated": 1516896700,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mrs Eluned Davies o Grymych, awdures penillion am aelodau Merched y Wawr Ffynnongroes pan fu\u2019r gangen yn dathlu 25ain o flynyddoedd ym 1993.  Mae\u2019r llun yn dangos Eluned yn 90 oed yn 2016.",
+        "cy": "Mrs Eluned Davies o Grymych, awdures penillion am aelodau Merched y Wawr Ffynnongroes pan fu\u2019r gangen yn dathlu 25ain o flynyddoedd ym 1993.  Mae\u2019r llun yn dangos Eluned yn 90 oed yn 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Ffynnongroes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Ffynnongroes",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-115.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-115.jpg",
+            "type": "image",
+            "target_id": "745176"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

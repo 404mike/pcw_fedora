@@ -1,0 +1,84 @@
+{
+    "id": 744426,
+    "title": {
+        "en": "Merched y Wawr Bronant Branch's 40th Anniversary",
+        "cy": "Cymanfa Ganu Merched y Wawr Bronant i Ddathlu&#039;r Deugain "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744426",
+    "created": 1516896289,
+    "updated": 1516896289,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Cymanfa Ganu Merched y Wawr Bronant i ddathlu penblwydd y gangen yn ddeugain, Capel Penial, Blaenpennal, Mai 24, 2009.",
+        "cy": "Taflen Cymanfa Ganu Merched y Wawr Bronant i ddathlu penblwydd y gangen yn ddeugain, Capel Penial, Blaenpennal, Mai 24, 2009."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.259419000000",
+            "lon": "-4.004970000000",
+            "description": {
+                "en": "Capel Penial, Blaenpennal",
+                "cy": "Capel Penial, Blaenpennal"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-157.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-157.jpg",
+            "type": "image",
+            "target_id": "744416"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

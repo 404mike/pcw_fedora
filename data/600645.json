@@ -1,0 +1,82 @@
+{
+    "id": 600645,
+    "title": {
+        "en": "Llangadog Branch in a Merched y Wawr Residential Weekend, Swansea",
+        "cy": "Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr, Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600645",
+    "created": 1502448030,
+    "updated": 1502448030,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr yn Abertawe  \u2013 Eirlys Lewis, Morfydd James, Gwyneth Southgate, Megan Evans, Janet Bowyer",
+        "cy": "Aelodau Cangen Llangadog ym Mhenwythnos Preswyl Merched y Wawr yn Abertawe  \u2013 Eirlys Lewis, Morfydd James, Gwyneth Southgate, Megan Evans, Janet Bowyer"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.621470000000",
+            "lon": "-3.943484000000",
+            "description": {
+                "en": "Abertawe",
+                "cy": "Abertawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-221.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-221.jpg",
+            "type": "image",
+            "target_id": "600643"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

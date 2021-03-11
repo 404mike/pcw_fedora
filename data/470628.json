@@ -1,0 +1,64 @@
+{
+    "id": 470628,
+    "title": {
+        "en": "Llanybydder, Carmarthenshire branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Llanybydder, sir Gaerfyrddin i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470628",
+    "created": 1441700827,
+    "updated": 1441700827,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llanybydder, Carmarthenshire  branch of Merched y Wawr. It contains a list of field names from Dolgwm Uchaf.",
+        "cy": "Gwybodaeth am waith cangen Llanybydder, sir Gaerfyrddin o Ferched y Wawr. Mae'n cynnwys rhestr o enwau caeau yn cynnwys rhai Dolgwm Uchaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10770.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10770.jpg",
+            "type": "image",
+            "target_id": "470626"
+        },
+        {
+            "originalFilename": "pcw001_10771.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10771.jpg",
+            "type": "image",
+            "target_id": "470627"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10770",
+    "publisher_ref": ""
+}

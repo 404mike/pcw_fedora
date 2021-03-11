@@ -1,0 +1,82 @@
+{
+    "id": 743611,
+    "title": {
+        "en": "Merched y Wawr Beca Branch's presentation 'We are the Beca Girls' (Ni yw Merched Beca)",
+        "cy": "Perfformiad \u2018Ni yw Merched Beca\u2019 gan Ferched y Wawr Cangen Beca \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743611",
+    "created": 1516895948,
+    "updated": 1516895948,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyflwyniad \u2018Ni yw Merched Beca\u2019 gan Ferched y Wawr Cangen Beca yn Theatr y Gromlech, Crymych mewn digwyddiad Rhanbarthol.  \nYn y llun mae Avril Owen, Rhiannon Davis, Merlys Davies, Mefin Lewis, Mair Eynon, Eilir Davies, Val Harries, Olwen Evans, Rhiannon Jones, Eirian Bowen, Mary Davies, Sadie Davies (ymysg eraill)",
+        "cy": "Cyflwyniad \u2018Ni yw Merched Beca\u2019 gan Ferched y Wawr Cangen Beca yn Theatr y Gromlech, Crymych mewn digwyddiad Rhanbarthol.  \nYn y llun mae Avril Owen, Rhiannon Davis, Merlys Davies, Mefin Lewis, Mair Eynon, Eilir Davies, Val Harries, Olwen Evans, Rhiannon Jones, Eirian Bowen, Mary Davies, Sadie Davies (ymysg eraill)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Beca",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Beca"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.970405000000",
+            "lon": "-4.648765000000",
+            "description": {
+                "en": "Theatr y Gromlech, Crymych",
+                "cy": "Theatr y Gromlech, Crymych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-052.jpg",
+            "type": "image",
+            "target_id": "743601"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

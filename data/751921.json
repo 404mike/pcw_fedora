@@ -1,0 +1,86 @@
+{
+    "id": 751921,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bryncrug, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bryncrug, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751921",
+    "created": 1516958055,
+    "updated": 1516958055,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn canu carolau o amgylch y pentref ym 1983. Gwelwn: Sali Jones, Mrs Wooley, Nans Jones, Maggie Jones, Gwenfair Pierce, Glenys Williams, Gwen Jones, Maggie Jones, Ann Humphreys, Gwyneth Thomas, Freda Jones, Dilys Jones, Luned Roberts, Mair Jones, Llewela Williams.",
+        "cy": "Y gangen yn canu carolau o amgylch y pentref ym 1983. Gwelwn: Sali Jones, Mrs Wooley, Nans Jones, Maggie Jones, Gwenfair Pierce, Glenys Williams, Gwen Jones, Maggie Jones, Ann Humphreys, Gwyneth Thomas, Freda Jones, Dilys Jones, Luned Roberts, Mair Jones, Llewela Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bryncrug",
+    "owner": "Cangen Bryncrug",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bryncrug",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bryncrug",
+        "eirionnydd",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.610047000000",
+            "lon": "-4.054039000000",
+            "description": {
+                "en": "Bryncrug",
+                "cy": "Bryncrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRYNCRUG_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRYNCRUG_002.jpg",
+            "type": "image",
+            "target_id": "751911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

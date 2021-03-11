@@ -1,0 +1,66 @@
+{
+    "id": 1046551,
+    "title": {
+        "en": "President's Dinner in South Wales 2004",
+        "cy": "Cinio&#039;r Llywydd yn y De 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046551",
+    "created": 1555590290,
+    "updated": 1555590290,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Photograph taken at the President's Dinner at Tyrrau Hotel, Swansea, 2004.",
+        "cy": "Llun a dynwyd yng nghinio'r Llywydd yng ngwesty'r Tyrrau, Abertawe, 2004. O'r chwith i'r dde: Elizabeth Evans; Yvonne Davies-Grodzicka; Glenys Thomas; Gwyneth Morus Jones; Tegwen Morris; Garry Owen, siaradwr gwadd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2004",
+        "SWANSEA",
+        "garry owen",
+        "cinior llywydd yn y de 2004",
+        "abertawe"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_044.jpg",
+            "type": "image",
+            "target_id": "1046546"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

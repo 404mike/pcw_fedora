@@ -1,0 +1,65 @@
+{
+    "id": 1047566,
+    "title": {
+        "en": "President's Dinner in South Wales 2007",
+        "cy": "Cinio&#039;r Llywydd yn y De 2007 \u2013 Gwesty&#039;r Strade"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047566",
+    "created": 1555590973,
+    "updated": 1555590973,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "President Mary Price presenting Rhiannon Evans, Radyr Branch with a certificate for an increase in membership.",
+        "cy": "Mary Price, Llywydd yn cyflwyno tystysgrif cynnydd aelodaeth i Rhiannon Evans, cangen Bro Radyr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "Llanelli"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_148.jpg",
+            "type": "image",
+            "target_id": "1047561"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 623361,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Corwen, Glyn Maelor yn dathlu 40 mlynedd y gangen."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623361",
+    "created": 1511279478,
+    "updated": 1511279478,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn dathlu ei deugain (40) yn 2013. Gwelwen Llywydd 1af y Gangen Megan Jones gyda\u2019r Llywydd presennol, Mari Roberts yn torri\u2019r gacen. Yn ogystal \u00e2 arddangosfa o luniau o weithgareddau\u2019r gangen dros y 40 mlynedd (1973 - 2013)",
+        "cy": "Y gangen yn dathlu ei deugain (40) yn 2013. Gwelwen Llywydd 1af y Gangen Megan Jones gyda\u2019r Llywydd presennol, Mari Roberts yn torri\u2019r gacen. Yn ogystal \u00e2 arddangosfa o luniau o weithgareddau\u2019r gangen dros y 40 mlynedd (1973 - 2013)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_004.jpg",
+            "type": "image",
+            "target_id": "623351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

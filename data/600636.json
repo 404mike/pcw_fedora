@@ -1,0 +1,82 @@
+{
+    "id": 600636,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch visit Gower",
+        "cy": "Merched y Wawr Cangen Llangadog ym Mro G\u0175yr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600636",
+    "created": 1502448019,
+    "updated": 1502448019,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llangadog yn mwynhau Penwythnos Preswyl Merched y Wawr yn Abertawe ac yn ymweld \u00e2 Bro G\u0175yr\nNest Davies, Aerona Williams, Eirlys Lewis, Janet Bowyer yn cael te yn Rhossili cyn bwrw am adref.",
+        "cy": "Merched y Wawr Cangen Llangadog yn mwynhau Penwythnos Preswyl Merched y Wawr yn Abertawe ac yn ymweld \u00e2 Bro G\u0175yr\nNest Davies, Aerona Williams, Eirlys Lewis, Janet Bowyer yn cael te yn Rhossili cyn bwrw am adref."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.569121000000",
+            "lon": "-4.286939000000",
+            "description": {
+                "en": "Rhosili, Gwyr",
+                "cy": "Rhosili, Gwyr"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-217.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-217.jpg",
+            "type": "image",
+            "target_id": "600634"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

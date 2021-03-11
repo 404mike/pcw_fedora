@@ -1,0 +1,65 @@
+{
+    "id": 1049926,
+    "title": {
+        "en": "Urdd National Eisteddfod Eryri 2012",
+        "cy": "Eisteddfod yr Urdd Eryri 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049926",
+    "created": 1555592110,
+    "updated": 1555592110,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrations outside MyW Stand.",
+        "cy": "Bwrlwm o flaen Pabell MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod eryri 2012",
+        "eisteddfod yr urdd eryri 2012"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_415.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_415.jpg",
+            "type": "image",
+            "target_id": "1049921"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

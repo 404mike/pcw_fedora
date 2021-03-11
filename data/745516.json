@@ -1,0 +1,84 @@
+{
+    "id": 745516,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch's History ",
+        "cy": "Hanes sefydlu Cangen Gorseinon o Ferched y Wawr ym 1969 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745516",
+    "created": 1516896844,
+    "updated": 1516896844,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Hanes sefydlu Cangen Gorseinon o Ferched y Wawr ym 1969",
+        "cy": "Hanes sefydlu Cangen Gorseinon o Ferched y Wawr ym 1969"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.665007000000",
+            "lon": "-4.040447000000",
+            "description": {
+                "en": "Festri Libanus, Gorseinon",
+                "cy": "Festri Libanus, Gorseinon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-045.jpg",
+            "type": "image",
+            "target_id": "745506"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

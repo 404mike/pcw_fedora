@@ -1,0 +1,87 @@
+{
+    "id": 752546,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Ganllwyd, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr y Ganllwyd, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752546",
+    "created": 1516958230,
+    "updated": 1516958230,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rheolau Chwaraeon Marched y Wawr, 1994 - 1995.",
+        "cy": "Rheolau Chwaraeon Marched y Wawr, 1994 - 1995."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Ganllwyd",
+    "owner": "Cangen y Ganllwyd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "y Ganllwyd",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Ganllwyd",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Merched y Wawr",
+        "Cenedlaethol Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.804985000000",
+            "lon": "-3.889672000000",
+            "description": {
+                "en": "Y Ganllwyd",
+                "cy": "Y Ganllwyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "GOG_Meirionnydd_Ganllwyd_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/GOG_Meirionnydd_Ganllwyd_004.jpg",
+            "type": "image",
+            "target_id": "752536"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584128,
+    "title": {
+        "en": "Merched y Wawr Maenclochog - Merched y Wawr's Walking Tour 2002",
+        "cy": "Merched y Wawr Cangen Maenclochog - Taith gerdded y Llywydd Cenedlaethol 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584128",
+    "created": 1499870392,
+    "updated": 1499870392,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog\n2002, Taith gerdded y Llywydd Cenedlaethol (Catrin Stevens) \u2013 rhan o\u2019r llwybr o gwympas Llyn Llys y Fr\u00e2n.  Gillian Phillips, Eiry Phillips, Eirwen Gibby, Sheila Vaughan ac Ogwen Phillips.  Blaen \u2013 Maureen George a Buddug Harries",
+        "cy": "Merched y Wawr Maenclochog\n2002, Taith gerdded y Llywydd Cenedlaethol (Catrin Stevens) \u2013 rhan o\u2019r llwybr o gwympas Llyn Llys y Fr\u00e2n.  Gillian Phillips, Eiry Phillips, Eirwen Gibby, Sheila Vaughan ac Ogwen Phillips.  Blaen \u2013 Maureen George a Buddug Harries"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.885662000000",
+            "lon": "-4.844734000000",
+            "description": {
+                "en": "Llys-y-Fran, Penfro",
+                "cy": "Llys-y-Fran, Penfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-060.jpg",
+            "type": "image",
+            "target_id": "584126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

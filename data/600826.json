@@ -1,0 +1,82 @@
+{
+    "id": 600826,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch on a trip to Golden Grove Park ",
+        "cy": "Merched y Wawr Cangen Rhydaman a&#039;r Cylch ar drip i Barc Gelli Aur "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600826",
+    "created": 1502448298,
+    "updated": 1502448298,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman Merched y Wawr yn cael trip min nos i Barc Gelli Aur dan lywyddiaeth Annette Hughes.  Yn y llun mae Bethan Thomas, Gill Howells, Margaret Hughes, Olwen Richards, Linda Williams, Mavis Williams, Eirian Bowen",
+        "cy": "Cangen Rhydaman Merched y Wawr yn cael trip min nos i Barc Gelli Aur dan lywyddiaeth Annette Hughes.  Yn y llun mae Bethan Thomas, Gill Howells, Margaret Hughes, Olwen Richards, Linda Williams, Mavis Williams, Eirian Bowen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.859475000000",
+            "lon": "-4.038609000000",
+            "description": {
+                "en": "Gelli Aur",
+                "cy": "Gelli Aur"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-160.jpg",
+            "type": "image",
+            "target_id": "600824"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

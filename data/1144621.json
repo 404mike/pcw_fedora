@@ -1,0 +1,87 @@
+{
+    "id": 1144621,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Eisteddfod Genedlaethol Caerfyrddin a&#039;r Cylch 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144621",
+    "created": 1562061983,
+    "updated": 1562061983,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Carmarthenshire members with their presentation: Milain yw'r Gwynt \u2013 'Mlaen a'r Gwaith (Tydfor).",
+        "cy": "Cyflwyniad aelodau Rhanbarth Caerfyrddin: Milain yw'r Gwynt \u2013 'Mlaen a'r Gwaith (Tydfor)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_591.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_591.jpg",
+            "type": "image",
+            "target_id": "1144596"
+        },
+        {
+            "originalFilename": "df_myw_592.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_592.jpg",
+            "type": "image",
+            "target_id": "1144601"
+        },
+        {
+            "originalFilename": "df_myw_593.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_593.jpg",
+            "type": "image",
+            "target_id": "1144606"
+        },
+        {
+            "originalFilename": "df_myw_594.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_594.jpg",
+            "type": "image",
+            "target_id": "1144611"
+        },
+        {
+            "originalFilename": "df_myw_595.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_595.jpg",
+            "type": "image",
+            "target_id": "1144616"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

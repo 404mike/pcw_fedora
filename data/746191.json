@@ -1,0 +1,75 @@
+{
+    "id": 746191,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch Mystery Tour",
+        "cy": "Taith Ddirgel Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746191",
+    "created": 1516897167,
+    "updated": 1516897167,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Swper ar \u00f4l Taith Ddirgel yn y Lamb, Llangeler tua chanol y 70au.\nRhes Gefn: Tilly Williams; Ray Williams; Ann Lewis; Mary Jones; Mrs Hamer; Lena Williams;  (?); Iris Jenkins; Luned Lewis Nancy Davies;  Ail Res o\u2019r Cefn: Miss Price; Luned Abel; Elsie Williams;  Nansi Evans a Joan Evans (efeilliaid); Mrs Davies, Brynmeddyg; Cissie James; Maggie Maud Jones; Ray Morgan, Gland\u0175r;  Mrs Donovan; (?); Anne Rees, Y Banc; Mrs Davies, Bon Marche; Mrs Jacob Davies.\nRhes Nesaf: Elizabeth Warmington; Mrs Lewis,Dolwerdd;  Phyllis Jones; Menna Evans, Brynderw; Mrs Howells, Fishers Arms;  (?);  Mrs Jones, Rhoslwyn; Mary Williams;  Mrs Angus ??; \nRhes Flaen: Margaret Owen; Enfys Jones; Nancy Hughes; Pat Davies; Eryl Jones; Dilwen Roderick; Lettie Jones (Vaughan); Beti Evans; Avril Williams.",
+        "cy": "Swper ar \u00f4l Taith Ddirgel yn y Lamb, Llangeler tua chanol y 70au.\nRhes Gefn: Tilly Williams; Ray Williams; Ann Lewis; Mary Jones; Mrs Hamer; Lena Williams;  (?); Iris Jenkins; Luned Lewis Nancy Davies;  Ail Res o\u2019r Cefn: Miss Price; Luned Abel; Elsie Williams;  Nansi Evans a Joan Evans (efeilliaid); Mrs Davies, Brynmeddyg; Cissie James; Maggie Maud Jones; Ray Morgan, Gland\u0175r;  Mrs Donovan; (?); Anne Rees, Y Banc; Mrs Davies, Bon Marche; Mrs Jacob Davies.\nRhes Nesaf: Elizabeth Warmington; Mrs Lewis,Dolwerdd;  Phyllis Jones; Menna Evans, Brynderw; Mrs Howells, Fishers Arms;  (?);  Mrs Jones, Rhoslwyn; Mary Williams;  Mrs Angus ??; \nRhes Flaen: Margaret Owen; Enfys Jones; Nancy Hughes; Pat Davies; Eryl Jones; Dilwen Roderick; Lettie Jones (Vaughan); Beti Evans; Avril Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252032.jpg",
+            "type": "image",
+            "target_id": "746186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

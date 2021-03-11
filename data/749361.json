@@ -1,0 +1,75 @@
+{
+    "id": 749361,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth Branch (Newport, Pembs) exhibit their craftwork",
+        "cy": "Noson o Arddangos Waith Crefft Merched y Wawr Trefdraeth "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749361",
+    "created": 1516898974,
+    "updated": 1516898974,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Trefdraeth yn cynnal noson yn y Clwb Golff yn Nhrefdraeth yn 2010, gydag arddangosfa o waith crefft rhai o\u2019r aelodau oedd wedi bod yn llwyddiannus yn y gwahanol sioeau (a swper blasus, wrth gwrs!).\nYn y llun:-\nRhiannon Willliams, Eiry Ladd-Lewis, Daphne Godwin, Beti James, Dilys Davies, Marina Williams, Aeres James, Rhiannon Thomas, Kath Phillips, Gwenda Davies, Helen Howells, Alice Evans, Doreen Phillips, Marian Rogers, Vi Angus, May Davies",
+        "cy": "Merched y Wawr Trefdraeth yn cynnal noson yn y Clwb Golff yn Nhrefdraeth yn 2010, gydag arddangosfa o waith crefft rhai o\u2019r aelodau oedd wedi bod yn llwyddiannus yn y gwahanol sioeau (a swper blasus, wrth gwrs!).\nYn y llun:-\nRhiannon Willliams, Eiry Ladd-Lewis, Daphne Godwin, Beti James, Dilys Davies, Marina Williams, Aeres James, Rhiannon Thomas, Kath Phillips, Gwenda Davies, Helen Howells, Alice Evans, Doreen Phillips, Marian Rogers, Vi Angus, May Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Trefdraeth"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-040.jpg",
+            "type": "image",
+            "target_id": "749356"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

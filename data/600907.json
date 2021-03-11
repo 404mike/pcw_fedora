@@ -1,0 +1,84 @@
+{
+    "id": 600907,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch Exhibition ",
+        "cy": "Arddangosfa Merched y Wawr Cangen San Cler "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600907",
+    "created": 1502448404,
+    "updated": 1502448404,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Arddangosfa o weithgareddau Merched y Wawr Cangen San Cler yng Ngwasanaeth Dinesig Maer San Cler, Gorffennaf 2013.  Y canolbwynt yw Baner y Gangen.",
+        "cy": "Arddangosfa o weithgareddau Merched y Wawr Cangen San Cler yng Ngwasanaeth Dinesig Maer San Cler, Gorffennaf 2013.  Y canolbwynt yw Baner y Gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819326000000",
+            "lon": "-4.498561000000",
+            "description": {
+                "en": "San Cler",
+                "cy": "San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-130217-037.jpg",
+            "type": "image",
+            "target_id": "600905"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 601542,
+    "title": {
+        "en": "Merched y Wawr Beacons Branch take part in Christmas Tree Festival at Brecon Cathedral ",
+        "cy": "Coeden Merched y Wawr Cangen y Bannau yng Ng\u0175yl Coed Nadolig Eglwys Gadeiriol Aberhonddu\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601542",
+    "created": 1502449532,
+    "updated": 1502449532,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o goeden gan Ferched y Wawr Cangen y Bannau yng Ng\u0175yl Coed Nadolig yn y Gadeirlan.  Dyma\u2019r ail waith i\u2019r gangen arddangos coeden yn y Gadeirlan er mwyn hybu Merched y Wawra thynnu sylw i\u2019r hyn mae\u2019r mudiad yn ei gynrychioli \u2013 sef y defnydd o\u2019r Gymraeg, creu cyfle i gyfathrebu a chymdeithasu, gwneud ffrindiau a dysgu drwy amryw o weithgareddau ac ymweliadau.  \nUn o\u2019r aelodau, Monna Lloyd a\u2019i g\u0175r wnaeth greu y goeden o froc m\u00f4r, yna fe fu yr aelodau yn casglu peli Nadolig glas ac aur ac lapio parseli glas ac aur i\u2019w rhoi wrth droed y goeden er mwyn gludo labeli iddynt yn dangos beth mae Merched y Wawr yn cynnig i bawb.  Cr\u00ebwyd y labeli a pheli logo gan Nita Jones.",
+        "cy": "Llun o goeden gan Ferched y Wawr Cangen y Bannau yng Ng\u0175yl Coed Nadolig yn y Gadeirlan.  Dyma\u2019r ail waith i\u2019r gangen arddangos coeden yn y Gadeirlan er mwyn hybu Merched y Wawra thynnu sylw i\u2019r hyn mae\u2019r mudiad yn ei gynrychioli \u2013 sef y defnydd o\u2019r Gymraeg, creu cyfle i gyfathrebu a chymdeithasu, gwneud ffrindiau a dysgu drwy amryw o weithgareddau ac ymweliadau.  \nUn o\u2019r aelodau, Monna Lloyd a\u2019i g\u0175r wnaeth greu y goeden o froc m\u00f4r, yna fe fu yr aelodau yn casglu peli Nadolig glas ac aur ac lapio parseli glas ac aur i\u2019w rhoi wrth droed y goeden er mwyn gludo labeli iddynt yn dangos beth mae Merched y Wawr yn cynnig i bawb.  Cr\u00ebwyd y labeli a pheli logo gan Nita Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bannau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bannau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.951522000000",
+            "lon": "-3.392730000000",
+            "description": {
+                "en": "Eglwys Gadeirol Aberhonddu",
+                "cy": "Eglwys Gadeirol Aberhonddu"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-080.jpg",
+            "type": "image",
+            "target_id": "601540"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

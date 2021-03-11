@@ -1,0 +1,84 @@
+{
+    "id": 743671,
+    "title": {
+        "en": "Merched y Wawr Blaenffos Branch Keep Fit",
+        "cy": "Merched y Wawr Blaenffos yn Cadw\u2019n Heini "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743671",
+    "created": 1516895969,
+    "updated": 1516895969,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau Merched y Wawr Blaenffos yn cymryd rhan mewn sesiwn cadw\u2019n heini dan arweiniad Hannah Thomas yn y 1970au.  Roedden nhw\u2019n paratoi at noson o eitemau amrywiol gyda\u2019r Sir. \nYn y llun -  Beryl George, Sheila John, Catherine Davies, May Smart, Brenda Lewis, Margaret Harries, Pat Jones, Eluned James, Doreen Williams, Hannah Thomas, Morfydd Thomas, Buddug Jones, Eirian Williams",
+        "cy": "Llun aelodau Merched y Wawr Blaenffos yn cymryd rhan mewn sesiwn cadw\u2019n heini dan arweiniad Hannah Thomas yn y 1970au.  Roedden nhw\u2019n paratoi at noson o eitemau amrywiol gyda\u2019r Sir. \nYn y llun -  Beryl George, Sheila John, Catherine Davies, May Smart, Brenda Lewis, Margaret Harries, Pat Jones, Eluned James, Doreen Williams, Hannah Thomas, Morfydd Thomas, Buddug Jones, Eirian Williams"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Blaenffos",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Blaenffos"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.003153000000",
+            "lon": "-4.638326000000",
+            "description": {
+                "en": "Blaenffos",
+                "cy": "Blaenffos"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-004.jpg",
+            "type": "image",
+            "target_id": "743661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

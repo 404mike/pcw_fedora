@@ -1,0 +1,77 @@
+{
+    "id": 1050001,
+    "title": {
+        "en": "Bro Morgannwg National Eisteddfod 2012",
+        "cy": "Eisteddfod Genedlaethol Bro Morgannwg 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050001",
+    "created": 1555592142,
+    "updated": 1555592142,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation by members of South Glamorgan Region \u2013 'Ddoe a Heddiw ym Morgannwg'.",
+        "cy": "Cyflwyniad aelodau y De Ddwyrain \u2013 Ddoe a Heddiw ym Morgannwg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "bro morgannwg national eisteddfod",
+        "eisteddfod genedlaethol bro morgannwg"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_422.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_422.jpg",
+            "type": "image",
+            "target_id": "1049986"
+        },
+        {
+            "originalFilename": "df_myw_423.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_423.jpg",
+            "type": "image",
+            "target_id": "1049991"
+        },
+        {
+            "originalFilename": "df_myw_424.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_424.jpg",
+            "type": "image",
+            "target_id": "1049996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

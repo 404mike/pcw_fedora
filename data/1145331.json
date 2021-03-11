@@ -1,0 +1,65 @@
+{
+    "id": 1145331,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145331",
+    "created": 1562062807,
+    "updated": 1562062807,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Literary Prize for 'An Article', a Shrort Story or a Drama on the theme 'Health'. Adjudicator Arwel 'Rocet' Jones.",
+        "cy": "Gwobr Lenyddol am Erthygl, Stori Fer neu Ddrama ar y testun 'Iechyd'. Beirniad Arwel 'Rocet' Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_671.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_671.jpg",
+            "type": "image",
+            "target_id": "1145326"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

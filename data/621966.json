@@ -1,0 +1,85 @@
+{
+    "id": 621966,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr y Groes Colwyn.",
+        "cy": "Aelodau cangen Merched y Wawr y Groes, Rhanbarth Colwyn. 1977"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621966",
+    "created": 1511279014,
+    "updated": 1511279014,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau\u2019r gangen yn 1977. Sefydlwyd y Gangen ym 1975 gan Eirlys Roberts, Fferm Pontruffydd.",
+        "cy": "Aelodau\u2019r gangen yn 1977. Sefydlwyd y Gangen ym 1975 gan Eirlys Roberts, Fferm Pontruffydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Groes",
+    "owner": "Cangen y Groes",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "y Groes",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen y Groes"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.226575000000",
+            "lon": "-3.838287000000",
+            "description": {
+                "en": "y Groes",
+                "cy": "y Groes"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_Y_GROES_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_Y_GROES_001.jpg",
+            "type": "image",
+            "target_id": "621956"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

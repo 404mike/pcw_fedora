@@ -1,0 +1,73 @@
+{
+    "id": 400021,
+    "title": {
+        "en": "Field Names Blaendyffryn, Mynachlogddu, Sir Benfro",
+        "cy": "Enwau Caeau Blaendyffryn, Mynachlogddu, Sir Benfro"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400021",
+    "created": 1416923866,
+    "updated": 1416923866,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "List of Field names - Parc Rodyn Bach, Parc Oeitrich, Parch Wrglo Gerrig, Blaendyffryn, Mynachlogddu, Clunderwen, Pembrokeshire",
+        "cy": "Rhestr o enwau caeau   - Parc Rodyn, Parc Oeitrich, Parc Wrglo Wein, - Blaendyffryn, Mynachlogddu, Clunderwen, Sir Benfro"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Field names Blaendyffyn",
+        "Clunderwen",
+        "Enwau Caeau Blaendyffryn"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.875708000000",
+            "lon": "-4.939193000000",
+            "description": {
+                "en": "Blaendyffryn, Mynachlogddu, Sir Benfro",
+                "cy": "Blaendyffryn, Mynachlogddu, Sir Benfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "pcw0010552.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010552.jpg",
+            "type": "image",
+            "target_id": "400019"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010552",
+    "publisher_ref": ""
+}

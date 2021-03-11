@@ -1,0 +1,84 @@
+{
+    "id": 601034,
+    "title": {
+        "en": "Members of Merched y Wawr Llannau'r Tywi Branch visit Patagonia ",
+        "cy": "Aelodau Merched y Wawr Cangen Llannau&#039;r Tywi yn ymweld \u00e2&#039;r Wladfa \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601034",
+    "created": 1502448580,
+    "updated": 1502448580,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Roedd yn hyfrydwch i Ferched y Wawr Cangen Llannau\u2019r Tywi gael danfon cyfarchion a chyflwyno rhodd i Ferched y Wawr Patagonia gan ddwy o\u2019r aelodau, Mrs Louie Davies a Mrs Etta Richardson yn ystod eu hymweliad \u00e2\u2019r Wladfa fis Hydref 1995.  \nYn y llun mae Mrs Louie Davies yn cyflwyno rhodd fechan ar ran Cangen Llannau\u2019r Tywi i gynrychiolydd Merched y Wawr Patagonia.",
+        "cy": "Roedd yn hyfrydwch i Ferched y Wawr Cangen Llannau\u2019r Tywi gael danfon cyfarchion a chyflwyno rhodd i Ferched y Wawr Patagonia gan ddwy o\u2019r aelodau, Mrs Louie Davies a Mrs Etta Richardson yn ystod eu hymweliad \u00e2\u2019r Wladfa fis Hydref 1995.  \nYn y llun mae Mrs Louie Davies yn cyflwyno rhodd fechan ar ran Cangen Llannau\u2019r Tywi i gynrychiolydd Merched y Wawr Patagonia."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "-43.289775000000",
+            "lon": "-65.491869000000",
+            "description": {
+                "en": "Y Wladfa",
+                "cy": "Y Wladfa"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_035.jpg",
+            "type": "image",
+            "target_id": "601032"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

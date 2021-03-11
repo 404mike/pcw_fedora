@@ -1,0 +1,66 @@
+{
+    "id": 1049251,
+    "title": {
+        "en": "Annual Meeting 2011",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049251",
+    "created": 1555591844,
+    "updated": 1555591844,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Former President Esyllt Jones presenting 5 special blankets to a representative from Air Ambulance Wales on behalf of MyW.",
+        "cy": "Y cyn-Lywydd Esyllt Jones yn cyflwyno 5 blanced arbenigol i gynrychiolydd o Ambiwlans Awyr Cymru ar ran MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_335.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_335.jpg",
+            "type": "image",
+            "target_id": "1049246"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

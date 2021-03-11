@@ -1,0 +1,90 @@
+{
+    "id": 614871,
+    "title": {
+        "en": "Merched y Wawr Garreg Wen Branch Programme 2016-2017",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen, Rhaglen 2016 - 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614871",
+    "created": 1510755098,
+    "updated": 1510755098,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Garreg Wen, Rhaglen 2016 - 2017\nClawr yn cynnwys enwau\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen, Rhaglen 2016 - 2017\nClawr yn cynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.103034000000",
+            "lon": "-4.377014000000",
+            "description": {
+                "en": "Neuadd Bentref Ffostrasol",
+                "cy": "Neuadd Bentref Ffostrasol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-154.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-154.jpg",
+            "type": "image",
+            "target_id": "614856"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-155.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-155.jpg",
+            "type": "image",
+            "target_id": "614861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

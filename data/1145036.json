@@ -1,0 +1,64 @@
+{
+    "id": 1145036,
+    "title": {
+        "en": "Christmas Fair 2014",
+        "cy": "Ffair Aeaf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145036",
+    "created": 1562062679,
+    "updated": 1562062679,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The launch of the book Caeau a Mwy (a collection by MyW) edited by Mererid Jones. Alun Ffred Jones, Heritage  Minister at the Senate launching the book.",
+        "cy": "Lansio llyfr Caeau a Mwy (casgliad MyW) golygydd Mererid Jones. Alun Ffred Jones, Gweinidog Treftadaeth yn y Cynulliad yn lansio'r llyfr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Christmas Fair",
+        "2014",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_641.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_641.jpg",
+            "type": "image",
+            "target_id": "1145031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

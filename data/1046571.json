@@ -1,0 +1,65 @@
+{
+    "id": 1046571,
+    "title": {
+        "en": "President's Dinner in South Wales 2004",
+        "cy": "Cinio&#039;r Llywydd yn y De 2004"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046571",
+    "created": 1555590301,
+    "updated": 1555590301,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwyneth Morus Jones, National President, speaking at the dinner.",
+        "cy": "Gwyneth Morus Jones, Llywydd Cenedlaethol yn siarad yn y cinio."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner 2004",
+        "national president",
+        "cinior llywydd yn y de 2004",
+        "llywydd cenedlaethol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_046.jpg",
+            "type": "image",
+            "target_id": "1046566"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

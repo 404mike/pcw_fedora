@@ -1,0 +1,84 @@
+{
+    "id": 601628,
+    "title": {
+        "en": " Llygaid y Dydd Gwawr Club taking part in the Merched y Wawr Fun Quiz",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cymryd rhan y Nghwis Hwyl Merched y Wawr 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601628",
+    "created": 1502449633,
+    "updated": 1502449633,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Clwb Gwawr Llygaid y Dydd yn cymryd rhan yng Nghwis Hwyl Merched y Wawr 2015",
+        "cy": "Aelodau Clwb Gwawr Llygaid y Dydd yn cymryd rhan yng Nghwis Hwyl Merched y Wawr 2015"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "image4.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/image4.jpg",
+            "type": "image",
+            "target_id": "601626"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

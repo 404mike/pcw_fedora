@@ -1,0 +1,90 @@
+{
+    "id": 624996,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Casgliad o luniau o Ferched y Wawr Rhanbarth Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624996",
+    "created": 1511280016,
+    "updated": 1511280016,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tocyn a lluniau o Sioe \u2018Fasiwn Ddoe a Heddiw\u2019 Rhanbarth Glyn Maelor, yn Neuadd Goffa, Bodhyfryd, Wrecsam, Mehefin 1988.",
+        "cy": "Tocyn a lluniau o Sioe \u2018Fasiwn Ddoe a Heddiw\u2019 Rhanbarth Glyn Maelor, yn Neuadd Goffa, Bodhyfryd, Wrecsam, Mehefin 1988."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_007.jpg",
+            "type": "image",
+            "target_id": "624981"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_008.jpg",
+            "type": "image",
+            "target_id": "624986"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 622221,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llansannan, Colwyn.",
+        "cy": "Parti cangen Merched y Wawr Llansannan, Rhanbarth Colwyn. Mawrth, 1973. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/622221",
+    "created": 1511279095,
+    "updated": 1511279095,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Parti Merched Cangen Llansannan ym mis Mawrth, 1973. Roedd y Parti yn mynd ymweld a changhennau eraill i gynnal nosweithiau cymdeithasu\/ diddannu. Ann Gelli, Mrs E C Evans, Eirlys Jones, Eurwen Roberts, Megan Evans Eurwen Roberts, Bessie Davies, Iorwen Roberts, Mary Jones, Mrs Williams (blaen) Mrs Williams, Mrs J J Morries, Gwerfyl Jones, Gwen Wyn Jones, Mair Selway, Eirwen Bailey, Megan Roberts.",
+        "cy": "Llun o Parti Merched Cangen Llansannan ym mis Martha, 1973. Roedd y Parti yn mynd ymweld a changhennau eraill i gynnal nosweithiau cymdeithasu\/ diddannu. Ann Gelli, Mrs E C Evans, Eirlys Jones, Eurwen Roberts, Megan Evans Eurwen Roberts, Bessie Davies, Iorwen Roberts, Mary Jones, Mrs Williams (blaen) Mrs Williams, Mrs J J Morries, Gwerfyl Jones, Gwen Wyn Jones, Mair Selway, Eirwen Bailey, Megan Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llansannan",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Llansannan",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178997000000",
+            "lon": "-3.595033000000",
+            "description": {
+                "en": "Llansannan",
+                "cy": "Llansannan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANSANNAN_031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANSANNAN_031.jpg",
+            "type": "image",
+            "target_id": "622211"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

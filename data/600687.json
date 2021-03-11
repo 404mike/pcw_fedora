@@ -1,0 +1,75 @@
+{
+    "id": 600687,
+    "title": {
+        "en": "Letter of thanks to Nantgaredig Branch of Merched y Wawr 2008",
+        "cy": "Llythyr o ddiolch i Gangen Nantgaredig o Ferched y Wawr 2008.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600687",
+    "created": 1502448083,
+    "updated": 1502448083,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llythyr o ddiolch oddiwrth Canolfan Therapi Bobath Cymru i Ferched y Wawr Cangen Nantgaredig yn 2008.",
+        "cy": "Llythyr o ddiolch oddiwrth Canolfan Therapi Bobath Cymru i Ferched y Wawr Cangen Nantgaredig yn 2008."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Nantaredig",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantgaredig",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-079.jpg",
+            "type": "image",
+            "target_id": "600686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

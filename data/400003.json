@@ -1,0 +1,65 @@
+{
+    "id": 400003,
+    "title": {
+        "en": "History of Llanddwywe Farm, Dyffryn Ardudwy",
+        "cy": "Hanes Fferm Llanddwywe yn Nyffryn Ardudwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400003",
+    "created": 1416923824,
+    "updated": 1416923824,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "History of Llanddwywe Farm, Dyffryn Ardudwy. Original names in 1625 'Tyddyn Ystumllan'",
+        "cy": "Hanes fferm Llanddwywe yn Nyffryn Ardudwy. Enw gwreiddiolo y fferm yn 1625 oedd Tyddyn Ystumllan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Dyffryn Ardudwy",
+        "Farm names",
+        "house names",
+        "enwau ffermydd",
+        "enwau tai"
+    ],
+    "when": [],
+    "what": [
+        "Farms and smallholdings",
+        "Cities, towns & villages",
+        "Houses and Homes"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010541.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010541.jpg",
+            "type": "image",
+            "target_id": "400002"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010541",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 623376,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Corwen, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Corwen, Glyn Maelor. Porth y Wawr, Nant Gwytheyrn ym 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623376",
+    "created": 1511279483,
+    "updated": 1511279483,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o\u2019r gangen yn ymweld \u00e2 th\u0177 Merched y Wawr - Porth y Wawr, yn Nant Gwytheyrn ym 1989. Blodwen Morris, Dilys Jones, Megan Jones, Elsie Smith, Kitty Jones, Carol Rees Jones, Huldah Jones.",
+        "cy": "Rhai o\u2019r gangen yn ymweld \u00e2 th\u0177 Merched y Wawr - Porth y Wawr, yn Nant Gwytheyrn ym 1989. Blodwen Morris, Dilys Jones, Megan Jones, Elsie Smith, Kitty Jones, Carol Rees Jones, Huldah Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Corwen",
+    "owner": "Cangen Corwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Corwen",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Corwen",
+        "Rhanbarth Glyn Maelor",
+        "Nant Gwytheyrn"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_CORWEN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_CORWEN_006.jpg",
+            "type": "image",
+            "target_id": "623366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

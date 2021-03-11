@@ -1,0 +1,86 @@
+{
+    "id": 620511,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Abergele, Colwyn.",
+        "cy": "perfformio \u2018Y Trip\u2019 - Chwefror 1996. Cangen Merched y Wawr Abergele, Rhanbarth Colwyn."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620511",
+    "created": 1511278479,
+    "updated": 1511278479,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cwmni ddrama\u2019r Gangen yn perfformio \u2018Y Trip\u2019 - Chwefror 1996. Meira Roberts, Rhiannon Hughes, Bethan Roberts, Joan Jones.",
+        "cy": "Cwmni ddrama\u2019r Gangen yn perfformio \u2018Y Trip\u2019 - Chwefror 1996. Meira Roberts, Rhiannon Hughes, Bethan Roberts, Joan Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Abergele",
+    "owner": "Cangen Abergele",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Abergele",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergele",
+        "Rhanbarth Colwyn",
+        "Drama Colwyn"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.284463000000",
+            "lon": "-3.583610000000",
+            "description": {
+                "en": "Abergele",
+                "cy": "Abergele"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_ABERGELE_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_ABERGELE_008.jpg",
+            "type": "image",
+            "target_id": "620501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

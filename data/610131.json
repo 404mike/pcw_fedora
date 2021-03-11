@@ -1,0 +1,73 @@
+{
+    "id": 610131,
+    "title": {
+        "en": "First President and Vice-President of Merched y Wawr Geler Branch",
+        "cy": "Llywydd ac Is-Lywydd cyntaf Merched y Wawr Cangen Geler"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610131",
+    "created": 1510753141,
+    "updated": 1510753141,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Valmai Owen ac Eurwen Jones, Llywydd ac Is-Lywydd cyntaf Merched y Wawr Cangen Geler.  Dechreuwyd y Gangen yn Hydref 1973.",
+        "cy": "Valmai Owen ac Eurwen Jones, Llywydd ac Is-Lywydd cyntaf Merched y Wawr Cangen Geler.  Dechreuwyd y Gangen yn Hydref 1973."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-002.jpg",
+            "type": "image",
+            "target_id": "610126"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 584041,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Pembrokeshire Area Fun Quiz 2012",
+        "cy": "Merched y Wawr Cangen Maenclochog - Cwis Hwyl Rhanbarth Penfro 2012\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584041",
+    "created": 1499870263,
+    "updated": 1499870263,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog.  Cwis Hwyl 2012.  Caffi Beca.  Rhanbarth Penfro.  Cangen Maenclochog ddaeth yn gyntaf.\nAelodau\u2019r t\u00eem \u2013 Tryphena Williams, Eirianwen Thomas, Ann Morris a Maureen George",
+        "cy": "Merched y Wawr Cangen Maenclochog.  Cwis Hwyl 2012.  Caffi Beca.  Rhanbarth Penfro.  Cangen Maenclochog ddaeth yn gyntaf.\nAelodau\u2019r t\u00eem \u2013 Tryphena Williams, Eirianwen Thomas, Ann Morris a Maureen George"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.896619000000",
+            "lon": "-4.711404000000",
+            "description": {
+                "en": "Caffi Beca (Efailwen??)",
+                "cy": "Caffi Beca (Efailwen??)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-024.jpg",
+            "type": "image",
+            "target_id": "584039"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

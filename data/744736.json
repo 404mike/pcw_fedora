@@ -1,0 +1,78 @@
+{
+    "id": 744736,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch 'Trialogue'",
+        "cy": "Trialog Cangen Merched y Wawr Cylch Aeron 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744736",
+    "created": 1516896463,
+    "updated": 1516896463,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trialog Cangen Cylch aeron a fu yn fuddugol yn Eisteddfod Merched y Wawr a gynhaliwyd yn Llanbedr Pont Steffan yn 1992.  \nYn y llun mae Mrs Ann Jones, Mrs Ann Lewis a Mrs Enid Jones",
+        "cy": "Trialog Cangen Cylch aeron a fu yn fuddugol yn Eisteddfod Merched y Wawr a gynhaliwyd yn Llanbedr Pont Steffan yn 1992.  \nYn y llun mae Mrs Ann Jones, Mrs Ann Lewis a Mrs Enid Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Tim Jones, Papur Bro",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Tim Jones, Papur Bro",
+                "cy": "Tim Jones, Papur Bro"
+            },
+            "year": "1992",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-035.jpg",
+            "type": "image",
+            "target_id": "744731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

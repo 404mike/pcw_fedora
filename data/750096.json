@@ -1,0 +1,81 @@
+{
+    "id": 750096,
+    "title": {
+        "en": "Our Locality' (Ein Bro) Book by Merched y Wawr Gorseinon Branch ",
+        "cy": "Llyfr &#039;Ein Bro&#039; gan Ferched y Wawr Gorseinon "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750096",
+    "created": 1516899303,
+    "updated": 1516899303,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llyfr ar hanes eu bro gan Ferched y Wawr Gorseinon a ddaeth yn gyntaf mewn cystadleuaeth cenedlaethol yn 2000.  Dyma'r dudalen yn  dadansoddi aelodau\u2019r gangen",
+        "cy": "Llyfr ar hanes eu bro gan Ferched y Wawr Gorseinon a ddaeth yn gyntaf mewn cystadleuaeth cenedlaethol yn 2000.  Dyma'r dudalen yn  dadansoddi aelodau\u2019r gangen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ennill%20Cystadleuaeth%20Ein%20Bro%202000%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ennill%2520Cystadleuaeth%2520Ein%2520Bro%25202000%2520001.jpg",
+            "type": "image",
+            "target_id": "750086"
+        },
+        {
+            "originalFilename": "Ennill%20Cystadleuaeth%20Ein%20Bro%202000%20002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ennill%2520Cystadleuaeth%2520Ein%2520Bro%25202000%2520002.jpg",
+            "type": "image",
+            "target_id": "750091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

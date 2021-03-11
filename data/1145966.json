@@ -1,0 +1,65 @@
+{
+    "id": 1145966,
+    "title": {
+        "en": "President's Dinner at the Ivy Bush, Carmarthen",
+        "cy": "Cinio&#039;r Llywydd yn y De yng ngwesty&#039;r Llwyn Iorwg, Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145966",
+    "created": 1562063081,
+    "updated": 1562063081,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Certificate for the increase in membership for 2105\/16 \u2013 Bro Cennech branch, Carmarthen region.",
+        "cy": "Tystysgrif cynnydd aelodaeth am 2015\/16 i gangen Bro Cennech, Rhanbarth Caerfyrddin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "Carmarthen",
+        "cinior llywydd",
+        "Caerfyrddin"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_744.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_744.jpg",
+            "type": "image",
+            "target_id": "1145961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

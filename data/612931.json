@@ -1,0 +1,90 @@
+{
+    "id": 612931,
+    "title": {
+        "en": "Invitation to join the Christmas Tree Festival at Llanddarog Church",
+        "cy": "Gwahoddiad i ymuno yn yr \u0174yl Coed Nadolig Eglwys Llanddarog.   "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612931",
+    "created": 1510753830,
+    "updated": 1510753830,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwahoddiad i ymuno yn yr \u0174yl Coed Nadolig yn 2009 yn Eglwys Llanddarog.  Roedd coeden yno wedi ei baratoi gan Ferched y Wawr Cangen Llanddarog",
+        "cy": "Gwahoddiad i ymuno yn yr \u0174yl Coed Nadolig yn 2009 yn Eglwys Llanddarog.  Roedd coeden yno wedi ei baratoi gan Ferched y Wawr Cangen Llanddarog"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.827339000000",
+            "lon": "-4.174310000000",
+            "description": {
+                "en": "Eglwys Llanddarog",
+                "cy": "Eglwys Llanddarog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_174.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_174.jpg",
+            "type": "image",
+            "target_id": "612916"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_175.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_175.jpg",
+            "type": "image",
+            "target_id": "612921"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

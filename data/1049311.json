@@ -1,0 +1,68 @@
+{
+    "id": 1049311,
+    "title": {
+        "en": "Annual Meeting 2011",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049311",
+    "created": 1555591869,
+    "updated": 1555591869,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Elwyn Jones, Books Council, adjudicating a presentation based on any Welsh book.",
+        "cy": "Elwyn Jones, Cyngor Llyfrau, yn beirniadu y cyflwyniad yn seiliedig ar unrhyw lyfr Cymraeg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "welsh books council",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "cyngor llyfrau cymru"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_341.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_341.jpg",
+            "type": "image",
+            "target_id": "1049306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

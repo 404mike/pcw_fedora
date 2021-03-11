@@ -1,0 +1,84 @@
+{
+    "id": 601267,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi Branch at Cardigan Carnival",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yng Ngharnifal Aberteifi"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601267",
+    "created": 1502449109,
+    "updated": 1502449109,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Teifi yn mwynhau ar \u2018ffl\u00f4t\u2019 yng Ngharnifal Aberteifi, gyda\u2019r testun \u2018Y Gemau Olympaidd\u2019 \u2013 ym 1984?  \nYn y llun mae Mair Garnon-James, Julia Thomas, Jean Davies, Jane Hazelby, Joan Lewis, Liz Lewis, Morina Adams-Lewis, Nesta Davies, Elfair Gough, Mair Howells",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn mwynhau ar \u2018ffl\u00f4t\u2019 yng Ngharnifal Aberteifi, gyda\u2019r testun \u2018Y Gemau Olympaidd\u2019 \u2013 ym 1984?  \nYn y llun mae Mair Garnon-James, Julia Thomas, Jean Davies, Jane Hazelby, Joan Lewis, Liz Lewis, Morina Adams-Lewis, Nesta Davies, Elfair Gough, Mair Howells"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.083909000000",
+            "lon": "-4.660560000000",
+            "description": {
+                "en": "Aberteifi",
+                "cy": "Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-123.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-123.jpg",
+            "type": "image",
+            "target_id": "601265"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

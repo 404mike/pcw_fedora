@@ -1,0 +1,65 @@
+{
+    "id": 1048871,
+    "title": {
+        "en": "Blaenau Gwent National Eisteddfod 2010",
+        "cy": "Eisteddfod Genedlaethol Blaenau Gwent a&#039;r Cymoedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048871",
+    "created": 1555591689,
+    "updated": 1555591689,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glenys Roberts, Crown winner being welcomed to the MyW stand; left to right Mererid Jones, Elenid Jones, (Glenys), Esyllt Jones.",
+        "cy": "Glenys Roberts, Enillydd y Goron yn cael ei chroesawu i babell MyW; o'r chwith I'r dde: Mererid Jones, Elenid Jones ac Esyllt Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "eisteddfod genedlaethol blaenau gwent"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_293.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_293.jpg",
+            "type": "image",
+            "target_id": "1048866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

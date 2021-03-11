@@ -1,0 +1,76 @@
+{
+    "id": 1048816,
+    "title": {
+        "en": "Blaenau Gwent National Eisteddfod 2010",
+        "cy": "Eisteddfod Genedlaethol Blaenau Gwent a&#039;r Cymoedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048816",
+    "created": 1555591663,
+    "updated": 1555591663,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Presentation by members of South East Region MyW \u2013 Eirin a Chnau",
+        "cy": "Cyflwyniad gan aelodau Y De Ddwyrain \u2013 Eirin a Chnau"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_285.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_285.jpg",
+            "type": "image",
+            "target_id": "1048801"
+        },
+        {
+            "originalFilename": "df_myw_286.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_286.jpg",
+            "type": "image",
+            "target_id": "1048806"
+        },
+        {
+            "originalFilename": "df_myw_287.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_287.jpg",
+            "type": "image",
+            "target_id": "1048811"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

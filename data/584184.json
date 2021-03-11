@@ -1,0 +1,84 @@
+{
+    "id": 584184,
+    "title": {
+        "en": "Margarette Hughes becomes the new Merched y Wawr President in 1988",
+        "cy": "Margarette Hughes yn dod yn Lywydd Cenedlaethol Merched y Wawr, 1988"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584184",
+    "created": 1499870754,
+    "updated": 1499870754,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Margarette Hughes yn cael ei hurddo yn Sinema\u2019r Commodore yn Aberystwyth yn 1988 fel Llywydd Cenedlaethol Merched y Wawr, ynghyd \u00e2 lansio\u2019r llyfryn, Sbardun Siarad fel cymorth i ddysgwyr.  \nNodir y rhuban yn dal y logo o gwympas ei gwddf - hi oedd yr olaf i wisgo\u2019r rhuban a\u2019r cyntaf i wisgo\u2019r gadwyn!",
+        "cy": "Margarette Hughes yn cael ei hurddo yn Sinema\u2019r Commodore yn Aberystwyth yn 1988 fel Llywydd Cenedlaethol Merched y Wawr, ynghyd \u00e2 lansio\u2019r llyfryn, Sbardun Siarad fel cymorth i ddysgwyr.  \nNodir y rhuban yn dal y logo o gwympas ei gwddf - hi oedd yr olaf i wisgo\u2019r rhuban a\u2019r cyntaf i wisgo\u2019r gadwyn!"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.417141000000",
+            "lon": "-4.083400000000",
+            "description": {
+                "en": "Sinema'r Commodore, Aberystwyth",
+                "cy": "Sinema'r Commodore, Aberystwyth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-003_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-003_0_0.jpg",
+            "type": "image",
+            "target_id": "584182"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

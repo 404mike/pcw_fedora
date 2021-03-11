@@ -1,0 +1,123 @@
+{
+    "id": 628176,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maelog, Anglesey.",
+        "cy": "Llyfr Llofion cangen Merched y Wawr Maelog, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/628176",
+    "created": 1511281072,
+    "updated": 1511281072,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Casgliad o luniau o lyfr Llofion Cangen Maelog, sy\u2019n nodi hanes eu perfformiad buddugol o \u2018Y Sipsiwn\u2019(Bwrlwm Bro) yn Eisteddfod Genedlaethol y Bala- 1997.",
+        "cy": "Casgliad o luniau o lyfr Llofion Cangen Maelog, sy\u2019n nodi hanes eu perfformiad buddugol o \u2018Y Sipsiwn\u2019(Bwrlwm Bro) yn Eisteddfod Genedlaethol y Bala- 1997."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maelog",
+    "owner": "Cangen Maelog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maelog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maelog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.224711000000",
+            "lon": "-4.513083000000",
+            "description": {
+                "en": "Maelog",
+                "cy": "Maelog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_009.jpg",
+            "type": "image",
+            "target_id": "628136"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_010.jpg",
+            "type": "image",
+            "target_id": "628141"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_011.jpg",
+            "type": "image",
+            "target_id": "628146"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_012.jpg",
+            "type": "image",
+            "target_id": "628151"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_013.jpg",
+            "type": "image",
+            "target_id": "628156"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_015.jpg",
+            "type": "image",
+            "target_id": "628161"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_MAELOG_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_MAELOG_016.jpg",
+            "type": "image",
+            "target_id": "628166"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

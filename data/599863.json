@@ -1,0 +1,85 @@
+{
+    "id": 599863,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mochdre, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mochdre, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599863",
+    "created": 1502446985,
+    "updated": 1502446985,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating the branch\u2019s 10th birthday in 1984.",
+        "cy": "Cangen Mochdre yn dathlu ei phenblwydd yn 10 oed ym 1984. Doreen Davies, Dilys Jones, Annwen Edwards, Enid Davies, Enid Thomas, Phyllis Thomas, Eluned Jones (Llywydd Cyntaf), Glenys Williams, Gwen Williams, Hafwen Williams, Eluned Davies, Dilys Griffiths, Doris Brown, Rhiannon Parry."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mochdre",
+    "owner": "Cangen Mochdre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mochdre Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mochdre",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293500000000",
+            "lon": "-3.761067000000",
+            "description": {
+                "en": "Mochdre",
+                "cy": "Mochdre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_MOCHDRE_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_MOCHDRE_007.jpg",
+            "type": "image",
+            "target_id": "599861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

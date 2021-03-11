@@ -1,0 +1,82 @@
+{
+    "id": 554534,
+    "title": {
+        "en": "Merched y Wawr, Capel Newydd Branch - Celebrating the branch's tenth birthday",
+        "cy": "Merched y Wawr, Cangen Capel Newydd, Dathlu penblwydd y gangen yn 10 oed 1987"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554534",
+    "created": 1487592213,
+    "updated": 1487592213,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "This item was provided to People\u2019s Collection Wales in Welsh only, translation will be provided in due time. \nMerched y Wawr Cangen Capel Newydd, Llun cinio i ddathlu penblwydd y gangen yn 10 oed yng Ngwesty Llwyndyrys (ger Llechryd, Sir Aberteifi).  Gwraig gw\u00e2dd Eirian Williams a\u2019i gwr Parchedig Aled Wyn Williams. 1987",
+        "cy": "Merched y Wawr Cangen Capel Newydd, Llun cinio i ddathlu penblwydd y gangen yn 10 oed yng Ngwesty Llwyndyrys (ger Llechryd, Sir Aberteifi).  Gwraig gw\u00e2dd Eirian Williams a\u2019i gwr Parchedig Aled Wyn Williams. 1987"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Anhysbys",
+    "owner": "Beryl George, Cangen Capel Newydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cangen Capel Newydd",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.062864000000",
+            "lon": "-4.601172000000",
+            "description": {
+                "en": "Gwesty Llwyndyrys, Llechryd",
+                "cy": "Gwesty Llwyndyrys, Llechryd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-101116-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-PENFRO-101116-011.jpg",
+            "type": "image",
+            "target_id": "554532"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

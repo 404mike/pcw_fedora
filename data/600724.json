@@ -1,0 +1,75 @@
+{
+    "id": 600724,
+    "title": {
+        "en": "Merched y Wawr Pencader and District Branch at the National Eisteddfod 1996",
+        "cy": "Aelodau o Gangen Pencader a\u2019r Cylch yn Eisteddfod Bro Dinefwr, 1996."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600724",
+    "created": 1502448150,
+    "updated": 1502448150,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o Gangen Pencader a\u2019r Cylch yn cymryd rhan yn Rhaglen Nodwedd Merched y Wawr yn Theatr y Maes yn Eisteddfod Bro Dinefwr, 1996.\nDeci Evans, Pauline Jones, Yvonne Griffiths, Eirlys Richards, Hefina Jones, Morfudd Jones, Marina Davies, Irene Davies, Tegwen Thomas, Nancy Jones",
+        "cy": "Aelodau o Gangen Pencader a\u2019r Cylch yn cymryd rhan yn Rhaglen Nodwedd Merched y Wawr yn Theatr y Maes yn Eisteddfod Bro Dinefwr, 1996.\nDeci Evans, Pauline Jones, Yvonne Griffiths, Eirlys Richards, Hefina Jones, Morfudd Jones, Marina Davies, Irene Davies, Tegwen Thomas, Nancy Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pencader a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pencader ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-101.jpg",
+            "type": "image",
+            "target_id": "600723"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

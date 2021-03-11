@@ -1,0 +1,64 @@
+{
+    "id": 1145056,
+    "title": {
+        "en": "Christmas Fair 2014",
+        "cy": "Ffair Aeaf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145056",
+    "created": 1562062688,
+    "updated": 1562062688,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Left to right: Myrddin ap Dafydd, Carreg Gwalch Press; Einion Gruffudd, on behalf of the National Library; Alun Ffred Jones, Heritage Minister; Elin Jones, Ceredigion AC; Mererid Jones, editor; Meryl Davies, President MyW.",
+        "cy": "O'r chwith i'r dde: Myrddin ap Dafydd, Gwasg Carreg Gwalch; Einion Gruffudd, ar ran y Llyfrgell Genedlaethol; Alun Ffred Jones, Geinidog Treftadaeth; Elin Jones, Ceredigion AC; Mererid Jones, Golygydd; Meryl Davies, Llywydd MyW"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "Christmas Fair",
+        "2014",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_643.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_643.jpg",
+            "type": "image",
+            "target_id": "1145051"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,86 @@
+{
+    "id": 624546,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhuthun, Glyn Maelor",
+        "cy": "Cofnodion sefydlu cangen Merched y Wawr Rhuthun, Glyn Maelor. Mawrth 1969."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624546",
+    "created": 1511279870,
+    "updated": 1511279870,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion sefydlu y Gangen  - Mawrth 1969.",
+        "cy": "Cofnodion sefydlu y Gangen  - Mawrth 1969."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhuthun",
+    "owner": "Cangen Rhuthun",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhuthun",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhuthun",
+        "Rhanbarth Glyn Maelor",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "1960s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.115170000000",
+            "lon": "-3.307627000000",
+            "description": {
+                "en": "Rhuthun",
+                "cy": "Rhuthun "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RHUTHUN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RHUTHUN_001.jpg",
+            "type": "image",
+            "target_id": "624536"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

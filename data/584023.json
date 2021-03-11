@@ -1,0 +1,87 @@
+{
+    "id": 584023,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch - Celebrating the branch's 40th anniversary ",
+        "cy": "Merched y Wawr Cangen Maenclochog - Dathlu 40 y Gangen"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584023",
+    "created": 1499870242,
+    "updated": 1499870242,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Maenclochog yn Dathlu Deugain y gangen yn 2011.\nRhes gefn \u2013 Gretta Gibby, Ogwen Phillips, Gina Lewis, Vi Edwards, Eiry Phillips, Tryphena Williams, Eirwen Gibby, Ann Morris, Peggy Phillips, Sheila Vaughan, Aerona Edwards, Mona Lewis a Llinos Edwards.\nRhes flaen \u2013 Eirianwen Thomas, Gill Phillips, Mary Llewellyn, Beryl John, Maureen George, Rhiannon Edwards, Mattie Lewis",
+        "cy": "Merched y Wawr Cangen Maenclochog yn Dathlu Deugain y gangen yn 2011.\nRhes gefn \u2013 Gretta Gibby, Ogwen Phillips, Gina Lewis, Vi Edwards, Eiry Phillips, Tryphena Williams, Eirwen Gibby, Ann Morris, Peggy Phillips, Sheila Vaughan, Aerona Edwards, Mona Lewis a Llinos Edwards.\nRhes flaen \u2013 Eirianwen Thomas, Gill Phillips, Mary Llewellyn, Beryl John, Maureen George, Rhiannon Edwards, Mattie Lewis"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Hefin Parry Roberts, Mynachlogddu",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Hefin Parry Roberts, Mynachlogddu",
+                "cy": "Hefin Parry Roberts, Mynachlogddu"
+            },
+            "year": "1991",
+            "type": "Copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.910505000000",
+            "lon": "-4.791803000000",
+            "description": {
+                "en": "Neuadd Gymunedol Maenclochog",
+                "cy": "Neuadd Gymunedol Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-017.jpg",
+            "type": "image",
+            "target_id": "584021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

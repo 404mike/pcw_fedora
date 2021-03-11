@@ -1,0 +1,71 @@
+{
+    "id": 1047791,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047791",
+    "created": 1555591112,
+    "updated": 1555591112,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Stand",
+        "cy": "Stondin Merched y Wawr ar y maes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Eisteddfod Genedlaethol",
+        "fflint"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_174.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_174.jpg",
+            "type": "image",
+            "target_id": "1047781"
+        },
+        {
+            "originalFilename": "df_myw_175.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_175.jpg",
+            "type": "image",
+            "target_id": "1047786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 600396,
+    "title": {
+        "en": "Merched y Wawr Bro Pantycelyn Branch on a trip to Kidwelly",
+        "cy": "Merched y Wawr Cangen Bro Pantycelyn ar drip i Gydweli, 2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600396",
+    "created": 1502447692,
+    "updated": 1502447692,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Pantycelyn yn mynd ar drip i Gydweli, 2010.  \n\nO'r chwith i'r dde:\nMair Richards,  Mavis Price,  Nesta Evans,  Eleri Jones,  Lon Owen,  Bethan Richards,  Olwen Parry,  Gwen Jones,  Eirlys Faulkner,  Brenda Price,  Ann Williams,  Enid Gealy",
+        "cy": "Merched y Wawr Cangen Bro Pantycelyn yn mynd ar drip i Gydweli, 2010.  \n\nO'r chwith i'r dde:\nMair Richards,  Mavis Price,  Nesta Evans,  Eleri Jones,  Lon Owen,  Bethan Richards,  Olwen Parry,  Gwen Jones,  Eirlys Faulkner,  Brenda Price,  Ann Williams,  Enid Gealy"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Pantycelyn, Llanymddyfri",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Pantycelyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.736346000000",
+            "lon": "-4.307064000000",
+            "description": {
+                "en": "Cydweli",
+                "cy": "Cydweli"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-244.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-244.jpg",
+            "type": "image",
+            "target_id": "600394"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

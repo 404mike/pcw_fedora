@@ -1,0 +1,75 @@
+{
+    "id": 746791,
+    "title": {
+        "en": "Merched y Wawr Cangen Llannon Visit a Factory",
+        "cy": "Merched y Wawr Llannon yn ymweld \u00e2 Ffatri"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746791",
+    "created": 1516897441,
+    "updated": 1516897441,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Llannon yn ymweld \u00e2 Ffatri (llaeth\/caws?) yng Nghastell Newydd Emlyn yn y 1990au.\nYn y blaen mae Nesta Davies, Anita Jones",
+        "cy": "Merched y Wawr Llannon yn ymweld \u00e2 Ffatri (llaeth\/caws?) yng Nghastell Newydd Emlyn yn y 1990au.\nYn y blaen mae Nesta Davies, Anita Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llannon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llannon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-225.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-225.jpg",
+            "type": "image",
+            "target_id": "746786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

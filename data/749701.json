@@ -1,0 +1,84 @@
+{
+    "id": 749701,
+    "title": {
+        "en": "Merched y Wawr Tregaron Branch celebrates 40 Years",
+        "cy": "Merched y Wawr Tregaron yn Dathlu Deugain Mlynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/749701",
+    "created": 1516899122,
+    "updated": 1516899122,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Tregaron yn Dathlu 40 yn Neuadd Goffa Tregaron yn 2012. \nYmysg y rhai oedd yno mae Gill Griffiths (Llywydd Cenedlaethol 2012-2014), Tegwen Morris (Cyfarwyddwr Cenedlaethol), Elizabeth Evans (Swyddog Ceredigion a Phenfro), a Swyddogion y gangen 2012-2013 \u2013 Diana Jones (Llywydd), Ann Pugh (Ysgrifenyddes) ac Yvonne Jones (Trysorydd)",
+        "cy": "Merched y Wawr Cangen Tregaron yn Dathlu 40 yn Neuadd Goffa Tregaron yn 2012. \nYmysg y rhai oedd yno mae Gill Griffiths (Llywydd Cenedlaethol 2012-2014), Tegwen Morris (Cyfarwyddwr Cenedlaethol), Elizabeth Evans (Swyddog Ceredigion a Phenfro), a Swyddogion y gangen 2012-2013 \u2013 Diana Jones (Llywydd), Ann Pugh (Ysgrifenyddes) ac Yvonne Jones (Trysorydd)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tregaron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tregaron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.219681000000",
+            "lon": "-3.932571000000",
+            "description": {
+                "en": "Neuadd Goffa, Tregaron",
+                "cy": "Neuadd Goffa, Tregaron"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-028.jpg",
+            "type": "image",
+            "target_id": "749691"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

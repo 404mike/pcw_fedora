@@ -1,0 +1,96 @@
+{
+    "id": 619621,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhyl, Colwyn.",
+        "cy": "Atgofion \/ crynodeb o hanes Pwyllgor Rhanbarth Delyn. Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/619621",
+    "created": 1511278173,
+    "updated": 1511278173,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Atgofion \/ crynodeb o hanes Pwyllgor Rhanbarth Delyn (rhanbarth Colwyn bellach) o Merched y Wawr. A ddechreuwyd yng Festri Capel Tremeirchion ar nos Iau, 19eg, Chwefror 1970. Eluned Tilsley.",
+        "cy": "Atgofion \/ crynodeb o hanes Pwyllgor Rhanbarth Delyn (rhanbarth Colwyn bellach) o Merched y Wawr. A ddechreuwyd yng Festri Capel Tremeirchion ar nos Iau, 19eg, Chwefror 1970. Eluned Tilsley."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhyl",
+    "owner": "Cangen Rhyl",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Eluned Tilsley",
+                "cy": "Eluned Tilsley"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhyl",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhyl",
+        "Rhanbarth Colwyn",
+        "Rhanbarth Delyn",
+        "Cofnodion Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.320901000000",
+            "lon": "-3.495205000000",
+            "description": {
+                "en": "RHYL",
+                "cy": "RHYL"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_005.jpg",
+            "type": "image",
+            "target_id": "619606"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_RHYL_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_RHYL_006.jpg",
+            "type": "image",
+            "target_id": "619611"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

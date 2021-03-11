@@ -1,0 +1,84 @@
+{
+    "id": 611921,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch Celebrate St David's Day",
+        "cy": "Noson G\u0175yl Dewi yng Nghangen Rhydaman a&#039;r Cylch o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611921",
+    "created": 1510753578,
+    "updated": 1510753578,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Rhydaman o Ferched y Wawr, Noson Gwyl Dewi gyda Meirion Evans a Thelma Evans, Tymor 2005-2006",
+        "cy": "Cangen Rhydaman o Ferched y Wawr, Noson Gwyl Dewi gyda Meirion Evans a Thelma Evans, Tymor 2005-2006"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792829000000",
+            "lon": "-3.988327000000",
+            "description": {
+                "en": "Rhydaman",
+                "cy": "Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-155b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-155b.jpg",
+            "type": "image",
+            "target_id": "611911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

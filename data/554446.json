@@ -1,0 +1,82 @@
+{
+    "id": 554446,
+    "title": {
+        "en": "Merched y Wawr Residential School 1985 - Hwyl Harlech",
+        "cy": "Rhaglen Ysgol Breswyl Merched y Wawr 1985 - Hwyl Harlech"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554446",
+    "created": 1487591909,
+    "updated": 1487591909,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Ysgol Breswyl 27 \u2013 29 Medi 1985, Coleg Harlech, Hwyl Harlech",
+        "cy": "Rhaglen Ysgol Breswyl 27 \u2013 29 Medi 1985, Coleg Harlech, Hwyl Harlech"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.855921000000",
+            "lon": "-4.112894000000",
+            "description": {
+                "en": "Coleg Harlech",
+                "cy": "Coleg Harlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000021.jpg",
+            "type": "image",
+            "target_id": "554444"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

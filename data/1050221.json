@@ -1,0 +1,66 @@
+{
+    "id": 1050221,
+    "title": {
+        "en": "Christmas Fair 2012",
+        "cy": "Ffair Aeaf 2012"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1050221",
+    "created": 1555592235,
+    "updated": 1555592235,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition: A card (any medium)  \u2013 1st Llinos Roberts, Henllan branch, Colwyn.",
+        "cy": "Cystadleuaeth Creu Carden unrhyw gyfrwng 1af Llinos Robeerts, cangen Henllan, Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Christmas Fair",
+        "Ffair Aeaf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_447.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_447.jpg",
+            "type": "image",
+            "target_id": "1050216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

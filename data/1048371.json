@@ -1,0 +1,65 @@
+{
+    "id": 1048371,
+    "title": {
+        "en": "Meirionethshire and district National Eisteddfod 2009",
+        "cy": "Eisteddfod Genedlaethol Meirion a&#039;r cyffiniau 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048371",
+    "created": 1555591444,
+    "updated": 1555591444,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Jano Owen with her sheepdog during the presentation.",
+        "cy": "Jano Owen gyda'i chi defaid yn y perfformiad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "national eisteddfod",
+        "Eisteddfod Genedlaethol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_238.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_238.jpg",
+            "type": "image",
+            "target_id": "1048366"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

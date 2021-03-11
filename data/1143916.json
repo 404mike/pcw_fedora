@@ -1,0 +1,63 @@
+{
+    "id": 1143916,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2013",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143916",
+    "created": 1562061209,
+    "updated": 1562061209,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gaenor Morgan Rees, the actress, opening the Christian Aid  Bag Shop \u2013 bags collected by MyW.",
+        "cy": "Gaenor Morgan Rees yn agor Siop Bagiau Cymorth Cristnogol \u2013 bagiau a gasglwyd gan MyW."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "denbigh national eisteddfod 2013",
+        "eisteddfod genedlaethol dinbych ar cylch 2013"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_514.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_514.jpg",
+            "type": "image",
+            "target_id": "1143911"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

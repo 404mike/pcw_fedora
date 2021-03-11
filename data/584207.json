@@ -1,0 +1,96 @@
+{
+    "id": 584207,
+    "title": {
+        "en": "Merched y Wawr Residential School Programme 1994 (Tymheru'r Tymhorau)",
+        "cy": "Rhaglen Tymheru\u2019r Tymorau, Ysgol Breswyl Merched y Wawr, 1994"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584207",
+    "created": 1499870793,
+    "updated": 1499870793,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymheru\u2019r Tymorau, Ysgol Breswyl Merched y Wawr, 16-18 Medi, 1994, Coleg Prifysgol Dewi Sant, Llanbedr Pont Steffan   Tudlen Flaen",
+        "cy": "Rhaglen Tymheru\u2019r Tymorau, Ysgol Breswyl Merched y Wawr, 16-18 Medi, 1994, Coleg Prifysgol Dewi Sant, Llanbedr Pont Steffan   Tudlen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.113970000000",
+            "lon": "-4.076963000000",
+            "description": {
+                "en": "Coleg Prifysgol Dewi Sant, Llanbedr Pont Steffan",
+                "cy": "Coleg Prifysgol Dewi Sant, Llanbedr Pont Steffan"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-021.jpg",
+            "type": "image",
+            "target_id": "584203"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-022.jpg",
+            "type": "image",
+            "target_id": "584204"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-023.jpg",
+            "type": "image",
+            "target_id": "584205"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

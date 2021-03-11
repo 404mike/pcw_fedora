@@ -1,0 +1,93 @@
+{
+    "id": 624751,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Treffynnon, Glyn Maelor",
+        "cy": "Tystysgrif a llun o Kathleen Hughe, cangen Merched y Wawr Treffynnon, Glyn Maelor. Gwyl Haf, 2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624751",
+    "created": 1511279936,
+    "updated": 1511279936,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif a llun o Kathleen Hughes, aelod o Gangen Treffynnon yn cael ei urddo yn yr Wyl Haf, yn 2010. Yn ogysta \u00e2 Cerdd Cyfarch gan Myrddin ap Dafydd.",
+        "cy": "Tystysgrif a llun o Kathleen Hughes, aelod o Gangen Treffynnon yn cael ei urddo yn yr Wyl Haf, yn 2010. Yn ogysta \u00e2 Cerdd Cyfarch gan Myrddin ap Dafydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Treffynnon",
+    "owner": "Cangen Treffynnon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Holywell",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Treffynnon",
+        "Rhanbarth Glyn Maelor",
+        "Barddoniaeth Merched y Wawr",
+        "Myrddin ap Dafydd"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.275636000000",
+            "lon": "-3.215419000000",
+            "description": {
+                "en": "Holywell",
+                "cy": "Treffynnon"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_TREFFYNNON_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_TREFFYNNON_008.jpg",
+            "type": "image",
+            "target_id": "624736"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_TREFFYNNON_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_TREFFYNNON_009.jpg",
+            "type": "image",
+            "target_id": "624741"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

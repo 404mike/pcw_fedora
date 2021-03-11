@@ -1,0 +1,87 @@
+{
+    "id": 625201,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Amlwch, Anglesey.",
+        "cy": "Cangen Merched y Wawr Amlwch, Rhanbarth M\u00f4n yn athlu penblwydd 21 oed. Gwesty Glantraeth ym 1989."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625201",
+    "created": 1511280084,
+    "updated": 1511280084,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 21st birthday",
+        "cy": "Dathlu penblwydd y gangen yn 21 oed yng Nhwesty Glantraeth ym 1989. Catherine Jones, Beti Morgan, Cassie Roberts."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Amwlch",
+    "owner": "Cangen Amwlch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "1971",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Amlwch",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Amwlch",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 21"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.411193000000",
+            "lon": "-4.343023000000",
+            "description": {
+                "en": "Amlwch",
+                "cy": "Amlwch "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_AMLWCH_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_AMLWCH_009.jpg",
+            "type": "image",
+            "target_id": "625191"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

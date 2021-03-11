@@ -1,0 +1,86 @@
+{
+    "id": 626371,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gaerwen, Anglesey.",
+        "cy": "Cangen Merched y Wawr Gaerwen, Rhanbarth M\u00f4n yn dathlu 40 mlynedd. Gwesty Nant yr Odyn, 2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626371",
+    "created": 1511280468,
+    "updated": 1511280468,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau'r gangen yn dathlu\u2019r deugain yng Nghwesty Nant yr Odyn, ynd nghwmni Iona Hatton, y Llywydd Megan Williams a fu\u2019n aelod ers sefydlu y gangen yn 1970. Yn y llun ceir: Olwen Jones, Glenys Parry, Gwladus Davies, Dilys Dixon, Margaret Jones, Yvonne Owen, Margaret Evans, Beti Jones, Mary Parry, Iona Hatton, Megan Williams a Rena Jones.",
+        "cy": "Rhai o aelodau'r gangen yn dathlu\u2019r deugain yng Nghwesty Nant yr Odyn, ynd nghwmni Iona Hatton, y Llywydd Megan Williams a fu\u2019n aelod ers sefydlu y gangen yn 1970. Yn y llun ceir: Olwen Jones, Glenys Parry, Gwladus Davies, Dilys Dixon, Margaret Jones, Yvonne Owen, Margaret Evans, Beti Jones, Mary Parry, Iona Hatton, Megan Williams a Rena Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gaerwen",
+    "owner": "Cangen Gaerwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gaerwen",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gaerwen",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.222982000000",
+            "lon": "-4.280288000000",
+            "description": {
+                "en": "Gaerwen",
+                "cy": "Gaerwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Gaerwen_013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Gaerwen_013.jpg",
+            "type": "image",
+            "target_id": "626361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,96 @@
+{
+    "id": 584306,
+    "title": {
+        "en": "Merched y Wawr Residential Weekend Programme 2010 (Cyfoeth Ceredigion - The Richness of Ceredigion)",
+        "cy": "Rhaglen Cyfoeth Ceredigion, Penwythnos Preswyl Merched y Wawr, 2010.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584306",
+    "created": 1499870892,
+    "updated": 1499870892,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cyfoeth Ceredigion, Penwythnos Preswyl Merched y Wawr, 17 \u2013 19 Medi, 2010.  Llanbedr Pont Steffan.  Tudalen flaen (amserlen Gwener)",
+        "cy": "Rhaglen Cyfoeth Ceredigion, Penwythnos Preswyl Merched y Wawr, 17 \u2013 19 Medi, 2010.  Llanbedr Pont Steffan.  Tudalen flaen (amserlen Gwener)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.112966000000",
+            "lon": "-4.078612000000",
+            "description": {
+                "en": "Llanbed",
+                "cy": "Llanbed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-082.jpg",
+            "type": "image",
+            "target_id": "584302"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-083.jpg",
+            "type": "image",
+            "target_id": "584303"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-084.jpg",
+            "type": "image",
+            "target_id": "584304"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

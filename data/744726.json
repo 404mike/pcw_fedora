@@ -1,0 +1,75 @@
+{
+    "id": 744726,
+    "title": {
+        "en": "Merched y Wawr Cylch Aeron Branch at the Royal Welsh Show competition",
+        "cy": "Merched y Wawr Cylch Aeron yng nghystadleuaeth y Sioe Frenhinol"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744726",
+    "created": 1516896458,
+    "updated": 1516896458,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Cylch Aeron yn fuddugol yng nghystadleuaeth Celf a Chrefft Merched y Wawr Rhanbarth Ceredigion yn y Sioe Frenhinol, Llanelwedd, 1987.  Y thema oedd \u2018Chwedl Llyn y Fan Fach\u2019.\nYn y llun \u2013 Enid Jones, Ann Lloyd Thomas, Eileen Evans, Morfydd Davies, Nest Thomas, Ann Griffiths.",
+        "cy": "Cangen Cylch Aeron yn fuddugol yng nghystadleuaeth Celf a Chrefft Merched y Wawr Rhanbarth Ceredigion yn y Sioe Frenhinol, Llanelwedd, 1987.  Y thema oedd \u2018Chwedl Llyn y Fan Fach\u2019.\nYn y llun \u2013 Enid Jones, Ann Lloyd Thomas, Eileen Evans, Morfydd Davies, Nest Thomas, Ann Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-033.jpg",
+            "type": "image",
+            "target_id": "744721"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

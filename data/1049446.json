@@ -1,0 +1,78 @@
+{
+    "id": 1049446,
+    "title": {
+        "en": "Wrexham  National Eisteddfod  2011",
+        "cy": "Eisteddfod Genedlaethol Wrecsam a&#039;r cylch 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049446",
+    "created": 1555591921,
+    "updated": 1555591921,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glyn Maelor's presentation.",
+        "cy": "Cyflwyniad Glyn Maelor \u2013 Cadw'r Ffin."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "wrexham",
+        "national eisteddfod",
+        "eisteddfod genedlaethol wrecsam"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_356.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_356.jpg",
+            "type": "image",
+            "target_id": "1049431"
+        },
+        {
+            "originalFilename": "df_myw_357.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_357.jpg",
+            "type": "image",
+            "target_id": "1049436"
+        },
+        {
+            "originalFilename": "df_myw_358.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_358.jpg",
+            "type": "image",
+            "target_id": "1049441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

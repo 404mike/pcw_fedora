@@ -1,0 +1,67 @@
+{
+    "id": 1047086,
+    "title": {
+        "en": "President Dinner in South Wales 2006",
+        "cy": "Cinio&#039;r Llywydd yn y De 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047086",
+    "created": 1555590706,
+    "updated": 1555590706,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eirlys Peris Davies, Pembrokeshire's President greeting the members to the dinner. Also in the photo \u2013 Glenys Thomas, Elfair James.",
+        "cy": "Eirlys Peris Davies, Llywydd Penfro yn croesawu'r aelodau i'r cinio. Hefyd yn y llun, Glenys Thomas ac Elfair James."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presidents dinner",
+        "merched y wawr",
+        "MYW",
+        "pembrokeshire president",
+        "cinio llywydd",
+        "llywydd pnefro"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_094.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_094.jpg",
+            "type": "image",
+            "target_id": "1047081"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

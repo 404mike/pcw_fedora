@@ -1,0 +1,73 @@
+{
+    "id": 745456,
+    "title": {
+        "en": "Merched y Wawr Glyn Nedd Branch at St David's Cathedral ",
+        "cy": "Merched y Wawr Glyn Nedd yn Eglwys Gadeiriol T\u0177 Ddewi."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745456",
+    "created": 1516896815,
+    "updated": 1516896815,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Gangen Merched y Wawr Glyn Nedd tu allan i Eglwys Gadeiriol T\u0177 Ddewi.\nNan Jones, Kathleen Harries, Megan Davies, Gwynneth Jones, Menna Walters, Megan Thomas, Rhiannon Gordon, Gwyneth Edwards, Karen Trimble, Eluned Jenkins, Lynfa Thomas",
+        "cy": "Llun o Gangen Merched y Wawr Glyn Nedd tu allan i Eglwys Gadeiriol T\u0177 Ddewi.\nNan Jones, Kathleen Harries, Megan Davies, Gwynneth Jones, Menna Walters, Megan Thomas, Rhiannon Gordon, Gwyneth Edwards, Karen Trimble, Eluned Jenkins, Lynfa Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-028.jpg",
+            "type": "image",
+            "target_id": "745451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

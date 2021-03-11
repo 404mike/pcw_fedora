@@ -1,0 +1,82 @@
+{
+    "id": 600769,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch at the National Botanic Garden of Wales",
+        "cy": "Merched y Wawr Cangen Peniel yn yr Ardd Fotaneg Genedlaethol \n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600769",
+    "created": 1502448215,
+    "updated": 1502448215,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ymweliad Merched y Wawr Cangen Peniel \u00e2\u2019r Ardd Fotaneg Genedlaethol ger Llanarthne.  Gwahoddwyd y Gangen yno gan raglen \u2018Pnawn Da\u2019 i holi cwestiynau ynglyn \u00e2 garddio.\nYn y llun mae John Hardy (Pnawn Da), Mayann Williams, Frances Evans, Menna Lenny, Betty Davies, Gwyneth Griffiths, Beti Evans, Garddwr Pnawn Da",
+        "cy": "Ymweliad Merched y Wawr Cangen Peniel \u00e2\u2019r Ardd Fotaneg Genedlaethol ger Llanarthne.  Gwahoddwyd y Gangen yno gan raglen \u2018Pnawn Da\u2019 i holi cwestiynau ynglyn \u00e2 garddio.\nYn y llun mae John Hardy (Pnawn Da), Mayann Williams, Frances Evans, Menna Lenny, Betty Davies, Gwyneth Griffiths, Beti Evans, Garddwr Pnawn Da"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.840182000000",
+            "lon": "-4.151192000000",
+            "description": {
+                "en": "Gardd Fotaneg Genedlaethol Cymru",
+                "cy": "Gardd Fotaneg Genedlaethol Cymru"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-147.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-147.jpg",
+            "type": "image",
+            "target_id": "600767"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

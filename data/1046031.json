@@ -1,0 +1,66 @@
+{
+    "id": 1046031,
+    "title": {
+        "en": "Hwyl Haf Merched y Wawr 2000",
+        "cy": "Hwyl Haf Merched y Wawr 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046031",
+    "created": 1555589974,
+    "updated": 1555589974,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Exhibition by Llangadfan Dancers.",
+        "cy": "Arddangosfa gan Ddawnswyr Llangadfan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "hwyl haf merched y wawr",
+        "2000",
+        "hwyl haf merched y wawr 2000",
+        "MYW",
+        "dawnswyr llangadfan"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_003.jpg",
+            "type": "image",
+            "target_id": "1046026"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

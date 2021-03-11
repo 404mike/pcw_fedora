@@ -1,0 +1,98 @@
+{
+    "id": 626111,
+    "title": {
+        "en": "Elen Roger Jones\u2019 personal collection of Merched y Wawr memorabilia ",
+        "cy": "Casgliad Elen Roger Jones, aelod selog a gweithgar o F\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626111",
+    "created": 1511280379,
+    "updated": 1511280379,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1\/2. Taflen o daith y Mudiad i Jeriwsalem, 12fed o Ebrill, 1979. 3. Cyfres o luniau o daith y Mudiad i Jeriwsalem, 12fed o Brill, 1981",
+        "cy": "1\/2. Taflen o daith y Mudiad i Jeriwsalem, 12fed o Ebrill, 1979. 3. Cyfres o luniau o daith y Mudiad i Jeriwsalem, 12fed o Brill, 1981"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Casgliad Elen Roger Jones",
+    "owner": "Casgliad Elen Roger Jones",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Elen Roger Jones",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Mon",
+        "Mon",
+        "Teithiau Merched y Wawr"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.255816000000",
+            "lon": "-4.312139000000",
+            "description": {
+                "en": "Llangefni",
+                "cy": "Llangefni"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELENROGERJONES_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELENROGERJONES_001.jpg",
+            "type": "image",
+            "target_id": "626091"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELENROGERJONES_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELENROGERJONES_002.jpg",
+            "type": "image",
+            "target_id": "626096"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_CASGLIAD_ELENROGERJONES_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_CASGLIAD_ELENROGERJONES_003.jpg",
+            "type": "image",
+            "target_id": "626101"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

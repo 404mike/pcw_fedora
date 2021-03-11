@@ -1,0 +1,65 @@
+{
+    "id": 1048781,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2010",
+        "cy": "Sioe Frenhinol Llanelwedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048781",
+    "created": 1555591650,
+    "updated": 1555591650,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Raffle Draw undertaken by Dei Tomos, guest, being helped by Elizabeth Evans, Developement Officer.",
+        "cy": "Dei Tomos, g\u0175r gwadd, yn tynnu'r raffl gyda chymorth Elizabeth Evans, Swyddog Datblygu Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Royal Welsh Show",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_282.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_282.jpg",
+            "type": "image",
+            "target_id": "1048776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,71 @@
+{
+    "id": 1144986,
+    "title": {
+        "en": "Shwmae Su'mae (How are you)",
+        "cy": "Shwmae Su&#039;mae \u2013 Diwrnod Dysgwyr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144986",
+    "created": 1562062657,
+    "updated": 1562062657,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating the day at Aberystwyth with Tegwen Morris, Director; Meryl Davies, President and Gwenllian Lansdsdown.",
+        "cy": "Dathlu'r diwrnod yn Aberystwyth gyda Tegwen Morris, Cyfarwyddwr; Meryl Davies, Llywydd and Gwenllian Lansdsdown."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "how are you",
+        "welsh learners",
+        "shwmae sumae",
+        "diwrnod dysgwyr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_635.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_635.jpg",
+            "type": "image",
+            "target_id": "1144976"
+        },
+        {
+            "originalFilename": "df_myw_636.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_636.jpg",
+            "type": "image",
+            "target_id": "1144981"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

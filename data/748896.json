@@ -1,0 +1,75 @@
+{
+    "id": 748896,
+    "title": {
+        "en": "A poem to celebrate the start of Merched y Wawr Tal-y-Bont Branch",
+        "cy": "Cerdd i dathlu dechrau Cangen Tal-y-Bont a\u2019r Cylch o Ferched y Wawr\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748896",
+    "created": 1516898753,
+    "updated": 1516898753,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cerdd gan y Parchedig Gwyn Evans i nodi\u2019r achlysur o gyfarfod cyntaf Cangen Tal-y-Bont a\u2019r Cylch o Ferched y Wawr, Ionawr 1975.  \n(Mae merch y Parch. Evans yn aelod o\u2019r Gangen heddiw)",
+        "cy": "Cerdd gan y Parchedig Gwyn Evans i nodi\u2019r achlysur o gyfarfod cyntaf Cangen Tal-y-Bont a\u2019r Cylch o Ferched y Wawr, Ionawr 1975.  \n(Mae merch y Parch. Evans yn aelod o\u2019r Gangen heddiw)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tal-y-bont a\u2019r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Tal-y-bont ar Cylch"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-244.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-244.jpg",
+            "type": "image",
+            "target_id": "748891"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

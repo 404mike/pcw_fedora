@@ -1,0 +1,92 @@
+{
+    "id": 599621,
+    "title": {
+        "en": "MyW Betws y Coed, Programme 1991 -92",
+        "cy": "Rhaglen Tymor Gangen Betws y Coed, 1991 - 92"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599621",
+    "created": 1502446710,
+    "updated": 1502446710,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1991 - 92, cangen Merched y Wawr Betws y Coed (clawr). Cadwyd pob rhaglen ers sefydlu y Gangen yn 1971 gan Dilys Thomas.",
+        "cy": "Rhaglen Tymor 1991 - 92, cangen Merched y Wawr Betws y Coed (clawr). Cadwyd pob rhaglen ers sefydlu y Gangen yn 1971 gan Dilys Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Betws y Coed",
+    "owner": "Cangen Betws y Coed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Betws y Coed",
+        "Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Betws y Coed",
+        "Rhanbarth Aberconwy",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.094105000000",
+            "lon": "-3.805582000000",
+            "description": {
+                "en": "Memorial Hall, Betws y Coed",
+                "cy": "Neuadd Goffa, Betws y Coed"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_006.jpg",
+            "type": "image",
+            "target_id": "599618"
+        },
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_BETWSYCOED_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_BETWSYCOED_007.jpg",
+            "type": "image",
+            "target_id": "599619"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

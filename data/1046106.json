@@ -1,0 +1,74 @@
+{
+    "id": 1046106,
+    "title": {
+        "en": "Presentation of 'Swyn y Sosban' August 2000",
+        "cy": "Cinio Diolch i Swyddogion Cenedlaethol yn ymddeol 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046106",
+    "created": 1555590026,
+    "updated": 1555590026,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members of Carmarthenshire Region who performed 'Swyn y Sosban'.",
+        "cy": "Aelodau Rhanbarth Caerfyrddin a fu'n perfformio 'Swyn y Sosban'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "llanelli and district national eisteddfod 2000",
+        "carmarthenshire region",
+        "swyn y sosban",
+        "cinio diolch 2000",
+        "eisteddfod genedlaethol llanelli ar cylch",
+        "2000",
+        "Llanelli"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_009.jpg",
+            "type": "image",
+            "target_id": "1046096"
+        },
+        {
+            "originalFilename": "df_myw_009-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_009-001.jpg",
+            "type": "image",
+            "target_id": "1046101"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

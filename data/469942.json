@@ -1,0 +1,125 @@
+{
+    "id": 469942,
+    "title": {
+        "en": "Pembrokeshire Merched y Wawr's contribution to the project collecting Welsh place names",
+        "cy": "Cyfraniad Rhanbarth Penfro o Ferched y Wawr i&#039;r prosiect casglu enwau lleoedd Cymraeg"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/469942",
+    "created": 1441700536,
+    "updated": 1441700536,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Mynachlog-Ddu, Crymych, Maenclochog and South Cardigan. It includes names of farms and fields which were included in the book 'Caeau a Mwy', published at the Winter Fair at Builth Wells 2014.",
+        "cy": "Cynnwys gwaith a gasglwyd gan gangen Mynachlog-Ddu, Crymych, Maenclochog ac Aberteifi. Mae'n cynnwys enwau ffermydd a chaeau. Cyhoeddwyd rhan ohono mewn llyfr 'Caeau a Mwy' a lansiwyd yn y Ffair Aeaf yn Llanelwedd 2014"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10237.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10237.jpg",
+            "type": "image",
+            "target_id": "469930"
+        },
+        {
+            "originalFilename": "pcw001_10238.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10238.jpg",
+            "type": "image",
+            "target_id": "469931"
+        },
+        {
+            "originalFilename": "pcw001_10239.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10239.jpg",
+            "type": "image",
+            "target_id": "469932"
+        },
+        {
+            "originalFilename": "pcw001_10240.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10240.jpg",
+            "type": "image",
+            "target_id": "469933"
+        },
+        {
+            "originalFilename": "pcw001_10241.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10241.jpg",
+            "type": "image",
+            "target_id": "469934"
+        },
+        {
+            "originalFilename": "pcw001_10242.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10242.jpg",
+            "type": "image",
+            "target_id": "469935"
+        },
+        {
+            "originalFilename": "pcw001_10243.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10243.jpg",
+            "type": "image",
+            "target_id": "469936"
+        },
+        {
+            "originalFilename": "pcw001_10244.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10244.jpg",
+            "type": "image",
+            "target_id": "469937"
+        },
+        {
+            "originalFilename": "pcw001_10245.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10245.jpg",
+            "type": "image",
+            "target_id": "469938"
+        },
+        {
+            "originalFilename": "pcw001_10246.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10246.jpg",
+            "type": "image",
+            "target_id": "469939"
+        },
+        {
+            "originalFilename": "pcw001_10247.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10247.jpg",
+            "type": "image",
+            "target_id": "469940"
+        },
+        {
+            "originalFilename": "pcw001_10248.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10248.jpg",
+            "type": "image",
+            "target_id": "469941"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10237",
+    "publisher_ref": ""
+}

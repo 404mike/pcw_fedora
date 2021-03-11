@@ -1,0 +1,67 @@
+{
+    "id": 1046886,
+    "title": {
+        "en": "Annual Meeting 2005",
+        "cy": "Cyfarfod Blynyddol 2005"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046886",
+    "created": 1555590474,
+    "updated": 1555590474,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition for Welsh Learners \u2013 Taped Conversation. Judith Bartley had been chatting to Glesni Williams, Mold Branch.",
+        "cy": "Cystadleuaeth i'r Dysgwyr \u2013 Sgwrs ar D\u00e2p. Judith Bartley fu'n sgwrsio gyda Glenys Williams, Cangen y Wyddgrug."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting 2005",
+        "competition for welsh learners",
+        "welsh learners",
+        "cyfarfod blynyddol 2005",
+        "cystadleuaeth ir dysgwyr",
+        "Dysgwyr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_073.jpg",
+            "type": "image",
+            "target_id": "1046881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

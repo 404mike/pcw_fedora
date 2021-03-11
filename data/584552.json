@@ -1,0 +1,91 @@
+{
+    "id": 584552,
+    "title": {
+        "en": "Merched y Wawr Pontypridd Branch 2016-17",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontypridd 2016-17"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584552",
+    "created": 1499871185,
+    "updated": 1499871185,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cangen Pontypridd o Ferched y Wawr 2016-17\nTaflen ochor 1 \u2013 Digwyddiadau\/Swyddogion\/Blaen a manylion cwrdd (Festri Capel Sardis)",
+        "cy": "Rhaglen Cangen Pontypridd o Ferched y Wawr 2016-17\nTaflen ochor 1 \u2013 Digwyddiadau\/Swyddogion\/Blaen a manylion cwrdd (Festri Capel Sardis)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Pontypridd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontypridd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.672210000000",
+            "lon": "-3.483056000000",
+            "description": {
+                "en": "Festri Capel Sardis, Pontypridd",
+                "cy": "Festri Capel Sardis, Pontypridd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-078.jpg",
+            "type": "image",
+            "target_id": "584549"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-079.jpg",
+            "type": "image",
+            "target_id": "584550"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 746396,
+    "title": {
+        "en": "Merched y Wawr Llanafan Branch St David's Day Cawl",
+        "cy": "Cawl Dydd G\u0175yl Dewi Merched y Wawr Llanafan"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746396",
+    "created": 1516897268,
+    "updated": 1516897268,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cawl Dydd G\u0175yl Dewi Merched y Wawr Llanafan yn Neuadd Lisbourne.  Mae\u2019r gangen wedi paratoi cawl, addurno\u2019r neuadd a threfnu adloniant ers cychwyn y gangen.",
+        "cy": "Cawl Dydd G\u0175yl Dewi Merched y Wawr Llanafan yn Neuadd Lisbourne.  Mae\u2019r gangen wedi paratoi cawl, addurno\u2019r neuadd a threfnu adloniant ers cychwyn y gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanafan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanafan"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cawl%20Llanafan.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Cawl%2520Llanafan.jpg",
+            "type": "image",
+            "target_id": "746391"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 750586,
+    "title": {
+        "en": "Merched y Wawr Neath Branch at the Area Fun Sports Event",
+        "cy": "T\u00eem P\u00eal-rwyd Merched y Wawr Cangen Castell Nedd yn y Chwaraeon Hwyl Rhanbarthol "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750586",
+    "created": 1516899535,
+    "updated": 1516899535,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "T\u00eem P\u00eal-rwyd Cangen Castell Nedd yn Chwaraeon Hwyl Rhanbarthol Gorllewin Morgannwg diwedd y 1980au.  Ymhlith y chwaraewyr mae Janet Jones (nee Bowen), Rhian Young a Bethan Saunders.",
+        "cy": "T\u00eem P\u00eal-rwyd Cangen Castell Nedd yn Chwaraeon Hwyl Rhanbarthol Gorllewin Morgannwg diwedd y 1980au.  Ymhlith y chwaraewyr mae Janet Jones (nee Bowen), Rhian Young a Bethan Saunders."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Castell Nedd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-079.jpg",
+            "type": "image",
+            "target_id": "750581"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

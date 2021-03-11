@@ -1,0 +1,85 @@
+{
+    "id": 584569,
+    "title": {
+        "en": "Members of Merched y Wawr Rhumney Valley Branch 2010 ",
+        "cy": "Aelodau Merched y Wawr Cangen Cwm Rhymni 2010\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584569",
+    "created": 1499871205,
+    "updated": 1499871205,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Cwm Rhymni a fu\u2019n gwrando ar Elin Jones yn siarad ar bwysigrwydd y ferch yng Nghapel Siloh, Ystrad Mynach, Mai 19, 2010\nO\u2019r chwith i\u2019r dde \u2013 Mari Mills, Eirlys Thomas, Gaynor Williams, Janet Cumpstone, Mair Roberts, Marian Fairclough, Sian John, Jenni Jones Annett, Elin Jones, Wilma Davies, Maureen Potter, Evelyn Williams, Eleri Betts, Lena Morgan",
+        "cy": "Aelodau Cangen Cwm Rhymni a fu\u2019n gwrando ar Elin Jones yn siarad ar bwysigrwydd y ferch yng Nghapel Siloh, Ystrad Mynach, Mai 19, 2010\nO\u2019r chwith i\u2019r dde \u2013 Mari Mills, Eirlys Thomas, Gaynor Williams, Janet Cumpstone, Mair Roberts, Marian Fairclough, Sian John, Jenni Jones Annett, Elin Jones, Wilma Davies, Maureen Potter, Evelyn Williams, Eleri Betts, Lena Morgan"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.641897000000",
+            "lon": "-3.235411000000",
+            "description": {
+                "en": "Capel Siloh, Ystrad Mynach",
+                "cy": "Capel Siloh, Ystrad Mynach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-049.jpg",
+            "type": "image",
+            "target_id": "584567"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

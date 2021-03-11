@@ -1,0 +1,85 @@
+{
+    "id": 744181,
+    "title": {
+        "en": "Merched y Wawr Bronant Branch, First Book of Minutes 1969",
+        "cy": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf 1969"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744181",
+    "created": 1516896179,
+    "updated": 1516896179,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf.  Cyn 1968 roedd dosbarth gwn\u00efo yn cwrdd a hwn oedd sylfaen y gangen yn Bronant \u2013 penderfynwyd sefydlu cangen Merched y Wawr yn Rhagfyr 1968.  Dechreuodd y gangen gwrdd mis Mai, 1969.",
+        "cy": "Merched y Wawr Cangen Bronant, Cofnodion cyntaf.  Cyn 1968 roedd dosbarth gwn\u00efo yn cwrdd a hwn oedd sylfaen y gangen yn Bronant \u2013 penderfynwyd sefydlu cangen Merched y Wawr yn Rhagfyr 1968.  Dechreuodd y gangen gwrdd mis Mai, 1969."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-119.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-119.jpg",
+            "type": "image",
+            "target_id": "744166"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-120.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-120.jpg",
+            "type": "image",
+            "target_id": "744171"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-121.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-121.jpg",
+            "type": "image",
+            "target_id": "744176"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,97 @@
+{
+    "id": 753776,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Nantcol, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Nantcol, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753776",
+    "created": 1516958563,
+    "updated": 1516958563,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor 1985 - 1986.",
+        "cy": "Rhaglen Tymor 1985 - 1986."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Nantcol",
+    "owner": "Cangen Nantcol",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Nantcol",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantcol",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.825583000000",
+            "lon": "-4.075085000000",
+            "description": {
+                "en": "Nantcol",
+                "cy": "Nantcol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_016.jpg",
+            "type": "image",
+            "target_id": "753756"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_017.jpg",
+            "type": "image",
+            "target_id": "753761"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_018.jpg",
+            "type": "image",
+            "target_id": "753766"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

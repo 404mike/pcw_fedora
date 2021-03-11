@@ -1,0 +1,86 @@
+{
+    "id": 621741,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llanfair Talhaiarn Colwyn.",
+        "cy": "Cangen Merched y Wawr Llanfair Talhaiarn, Rhanbarth Colwyn yn dathlu ei 40ain yn 2001."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621741",
+    "created": 1511278938,
+    "updated": 1511278938,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen Llanfair Talhaiarn yn dathlu ei 40ain yn 2001.(Cefn) Phillys Jones, Mair Davies, Rhianwen Williams, Mary Jamil, Joyce Lloyd, Eurwen Faulkes, Anwen Williams (Swyddog Datblygu MyW), Tegwen Morris (Cyfarwyddwraig Cenedlaethol MyW), Lloydie Hughes, Edna Davies (2il res) Margaret Evans, Amy Evans, Elinor Davies, Hazel Williams, Menna Davies, Lyn Jones, Marian Roberts, Gillian Williams, Megan Davies, Aledwen McGrath (Blaen) Morfudd Williams, Malone Kirkham (Llywydd dathlu 40) Dinah Roberts, Mair OWen, Mair Jones, Beth Pierce, Gwenda Jones.",
+        "cy": "Cangen Llanfair Talhaiarn yn dathlu ei 40ain yn 2001.(Cefn) Phillys Jones, Mair Davies, Rhianwen Williams, Mary Jamil, Joyce Lloyd, Eurwen Faulkes, Anwen Williams (Swyddog Datblygu MyW), Tegwen Morris (Cyfarwyddwraig Cenedlaethol MyW), Lloydie Hughes, Edna Davies (2il res) Margaret Evans, Amy Evans, Elinor Davies, Hazel Williams, Menna Davies, Lyn Jones, Marian Roberts, Gillian Williams, Megan Davies, Aledwen McGrath (Blaen) Morfudd Williams, Malone Kirkham (Llywydd dathlu 40) Dinah Roberts, Mair OWen, Mair Jones, Beth Pierce, Gwenda Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfair Talhaiarn",
+    "owner": "Cangen Llanfair Talhaiarn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfair Talhaiarn Colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "colwyn",
+        "Cangen Llanfair Talhaiarn",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.216901000000",
+            "lon": "-3.607335000000",
+            "description": {
+                "en": "Llanfair Talhaiarn",
+                "cy": "Llanfair Talhaiarn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANFAIR_TALHAIARN_020.jpg",
+            "type": "image",
+            "target_id": "621731"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

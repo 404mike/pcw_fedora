@@ -1,0 +1,73 @@
+{
+    "id": 746666,
+    "title": {
+        "en": "Merched y Wawr Llanfarian Branch use wicker",
+        "cy": "Merched y Wawr Llanfarian yn trafod gwiail \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746666",
+    "created": 1516897385,
+    "updated": 1516897385,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson yng Nghangen Llanfarian o Ferched y Wawr yn trafod gwiail.\nMary Parry, Ann Davies a Eirwen Loosely",
+        "cy": "Noson yng Nghangen Llanfarian o Ferched y Wawr yn trafod gwiail.\nMary Parry, Ann Davies a Eirwen Loosely"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-223.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-223.jpg",
+            "type": "image",
+            "target_id": "746661"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,92 @@
+{
+    "id": 400038,
+    "title": {
+        "en": "Field names in Penllyn, Gwynedd",
+        "cy": "Enwau Caeau ym Mhenllyn, Gwynedd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/400038",
+    "created": 1416923898,
+    "updated": 1417016364,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Field names in the Penllyn area of Gwynedd, they contain names such as Weirglodd, Cae Penbryn Bach, Cae tan Willis, Llain Bunt, Cae Rhos, Cae Main, Cae Cefn Cwt Mochyn and many, many more.",
+        "cy": "Enwau sydd ar gaeau yn ardall Penllyn o Wynedd, maent yn cynnwys enwau megis Weirglodd, Cae Penbryn Bach, Cae tan Willis, Llain Bunt, Cae Rhos, Cae Main, Cae Cefn Cwt Mochyn a nifer fawr yn rhagor."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw0010561.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010561.jpg",
+            "type": "image",
+            "target_id": "400033"
+        },
+        {
+            "originalFilename": "pcw0010562.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010562.jpg",
+            "type": "image",
+            "target_id": "400034"
+        },
+        {
+            "originalFilename": "pcw0010563.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010563.jpg",
+            "type": "image",
+            "target_id": "400035"
+        },
+        {
+            "originalFilename": "pcw0010564.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010564.jpg",
+            "type": "image",
+            "target_id": "400036"
+        },
+        {
+            "originalFilename": "pcw0010565.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2014\/November\/pcw0010565.jpg",
+            "type": "image",
+            "target_id": "400037"
+        }
+    ],
+    "original_item_url": {
+        "en": "http:\/\/www.merchedywawr.com",
+        "cy": "http:\/\/www.merchedywawr.com"
+    },
+    "guid": "pcw0010561",
+    "publisher_ref": ""
+}

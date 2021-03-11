@@ -1,0 +1,82 @@
+{
+    "id": 747326,
+    "title": {
+        "en": "Merched y Wawr Melindwr Branch visit Cae Gors",
+        "cy": "Ymweliad Merched y Wawr Melindwr a Chae Gors"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747326",
+    "created": 1516897682,
+    "updated": 1516897682,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr, Cangen Melindwr ar drip i Cae Gors, cartref Kate Roberts.  Yn y llun mae Gwenda Morgan, Eirwen Sedgwick, Eirwen McNulty",
+        "cy": "Merched y Wawr, Cangen Melindwr ar drip i Cae Gors, cartref Kate Roberts.  Yn y llun mae Gwenda Morgan, Eirwen Sedgwick, Eirwen McNulty"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Melindwr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Melindwr"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.091973000000",
+            "lon": "-4.231809000000",
+            "description": {
+                "en": "Cae Gors (Cartref Kate Roberts)",
+                "cy": "Cae Gors (Cartref Kate Roberts)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-023.jpg",
+            "type": "image",
+            "target_id": "747316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

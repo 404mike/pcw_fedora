@@ -1,0 +1,93 @@
+{
+    "id": 625561,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Brynsiencyn, Anglesey.",
+        "cy": "Cangen Merched y Wawr Brynsiencyn, Rhanbarth M\u00f4n yn dathlu ei 40ain yn 2012 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625561",
+    "created": 1511280199,
+    "updated": 1511280199,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Celebrating their 40th birthday  - 2012",
+        "cy": "Rhai o aelodau cangen Brynsiencyn yn dathlu ei 40ain yn 2012 (sefydlwyd y gangen ym 1972). (blaen) Ann Rowlands, Rhiannon Mercer (Llywydd) June Francis, Mair Williams, Eirlys Glyn Jones, Ann Williams, Morgen Rowlands (cefn) Marian Roberts, Morfudd Williams, Ellen Parry Williams, Gwen Jones, Jane Jones, Emily Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Brynsiencyn",
+    "owner": "Cangen Brynsiencyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Brynsiencyn",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Brynsiencyn",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.178433000000",
+            "lon": "-4.274895000000",
+            "description": {
+                "en": "Brynsiencyn",
+                "cy": "Brynsiencyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BRYNSIENCYN_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BRYNSIENCYN_001.jpg",
+            "type": "image",
+            "target_id": "625546"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_BRYNSIENCYN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BRYNSIENCYN_002.jpg",
+            "type": "image",
+            "target_id": "625551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

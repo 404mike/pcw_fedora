@@ -1,0 +1,87 @@
+{
+    "id": 752271,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Deudraeth, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Deudraeth, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/752271",
+    "created": 1516958152,
+    "updated": 1516958152,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o\u2019r gangen wrthi\u2019n brysur yn gweu blancedi i\u2019r henoed tua diwedd y 1970au. Gwelwn: Matron Menai Williams, Eluned Morgan, Mai Morris, Marian Williams, Catherine Jones, Elizabeth Williams, Roberts Roberts, Ellen R. DAvies, Eluned Roberts, Gwerfyl Jones.",
+        "cy": "Llun o\u2019r gangen wrthi\u2019n brysur yn gweu blancedi i\u2019r henoed tua diwedd y 1970au. Gwelwn: Matron Menai Williams, Eluned Morgan, Mai Morris, Marian Williams, Catherine Jones, Elizabeth Williams, Roberts Roberts, Ellen R. DAvies, Eluned Roberts, Gwerfyl Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Deudraeth",
+    "owner": "Cangen Deudraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Deudraeth",
+        "Penrhyndeudraeth Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Deudraeth",
+        "Meirionnydd",
+        "Penrhyndeudraeth",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.929114200000",
+            "lon": "-4.067417100000",
+            "description": {
+                "en": "Penrhyndeudraeth",
+                "cy": "Penrhyndeudraeth"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_DEUDRAETH_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_DEUDRAETH_011.jpg",
+            "type": "image",
+            "target_id": "752261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

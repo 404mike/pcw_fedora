@@ -1,0 +1,80 @@
+{
+    "id": 1046426,
+    "title": {
+        "en": "St David's National Eisteddfod 2002",
+        "cy": "Eisteddfod Genedlaethol Tyddewi 2002"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046426",
+    "created": 1555590215,
+    "updated": 1555590215,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs of members of the Pembrokeshire Region staging their presentation 'Penfro Pentigili \u2013 hwn yw ein Bro'",
+        "cy": "3 llun o Aelodau Rhanbarth Penfro yn cyflwyno 'Penfro Pentigili \u2013 Hwn yw ein Bro' adeg Eisteddfod Genedlaethol Tyddewi 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "presentation",
+        "st davids national eisteddfod 2002",
+        "Pembrokeshire",
+        "cyflwyniad",
+        "eisteddfod genedlaethol tyddewi 2002",
+        "Rhanbarth Penfro",
+        "penfro pentigili"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_033.jpg",
+            "type": "image",
+            "target_id": "1046411"
+        },
+        {
+            "originalFilename": "df_myw_033-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_033-001.jpg",
+            "type": "image",
+            "target_id": "1046416"
+        },
+        {
+            "originalFilename": "df_myw_033-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_033-002.jpg",
+            "type": "image",
+            "target_id": "1046421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

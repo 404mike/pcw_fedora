@@ -1,0 +1,64 @@
+{
+    "id": 1148791,
+    "title": {
+        "en": "MyW Scrap Books",
+        "cy": "Llyfrau Lloffion MyW"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148791",
+    "created": 1562065908,
+    "updated": 1562065908,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Joint Second \u2013 Lampeter Branch, Ceredigion.",
+        "cy": "Cydradd Ail \u2013 Cangen Llanbed, Rhanbarth Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "scrap books",
+        "llyfrau lloffion myw",
+        "merched y wawr"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_077.jpg",
+            "type": "image",
+            "target_id": "1148786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 615191,
+    "title": {
+        "en": "Enillodd Gwobr Patagonia Merched y Wawr 2015 \n",
+        "cy": "Enillodd Gwobr Patagonia Merched y Wawr 2015 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615191",
+    "created": 1510755191,
+    "updated": 1510755191,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ffotograff o Dr Elin Jones, aelod o gangen Cwm Rhymni o Ferched y Wawr, a enillodd Gwobr Patagonia 2015 am ysgrifennu erthygl i\u2019r Wawr \u2013 \u2018Menywod a Streic Fawr y Glowyr\u2019 (Y Wawr, Gaeaf 2014). \n\nHefyd llun o Rhian Huws, aelod o\u2019r gangen.",
+        "cy": "Ffotograff o Dr Elin Jones, aelod o gangen Cwm Rhymni o Ferched y Wawr, a enillodd Gwobr Patagonia 2015 am ysgrifennu erthygl i\u2019r Wawr \u2013 \u2018Menywod a Streic Fawr y Glowyr\u2019 (Y Wawr, Gaeaf 2014). \n\nHefyd llun o Rhian Huws, aelod o\u2019r gangen."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cwm Rhymni",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cwm Rhymni",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Cwm%20Rhymni%20-%20Gwobrwyo%20Elin%20Jones%20-%20Y%20Wawr.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Cwm%2520Rhymni%2520-%2520Gwobrwyo%2520Elin%2520Jones%2520-%2520Y%2520Wawr.jpg",
+            "type": "image",
+            "target_id": "615186"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

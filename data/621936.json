@@ -1,0 +1,85 @@
+{
+    "id": 621936,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Gwytherin Colwyn.",
+        "cy": "Gwibdaith cangen Merched y Wawr Gwytherin, Rhanbarth Colwyn  i Llaeth y Llan, Medi 2007. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621936",
+    "created": 1511279003,
+    "updated": 1511279003,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith y gangen i Llaeth y Llan, Medi 2007. (Cefn) Heulwen Roberts, Carol Owen, Marian Williams, Gwenda Jones, Glenys Malethan, (canol) Ceinwen Owen, Enid Williams, Menna Thomas (Blaen) Annwen Williams, Eluned Williams.",
+        "cy": "Gwibdaith y gangen i Llaeth y Llan, Medi 2007. (Cefn) Heulwen Roberts, Carol Owen, Marian Williams, Gwenda Jones, Glenys Malethan, (canol) Ceinwen Owen, Enid Williams, Menna Thomas (Blaen) Annwen Williams, Eluned Williams."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gwytherin ",
+    "owner": "Cangen Gwytherin ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gwytherin",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Gwytherin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.138601000000",
+            "lon": "-3.681605000000",
+            "description": {
+                "en": "Gwytherin ",
+                "cy": "Gwytherin "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_GWYTHERIN_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_GWYTHERIN_009.jpg",
+            "type": "image",
+            "target_id": "621926"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

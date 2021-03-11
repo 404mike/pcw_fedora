@@ -1,0 +1,84 @@
+{
+    "id": 614691,
+    "title": {
+        "en": " Merched y Wawr Garreg Wen Branch Celebrate 25th Anniversary",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen yn Dathlu Chwarter Canrif"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614691",
+    "created": 1510755058,
+    "updated": 1510755058,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Y Garreg Wen yn dathlu penblwydd yn 25ain ym 1999 yng Ngwesty Penbontbren, Glynarthen yng nghmwni\u2019r Llywydd Cenedlaethol, Mrs Sulwen Davies (Llywydd Cenedlaethol 1998-2000). Gwnaethpwyd y gacen gan Mrs Gwen Davies.  \nRhes gefn \u2013 Linda Habbard, Betty Phillips, May Jones, Betty Elias, Beryl Jones, Dilys Colbourne, Lil Thomas, Maud Evans, Marlene Evans\nRhes flaen \u2013 Morfudd Evans, Sulwen Davies, Lizzie May Lloyd, Margaret Owen. Ray Tobias. Gwen Davies, Nans Jones (?)\nTorrywyd y gacen gan Mrs May Jones, yr aelod hynaf.",
+        "cy": "Merched y Wawr Cangen Y Garreg Wen yn dathlu penblwydd yn 25ain ym 1999 yng Ngwesty Penbontbren, Glynarthen yng nghmwni\u2019r Llywydd Cenedlaethol, Mrs Sulwen Davies (Llywydd Cenedlaethol 1998-2000). Gwnaethpwyd y gacen gan Mrs Gwen Davies.  \nRhes gefn \u2013 Linda Habbard, Betty Phillips, May Jones, Betty Elias, Beryl Jones, Dilys Colbourne, Lil Thomas, Maud Evans, Marlene Evans\nRhes flaen \u2013 Morfudd Evans, Sulwen Davies, Lizzie May Lloyd, Margaret Owen. Ray Tobias. Gwen Davies, Nans Jones (?)\nTorrywyd y gacen gan Mrs May Jones, yr aelod hynaf."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.116069000000",
+            "lon": "-4.467295000000",
+            "description": {
+                "en": "Gwesty Penbontbren, Glynarthen",
+                "cy": "Gwesty Penbontbren, Glynarthen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Garreg%20Wen%20-%201999%20-%20Dathlu%2025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/Garreg%2520Wen%2520-%25201999%2520-%2520Dathlu%252025.jpg",
+            "type": "image",
+            "target_id": "614681"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1046011,
+    "title": {
+        "en": "Hwyl Haf Merched y Wawr 2000",
+        "cy": "Hwyl Haf Merched y Wawr 2000"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046011",
+    "created": 1555589921,
+    "updated": 1555589921,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "National Summer event at Newtown, Powys, 24 June 2000. Included are Tegwen Griffiths, National Organiser; Megan Mai, Administartion Officer; Eirlys Phillips, National Treasurer.",
+        "cy": "Hwyl Haf, digwyddiad Cenedlaethol yn y Drenewydd, Powys, 24 Mehefin 2000. Yn y llun, Tegwen Griffiths, Trefnydd Cenedlaethol; Megan Mai, Swyddog Gweinyddol; Eirlys Phillips, Trysorydd Cenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "hwyl haf at newtown",
+        "Powys",
+        "2000",
+        "hwyl haf yn y drenewydd",
+        "powys 2000",
+        "merched y wawr",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_001.jpg",
+            "type": "image",
+            "target_id": "1046006"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

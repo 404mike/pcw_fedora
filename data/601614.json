@@ -1,0 +1,73 @@
+{
+    "id": 601614,
+    "title": {
+        "en": "Llygaid y Dydd Gwawr Club join a Merched y Wawr Walking Trip",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn ymuno a Thaith Gerdded"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601614",
+    "created": 1502449614,
+    "updated": 1502449614,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Llygaid y Dydd yn ymuno gyda Thaith Gerdded yn Mro Margannwg gyda Rhanbarth De-Ddywrain Merched y Wawr",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn ymuno gyda Thaith Gerdded yn Mro Margannwg gyda Rhanbarth De-Ddywrain Merched y Wawr"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "P1240384.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/P1240384.jpg",
+            "type": "image",
+            "target_id": "601613"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

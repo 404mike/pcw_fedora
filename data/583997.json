@@ -1,0 +1,80 @@
+{
+    "id": 583997,
+    "title": {
+        "en": "Launch Night for the 'Clybiau Gwawr' Campaign 1995",
+        "cy": "Noson sefydlu ymgyrch y Clybiau Gwawr, Merched y Wawr 1995"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583997",
+    "created": 1499870209,
+    "updated": 1499870209,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson sefydlu ymgyrch y Clybiau Gwawr, Merched y Wawr, 1995, Caerdydd \nSally Hughes, Marian Lake, Elinor Davies (Rhanbarth y De-Ddwyrain), Valerie James (Is-lywydd Cenedlaethol), Malvina Ley, Glenys Wyn (Rhanbarth Gorllewin Morgannwg)",
+        "cy": "Noson sefydlu ymgyrch y Clybiau Gwawr, Merched y Wawr, 1995, Caerdydd \nSally Hughes, Marian Lake, Elinor Davies (Rhanbarth y De-Ddwyrain), Valerie James (Is-lywydd Cenedlaethol), Malvina Ley, Glenys Wyn (Rhanbarth Gorllewin Morgannwg)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clybiau Gwawr"
+    ],
+    "when": [],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.480801000000",
+            "lon": "-3.184159000000",
+            "description": {
+                "en": "Gwesty Holiday Inn, Caerdydd",
+                "cy": "Gwesty Holiday Inn, Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-014.jpg",
+            "type": "image",
+            "target_id": "583995"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

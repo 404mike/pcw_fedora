@@ -1,0 +1,84 @@
+{
+    "id": 601631,
+    "title": {
+        "en": "Merched y Wawr Llygaid y Dydd Gwawr Club making Christmas Cards",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn creu cardiau Nadolig"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601631",
+    "created": 1502449637,
+    "updated": 1502449637,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Llygaid y Dydd yn cael noson creu cardiau yn barod at y Nadolig, Tachwedd 2015.\nGwenllian Evans, Catrin Champion, Mali Griffiths, Bethan Jones, Gwawr James",
+        "cy": "Clwb Gwawr Llygaid y Dydd yn cael noson creu cardiau yn barod at y Nadolig, Tachwedd 2015.\nGwenllian Evans, Catrin Champion, Mali Griffiths, Bethan Jones, Gwawr James"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "image5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/image5.jpg",
+            "type": "image",
+            "target_id": "601629"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

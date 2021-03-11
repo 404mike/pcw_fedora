@@ -1,0 +1,71 @@
+{
+    "id": 1047346,
+    "title": {
+        "en": "MyW Residential Weekend 2006 at Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2006 yn Llanbed - Dathlu&#039;r Deugain"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047346",
+    "created": 1555590848,
+    "updated": 1555590848,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Fashion Show by Cameo; Cwpwrdd Cwl; Duet; Lambrini; Masnach Deg and Steil Ni.",
+        "cy": "Sioe Ffasiwn gan Cameo; Cwpwrdd Cwl; Duet; Lambrini; Masnach Deg a Steil Ni."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Fashion Show",
+        "residential weekend",
+        "Lampeter",
+        "dathlur deugain",
+        "Sioe Ffasiwn",
+        "cameo",
+        "Penwythnos Preswyl",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_122.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_122.jpg",
+            "type": "image",
+            "target_id": "1047341"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

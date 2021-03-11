@@ -1,0 +1,98 @@
+{
+    "id": 469804,
+    "title": {
+        "en": "Llangefni and district, Anglesey branch of Merched y Wawr's contribution to the book published as 'Enwau Caeau a Mwy' 2014",
+        "cy": "Cyfraniad cangen Llangefni a&#039;r cylch, Rhanbarth M\u00f4n i lyfr Merched y Wawr a gyhoeddwyd o dan yr enw &#039;Caeau a Mwy&#039; 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/469804",
+    "created": 1441700495,
+    "updated": 1441700495,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Llangefni and District, Anglesey,towards a book published by Merched y Wawr, during the Winter Fair at Builth Wells December 2014. It includes place names, farms, photograhps and maps.",
+        "cy": "Cynnwys gwaith cangen Llangefni a'r cylch, Sir F\u00f4n, i lyfr a gyhoeddwyd gan Merched y Wawr yn ystod Ffair Aeaf yn Llanelwedd 2014. Mae'n cynnwys enwau lleoedd, ffermydd, lluniau a mapiau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "OTHER: Community and Social",
+        "Cities, towns & villages",
+        "Farms and smallholdings",
+        "Maps"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_1083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1083.jpg",
+            "type": "image",
+            "target_id": "469797"
+        },
+        {
+            "originalFilename": "pcw001_1084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1084.jpg",
+            "type": "image",
+            "target_id": "469798"
+        },
+        {
+            "originalFilename": "pcw001_1085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1085.jpg",
+            "type": "image",
+            "target_id": "469799"
+        },
+        {
+            "originalFilename": "pcw001_1086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1086.jpg",
+            "type": "image",
+            "target_id": "469800"
+        },
+        {
+            "originalFilename": "pcw001_1087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1087.jpg",
+            "type": "image",
+            "target_id": "469801"
+        },
+        {
+            "originalFilename": "pcw001_1088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1088.jpg",
+            "type": "image",
+            "target_id": "469802"
+        },
+        {
+            "originalFilename": "pcw001_1089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_1089.jpg",
+            "type": "image",
+            "target_id": "469803"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_1083",
+    "publisher_ref": ""
+}

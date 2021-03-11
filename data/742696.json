@@ -1,0 +1,84 @@
+{
+    "id": 742696,
+    "title": {
+        "en": "Merched y Wawr Neath Branch Christmas Dinner 1991",
+        "cy": "Cinio Nadolig Merched y Wawr Castell Nedd 1991"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742696",
+    "created": 1516895162,
+    "updated": 1516895162,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Nadolig Merched y Wawr Castell Newydd yn y Cimla Court Hotel, Cimla Road, Castell Nedd (sydd dim yno mwyach) ym 1991.  Yn Eistedd: Mrs. Hetty Jenkins (cyn brifathrawes, Creunant)Dr. Gwen Harri, Sal Roberts, Nano Harries, Rhian Thomas, Beth Owen, Mrs. M. Jenkins.\nYn Sefyll: Sarah Howells, Wendy Richards, Marilyn Jeffreys, Betty Hughes, Phyllis Davies, Morina Roberts, Nesta Davies, Glenda Williams, Enfys Thomas, Mai Edwards",
+        "cy": "Cinio Nadolig Merched y Wawr Castell Newydd yn y Cimla Court Hotel, Cimla Road, Castell Nedd (sydd dim yno mwyach) ym 1991.  Yn Eistedd: Mrs. Hetty Jenkins (cyn brifathrawes, Creunant)Dr. Gwen Harri, Sal Roberts, Nano Harries, Rhian Thomas, Beth Owen, Mrs. M. Jenkins.\nYn Sefyll: Sarah Howells, Wendy Richards, Marilyn Jeffreys, Betty Hughes, Phyllis Davies, Morina Roberts, Nesta Davies, Glenda Williams, Enfys Thomas, Mai Edwards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Castell Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Castell Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.655511000000",
+            "lon": "-3.795620000000",
+            "description": {
+                "en": "Cimla Court Hotel, Cimla Road, Neath",
+                "cy": "Cimla Court Hotel, Cimla Road, Neath"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "1991_Cinio%20Nadolig%20MyW_7x5.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/1991_Cinio%2520Nadolig%2520MyW_7x5.jpg",
+            "type": "image",
+            "target_id": "742686"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

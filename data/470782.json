@@ -1,0 +1,77 @@
+{
+    "id": 470782,
+    "title": {
+        "en": "Treffynnon, Glyn Maelor branch of Merched y Wawr's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Treffynnon, Glyn Maelor i brosiect Merched y Wawr ar gasglu enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470782",
+    "created": 1441700900,
+    "updated": 1441700900,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Treffynnon, Glyn Maelor of Merched y Wawr. It contains farm and field names in the Bagillt area. Also names of houses in the Mostyn area.",
+        "cy": "Gwybodaeth am waith cangen Treffynnon, Glyn Maelor o Ferched y Wawr. Mae'n cynnwys enwau ffermydd a chaeau yn ardal Bagillt. Hefyd enwau tai yn ardal Mostyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10914.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10914.jpg",
+            "type": "image",
+            "target_id": "470778"
+        },
+        {
+            "originalFilename": "pcw001_10915.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10915.jpg",
+            "type": "image",
+            "target_id": "470779"
+        },
+        {
+            "originalFilename": "pcw001_10916.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10916.jpg",
+            "type": "image",
+            "target_id": "470780"
+        },
+        {
+            "originalFilename": "pcw001_10917.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10917.jpg",
+            "type": "image",
+            "target_id": "470781"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10914",
+    "publisher_ref": ""
+}

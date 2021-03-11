@@ -1,0 +1,75 @@
+{
+    "id": 748471,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch host an evening of Fasion",
+        "cy": "Noson \u2018Ffler Ffasiwn\u2019 Merched y Wawr Pontarddulais a&#039;r Cylch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748471",
+    "created": 1516898568,
+    "updated": 1516898568,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson \u2018Ffler Ffasiwn\u2019 Merched y Wawr Pontarddulais, gyda Marian, Siop Pleser, Pontarddulais, yn arddangos hetiau, Mai 25, 2012\nMarian (Siop Pleser), Delyth Williams, Sheila Evans, Beti Williams, Kaye, Sandra Evans\nAnne Roberts, Gwen Jones, Lorraine Rees, Kaye Williams, Enid Jones, Helen Evans, Marion Jones, Dorcas Walters\nTesni Lloyd, Nan Lloyd-Jones, Avril Davies, Merle Jones, Marjorie Jones\nMair Evans, Sheila Evans, Beti Williams, Jean Bolton",
+        "cy": "Noson \u2018Ffler Ffasiwn\u2019 Merched y Wawr Pontarddulais, gyda Marian, Siop Pleser, Pontarddulais, yn arddangos hetiau, Mai 25, 2012\nMarian (Siop Pleser), Delyth Williams, Sheila Evans, Beti Williams, Kaye, Sandra Evans\nAnne Roberts, Gwen Jones, Lorraine Rees, Kaye Williams, Enid Jones, Helen Evans, Marion Jones, Dorcas Walters\nTesni Lloyd, Nan Lloyd-Jones, Avril Davies, Merle Jones, Marjorie Jones\nMair Evans, Sheila Evans, Beti Williams, Jean Bolton"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-098.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-098.jpg",
+            "type": "image",
+            "target_id": "748466"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

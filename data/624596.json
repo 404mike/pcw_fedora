@@ -1,0 +1,92 @@
+{
+    "id": 624596,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Rhuthun, Glyn Maelor",
+        "cy": "Rhaglen Tymor  2002 - 2003 cangen Merched y Wawr Rhuthun, Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624596",
+    "created": 1511279887,
+    "updated": 1511279887,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Tymor  2002 - 2003",
+        "cy": "Rhaglen Tymor  2002 - 2003"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Rhuthun",
+    "owner": "Cangen Rhuthun",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Rhuthun",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhuthun",
+        "Rhanbarth Glyn Maelor",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.115170000000",
+            "lon": "-3.307627000000",
+            "description": {
+                "en": "Rhuthun",
+                "cy": "Rhuthun "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RHUTHUN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RHUTHUN_006.jpg",
+            "type": "image",
+            "target_id": "624581"
+        },
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_RHUTHUN_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_RHUTHUN_007.jpg",
+            "type": "image",
+            "target_id": "624586"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

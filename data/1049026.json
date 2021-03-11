@@ -1,0 +1,66 @@
+{
+    "id": 1049026,
+    "title": {
+        "en": "MyW Residential Weekend 2010 \u2013 Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2010 \u2013 Cyfoeth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049026",
+    "created": 1555591753,
+    "updated": 1555591753,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Morning Service conducted by  Ceredigion officials.",
+        "cy": "Gwasanaeth Bore Sul dan ofal Swyddogion Rhanbarth Ceredigion."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "cyfoeth ceredigion"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_310.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_310.jpg",
+            "type": "image",
+            "target_id": "1049021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

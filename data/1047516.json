@@ -1,0 +1,65 @@
+{
+    "id": 1047516,
+    "title": {
+        "en": "President's Dinner in South Wales 2007",
+        "cy": "Cinio&#039;r Llywydd yn y De 2007 \u2013 Gwesty&#039;r Strade"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047516",
+    "created": 1555590944,
+    "updated": 1555590944,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dr Rosina Davies; Tegwen Morris Director MyW; Mary Price, President; Dr Esyllt Jones, deputy President.",
+        "cy": "Dr Rosina Davies; Tegwen Morris Cyfarwyddwr MyW; Mary Price, Llywydd; Dr Esyllt Jones, Is-Lywydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "Llanelli"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_141.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_141.jpg",
+            "type": "image",
+            "target_id": "1047511"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

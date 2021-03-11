@@ -1,0 +1,93 @@
+{
+    "id": 626876,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfairpwll, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanfairpwll, Rhanbarth M\u00f4n. Dathlu\u2019r 40 yng Nghwesty Treysgawen - Nadolig 2008."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626876",
+    "created": 1511280638,
+    "updated": 1511280638,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Llun o gacen dathlu\u2019r gangen yn 40 yng Nghwesty Treysgawen- Nadolig 2008. 2. Swyddogion y gangen yn torri cacen penblwydd y Gangen yn 40 yng Nghwesty Treysgawen- Nadolig 2008. Ceir: Mavis Jones, Haulwen Morgan, Enid Hughes, Jean Marshall a Pat Ann sy\u2019n cynrychioli Rhanbarth M\u00f4n.",
+        "cy": "1. Llun o gacen dathlu\u2019r gangen yn 40 yng Nghwesty Treysgawen- Nadolig 2008. 2. Swyddogion y gangen yn torri cacen penblwydd y Gangen yn 40 yng Nghwesty Treysgawen- Nadolig 2008. Ceir: Mavis Jones, Haulwen Morgan, Enid Hughes, Jean Marshall a Pat Ann sy\u2019n cynrychioli Rhanbarth M\u00f4n."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfairpwll",
+    "owner": "Cangen Llanfairpwll",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfairpwll",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfairpwll",
+        "Rhanbarth Mon",
+        "Mon",
+        "Dathlu 40"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.225660000000",
+            "lon": "-4.199370000000",
+            "description": {
+                "en": "Llanfairpwll",
+                "cy": "Llanfairpwll"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Llanfairpwll_010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Llanfairpwll_010.jpg",
+            "type": "image",
+            "target_id": "626861"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_Llanfairpwll_011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Llanfairpwll_011.jpg",
+            "type": "image",
+            "target_id": "626866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

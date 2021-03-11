@@ -1,0 +1,87 @@
+{
+    "id": 624906,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mold, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Wuddgrug, Glyn Maelor yn cystadlu yn Gwyl Haf, 2002."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/624906",
+    "created": 1511279987,
+    "updated": 1511279987,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn cystadlu ar ran rhanbarth Alun Dyfrdwy yn yr Wyl Haf, yn 2002. Myra Parry, Arfona Williams, Rhoda Jones, Vera Jones, Enid James, Beryl Davies, Catherine Richards.",
+        "cy": "Y Gangen yn cystadlu ar ran rhanbarth Alun Dyfrdwy yn yr Wyl Haf, yn 2002. Myra Parry, Arfona Williams, Rhoda Jones, Vera Jones, Enid James, Beryl Davies, Catherine Richards."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Wyddgrug",
+    "owner": "Mold Branch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mold",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Wyddgrug",
+        "Rhanbarth Glyn Maelor",
+        "Drama Glyn Maelor",
+        "Rhanbarth Alun Dyfrdwy"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.170301000000",
+            "lon": "-3.145576000000",
+            "description": {
+                "en": "Mold",
+                "cy": "y Wyddgrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_WYDDGRUG_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_WYDDGRUG_012.jpg",
+            "type": "image",
+            "target_id": "624896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

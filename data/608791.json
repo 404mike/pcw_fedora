@@ -1,0 +1,73 @@
+{
+    "id": 608791,
+    "title": {
+        "en": "Merched y Wawr  Abergorlech Branch making Cawl",
+        "cy": "Merched y Wawr Cangen Abergorlech yn gwneud cawl"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608791",
+    "created": 1510752820,
+    "updated": 1510752820,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sylvia Thomas a Beti Davies, aelodau Merched y Wawr Cangen Abergorlech yn gwneud cawl ar gyfer Ysgol Undydd Rhanbarth Caerfyrddin",
+        "cy": "Sylvia Thomas a Beti Davies, aelodau Merched y Wawr Cangen Abergorlech yn gwneud cawl ar gyfer Ysgol Undydd Rhanbarth Caerfyrddin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117001.jpg",
+            "type": "image",
+            "target_id": "608786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

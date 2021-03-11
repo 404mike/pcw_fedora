@@ -1,0 +1,67 @@
+{
+    "id": 1047966,
+    "title": {
+        "en": "President's Dinner in South Wales 2008",
+        "cy": "Cinio&#039;r Llywydd yn y De 2008 \u2013 Coleg y Drindod, Caerfyrddin"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047966",
+    "created": 1555591210,
+    "updated": 1555591210,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Guest Speaker \u2013 Peter Hughes Griffiths",
+        "cy": "Siaradwr Gwadd \u2013 Peter Hughes Griffiths."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "myw presidents dinner",
+        "MYW",
+        "cinior llywydd",
+        "isaradwr gwadd",
+        "peter hughes gruffuths"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_195.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_195.jpg",
+            "type": "image",
+            "target_id": "1047961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

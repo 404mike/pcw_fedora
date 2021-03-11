@@ -1,0 +1,76 @@
+{
+    "id": 1146486,
+    "title": {
+        "en": "Winter Fair 2016",
+        "cy": "Ffair Aeaf 2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1146486",
+    "created": 1562063893,
+    "updated": 1562063893,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Xmas Cracker\/s:1st Bet Thomas, Abergele, Colwyn.",
+        "cy": "Cracyr\/cracyrs Nadolig: 1af Bet Thomas, Cangen Abergele, Rhanbarth Colwyn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "winter fair 2016",
+        "ffair aeaf 2016",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_807.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_807.jpg",
+            "type": "image",
+            "target_id": "1146471"
+        },
+        {
+            "originalFilename": "df_myw_808.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_808.jpg",
+            "type": "image",
+            "target_id": "1146476"
+        },
+        {
+            "originalFilename": "df_myw_809.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_809.jpg",
+            "type": "image",
+            "target_id": "1146481"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

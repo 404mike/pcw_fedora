@@ -1,0 +1,65 @@
+{
+    "id": 1046446,
+    "title": {
+        "en": "MyW Residential Weekend 2002",
+        "cy": "Penwythnos Preswyl MyW 2002 \u2013 Llais a Llun"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046446",
+    "created": 1555590229,
+    "updated": 1555590229,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwyneth Morus Jones, National President, welcoming the members to the Residential Weekend at Lampeter.",
+        "cy": "Gwyneth Morus Jones, Llywydd Cenedlaethol yn croesawu'r aelodau i Benwythnos Preswyl Llanbed 2002."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2002",
+        "Lampeter",
+        "penwythnos preswyl myw 2002",
+        "Llanbed"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_035.jpg",
+            "type": "image",
+            "target_id": "1046441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

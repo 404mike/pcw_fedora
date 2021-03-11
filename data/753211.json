@@ -1,0 +1,85 @@
+{
+    "id": 753211,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llan Festiniog, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Llan Festiniog, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753211",
+    "created": 1516958409,
+    "updated": 1516958409,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun cynnar o\u2019r Gangen yn ei thymor cyntaf - Y gangen yn dathlu Gwyl Dewi, Mawrth 1971 yn Ysgol Bro Cynfael yng nghwmni gr\u0175p lleol - Y Saethau. Gwelwn: (cefn) Bethan Jones, Annwen Davies, Gwenda Davies, Olsen Davies (Y Saethau), Myfanwy Evans, Mary Parry, Claudia Jones, Iola Mai Williams, Myferi Hughes, Brenda Hughes, Blodwen Hughes (canol) Diana Rowlands, Trish Ford, Margiad Jones, Enid Williams, Nora Jones, Sally Williams, Kitty Davies, Elise Jones, Jennie Jones, Olwen Hughes, Mrs Pritchard, Megan Price (blaen), Sally Jones, Irena Gallagher, Nesta Evans (is-lywydd), Enid Rowland (Llywydd). Gwenda Ll Jones (Ysg.) Beryl Jones (Is-Ysg), Nan Rowlands (Trys.).",
+        "cy": "Llun cynnar o\u2019r Gangen yn ei thymor cyntaf - Y gangen yn dathlu Gwyl Dewi, Mawrth 1971 yn Ysgol Bro Cynfael yng nghwmni gr\u0175p lleol - Y Saethau. Gwelwn: (cefn) Bethan Jones, Annwen Davies, Gwenda Davies, Olsen Davies (Y Saethau), Myfanwy Evans, Mary Parry, Claudia Jones, Iola Mai Williams, Myferi Hughes, Brenda Hughes, Blodwen Hughes (canol) Diana Rowlands, Trish Ford, Margiad Jones, Enid Williams, Nora Jones, Sally Williams, Kitty Davies, Elise Jones, Jennie Jones, Olwen Hughes, Mrs Pritchard, Megan Price (blaen), Sally Jones, Irena Gallagher, Nesta Evans (is-lywydd), Enid Rowland (Llywydd). Gwenda Ll Jones (Ysg.) Beryl Jones (Is-Ysg), Nan Rowlands (Trys.)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llan Festiniog",
+    "owner": "Cangen Llan Festiniog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llan Festiniog",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llan Festiniog",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.958627000000",
+            "lon": "-3.932342000000",
+            "description": {
+                "en": "Llan Festiniog",
+                "cy": "Llan Festiniog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_LLANFFESTINIOG_012.jpg",
+            "type": "image",
+            "target_id": "753201"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

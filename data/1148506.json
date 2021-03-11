@@ -1,0 +1,63 @@
+{
+    "id": 1148506,
+    "title": {
+        "en": "MyW Residential Weekend 2017 at Aberystwyth  \u2013  Golden Anniversary",
+        "cy": "Penwythnos Preswyl MyW 2017 yn Aberystwyth \u2013 Dathlu&#039;r Aur"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1148506",
+    "created": 1562065780,
+    "updated": 1562065780,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "A presentation by two bards \u2013 Hywel Griffiths ('Cantre'r Gwaelod Poems').",
+        "cy": "Cyflwyniad gan ddau Fardd \u2013 Y Prifardd  Hywel Griffiths ('Cerddi Cantre'r Gwaelod')."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "residential weekend 2017",
+        "penwythnos preswyl myw"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_046.jpg",
+            "type": "image",
+            "target_id": "1148501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 743001,
+    "title": {
+        "en": "Merched y Wawr Swansea Branch Bank Document",
+        "cy": "Dogfen Banc Merched y Wawr Cangen Abertawe"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/743001",
+    "created": 1516895678,
+    "updated": 1516895678,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dofgen wrth y banc yn nodi enwau\u2019r llofnodwyr ar gyfrif Merched y Wawr Abertawe, Medi 9, 1972 \u2013 blynyddoedd cyntaf y gangen",
+        "cy": "Dofgen wrth y banc yn nodi enwau\u2019r llofnodwyr ar gyfrif Merched y Wawr Abertawe, Medi 9, 1972 \u2013 blynyddoedd cyntaf y gangen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abertawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abertawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-007.jpg",
+            "type": "image",
+            "target_id": "742996"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

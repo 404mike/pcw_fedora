@@ -1,0 +1,90 @@
+{
+    "id": 748091,
+    "title": {
+        "en": "Merched y Wawr Pontardawe Branch Programme 2013-2014",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2013 - 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748091",
+    "created": 1516898406,
+    "updated": 1516898406,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Pontardawe 2013 - 2014\nGweithgareddau\u2019r tymor gan gynnwys enwau Swyddogion \/ Man cwrdd - Festri Capel Soar, Pontardawe",
+        "cy": "Rhaglen Merched y Wawr Cangen Pontardawe 2013 - 2014\nGweithgareddau\u2019r tymor gan gynnwys enwau Swyddogion \/ Man cwrdd - Festri Capel Soar, Pontardawe"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontardawe",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontardawe",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.720137000000",
+            "lon": "-3.851709000000",
+            "description": {
+                "en": "Festri Capel Soar, Pontardawe",
+                "cy": "Festri Capel Soar, Pontardawe"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-100.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-100.jpg",
+            "type": "image",
+            "target_id": "748076"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-101.jpg",
+            "type": "image",
+            "target_id": "748081"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

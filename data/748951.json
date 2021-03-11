@@ -1,0 +1,75 @@
+{
+    "id": 748951,
+    "title": {
+        "en": "Poems Celebrating Merched y Wawr Tegryn Branch",
+        "cy": "Penillion Dathlu Merched y Wawr Tegryn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748951",
+    "created": 1516898780,
+    "updated": 1516898780,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion gan Lywydd Merched y Wawr Cangen Tegryn, Winnie James, a ddarllenwyd yng Nghinio\u2019r Dathlu Deugain yng Nghlwb Rygbi Castell Newydd Emlyn, Rhagfyr 1af, 2016.",
+        "cy": "Penillion gan Lywydd Merched y Wawr Cangen Tegryn, Winnie James, a ddarllenwyd yng Nghinio\u2019r Dathlu Deugain yng Nghlwb Rygbi Castell Newydd Emlyn, Rhagfyr 1af, 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-063.jpg",
+            "type": "image",
+            "target_id": "748946"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

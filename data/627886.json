@@ -1,0 +1,86 @@
+{
+    "id": 627886,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfechell, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanfechell, Rhanbarth M\u00f4n. Cinio Nadolig, 2004. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627886",
+    "created": 1511280981,
+    "updated": 1511280981,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Yn Ionawr 1971, galwyd cyfarfod gan Nesta Roberts gyda\u2019r bwriad o sefydlu cangen o Ferched y Wawr yn Llanfechell. Penderfynwyd mentro a\u2019r bwriad a dyma rhestr o\u2019r swyddogion cyntaf: Jean Roberts (Llywydd), Mary Roberts (Is-Lywydd), Glenys Jones (Ysgrifennydd), Sally Thomas (Trysorydd), Nesta Roberts (Ysgrifennydd y Wasg), L.C. Owen (Dosbarthwr \u2018Y Wawr\u2019). Dyma lun o Nesta yng nghinio Nadolig y Gangen yn 2004.",
+        "cy": "Yn Ionawr 1971, galwyd cyfarfod gan Nesta Roberts gyda\u2019r bwriad o sefydlu cangen o Ferched y Wawr yn Llanfechell. Penderfynwyd mentro a\u2019r bwriad a dyma rhestr o\u2019r swyddogion cyntaf: Jean Roberts (Llywydd), Mary Roberts (Is-Lywydd), Glenys Jones (Ysgrifennydd), Sally Thomas (Trysorydd), Nesta Roberts (Ysgrifennydd y Wasg), L.C. Owen (Dosbarthwr \u2018Y Wawr\u2019). Dyma lun o Nesta yng nghinio Nadolig y Gangen yn 2004."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfechell",
+    "owner": "Cangen Llanfechell",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfechell",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfechell",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.392650000000",
+            "lon": "-4.453929000000",
+            "description": {
+                "en": "Llanfechell",
+                "cy": "Llanfechell"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_LLANFECHELL_001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_LLANFECHELL_001.jpg",
+            "type": "image",
+            "target_id": "627876"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 744031,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch Spoof Eisteddfod",
+        "cy": "Eisteddfod Ffug Merched y Wawr Bro Ilar"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744031",
+    "created": 1516896116,
+    "updated": 1516896116,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eisteddfod Ffug Merched y Wawr Bro Ilar yn Festri Capel Llanilar, 1990 \u2013 \u2018Cadw\u2019n Heini\u2019.\nJean Evans, Blodwen Evans, Ada Evans, Jane Evans, Tegwen Richards",
+        "cy": "Eisteddfod Ffug Merched y Wawr Bro Ilar yn Festri Capel Llanilar, 1990 \u2013 \u2018Cadw\u2019n Heini\u2019.\nJean Evans, Blodwen Evans, Ada Evans, Jane Evans, Tegwen Richards"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.356662000000",
+            "lon": "-4.022310000000",
+            "description": {
+                "en": "Festri Capel Llanilar",
+                "cy": "Festri Capel Llanilar"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-103.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-103.jpg",
+            "type": "image",
+            "target_id": "744021"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,92 @@
+{
+    "id": 625846,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "Tystysgrif buddugol Catherine Jones, o&#039;r \u0174yl H\u00e2f, 2016. Cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625846",
+    "created": 1511280292,
+    "updated": 1511280292,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif buddugol Catherine Jones, o'r \u0174yl H\u00e2f, 2016 am ysgrifennu pennill ar gyfer Cerdyn Nadolig 2016.",
+        "cy": "Tystysgrif buddugol Catherine Jones, o'r \u0174yl H\u00e2f, 2016 am ysgrifennu pennill ar gyfer Cerdyn Nadolig 2016."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_028.jpg",
+            "type": "image",
+            "target_id": "625831"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_029.jpg",
+            "type": "image",
+            "target_id": "625836"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

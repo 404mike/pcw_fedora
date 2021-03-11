@@ -1,0 +1,63 @@
+{
+    "id": 1144801,
+    "title": {
+        "en": "Carmarthen National Eisteddfod 2014",
+        "cy": "Carmarthen National Eisteddfod 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144801",
+    "created": 1562062424,
+    "updated": 1562062424,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tegwen Morris, Director, with her two sons, Aled and Ioan, cutting the cake at the reception.",
+        "cy": "Tegwen Morris Cyfarwyddwr, gyda'i dau fab Aled ac Ioan yn torri'r gacen yn y derbyniad."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "carmarthen national eisteddfod 2014",
+        "eisteddfod genedlaethol caerfyrddin ar cylch 2014"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_602_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_602_0.jpg",
+            "type": "image",
+            "target_id": "1144796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

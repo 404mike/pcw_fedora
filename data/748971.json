@@ -1,0 +1,75 @@
+{
+    "id": 748971,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch at the Winter Fair",
+        "cy": "Merched y Wawr Tegryn yn y Ffair Aeaf 2010."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748971",
+    "created": 1516898791,
+    "updated": 1516898791,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pwdin Nadolig Winnie James o gangen Merched y Wawr Tegryn yn ennill y wobr gyntaf yn y Ffair Aeaf 2010.",
+        "cy": "Pwdin Nadolig Winnie James o gangen Merched y Wawr Tegryn yn ennill y wobr gyntaf yn y Ffair Aeaf 2010."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-067.jpg",
+            "type": "image",
+            "target_id": "748966"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

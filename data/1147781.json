@@ -1,0 +1,63 @@
+{
+    "id": 1147781,
+    "title": {
+        "en": "Anglesey National Eisteddfod 2017",
+        "cy": "Eisteddfod Genedlaethol Ynys M\u00f4n 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147781",
+    "created": 1562065504,
+    "updated": 1562065504,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand showing the Panels.",
+        "cy": "Stondin MyW yn dangos Paneli'r Dathlu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod 2017",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_953.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_953.jpg",
+            "type": "image",
+            "target_id": "1147776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

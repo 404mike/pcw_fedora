@@ -1,0 +1,73 @@
+{
+    "id": 746636,
+    "title": {
+        "en": "Llanfarian Branch, Merched y Wawr Summer Festival Winners",
+        "cy": "Cangen Llanfarian, Enillwyr Gwyl Haf Merched y Wawr\n \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746636",
+    "created": 1516897369,
+    "updated": 1516897369,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llanfarian, enillwyr cyson yn Ngwyl Haf blynyddol mudiad Merched y Wawr\nYn y llun mae Nesta Edwards, Mair Jones, Margaret Griffiths, Brenda Baigent",
+        "cy": "Merched y Wawr Cangen Llanfarian, enillwyr cyson yn Ngwyl Haf blynyddol mudiad Merched y Wawr\nYn y llun mae Nesta Edwards, Mair Jones, Margaret Griffiths, Brenda Baigent"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanfarian ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llanfarian"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-220.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-220.jpg",
+            "type": "image",
+            "target_id": "746631"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

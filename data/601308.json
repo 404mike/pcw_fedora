@@ -1,0 +1,84 @@
+{
+    "id": 601308,
+    "title": {
+        "en": "Merched y Wawr Cylch Emlyn Branch Celebrates Its 18th Birthday",
+        "cy": "Merched y Wawr Cangen Cylch Emlyn yn Dathlu Penblwydd yn 18 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601308",
+    "created": 1502449177,
+    "updated": 1502449177,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Emlyn yn Dathlu 18 mlynedd y gangen yng Ngwesty\u2019r Emlyn ym 1992.\nRhes Flaen \u2013 Ann Jones, Sylvia Vobe, Andrea, Ann, Hazel Evans, Rena Esau",
+        "cy": "Merched y Wawr Cangen Cylch Emlyn yn Dathlu 18 mlynedd y gangen yng Ngwesty\u2019r Emlyn ym 1992.\nRhes Flaen \u2013 Ann Jones, Sylvia Vobe, Andrea, Ann, Hazel Evans, Rena Esau"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Emlyn ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Emlyn",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.039622000000",
+            "lon": "-4.467229000000",
+            "description": {
+                "en": "Gwesty'r Emlyn ",
+                "cy": "Gwesty'r Emlyn "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-117.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-117.jpg",
+            "type": "image",
+            "target_id": "601306"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

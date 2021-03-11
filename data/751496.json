@@ -1,0 +1,85 @@
+{
+    "id": 751496,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Aberdyfi, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Aberdyfi, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751496",
+    "created": 1516957943,
+    "updated": 1516957943,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r Gangen gyda baner y rhanbarth tua\u2019r 70au hwyr\/ 80au cynnar. Gwelwn: Mrs Fiona Kewis, Mrs Gwyneth Roberts, Mrs Gwen Davies, Mrs Pegi Griffiths, Mrs Mair Davies, Morfydd Jones.",
+        "cy": "Rhai o aelodau\u2019r Gangen gyda baner y rhanbarth tua\u2019r 70au hwyr\/ 80au cynnar. Gwelwn: Mrs Fiona Kewis, Mrs Gwyneth Roberts, Mrs Gwen Davies, Mrs Pegi Griffiths, Mrs Mair Davies, Morfydd Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Aberdyfi",
+    "owner": "Cangen Aberdyfi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "aberdyfi",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberdyfi",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.544335000000",
+            "lon": "-4.040990000000",
+            "description": {
+                "en": "Aberdyfi",
+                "cy": "Aberdyfi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_ABERDYFI_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_ABERDYFI_007.jpg",
+            "type": "image",
+            "target_id": "751486"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

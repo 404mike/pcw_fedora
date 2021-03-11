@@ -1,0 +1,84 @@
+{
+    "id": 600737,
+    "title": {
+        "en": "Merched y Wawr Peniel Branch around 1974",
+        "cy": "Merched y Wawr Cangen Peniel tua 1974"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600737",
+    "created": 1502448169,
+    "updated": 1502448169,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau Merched y Wawr Cangen Peniel yn y 1970au \u2013 tua 1974\nRhes flaen \u2013 Mrs Davies - Hengil, Mrs Williams \u2013 Brynglas, Mrs Boucher \u2013 Tanlan, Mrs Howells \u2013 Trefwyn, mrs Williams \u2013 Gwynfaes , Mrs Evans \u2013 Dancapel, Mrs Davies \u2013 Caeglas, Mrs Evans \u2013 Brynteg\nAil Res \u2013 Beti Evans, Nancy Bowen, Mrs Jones \u2013 Tyddyngwyn, Meryl Jones, Luned Scurlock, Menna Lenny, Moyr Howells, Mrs Davies \u2013 Cartref, Mrs Thomas \u2013 Cefn, ? \nRhes Gefn \u2013 Mrs Evans \u2013 Derlwyn, Mrs Norah Moses, Myra James, Mai Williams, Sally Jones, Marlene Evans, ?, Nesta Jenkins",
+        "cy": "Llun aelodau Merched y Wawr Cangen Peniel yn y 1970au \u2013 tua 1974\nRhes flaen \u2013 Mrs Davies - Hengil, Mrs Williams \u2013 Brynglas, Mrs Boucher \u2013 Tanlan, Mrs Howells \u2013 Trefwyn, mrs Williams \u2013 Gwynfaes , Mrs Evans \u2013 Dancapel, Mrs Davies \u2013 Caeglas, Mrs Evans \u2013 Brynteg\nAil Res \u2013 Beti Evans, Nancy Bowen, Mrs Jones \u2013 Tyddyngwyn, Meryl Jones, Luned Scurlock, Menna Lenny, Moyr Howells, Mrs Davies \u2013 Cartref, Mrs Thomas \u2013 Cefn, ? \nRhes Gefn \u2013 Mrs Evans \u2013 Derlwyn, Mrs Norah Moses, Myra James, Mai Williams, Sally Jones, Marlene Evans, ?, Nesta Jenkins"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.894005000000",
+            "lon": "-4.274972000000",
+            "description": {
+                "en": "Peniel",
+                "cy": "Peniel"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-127.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-127.jpg",
+            "type": "image",
+            "target_id": "600735"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

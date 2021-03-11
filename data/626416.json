@@ -1,0 +1,86 @@
+{
+    "id": 626416,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Gaerwen, Anglesey.",
+        "cy": "Cangen Merched y Wawr Gaerwen, Rhanbarth M\u00f4n yn dathlu\u2019r Aur yn Fron Goch ar Ddydd Gwyl Dewi, 2017."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626416",
+    "created": 1511280483,
+    "updated": 1511280483,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen y Gaerwen yn dathlu\u2019r Aur yn Fron Goch ar Ddydd Gwyl Dewi, 2017. Yma ceir; Margaret Evans, Glesni Devi, Olivia Thomas, Rosemary Jones, Margaret Jones, Iona Hatton, Megan Williams, Yvonne Owen, Rosie Jones.",
+        "cy": "Cangen y Gaerwen yn dathlu\u2019r Aur yn Fron Goch ar Ddydd Gwyl Dewi, 2017. Yma ceir; Margaret Evans, Glesni Devi, Olivia Thomas, Rosemary Jones, Margaret Jones, Iona Hatton, Megan Williams, Yvonne Owen, Rosie Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Gaerwen",
+    "owner": "Cangen Gaerwen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Gaerwen",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gaerwen",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.222982000000",
+            "lon": "-4.280288000000",
+            "description": {
+                "en": "Gaerwen",
+                "cy": "Gaerwen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Gaerwen_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Gaerwen_016.jpg",
+            "type": "image",
+            "target_id": "626406"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

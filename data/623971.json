@@ -1,0 +1,86 @@
+{
+    "id": 623971,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Denbigh, Glyn Maelor",
+        "cy": "Cangen Merched y Wawr Dinbych, Glyn Maelor yn dathlu ei phenblwydd yn 18. Nadolig 1985"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/623971",
+    "created": 1511279687,
+    "updated": 1511279687,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y Gangen yn dathlu ei phenblwydd yn 18, Nadolig, 1985.",
+        "cy": "Y Gangen yn dathlu ei phenblwydd yn 18, Nadolig, 1985."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Dinbych",
+    "owner": "Cangen Dinbych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Denbigh",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Dinbych",
+        "Rhanbarth Glyn Maelor",
+        "Dathlu 18"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.183592000000",
+            "lon": "-3.422938000000",
+            "description": {
+                "en": "Denbigh",
+                "cy": "Dinbych"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_DINBYCH_015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_DINBYCH_015.jpg",
+            "type": "image",
+            "target_id": "623961"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

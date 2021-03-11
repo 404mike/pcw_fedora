@@ -1,0 +1,75 @@
+{
+    "id": 600759,
+    "title": {
+        "en": "Poems by Enid Jones given to Merched y Wawr Peniel Branch",
+        "cy": "Penillion a roddwyd gan Enid Jones i Ferched y Wawr Cangen Peniel"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600759",
+    "created": 1502448199,
+    "updated": 1502448199,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Penillion a roddwyd gan Enid Jones i Gangen Peniel o Ferched y wawr ar achlysur dathlu chwarter canrif y gangen, Tachwedd 9, 1997.",
+        "cy": "Penillion a roddwyd gan Enid Jones i Gangen Peniel o Ferched y wawr ar achlysur dathlu chwarter canrif y gangen, Tachwedd 9, 1997."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-142.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-142.jpg",
+            "type": "image",
+            "target_id": "600758"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

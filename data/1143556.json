@@ -1,0 +1,66 @@
+{
+    "id": 1143556,
+    "title": {
+        "en": "Annual Meeting 2013",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143556",
+    "created": 1562061043,
+    "updated": 1562061043,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Meryl Davies greeting the dramatist.",
+        "cy": "Meryl Davies yn cyfarch y dramodydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "g\u0175yl haf",
+        "cyfarfod blynyddol"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_472.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_472.jpg",
+            "type": "image",
+            "target_id": "1143551"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

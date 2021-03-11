@@ -1,0 +1,75 @@
+{
+    "id": 601203,
+    "title": {
+        "en": "Merched y Wawr Aberporth Branch Choir ",
+        "cy": "C\u00f4r Cangen Aberporth o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601203",
+    "created": 1502449029,
+    "updated": 1502449029,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "C\u00f4r Cangen Aberporth yn ennill y wobr gyntaf yn Eisteddfod Genedlaethol Merched y Wawr yn Llandrindod yn 1999\nRhes flaen \u2013 Eluned Harries, Gwenda Vale, Gwenyth Owens, Sally Jones, Esther Davies, June Lloyd Jones (arweinyddes), Janice Jones (cyfeilydd), Margaret Reed, Annita Williams, Anne Rees, \nAil Res \u2013 Nora Jenkins, Nesta Richards, Branwen Davies, Jenny Thom, Liliana Jones, Eta Jones, Nellian Morgan, Blodwen Williams,Tegwen Gibby, Anne Gomer Jones, Rhiannon Sanders\nRhes Gefn \u2013 Nancy Flowers, Angela Rees, Deanna Hywel, Meriel Roper, Elizabeth Davies. Lynda Evans, Joyce Waters, Maureen Jones, Mary Bott",
+        "cy": "C\u00f4r Cangen Aberporth yn ennill y wobr gyntaf yn Eisteddfod Genedlaethol Merched y Wawr yn Llandrindod yn 1999\nRhes flaen \u2013 Eluned Harries, Gwenda Vale, Gwenyth Owens, Sally Jones, Esther Davies, June Lloyd Jones (arweinyddes), Janice Jones (cyfeilydd), Margaret Reed, Annita Williams, Anne Rees, \nAil Res \u2013 Nora Jenkins, Nesta Richards, Branwen Davies, Jenny Thom, Liliana Jones, Eta Jones, Nellian Morgan, Blodwen Williams,Tegwen Gibby, Anne Gomer Jones, Rhiannon Sanders\nRhes Gefn \u2013 Nancy Flowers, Angela Rees, Deanna Hywel, Meriel Roper, Elizabeth Davies. Lynda Evans, Joyce Waters, Maureen Jones, Mary Bott"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Aberporth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Aberporth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-082_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-082_0.jpg",
+            "type": "image",
+            "target_id": "601202"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

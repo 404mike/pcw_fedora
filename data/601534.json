@@ -1,0 +1,75 @@
+{
+    "id": 601534,
+    "title": {
+        "en": "Merched y Wawr Beacons Branch Prepare for Christmas",
+        "cy": "Merched y Wawr Cangen y Bannau yn \u2018Paratoi at y Nadolig\u2019"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601534",
+    "created": 1502449521,
+    "updated": 1502449521,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cyfarfod \u2018Paratoi at y Nadolig\u2019 yn Merched y Wawr Cangen Y Bannau yn Nhachwedd 2016.  Yn ystod y noson fe ddangosodd yr aelod Nita Jones sut oedd creu addurniadau syml ond effeithiol allan o ddefnydd a rhuban.",
+        "cy": "Cyfarfod \u2018Paratoi at y Nadolig\u2019 yn Merched y Wawr Cangen Y Bannau yn Nhachwedd 2016.  Yn ystod y noson fe ddangosodd yr aelod Nita Jones sut oedd creu addurniadau syml ond effeithiol allan o ddefnydd a rhuban."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bannau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bannau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-075.jpg",
+            "type": "image",
+            "target_id": "601533"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

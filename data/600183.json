@@ -1,0 +1,84 @@
+{
+    "id": 600183,
+    "title": {
+        "en": "Fashion Show by Merched y Wawr (Dyfed) 1984",
+        "cy": "Sioe Ffasiwn Pwyllgor Dyfed Merched y Wawr 1984"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600183",
+    "created": 1502447384,
+    "updated": 1502447384,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Sioe Ffasiwn yn Theatr Felinfach, Ebrill 1984, wedi ei drefnu gan Bwyllgor Dyfed o Ferched y Wawr\nRhes waelod - ? ? Glenys Thomas, Eirlys Davies, Nesta Edwards\nRhes ganol \u2013 Enid Jones, Eirlys Wilkins, Sulwyn Thomas, Mrs Howells (Llywydd y noson), Mair Jenkins\nRhes uchaf \u2013 Gwynfydd James, Nest Davies, Joyce Phillips, ?, Matti Jones, Beti Davies",
+        "cy": "Sioe Ffasiwn yn Theatr Felinfach, Ebrill 1984, wedi ei drefnu gan Bwyllgor Dyfed o Ferched y Wawr\nRhes waelod - ? ? Glenys Thomas, Eirlys Davies, Nesta Edwards\nRhes ganol \u2013 Enid Jones, Eirlys Wilkins, Sulwyn Thomas, Mrs Howells (Llywydd y noson), Mair Jenkins\nRhes uchaf \u2013 Gwynfydd James, Nest Davies, Joyce Phillips, ?, Matti Jones, Beti Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Pwyllgor Dyfed"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.191283000000",
+            "lon": "-4.164841000000",
+            "description": {
+                "en": "Theatr Felinfach",
+                "cy": "Theatr Felinfach"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117004.jpg",
+            "type": "image",
+            "target_id": "600181"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

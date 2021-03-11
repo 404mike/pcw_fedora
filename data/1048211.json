@@ -1,0 +1,65 @@
+{
+    "id": 1048211,
+    "title": {
+        "en": "President's Dinner in South Wales 2009",
+        "cy": "Cinio&#039;r Llywydd yn y De 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048211",
+    "created": 1555591345,
+    "updated": 1555591345,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dinner at the Manor Park Hotel, Clydach. L>R Catrin Stevens, former President; Margaret Jones, West Glamorgan Chairman; Esyllt Jones, National President.",
+        "cy": "Cinio yng ngwesty'r Manor Park, Clydach. Ch>Dd Catrin Stevens, cyn-Lywydd; Margaret Jones, Cadeirydd Gorllewin Morgannwg; Esyllt Jones, Llywydd Cenedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_221.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_221.jpg",
+            "type": "image",
+            "target_id": "1048206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

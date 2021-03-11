@@ -1,0 +1,78 @@
+{
+    "id": 1047006,
+    "title": {
+        "en": "MyW Residential Weekend 2005",
+        "cy": "Penwythnos Preswyl MyW 2005 \u2013 Dinasyddiaeth."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047006",
+    "created": 1555590661,
+    "updated": 1555590661,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying their dinner at Holland House Hotel, Cardiff.",
+        "cy": "Aelodau yn mwynhau cinio yng ngwesty Holland House, Caerdydd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw residential weekend 2005",
+        "cardiff",
+        "penwythnos preswyl myw 2005",
+        "holland house",
+        "Caerdydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_083.jpg",
+            "type": "image",
+            "target_id": "1046991"
+        },
+        {
+            "originalFilename": "df_myw_084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_084.jpg",
+            "type": "image",
+            "target_id": "1046996"
+        },
+        {
+            "originalFilename": "df_myw_085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_085.jpg",
+            "type": "image",
+            "target_id": "1047001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

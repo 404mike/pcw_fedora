@@ -1,0 +1,75 @@
+{
+    "id": 750046,
+    "title": {
+        "en": "Merched y Wawr Gorseinon Branch enjoy a special evening of fashion!",
+        "cy": "Merched y Wawr Cangen Gorseinon yn cael noson ffasiwn arbennig"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750046",
+    "created": 1516899280,
+    "updated": 1516899280,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Gorseinon yn archwilio dillad isaf yn y Gangen pan ddaeth siop ddillad 'Awen' o Gaerfyrddin i ddiddanu'r aelodau yn 2003.  Yn y llun mae Gwen Evans, Sue Leyshon a Catrin Stevens",
+        "cy": "Aelodau Merched y Wawr Gorseinon yn archwilio dillad isaf yn y Gangen pan ddaeth siop ddillad 'Awen' o Gaerfyrddin i ddiddanu'r aelodau yn 2003.  Yn y llun mae Gwen Evans, Sue Leyshon a Catrin Stevens"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Noson%20Awen%20Caerfyrddin%202003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Noson%2520Awen%2520Caerfyrddin%25202003.jpg",
+            "type": "image",
+            "target_id": "750041"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 584063,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch, Exhibition, Eisteddfod yr Urdd 1995",
+        "cy": "Merched y Wawr Cangen Maenclochog - Arddangosfa, Eisteddfod Bro&#039;r Preseli 1995"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584063",
+    "created": 1499870304,
+    "updated": 1499870304,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog, Arddangosfa yn Eisteddfod yr Urdd Bro\u2019r Preseli 1995\ni gyd-fynd \u00e2\u2019r arddangosfa mae yno lyfryn o benillion \u2018St\u00f4l Fach y Frenni\u2019.  Roedd dwy o'r gangen wedi gwau y siwmper.",
+        "cy": "Merched y Wawr Maenclochog, Arddangosfa yn Eisteddfod yr Urdd Bro\u2019r Preseli 1995\ni gyd-fynd \u00e2\u2019r arddangosfa mae yno lyfryn o benillion \u2018St\u00f4l Fach y Frenni\u2019.  Roedd dwy o'r gangen wedi gwau y siwmper."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-033.jpg",
+            "type": "image",
+            "target_id": "584062"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

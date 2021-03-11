@@ -1,0 +1,84 @@
+{
+    "id": 742881,
+    "title": {
+        "en": "Merched y Wawr Abernant branch perform a drama",
+        "cy": "Merched y Wawr Abernant yn perfformio drama"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/742881",
+    "created": 1516895613,
+    "updated": 1516895613,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Drama yn Neuadd Talog, Cangen Abernant o Ferched y Wawr, 2001",
+        "cy": "Drama yn Neuadd Talog, Cangen Abernant o Ferched y Wawr, 2001"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Abernant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abernant",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.901689000000",
+            "lon": "-4.426662000000",
+            "description": {
+                "en": "Neuadd Talog",
+                "cy": "Neuadd Talog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-110417-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CAERFYRDDIN-110417-014.jpg",
+            "type": "image",
+            "target_id": "742871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

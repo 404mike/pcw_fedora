@@ -1,0 +1,86 @@
+{
+    "id": 626841,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Llanfairpwll, Anglesey.",
+        "cy": "Cangen Merched y Wawr Llanfairpwll, Rhanbarth M\u00f4n. Cartref Henoed Plas Mona, 1984"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/626841",
+    "created": 1511280626,
+    "updated": 1511280626,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau\u2019r gangen gyda trigolion Cartref Henoed Plas Mona, a\u2019r blancodi sgwarion a gwneid gan y gangen ar eu cyfer. (Sefyll) Matron (y Cartref), Edwina Jones, Gwenno Thomas, Ann, ?, Mrs stomas, Luned, Nan Hughes, Muriel Edwards, Peggy  Mummery, Mair Evans. Tynnwyd y llun tua 1984.",
+        "cy": "Rhai o aelodau\u2019r gangen gyda trigolion Cartref Henoed Plas Mona, a\u2019r blancodi sgwarion a gwneid gan y gangen ar eu cyfer. (Sefyll) Matron (y Cartref), Edwina Jones, Gwenno Thomas, Ann, ?, Mrs stomas, Luned, Nan Hughes, Muriel Edwards, Peggy  Mummery, Mair Evans. Tynnwyd y llun tua 1984."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llanfairpwll",
+    "owner": "Cangen Llanfairpwll",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Llanfairpwll",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanfairpwll",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.225660000000",
+            "lon": "-4.199370000000",
+            "description": {
+                "en": "Llanfairpwll",
+                "cy": "Llanfairpwll"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Llanfairpwll_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Llanfairpwll_008.jpg",
+            "type": "image",
+            "target_id": "626831"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

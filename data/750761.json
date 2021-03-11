@@ -1,0 +1,84 @@
+{
+    "id": 750761,
+    "title": {
+        "en": "Merched y Wawr Ystalyfera Branch have a trip to the Assembly",
+        "cy": "Trip Merched y Wawr Ystalyfera i\u2019r Cynulliad"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750761",
+    "created": 1516899622,
+    "updated": 1516899622,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip Merched y Wawr Ystalyfera i\u2019r Cynulliad, Bae Caerdydd ac yna I Harry Ramsdens am fwyd, Mawrth 27, 2008.  Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         \nENWAU ond nid mewn trefn: yn y rhes flaen mae: Doris Davies, Jane Edmunds, Joan Davies, Carol \u2026; Jean Rees (ysgrfenyddes) Beti Georgre (Trysorydd) a Mavis Llewelyn (Llywydd) Hefyd Dorrie Davies, Megan Davies, Mair Evans, Thelma Jones",
+        "cy": "Trip Merched y Wawr Ystalyfera i\u2019r Cynulliad, Bae Caerdydd ac yna I Harry Ramsdens am fwyd, Mawrth 27, 2008.  Caeodd y gangen hon yng Ngorffennaf 2014. Ymunodd rhai aelodau a Changen Pontardawe\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         \nENWAU ond nid mewn trefn: yn y rhes flaen mae: Doris Davies, Jane Edmunds, Joan Davies, Carol \u2026; Jean Rees (ysgrfenyddes) Beti Georgre (Trysorydd) a Mavis Llewelyn (Llywydd) Hefyd Dorrie Davies, Megan Davies, Mair Evans, Thelma Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Merched y Wawr (Rhanbarth Gorllewin Morgannwg)",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg",
+        "Cangen Ystalyfera"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.463480000000",
+            "lon": "-3.162723000000",
+            "description": {
+                "en": "Cynulliad, Bae Caerdyd",
+                "cy": "Cynulliad, Bae Caerdyd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Ystalyfera%203%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ystalyfera%25203%2520001.jpg",
+            "type": "image",
+            "target_id": "750751"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

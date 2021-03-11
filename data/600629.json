@@ -1,0 +1,82 @@
+{
+    "id": 600629,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch Visit Cardiff Bay",
+        "cy": "Merched y Wawr Cangen Llangadog ym Mae Caerdydd"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600629",
+    "created": 1502448008,
+    "updated": 1502448008,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Trip Cangen Llangadog o Ferched y Wawr i Fae Caerdydd.  Yn y llun mae Eirwen Bowen, Gwynfor Evans, Megan Evans, Eirlys Lewis, Haulwen Booth, Idwal Bowen, Aerona Willims, Manon Davies, Janet Bowyer, Delyth Jones",
+        "cy": "Trip Cangen Llangadog o Ferched y Wawr i Fae Caerdydd.  Yn y llun mae Eirwen Bowen, Gwynfor Evans, Megan Evans, Eirlys Lewis, Haulwen Booth, Idwal Bowen, Aerona Willims, Manon Davies, Janet Bowyer, Delyth Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.464853000000",
+            "lon": "-3.163992000000",
+            "description": {
+                "en": "Bae Caerdydd (Canolfan y Mileniwm)",
+                "cy": "Bae Caerdydd (Canolfan y Mileniwm)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-214.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-214.jpg",
+            "type": "image",
+            "target_id": "600627"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

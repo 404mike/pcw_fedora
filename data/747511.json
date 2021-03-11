@@ -1,0 +1,84 @@
+{
+    "id": 747511,
+    "title": {
+        "en": "Merched y Wawr Mynachlogddu Celebrates Forty Years",
+        "cy": "Merched y Wawr Mynachlogddu yn dathlu Penblwydd yn ddeugain oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747511",
+    "created": 1516897759,
+    "updated": 1516897759,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad noson Merched y Wawr Mynachlogddu yn dathlu Pennblwydd y Gangen yn ddeugain oed, yng Ngwesty Nantyffin, Llandysilio, Tachwedd 7, 2014.",
+        "cy": "Adroddiad noson Merched y Wawr Mynachlogddu yn dathlu Pennblwydd y Gangen yn ddeugain oed, yng Ngwesty Nantyffin, Llandysilio, Tachwedd 7, 2014."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Mynachlogddu",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Penfro",
+        "Cangen Mynachlogddu"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853780000000",
+            "lon": "-4.728459000000",
+            "description": {
+                "en": "Gwesty Nantyffin, Llandysilio",
+                "cy": "Gwesty Nantyffin, Llandysilio"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Hanes%20Dathlu.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Hanes%2520Dathlu.jpg",
+            "type": "image",
+            "target_id": "747501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

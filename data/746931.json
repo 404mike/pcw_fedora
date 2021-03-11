@@ -1,0 +1,85 @@
+{
+    "id": 746931,
+    "title": {
+        "en": "Merched y Wawr Llwynpiod Branch and Llwynpiod Chapel Society celebrate together ",
+        "cy": "Merched y Wawr Llwynpiod a Chymdeithas Capel Llwynpiod yn cyd-ddathlu"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746931",
+    "created": 1516897506,
+    "updated": 1516897506,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun o Ferched y Wawr, Cangen Llwynpiod, a Chymdeithas Capel Llwynpiod, yn dathlu Cinio Nadolig ym Mhlas Gwyn. \nO\u2019r cychwyn cyntaf ymunodd Merched y Wawr Llwynpiod gydag aelodau Cymdeithas y Capel yn Llwynpiod i ddathlu G\u0175yl Ddewi a\u2019r Nadolig \u2013 ac mae hyn wedi parhau\u2019n flynyddol hyd heddiw \u2013 nosweithiau i\u2019w trysori, gyda p\u00f4sau, gemau, dweud storiau, barddoni a mwy.",
+        "cy": "Llun o Ferched y Wawr, Cangen Llwynpiod, a Chymdeithas Capel Llwynpiod, yn dathlu Cinio Nadolig ym Mhlas Gwyn. \nO\u2019r cychwyn cyntaf ymunodd Merched y Wawr Llwynpiod gydag aelodau Cymdeithas y Capel yn Llwynpiod i ddathlu G\u0175yl Ddewi a\u2019r Nadolig \u2013 ac mae hyn wedi parhau\u2019n flynyddol hyd heddiw \u2013 nosweithiau i\u2019w trysori, gyda p\u00f4sau, gemau, dweud storiau, barddoni a mwy."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llwynpiod ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llwynpiod",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110417-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110417-001.jpg",
+            "type": "image",
+            "target_id": "746916"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-077.jpg",
+            "type": "image",
+            "target_id": "746921"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-078.jpg",
+            "type": "image",
+            "target_id": "746926"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

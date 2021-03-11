@@ -1,0 +1,84 @@
+{
+    "id": 610451,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch Celebrate 10th Anniversary ",
+        "cy": " Merched y Wawr Cangen Gronw yn dathlu penblwydd y gangen yn 10 oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610451",
+    "created": 1510753205,
+    "updated": 1510753205,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun aelodau Merched y Wawr Cangen Gronw yn dathlu penblwydd y gangen yn 10 oed yng ngwesty Waungron yn yr Hendygwyn.  Gwnaethpwyd y gacen gan Lon Owen, merch Eppie Isaac\n\nRhes Flaen \u2013 Meirwen Evans, Ray Westron, Rhoswen Llewellyn, Pat Phillips, Enid Jones o Gaerfyrddin, Morfydd James, Eirlys Davies (Llywydd Cenedlaethol), Mary Davies, Meirwen Evans, Ray Pugh\nAil Res \u2013 Elvira Jones, Elsie Davies, Eiddwen Morgan, Lily Phillips, Eppie Isaac, Glenys Evans, Maisie Harris, Doris Davies, Catherine Griffiths, Nansi Evans, Lon Melchior, Vanna Evans, Irene Edwards, Sadie Phillips, Dorothy Davies, Etta Thomas, Edith Davies, Bethan Richards, Heather Phillips, Jane Evans, Meinir Eynon, Doris Davies",
+        "cy": "Llun aelodau Merched y Wawr Cangen Gronw yn dathlu penblwydd y gangen yn 10 oed yng ngwesty Waungron yn yr Hendygwyn.  Gwnaethpwyd y gacen gan Lon Owen, merch Eppie Isaac\n\nRhes Flaen \u2013 Meirwen Evans, Ray Westron, Rhoswen Llewellyn, Pat Phillips, Enid Jones o Gaerfyrddin, Morfydd James, Eirlys Davies (Llywydd Cenedlaethol), Mary Davies, Meirwen Evans, Ray Pugh\nAil Res \u2013 Elvira Jones, Elsie Davies, Eiddwen Morgan, Lily Phillips, Eppie Isaac, Glenys Evans, Maisie Harris, Doris Davies, Catherine Griffiths, Nansi Evans, Lon Melchior, Vanna Evans, Irene Edwards, Sadie Phillips, Dorothy Davies, Etta Thomas, Edith Davies, Bethan Richards, Heather Phillips, Jane Evans, Meinir Eynon, Doris Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819487000000",
+            "lon": "-4.614413000000",
+            "description": {
+                "en": "Gwesty Waungron, Hendygwyn",
+                "cy": "Gwesty Waungron, Hendygwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-252.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-252.jpg",
+            "type": "image",
+            "target_id": "610441"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

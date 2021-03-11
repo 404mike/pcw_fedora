@@ -1,0 +1,81 @@
+{
+    "id": 745886,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch Programme 2000-2001",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a&#039;r Cylch 2000-2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745886",
+    "created": 1516897008,
+    "updated": 1516897008,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 2000-2001. Gweithgareddau'r gangen gan gynnwys enwau'r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Llanbedr Pont Steffan a'r Cylch 2000-2001. Gweithgareddau'r gangen gan gynnwys enwau'r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%202000-2001%20b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%25202000-2001%2520b.jpg",
+            "type": "image",
+            "target_id": "745876"
+        },
+        {
+            "originalFilename": "MYW%20Llambed%20rhaglen%202000-2001%20a.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW%2520Llambed%2520rhaglen%25202000-2001%2520a.jpg",
+            "type": "image",
+            "target_id": "745881"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

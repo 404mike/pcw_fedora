@@ -1,0 +1,98 @@
+{
+    "id": 753681,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Nantcol, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Nantcol, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/753681",
+    "created": 1516958538,
+    "updated": 1516958538,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif buddugol Ffotograffiaeth orau o Sioe Sir Tywyn, 2002 i Einir Jones, Cangen Nantcol.",
+        "cy": "Tystysgrif buddugol Ffotograffiaeth orau o Sioe Sir Tywyn, 2002 i Einir Jones, Cangen Nantcol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Nantcol",
+    "owner": "Cangen Nantcol",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Nantcol",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Nantcol",
+        "Rhanbarth Meirionnydd",
+        "Celf a Chrefft Merched y Wawr"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.825583000000",
+            "lon": "-4.075085000000",
+            "description": {
+                "en": "Nantcol",
+                "cy": "Nantcol"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_007.jpg",
+            "type": "image",
+            "target_id": "753661"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_008.jpg",
+            "type": "image",
+            "target_id": "753666"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_NANTCOL_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_NANTCOL_009.jpg",
+            "type": "image",
+            "target_id": "753671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

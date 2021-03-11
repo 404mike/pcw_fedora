@@ -1,0 +1,84 @@
+{
+    "id": 600569,
+    "title": {
+        "en": "Merched y Wawr Gronw Branch celebrate 40 years",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu 40"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600569",
+    "created": 1502447917,
+    "updated": 1502447917,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Gronw yn Dathlu 40 y gangen yng Ngwesty Nantyffin, Medi 2015.  Gwnaed cacen gan Tegwen James.  \n\nRhes flaen \u2013 Valeri Davies, Nansi Evans, Sandra Morris Jones, Rhoswen Llewellyn Tegwen Morris, Beti Wyn James\nRhes gefn \u2013 Llinos Thomas, Gwenda Williams, Wenfys Rhys, Meinir Eynon, Rhiannon Davies, Jane Evans, Marian Davies, Tegwen James,Irene Davies, Edith Davies, Mary Phillips, Eirwen Robinson, Meirwen Evans",
+        "cy": "Merched y Wawr Cangen Gronw yn Dathlu 40 y gangen yng Ngwesty Nantyffin, Medi 2015.  Gwnaed cacen gan Tegwen James.  \n\nRhes flaen \u2013 Valeri Davies, Nansi Evans, Sandra Morris Jones, Rhoswen Llewellyn Tegwen Morris, Beti Wyn James\nRhes gefn \u2013 Llinos Thomas, Gwenda Williams, Wenfys Rhys, Meinir Eynon, Rhiannon Davies, Jane Evans, Marian Davies, Tegwen James,Irene Davies, Edith Davies, Mary Phillips, Eirwen Robinson, Meirwen Evans"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Gronw",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gronw",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.853749000000",
+            "lon": "-4.728613000000",
+            "description": {
+                "en": "Gwesty Nantyffin",
+                "cy": "Gwesty Nantyffin"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-282.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-282.jpg",
+            "type": "image",
+            "target_id": "600567"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

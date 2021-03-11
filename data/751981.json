@@ -1,0 +1,86 @@
+{
+    "id": 751981,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Bryncrug, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Bryncrug, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/751981",
+    "created": 1516958072,
+    "updated": 1516958072,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti ffarwelio a Mrs Rhys Gruffydd ym 1980. Gwelwn: Gwen Jones, Tabitha Edwards, Gwenfair Pierce, Maureen Robertson, Megan James, Delyth Williams, Olwen Griffiths, Sali Jonesm Enid Evans a Nans Jones.",
+        "cy": "Parti ffarwelio a Mrs Rhys Gruffydd ym 1980. Gwelwn: Gwen Jones, Tabitha Edwards, Gwenfair Pierce, Maureen Robertson, Megan James, Delyth Williams, Olwen Griffiths, Sali Jonesm Enid Evans a Nans Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bryncrug",
+    "owner": "Cangen Bryncrug",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bryncrug",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bryncrug",
+        "Drama Merched y Wawr",
+        "Rhanbarth Meirionnydd"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.610047000000",
+            "lon": "-4.054039000000",
+            "description": {
+                "en": "Bryncrug",
+                "cy": "Bryncrug"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_BRYNCRUG_007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_BRYNCRUG_007.jpg",
+            "type": "image",
+            "target_id": "751971"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

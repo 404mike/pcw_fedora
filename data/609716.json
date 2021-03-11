@@ -1,0 +1,75 @@
+{
+    "id": 609716,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech Flower Arranging Evening",
+        "cy": "Noson Trefnu Blodau Merched y Wawr Cangen Bro Cennech "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609716",
+    "created": 1510753046,
+    "updated": 1510753046,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Noson Trefnu Blodau Merched y Wawr Cangen Bro Cennech yn 2015\nGaynor Thomas, Lynwen Gallimore, Margaret Harries, Avril Hughes, Margaret Thomas, Jayne Hughes",
+        "cy": "Noson Trefnu Blodau Merched y Wawr Cangen Bro Cennech yn 2015\nGaynor Thomas, Lynwen Gallimore, Margaret Harries, Avril Hughes, Margaret Thomas, Jayne Hughes"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-007.jpg",
+            "type": "image",
+            "target_id": "609711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1047676,
+    "title": {
+        "en": "Pageant to celebrate 40 years and Singing Festival 2007",
+        "cy": "Pasiant Dathlu&#039;r Deugain a Cymanfa Ganu 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047676",
+    "created": 1555591031,
+    "updated": 1555591031,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Price, President welcoming the members to Berwyn School.",
+        "cy": "Mary Price, Llywydd Cenedlaethol yn croesawu'r aelodau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Pageant",
+        "singing festival",
+        "Pasiant",
+        "Cymanfa Ganu"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_159.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_159.jpg",
+            "type": "image",
+            "target_id": "1047671"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

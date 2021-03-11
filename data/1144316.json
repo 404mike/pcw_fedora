@@ -1,0 +1,65 @@
+{
+    "id": 1144316,
+    "title": {
+        "en": "Annual Meeting and Summer Festival 2014",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2014"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1144316",
+    "created": 1562061389,
+    "updated": 1562061389,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eleri Hughes, Adjudicator for the Literary Prize \u2013 writing a story for Learners.",
+        "cy": "Eleri Hughes, Beirniad y Wobr Lenyddol sef ysgrifennu stori i Ddysgwyr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "summer festival",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_563.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_563.jpg",
+            "type": "image",
+            "target_id": "1144311"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

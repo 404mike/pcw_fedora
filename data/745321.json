@@ -1,0 +1,79 @@
+{
+    "id": 745321,
+    "title": {
+        "en": "Merched y Wawr Genau'r Glyn Branch",
+        "cy": "Merched y Wawr Genau\u2019r Glyn "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745321",
+    "created": 1516896754,
+    "updated": 1516896754,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Genau\u2019r Glyn",
+        "cy": "Merched y Wawr Genau\u2019r Glyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gennau&#039;r Glyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Gennaur Glyn"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-003.jpg",
+            "type": "image",
+            "target_id": "745311"
+        },
+        {
+            "originalFilename": "MYW-DE-LLANFARIAN-110317-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-LLANFARIAN-110317-004.jpg",
+            "type": "image",
+            "target_id": "745316"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

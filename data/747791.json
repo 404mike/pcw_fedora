@@ -1,0 +1,81 @@
+{
+    "id": 747791,
+    "title": {
+        "en": "Rhaglen Gyntaf Merched y Wawr Cangen Castell Nedd 1968 - 1969",
+        "cy": "Mary Morgan Ferched y Wawr Cylch Wyre yn ennill cystadleuaeth stori feicro ar y testun &#039;Casglu&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/747791",
+    "created": 1516898138,
+    "updated": 1516898138,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Mary Morgan o Gangen Merched y Wawr Cylch Wyre yn derbyn y wobr gyntaf oddi wrth Llywydd Cenedlaethol y mudiad, Gill Griffiths, am ei stori feicro ar y testun \u2018Casglu\u2019 yng Ng\u0175yl Fai Merched y Wawr ym Machynlleth yn 2014.  Yn y llun gwaelod mae\u2019r casgliad o hen offer llaethdy wnaeth ysbrydoli\u2019r gerdd.",
+        "cy": "Mary Morgan o Gangen Merched y Wawr Cylch Wyre yn derbyn y wobr gyntaf oddi wrth Llywydd Cenedlaethol y mudiad, Gill Griffiths, am ei stori feicro ar y testun \u2018Casglu\u2019 yng Ng\u0175yl Fai Merched y Wawr ym Machynlleth yn 2014.  Yn y llun gwaelod mae\u2019r casgliad o hen offer llaethdy wnaeth ysbrydoli\u2019r gerdd."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Mary Morgan",
+    "owner": "Cangen Cylch Wyre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Cylch Wyre"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-197_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-197_0.jpg",
+            "type": "image",
+            "target_id": "747781"
+        },
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-198_0.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-198_0.jpg",
+            "type": "image",
+            "target_id": "747786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

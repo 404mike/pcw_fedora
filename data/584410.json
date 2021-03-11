@@ -1,0 +1,85 @@
+{
+    "id": 584410,
+    "title": {
+        "en": "Merched y Wawr Carmarthen Branch Celebrates 25 Years ",
+        "cy": "Cinio Dathlu Cangen Caerfyrddin o Ferched y Wawr yn 25 Mlwydd oed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584410",
+    "created": 1499871008,
+    "updated": 1499871008,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cinio Dathlu Cangen Caerfyrddin o Ferched y Wawr yn 25 Mlwydd oed, Mai 21, 1993 yng Ngwesty\u2019r Llwyn Iorwg. Rhes \u00f4l \u2013 Rhian Jones (Llywydd), Muriel Evans (Is-ysg), Eirwen Willaims (Is ysg Cyntaf), Marged Thomas (Ysgrifennydd), Enid Jones (Is Lywydd ac Ysgrifennydd Cyntaf)\nRhes flaen \u2013 Iris Wilkins (Cyn Lywydd Rhanbarth), Nan Lewis (Llywydd Cenedlaethol 1992-1994), Menna Thomas (Trysorydd Cyntaf)",
+        "cy": "Cinio Dathlu Cangen Caerfyrddin o Ferched y Wawr yn 25 Mlwydd oed, Mai 21, 1993 yng Ngwesty\u2019r Llwyn Iorwg. Rhes \u00f4l \u2013 Rhian Jones (Llywydd), Muriel Evans (Is-ysg), Eirwen Willaims (Is ysg Cyntaf), Marged Thomas (Ysgrifennydd), Enid Jones (Is Lywydd ac Ysgrifennydd Cyntaf)\nRhes flaen \u2013 Iris Wilkins (Cyn Lywydd Rhanbarth), Nan Lewis (Llywydd Cenedlaethol 1992-1994), Menna Thomas (Trysorydd Cyntaf)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Caerfyrddin",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Caerfyrddin",
+        "Cangen Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.856576000000",
+            "lon": "-4.303443000000",
+            "description": {
+                "en": "Gwesty'r Llwyn Iorwg, Caerfyrddin (Ivy Bush)",
+                "cy": "Gwesty'r Llwyn Iorwg, Caerfyrddin (Ivy Bush)"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-111116-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-111116-054.jpg",
+            "type": "image",
+            "target_id": "584408"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

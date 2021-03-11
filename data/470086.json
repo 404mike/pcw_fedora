@@ -1,0 +1,78 @@
+{
+    "id": 470086,
+    "title": {
+        "en": "Alltwen branch of Merched y Wawr West Glamorgan's contribution to the project on Welsh place names.",
+        "cy": "Cyfraniad cangen Alltwen, Gorllewin Morgannwg, i brosiect Merched y Wawr ar enwau lleoedd Cymraeg."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/470086",
+    "created": 1441700590,
+    "updated": 1441700590,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Information on work collected by Alltwen branch, West Glamorgan of Merched y Wawr. It contains some farm names and house names from the Cilbebyll area.",
+        "cy": "Gwybodaeth am waith cangen Alltwen, Gorllewin Morgannwg, o Ferched y Wawr. Mae'n cynnwys enwau ffermydd a tai o ardal Cilbebyll."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": "",
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [],
+    "when": [],
+    "what": [
+        "OTHER: Community and Social",
+        "Societies and clubs",
+        "Cities, towns & villages",
+        "Farms and smallholdings"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "pcw001_10275.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10275.jpg",
+            "type": "image",
+            "target_id": "470082"
+        },
+        {
+            "originalFilename": "pcw001_10276.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10276.jpg",
+            "type": "image",
+            "target_id": "470083"
+        },
+        {
+            "originalFilename": "pcw001_10277.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10277.jpg",
+            "type": "image",
+            "target_id": "470084"
+        },
+        {
+            "originalFilename": "pcw001_10278.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2015\/September\/pcw001_10278.jpg",
+            "type": "image",
+            "target_id": "470085"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "pcw001_10275",
+    "publisher_ref": ""
+}

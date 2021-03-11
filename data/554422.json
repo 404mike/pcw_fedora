@@ -1,0 +1,73 @@
+{
+    "id": 554422,
+    "title": {
+        "en": "Merched y Wawr Sponsored Bike Ride 1999",
+        "cy": "Taith Feiciau Noddedig o Amgylch Cymru, Merched y Wawr 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554422",
+    "created": 1487591832,
+    "updated": 1487591832,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Amlinelliad o Taith Feiciau Noddedig o Amgylch Cymru, Merched y Wawr, Gorffennaf 23 I 31, 1999 \u2013 tudalen flaen (Tud 1 o 2)",
+        "cy": "Amlinelliad o Taith Feiciau Noddedig o Amgylch Cymru, Merched y Wawr, Gorffennaf 23 I 31, 1999 \u2013 tudalen flaen (Tud 1 o 2)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000009.jpg",
+            "type": "image",
+            "target_id": "554421"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

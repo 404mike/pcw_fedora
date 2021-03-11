@@ -1,0 +1,129 @@
+{
+    "id": 601555,
+    "title": {
+        "en": "Mountains and Lakes' Exhibition by Merched y Wawr Bannau Branch",
+        "cy": "Arddangosfa \u2018Mynyddoedd a Llynnoedd\u2019 gan Ferched y Wawr Cangen Y Bannau"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601555",
+    "created": 1502449544,
+    "updated": 1502449544,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Datganiad y Wasg am Arddangosfa \u2018Mynyddoedd a Llynnoedd\u2019 yn s\u00f4n  am Ferched y Wawr Cangen Y Bannau yn creu paneli i\u2019w harddangos yn wreiddiol ar stondin Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd yn 2012",
+        "cy": "Datganiad y Wasg am Arddangosfa \u2018Mynyddoedd a Llynnoedd\u2019 yn s\u00f4n  am Ferched y Wawr Cangen Y Bannau yn creu paneli i\u2019w harddangos yn wreiddiol ar stondin Merched y Wawr yn y Sioe Frenhinol yn Llanelwedd yn 2012"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bannau",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Bannau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-093.jpg",
+            "type": "image",
+            "target_id": "601545"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-092.jpg",
+            "type": "image",
+            "target_id": "601546"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-089.jpg",
+            "type": "image",
+            "target_id": "601547"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-088.jpg",
+            "type": "image",
+            "target_id": "601548"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-087.jpg",
+            "type": "image",
+            "target_id": "601549"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-086.jpg",
+            "type": "image",
+            "target_id": "601550"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-085.jpg",
+            "type": "image",
+            "target_id": "601551"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-084.jpg",
+            "type": "image",
+            "target_id": "601552"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-083.jpg",
+            "type": "image",
+            "target_id": "601553"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-082.jpg",
+            "type": "image",
+            "target_id": "601554"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

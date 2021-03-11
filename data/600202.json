@@ -1,0 +1,82 @@
+{
+    "id": 600202,
+    "title": {
+        "en": "Merched y Wawr Abergorlech Branch Celebrate 18 Years ",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Dathlu\u2019r Deunaw"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600202",
+    "created": 1502447416,
+    "updated": 1502447416,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Abergorlech yn Dathlu\u2019r Deunaw yn y Llew Du, Abergorlech. Y wraig wadd oedd Margarette Hughes, y Llywydd Cenedlaethol ar y pryd (1988 \u2013 1990) a fu\u2019n siarad am \u2018Hawliau Merched\u2019 cyn gofalu am gystadleuaeth lenyddiaeth a enillwyd gan Fanw Phillips a Mrs Beynon Phillips.  \nYn eistedd \u2013 Enid Jones, Margarette Huhes, Fanw Phillips\nYn sefyll \u2013 Beti Phillips, Beti Davies, Aerwen Davies, Luned Williams, Elizabeth Griffiths",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Dathlu\u2019r Deunaw yn y Llew Du, Abergorlech. Y wraig wadd oedd Margarette Hughes, y Llywydd Cenedlaethol ar y pryd (1988 \u2013 1990) a fu\u2019n siarad am \u2018Hawliau Merched\u2019 cyn gofalu am gystadleuaeth lenyddiaeth a enillwyd gan Fanw Phillips a Mrs Beynon Phillips.  \nYn eistedd \u2013 Enid Jones, Margarette Huhes, Fanw Phillips\nYn sefyll \u2013 Beti Phillips, Beti Davies, Aerwen Davies, Luned Williams, Elizabeth Griffiths"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.983065000000",
+            "lon": "-4.061776000000",
+            "description": {
+                "en": "Llew Du, Abergorlech",
+                "cy": "Llew Du, Abergorlech"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117010.jpg",
+            "type": "image",
+            "target_id": "600200"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

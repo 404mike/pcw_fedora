@@ -1,0 +1,75 @@
+{
+    "id": 750276,
+    "title": {
+        "en": "Yr Elyrch Gwawr Club have a make-over evening",
+        "cy": "Noson Trawsnewid Clwb Gwawr yr Elyrch"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750276",
+    "created": 1516899391,
+    "updated": 1516899391,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "NOSON TRAWSNEWIDIAD YNG NGHWMNI HUW FFASH A HAZEL THOMAS AR GYFER AELODAU CLWB GWAWR YR ELYRCH, 2011. o\u2019r Wawr 171 , 2011.  Yn y llun mae Amanda Skull, Trefnydd y Clwb, yw'r 7fed o\u2019r chwith; Delyth Williams ail o\u2019r chwith.  Bu'r Clwb ar agor am tua 5 mlynedd ac yn llewyrchus tra'r oedd Amanda Skull wrth y llyw.",
+        "cy": "NOSON TRAWSNEWIDIAD YNG NGHWMNI HUW FFASH A HAZEL THOMAS AR GYFER AELODAU CLWB GWAWR YR ELYRCH, 2011. o\u2019r Wawr 171 , 2011.  Yn y llun mae Amanda Skull, Trefnydd y Clwb, yw'r 7fed o\u2019r chwith; Delyth Williams ail o\u2019r chwith.  Bu'r Clwb ar agor am tua 5 mlynedd ac yn llewyrchus tra'r oedd Amanda Skull wrth y llyw."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr yr Elrych",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr yr Elyrch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Clwb%20Gwawr%20yr%20Elyrch%20Huw%20Ffash%20Y%20Wawr%20171%202011%20001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Clwb%2520Gwawr%2520yr%2520Elyrch%2520Huw%2520Ffash%2520Y%2520Wawr%2520171%25202011%2520001.jpg",
+            "type": "image",
+            "target_id": "750271"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

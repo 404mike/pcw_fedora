@@ -1,0 +1,84 @@
+{
+    "id": 601662,
+    "title": {
+        "en": " Llygaid y Dydd Gwawr Club Programme 2015-2016",
+        "cy": " Rhaglen Clwb Gwawr Llygaid y Dydd 2015-2016"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601662",
+    "created": 1502449682,
+    "updated": 1502449682,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Clwb Gwawr Llygaid y Dydd 2015-2016",
+        "cy": "Rhaglen Clwb Gwawr Llygaid y Dydd 2015-2016"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Clwb Gwawr Llygaid y Dydd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Clwb Gwawr Llygaid y Dydd",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.481494000000",
+            "lon": "-3.179042000000",
+            "description": {
+                "en": "Caerdydd",
+                "cy": "Caerdydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-066.jpg",
+            "type": "image",
+            "target_id": "601660"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

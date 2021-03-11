@@ -1,0 +1,75 @@
+{
+    "id": 610846,
+    "title": {
+        "en": "Merched y Wawr Llandeilo Branch, Half Hour of Entertainment 1997",
+        "cy": "Merched y Wawr Cangen Llandeilo, Hanner awr o Adloniant yn 1997  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610846",
+    "created": 1510753308,
+    "updated": 1510753308,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llandeilo, Hanner awr o Adloniant yn 1997\nRhes 1 \u2013 Mary Roberts, Joan Jones, Gweneira Davies, Avril Barry\nRhes 2 \u2013 Eluned Jones, Rhiannon Griffiths, Enid Jones, Bethan Edwards, Doreen Jenkins, Nancy Thomas",
+        "cy": "Merched y Wawr Cangen Llandeilo, Hanner awr o Adloniant yn 1997\nRhes 1 \u2013 Mary Roberts, Joan Jones, Gweneira Davies, Avril Barry\nRhes 2 \u2013 Eluned Jones, Rhiannon Griffiths, Enid Jones, Bethan Edwards, Doreen Jenkins, Nancy Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandeilo",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandeilo",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-050.jpg",
+            "type": "image",
+            "target_id": "610841"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

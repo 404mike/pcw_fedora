@@ -1,0 +1,86 @@
+{
+    "id": 621346,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Old Colwyn, Colwyn.",
+        "cy": "Penblwydd cangen Merched y Wawr Hen Golwyn, Rhanbarth Colwyn ar ei 25ain ym 1995 ."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/621346",
+    "created": 1511278760,
+    "updated": 1511278760,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Marian Lewis, (Llywydd y Gangen) gyda Rhianwen Huws Roberts (Llywydd Cenedlaethol) ar achlysur y gangen yn dathlu ei 25ain yn 1995 (sefydlwyd yn 1970).",
+        "cy": "Marian Lewis, (Llywydd y Gangen) gyda Rhianwen Huws Roberts (Llywydd Cenedlaethol) ar achlysur y gangen yn dathlu ei 25ain yn 1995 (sefydlwyd yn 1970)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Hen Golwyn",
+    "owner": "Cangen Hen Golwyn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Old Colwyn",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Colwyn",
+        "Cangen Hen Golwyn",
+        "Dathlu 25"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.289141000000",
+            "lon": "-3.698205000000",
+            "description": {
+                "en": "Old Colwyn",
+                "cy": "Hen Golwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_HEN_GOLWYN_006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_HEN_GOLWYN_006.jpg",
+            "type": "image",
+            "target_id": "621336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

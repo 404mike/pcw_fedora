@@ -1,0 +1,75 @@
+{
+    "id": 746831,
+    "title": {
+        "en": "Merched y Wawr members enjoy the entertainment at the Twenty-Fifth Anniversary Celebrations",
+        "cy": "Merched y Wawr yn mwynhau adloniant dathliadau y Chwarter Canrif.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746831",
+    "created": 1516897457,
+    "updated": 1516897457,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Llun gan Amanda Williams, Cangen Llannon, yn dangos rhai o aelodau Merched y Wawr yn mwynhau adloniant yn y Parc, Y Bala, 1992, yn ystod y dathliadau Chwarter Canrif.",
+        "cy": "Llun gan Amanda Williams, Cangen Llannon, yn dangos rhai o aelodau Merched y Wawr yn mwynhau adloniant yn y Parc, Y Bala, 1992, yn ystod y dathliadau Chwarter Canrif."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llannon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Llannon"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-229.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-229.jpg",
+            "type": "image",
+            "target_id": "746826"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

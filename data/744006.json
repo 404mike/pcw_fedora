@@ -1,0 +1,73 @@
+{
+    "id": 744006,
+    "title": {
+        "en": "Merched y Wawr Bro Ilar Branch planting trees",
+        "cy": "Merched y Wawr Cangen Bro Ilar yn plannu coed"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744006",
+    "created": 1516896105,
+    "updated": 1516896105,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Bro Ilar yn plannu coed ger \u2018Llyn y Mileniwm\u2019 yn Llanilar gyda help Cadeirydd Pwyllgor y Mileniwm, Hugh Tudor.\nSian Lewis, Jane Edwards, Enfys Rennie, Ada Evans, Hugh Tudor, Olivia Lewis, Ruth Morris, Lilwen Evans. Jean Jones",
+        "cy": "Merched y Wawr Bro Ilar yn plannu coed ger \u2018Llyn y Mileniwm\u2019 yn Llanilar gyda help Cadeirydd Pwyllgor y Mileniwm, Hugh Tudor.\nSian Lewis, Jane Edwards, Enfys Rennie, Ada Evans, Hugh Tudor, Olivia Lewis, Ruth Morris, Lilwen Evans. Jean Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bro Ilar",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bro Ilar"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-101.jpg",
+            "type": "image",
+            "target_id": "744001"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

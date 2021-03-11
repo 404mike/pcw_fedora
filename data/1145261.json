@@ -1,0 +1,71 @@
+{
+    "id": 1145261,
+    "title": {
+        "en": "Annual Meeting 2015",
+        "cy": "Cyfarfod Blynyddol  a G\u0175yl Haf 2015"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1145261",
+    "created": 1562062775,
+    "updated": 1562062775,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Craft Competition \u2013  Heart\/Hearts: 1st Eleri Jones, Llanelwy Branch, Colwyn.",
+        "cy": "Cystadleuaeth Crefft \u2013 Calon\/Calonnau:  Iaf Eleri Jones, Cangen Llanelwy, Conwy."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "annual meeting",
+        "2015",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_663.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_663.jpg",
+            "type": "image",
+            "target_id": "1145251"
+        },
+        {
+            "originalFilename": "df_myw_664.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_664.jpg",
+            "type": "image",
+            "target_id": "1145256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

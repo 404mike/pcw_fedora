@@ -1,0 +1,87 @@
+{
+    "id": 625806,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "Cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n. Neuadd Goffa, Rhagfyr, 2015. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625806",
+    "created": 1511280278,
+    "updated": 1511280278,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau gangen Bodwrog yn canu yn y noson carolau flynyddol ardal Bodwrog yn y Neuadd Goffa Rhagfyr, 2015. Yma ceir: Cadi, Mair, Liz B, Margaret, Gladys, Megan, Carys, Ann Parry, Irene, Doris, Lis R, Mary, Ann Roberts, Catherine.",
+        "cy": "Aelodau gangen Bodwrog yn canu yn y noson carolau flynyddol ardal Bodwrog yn y Neuadd Goffa Rhagfyr, 2015. Yma ceir: Cadi, Mair, Liz B, Margaret, Gladys, Megan, Carys, Ann Parry, Irene, Doris, Lis R, Mary, Ann Roberts, Catherine."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_022.jpg",
+            "type": "image",
+            "target_id": "625796"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 1047816,
+    "title": {
+        "en": "Flint and District National Eisteddfod 2007",
+        "cy": "Eisteddfod Genedlaethol Fflint a&#039;r Cyffuniau 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047816",
+    "created": 1555591123,
+    "updated": 1555591123,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Performance of the 40th Anniversary National Pageant.",
+        "cy": "Perfformiad o ddetholiad o basiant Cenedlaethol Dathlu'r 40ain."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Eisteddfod Genedlaethol",
+        "fflint",
+        "dathlur deugain"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_176.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_176.jpg",
+            "type": "image",
+            "target_id": "1047796"
+        },
+        {
+            "originalFilename": "df_myw_177.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_177.jpg",
+            "type": "image",
+            "target_id": "1047801"
+        },
+        {
+            "originalFilename": "df_myw_178.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_178.jpg",
+            "type": "image",
+            "target_id": "1047806"
+        },
+        {
+            "originalFilename": "df_myw_179.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_179.jpg",
+            "type": "image",
+            "target_id": "1047811"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

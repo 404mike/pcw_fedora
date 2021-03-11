@@ -1,0 +1,81 @@
+{
+    "id": 744986,
+    "title": {
+        "en": "Merched y Wawr Felinfach Branch Trip to Gwydir Castle",
+        "cy": "Trip Merched y Wawr Felinfach a\u2019r Cylch i Gastell Gwydir. "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744986",
+    "created": 1516896605,
+    "updated": 1516896605,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Bu Cangen Felinfach yn llwyddiannus yn derbyn grant Loteri \u2018Arian i Bawb\u2019 a penderfynwyd archebu bws i fwynd ar daith ac ar \u00f4l trafodaeth (ac erthygl yn Y Wawr), penderfynwyd ymweld \u00e2 Chastell Gwydir, Llanrwst.\nYn y llun :-\nDaphne Evans, Jean Jones, Christine Charlton, Enid Evans, Cassie Wood, Glenys Jenkins, Delyth Davies, Denise Hicks, Christina Miles, Beryl Morgans, Margaret Morgan, Doreen Lewis, Margaret Evans, Megan Richards, Alwenna Williams, Betty Davies",
+        "cy": "Bu Cangen Felinfach yn llwyddiannus yn derbyn grant Loteri \u2018Arian i Bawb\u2019 a penderfynwyd archebu bws i fwynd ar daith ac ar \u00f4l trafodaeth (ac erthygl yn Y Wawr), penderfynwyd ymweld \u00e2 Chastell Gwydir, Llanrwst.\nYn y llun :-\nDaphne Evans, Jean Jones, Christine Charlton, Enid Evans, Cassie Wood, Glenys Jenkins, Delyth Davies, Denise Hicks, Christina Miles, Beryl Morgans, Margaret Morgan, Doreen Lewis, Margaret Evans, Megan Richards, Alwenna Williams, Betty Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Felinfach a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Felinfach ar Cylch"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.132838000000",
+            "lon": "-3.801086000000",
+            "description": {
+                "en": "Castell Gwydir, Llanrwst ",
+                "cy": "Castell Gwydir, Llanrwst "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-126.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-126.jpg",
+            "type": "image",
+            "target_id": "744976"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

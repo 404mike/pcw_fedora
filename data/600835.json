@@ -1,0 +1,84 @@
+{
+    "id": 600835,
+    "title": {
+        "en": "Merched y Wawr Ammanford Branch Annual Service 1999",
+        "cy": "Gwasanaeth Blynyddol Merched y Wawr Cangen Rhydaman a&#039;r Cylch 1999"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600835",
+    "created": 1502448309,
+    "updated": 1502448309,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwasanaeth Blynyddol Cangen Rhydaman Merched y Wawr, 1999, yng Nghellimanwydd, Rhydaman.   Yn y llun mae Gloria Lloyd, ?? Williams, Eiry Davies, Edwina Leach, Enid Davies, Bethan Thomas, Marian Morgan.",
+        "cy": "Gwasanaeth Blynyddol Cangen Rhydaman Merched y Wawr, 1999, yng Nghellimanwydd, Rhydaman.   Yn y llun mae Gloria Lloyd, ?? Williams, Eiry Davies, Edwina Leach, Enid Davies, Bethan Thomas, Marian Morgan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Rhydaman a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Rhydaman ar Cylch",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.792371000000",
+            "lon": "-3.989308000000",
+            "description": {
+                "en": "Neuadd Gellimanwydd Rhydaman",
+                "cy": "Neuadd Gellimanwydd Rhydaman"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-164.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDINB-280117-164.jpg",
+            "type": "image",
+            "target_id": "600833"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

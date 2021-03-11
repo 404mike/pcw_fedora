@@ -1,0 +1,75 @@
+{
+    "id": 609626,
+    "title": {
+        "en": "Merched y Wawr Bro Cennech at the National Eisteddfod in 2014",
+        "cy": "Merched y Wawr Cangen Bro Cennech a Gwisgoedd yr Orsedd, Eisteddfod 2014 \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609626",
+    "created": 1510753023,
+    "updated": 1510753023,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Bro Cennech yn smwddio Gwisgoedd yr Orsedd \u2013 Eisteddfod Genedlaethol, Sir Gar 2014\nAnn Jones, Joy Bird, Delyth Anderson, Liz Griffiths, Patricia Jones",
+        "cy": "Merched y Wawr Cangen Bro Cennech yn smwddio Gwisgoedd yr Orsedd \u2013 Eisteddfod Genedlaethol, Sir Gar 2014\nAnn Jones, Joy Bird, Delyth Anderson, Liz Griffiths, Patricia Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Cennech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Cennech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-BROCENNECH-MAI-001.jpg",
+            "type": "image",
+            "target_id": "609621"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

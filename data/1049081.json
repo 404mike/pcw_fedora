@@ -1,0 +1,66 @@
+{
+    "id": 1049081,
+    "title": {
+        "en": "Myw Residential Weekend 2010 \u2013 Lampeter",
+        "cy": "Penwythnos Preswyl MyW 2010 \u2013 Cyfoeth Ceredigion"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049081",
+    "created": 1555591776,
+    "updated": 1555591776,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The Deputy President, Gill Griffiths,  presenting flowers to Sylwen Davies, Honorary President; Mererid Jones, President and Tegwen Morris, Director.",
+        "cy": "Yr Is-Lywydd Gill Griffiths yn cyflwyno blodau i Sylwen Davies, Llywydd Anrhydeddus, Mererid Jones, Llywydd a Tegwen Morris, Cyfarwyddwr."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "residential weekend",
+        "Penwythnos Preswyl",
+        "cyfoeth ceredigion"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_316.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_316.jpg",
+            "type": "image",
+            "target_id": "1049076"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

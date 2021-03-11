@@ -1,0 +1,77 @@
+{
+    "id": 1049161,
+    "title": {
+        "en": "President's Dinner at Aberaeron 2011",
+        "cy": "Cinio&#039;r Llywydd  yng ngwesty&#039;r Plu, Aberaeron 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049161",
+    "created": 1555591807,
+    "updated": 1555591807,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Members enjoying the meal, 26 March 2011.",
+        "cy": "Aelodau yn mwynhau'r cinio,  26 Mawrth 2011."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "cinior llywydd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_323.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_323.jpg",
+            "type": "image",
+            "target_id": "1049146"
+        },
+        {
+            "originalFilename": "df_myw_324.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_324.jpg",
+            "type": "image",
+            "target_id": "1049151"
+        },
+        {
+            "originalFilename": "df_myw_325.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_325.jpg",
+            "type": "image",
+            "target_id": "1049156"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

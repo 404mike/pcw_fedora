@@ -1,0 +1,71 @@
+{
+    "id": 1048751,
+    "title": {
+        "en": "Royal Welsh Show, Builth, 2010",
+        "cy": "Sioe Frenhinol Llanelwedd 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1048751",
+    "created": 1555591637,
+    "updated": 1555591637,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Exhibition on MyW stand \u2013 Depiction of Dic Jones' poem to the harvest ('Cynhaeaf').",
+        "cy": "Arddangosfa'r Stondin. Portreadau o awdl Dic Jones i'r 'Cynhaeaf'."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "Royal Welsh Show",
+        "sioe frenhinol llanelwedd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_278.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_278.jpg",
+            "type": "image",
+            "target_id": "1048741"
+        },
+        {
+            "originalFilename": "df_myw_279.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_279.jpg",
+            "type": "image",
+            "target_id": "1048746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

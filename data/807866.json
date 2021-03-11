@@ -1,0 +1,213 @@
+{
+    "id": 807866,
+    "title": {
+        "en": "Scrapbook of the Aberystwyth Branch",
+        "cy": "Llyfr lloffion Cangen Aberystwyth"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/807866",
+    "created": 1523358808,
+    "updated": 1523358808,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Aberystwyth",
+    "owner": "Cangen Aberystwyth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Aberystwyth",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Aberystwyth00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00001.jpg",
+            "type": "image",
+            "target_id": "807746"
+        },
+        {
+            "originalFilename": "Aberystwyth00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00002.jpg",
+            "type": "image",
+            "target_id": "807751"
+        },
+        {
+            "originalFilename": "Aberystwyth00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00003.jpg",
+            "type": "image",
+            "target_id": "807756"
+        },
+        {
+            "originalFilename": "Aberystwyth00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00004.jpg",
+            "type": "image",
+            "target_id": "807761"
+        },
+        {
+            "originalFilename": "Aberystwyth00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00005.jpg",
+            "type": "image",
+            "target_id": "807766"
+        },
+        {
+            "originalFilename": "Aberystwyth00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00006.jpg",
+            "type": "image",
+            "target_id": "807771"
+        },
+        {
+            "originalFilename": "Aberystwyth00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00007.jpg",
+            "type": "image",
+            "target_id": "807776"
+        },
+        {
+            "originalFilename": "Aberystwyth00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00009.jpg",
+            "type": "image",
+            "target_id": "807781"
+        },
+        {
+            "originalFilename": "Aberystwyth00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00010.jpg",
+            "type": "image",
+            "target_id": "807786"
+        },
+        {
+            "originalFilename": "Aberystwyth00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00011.jpg",
+            "type": "image",
+            "target_id": "807791"
+        },
+        {
+            "originalFilename": "Aberystwyth00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00012.jpg",
+            "type": "image",
+            "target_id": "807796"
+        },
+        {
+            "originalFilename": "Aberystwyth00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00013.jpg",
+            "type": "image",
+            "target_id": "807801"
+        },
+        {
+            "originalFilename": "Aberystwyth00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00014.jpg",
+            "type": "image",
+            "target_id": "807806"
+        },
+        {
+            "originalFilename": "Aberystwyth00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00015.jpg",
+            "type": "image",
+            "target_id": "807811"
+        },
+        {
+            "originalFilename": "Aberystwyth00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00016.jpg",
+            "type": "image",
+            "target_id": "807816"
+        },
+        {
+            "originalFilename": "Aberystwyth00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00017.jpg",
+            "type": "image",
+            "target_id": "807821"
+        },
+        {
+            "originalFilename": "Aberystwyth00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00018.jpg",
+            "type": "image",
+            "target_id": "807826"
+        },
+        {
+            "originalFilename": "Aberystwyth00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00019.jpg",
+            "type": "image",
+            "target_id": "807831"
+        },
+        {
+            "originalFilename": "Aberystwyth00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00020.jpg",
+            "type": "image",
+            "target_id": "807836"
+        },
+        {
+            "originalFilename": "Aberystwyth00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00021.jpg",
+            "type": "image",
+            "target_id": "807841"
+        },
+        {
+            "originalFilename": "Aberystwyth00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00022.jpg",
+            "type": "image",
+            "target_id": "807846"
+        },
+        {
+            "originalFilename": "Aberystwyth00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00023.jpg",
+            "type": "image",
+            "target_id": "807851"
+        },
+        {
+            "originalFilename": "Aberystwyth00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00024.jpg",
+            "type": "image",
+            "target_id": "807856"
+        },
+        {
+            "originalFilename": "Aberystwyth00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Aberystwyth00025.jpg",
+            "type": "image",
+            "target_id": "807861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

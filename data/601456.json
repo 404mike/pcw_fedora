@@ -1,0 +1,81 @@
+{
+    "id": 601456,
+    "title": {
+        "en": "Limerick to celebrate Merched y Wawr's Quarter Century",
+        "cy": "Limerig i ddathlu Chwarter Canrif Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601456",
+    "created": 1502449399,
+    "updated": 1502449399,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Limerigau gan Nia Williams, Rhanbarth De a Chanol Morgannwg a Gwent (Cangen Y Bontfaen), a ddaeth yn ail yn genedlaethol i ddathlu penblwydd Merched y Wawr yn 25 oed yn 1992",
+        "cy": "Limerigau gan Nia Williams, Rhanbarth De a Chanol Morgannwg a Gwent (Cangen Y Bontfaen), a ddaeth yn ail yn genedlaethol i ddathlu penblwydd Merched y Wawr yn 25 oed yn 1992"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-060117-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-060117-001.jpg",
+            "type": "image",
+            "target_id": "601454"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-060117-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-060117-002.jpg",
+            "type": "image",
+            "target_id": "601455"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

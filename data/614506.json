@@ -1,0 +1,84 @@
+{
+    "id": 614506,
+    "title": {
+        "en": "Merched y Wawr Llandysul Branch Celebrates its 30th Anniversary",
+        "cy": "Merched y Wawr Llandysul a&#039;r Cylch yn Dathlu Penblwydd yn 30"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614506",
+    "created": 1510755019,
+    "updated": 1510755019,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu\u2019r 30ain yn Y Porth, Llandysul yn 2002.\nYn y llun mae Val Davies (Llywydd y Gangen), Sheila Freeman (Ysgrifenyddes y Gangen), Gwyneth Morus Jones (Llywydd Cenedlaethol Merched y Wawr 2002-2004)",
+        "cy": "Merched y Wawr Cangen Llandysul a\u2019r Cylch yn Dathlu\u2019r 30ain yn Y Porth, Llandysul yn 2002.\nYn y llun mae Val Davies (Llywydd y Gangen), Sheila Freeman (Ysgrifenyddes y Gangen), Gwyneth Morus Jones (Llywydd Cenedlaethol Merched y Wawr 2002-2004)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llandysul a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llandysul ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.042437000000",
+            "lon": "-4.307179000000",
+            "description": {
+                "en": "Gwesty'r Porth, Llandysul",
+                "cy": "Gwesty'r Porth, Llandysul"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-161.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-161.jpg",
+            "type": "image",
+            "target_id": "614496"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

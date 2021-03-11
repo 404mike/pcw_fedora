@@ -1,0 +1,85 @@
+{
+    "id": 599869,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Mochdre, Aberconwy",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Mochdre, Rhanbarth Aberconwy"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/599869",
+    "created": 1502446992,
+    "updated": 1502446992,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Valmai Cooksley aelod o gangen Mochre \u00e2 darlun wedi peintio ganddi o Abaty Glyn y Groes Llangollen. Cafodd Valmai 1af yng nghystadleuaeth paentio Rhanbarth Aberconwy yn 2015 am y darlun hwn.",
+        "cy": "Valmai Cooksley aelod o gangen Mochre \u00e2 darlun wedi peintio ganddi o Abaty Glyn y Groes Llangollen. Cafodd Valmai 1af yng nghystadleuaeth paentio Rhanbarth Aberconwy yn 2015 am y darlun hwn."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Mochdre",
+    "owner": "Cangen Mochdre",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Mochdre Aberconwy",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Mochdre",
+        "Rhanbarth Aberconwy",
+        "Aberconwy"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.293500000000",
+            "lon": "-3.761069000000",
+            "description": {
+                "en": "Mochdre",
+                "cy": "Mochdre"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_ABERCONWY_MOCHDRE_012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW_GOG_ABERCONWY_MOCHDRE_012.jpg",
+            "type": "image",
+            "target_id": "599867"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

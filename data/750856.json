@@ -1,0 +1,91 @@
+{
+    "id": 750856,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Maesywaun, Meirionnydd",
+        "cy": "Casgliad o luniau o gangen Merched y Wawr Maesywaen, Meirionnydd."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750856",
+    "created": 1516899705,
+    "updated": 1516899705,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Y gangen yn dathlu ei phenblwydd yn 25, yn 2001. Gwelen: Beti Richards, Mair Richards, Marueen Jones, Elizabeth Evans, Medwen Charles, Gwawr Skinner, Dilys Evans, Mesta Jones, Bronwen Dempsey, Ann Skinner, Marged Jones, Rowean Evans, Kay Rowlands, Angharad Pritchards, Glenda Jones, Elinir Jones, Tegwen Morrus, Gwyneth Morris Jones, Deilwen Evans, Sylwen Lloyd Davies, Llywela Pritchard, Lana Puw, Margaret Jones,",
+        "cy": "Y gangen yn dathlu ei phenblwydd yn 25, yn 2001. Gwelen: Beti Richards, Mair Richards, Marueen Jones, Elizabeth Evans, Medwen Charles, Gwawr Skinner, Dilys Evans, Mesta Jones, Bronwen Dempsey, Ann Skinner, Marged Jones, Rowean Evans, Kay Rowlands, Angharad Pritchards, Glenda Jones, Elinir Jones, Tegwen Morrus, Gwyneth Morris Jones, Deilwen Evans, Sylwen Lloyd Davies, Llywela Pritchard, Lana Puw, Margaret Jones,"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Maesywaen",
+    "owner": "Cangen Maesywaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Maesywaen",
+        "Meirionnydd",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maesywaen",
+        "Rhanbarth Meirionnydd",
+        "Cofnodion Mercher y Wawr",
+        "Dathlu 25"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.038999000000",
+            "lon": "-3.809175000000",
+            "description": {
+                "en": "Maesywaen",
+                "cy": "Maesywaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAESYWAEUN_002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAESYWAEUN_002.jpg",
+            "type": "image",
+            "target_id": "750841"
+        },
+        {
+            "originalFilename": "MYW_GOG_MEIRIONNYDD_MAESYWAEUN_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW_GOG_MEIRIONNYDD_MAESYWAEUN_003.jpg",
+            "type": "image",
+            "target_id": "750846"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

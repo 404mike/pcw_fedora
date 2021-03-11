@@ -1,0 +1,93 @@
+{
+    "id": 625706,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Bodwrog Anglesey.",
+        "cy": "Eisteddfod Genedlaethol Llangefni 1983. Cangen Merched y Wawr Bodwrog, Rhanbarth M\u00f4n."
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625706",
+    "created": 1511280245,
+    "updated": 1511280245,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Copi o\u2019r geiriau a perffomwyd gan aelodau cangen Bodwrog fel rhan o gyflwyniad \u2018Merched M\u00f4n\u2019 yn Eisteddfod Genedlaethol Llangefni 1983 yn Theatr Bach y Maes.",
+        "cy": "Copi o\u2019r geiriau a perffomwyd gan aelodau cangen Bodwrog fel rhan o gyflwyniad \u2018Merched M\u00f4n\u2019 yn Eisteddfod Genedlaethol Llangefni 1983 yn Theatr Bach y Maes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bodwrog",
+    "owner": "Cangen Bodwrog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Bodwrog",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bodwrog",
+        "Rhanbarth Mon",
+        "Mon",
+        "Drama Mon"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.271473000000",
+            "lon": "-4.400044000000",
+            "description": {
+                "en": "Bodwrog",
+                "cy": "Bodwrog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_008.jpg",
+            "type": "image",
+            "target_id": "625691"
+        },
+        {
+            "originalFilename": "MYW_GOG_MON_BODWROG_009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_BODWROG_009.jpg",
+            "type": "image",
+            "target_id": "625696"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

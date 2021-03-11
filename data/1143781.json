@@ -1,0 +1,68 @@
+{
+    "id": 1143781,
+    "title": {
+        "en": "MyW Trip to Pembrokeshire  2013",
+        "cy": "Taith MyW i Sir Benfro 2013"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1143781",
+    "created": 1562061144,
+    "updated": 1562061144,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rememberance Stone to the Welsh bard Waldo Williams, Mynachlog Ddu.",
+        "cy": "Carreg Goffa'r bardd Waldo Williams, Mynachlog Ddu."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "myw trip",
+        "Pembrokeshire",
+        "Waldo Williams",
+        "mynachlog ddu",
+        "taith myw",
+        "Sir Benfro",
+        "merched beca"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_496.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_496.jpg",
+            "type": "image",
+            "target_id": "1143776"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

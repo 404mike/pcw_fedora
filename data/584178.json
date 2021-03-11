@@ -1,0 +1,74 @@
+{
+    "id": 584178,
+    "title": {
+        "en": "A poem for Merched y Wawr South-East Region, by Dafydd Islwyn ",
+        "cy": "Cerdd i Ferched y Wawr, Rhanbarth y De-Ddwyrain gan Dafydd Islwyn "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584178",
+    "created": 1499870510,
+    "updated": 1499870510,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "cy": "Eisteddfod yr Urdd Caerffili 2015, cerdd i Ranbarth y De-Ddwyrain o Ferched y Wawr gan Dafydd Islwyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Dafydd Islwyn",
+    "owner": "Rhanbarth y De-Ddwyrain",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-261116-084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-DEDDWYRAIN-261116-084.jpg",
+            "type": "image",
+            "target_id": "584177"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

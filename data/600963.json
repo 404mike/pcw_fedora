@@ -1,0 +1,88 @@
+{
+    "id": 600963,
+    "title": {
+        "en": "Llanddarog Branch's Certificate in the 2010-11 'Best Programme' Merched y Wawr Competition",
+        "cy": "Tystysgrif Cangen Llanddarog yng Nghystadleuaeth Rhaglen Orau 2010-11 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/600963",
+    "created": 1502448481,
+    "updated": 1502448481,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tystysgrif 3ydd Safle Cystadleuaeth Rhaglen Orau 2010-11 i Ferched y Wawr Cangen Llanddarog",
+        "cy": "Tystysgrif 3ydd Safle Cystadleuaeth Rhaglen Orau 2010-11 i Ferched y Wawr Cangen Llanddarog"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llanddarog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanddarog",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_150.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_150.jpg",
+            "type": "image",
+            "target_id": "600960"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_151.jpg",
+            "type": "image",
+            "target_id": "600961"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_152.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CAERFYRDDIN-A-280117_152.jpg",
+            "type": "image",
+            "target_id": "600962"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,75 @@
+{
+    "id": 746121,
+    "title": {
+        "en": "Merched y Wawr Lampeter Branch take part in the Race for Life",
+        "cy": "Aelodau Merched y Wawr Llanbedr Pont Steffan yn cymryd rhan yn y &#039;Ras am Fywyd&#039;"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746121",
+    "created": 1516897133,
+    "updated": 1516897133,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "\u2018Ras am fywyd\u2019 dros ymchwil Cancr y Fron yn Aberystwyth gan godi cyfanswm o \u00a31207. O\u2019r chwith i\u2019r dde: Gwen Jones, Verina Roberts, Eryl Jones, Mary Davies, Ann Lewis, Elma Phillips, Llinos Harries",
+        "cy": "\u2018Ras am fywyd\u2019 dros ymchwil Cancr y Fron yn Aberystwyth gan godi cyfanswm o \u00a31207. O\u2019r chwith i\u2019r dde: Gwen Jones, Verina Roberts, Eryl Jones, Mary Davies, Ann Lewis, Elma Phillips, Llinos Harries"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanbedr Pont Steffan a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanbedr Pont Steffan ar Cylch",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Ffotograff%20MYW%20Llambed%2023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Ffotograff%2520MYW%2520Llambed%252023.jpg",
+            "type": "image",
+            "target_id": "746116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

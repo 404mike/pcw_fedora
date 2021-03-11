@@ -1,0 +1,67 @@
+{
+    "id": 1047596,
+    "title": {
+        "en": "Annual Meeting 2007",
+        "cy": "Cyfarfod Blynyddol a G\u0175yl Haf 2007"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047596",
+    "created": 1555590988,
+    "updated": 1555590988,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Pwllheli branch winning the competition for best Scrap Book.",
+        "cy": "Cangen Pwllheli yn ennill y gystadleuaeth am y Llyfr Lloffion Dathlu'r Deugain gorau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "annual meeting",
+        "cyfarfod blynyddol",
+        "g\u0175yl haf",
+        "llyfr lloffion dathlur deugain"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_151.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_151.jpg",
+            "type": "image",
+            "target_id": "1047591"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

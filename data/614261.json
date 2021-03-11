@@ -1,0 +1,84 @@
+{
+    "id": 614261,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi Branch Dinner",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn mwynhau Cinio \n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614261",
+    "created": 1510754961,
+    "updated": 1510754961,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Cylch Teifi yn mwynhau Cinio yng Nghastell Malgwyn, Llechryd ym 1991 (y flwyddyn bu\u2019r gangen yn dathlu 20 mlynedd).  \nYn y llun mae Gaynor Davies, Pat Griffiths, Joan Davies, Nan Jones, Meinir Jerman, Marged Griffiths, Marian Jenkins, Mair Penri-Jones (Llywydd Cenedlaethol y Mudiad), Phylis Terry Thomas, Sandra Tegryn Davies",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn mwynhau Cinio yng Nghastell Malgwyn, Llechryd ym 1991 (y flwyddyn bu\u2019r gangen yn dathlu 20 mlynedd).  \nYn y llun mae Gaynor Davies, Pat Griffiths, Joan Davies, Nan Jones, Meinir Jerman, Marged Griffiths, Marian Jenkins, Mair Penri-Jones (Llywydd Cenedlaethol y Mudiad), Phylis Terry Thomas, Sandra Tegryn Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.061361000000",
+            "lon": "-4.607435000000",
+            "description": {
+                "en": "Castell Malgwyn, Llechryd ",
+                "cy": "Castell Malgwyn, Llechryd "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-130.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CEREDIGION-100217-130.jpg",
+            "type": "image",
+            "target_id": "614251"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

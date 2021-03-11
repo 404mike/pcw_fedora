@@ -1,0 +1,75 @@
+{
+    "id": 608866,
+    "title": {
+        "en": "Merched y Wawr Abergorlech Branch at the United Counties Show 1991",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Sioe y Siroedd Unedig "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/608866",
+    "created": 1510752840,
+    "updated": 1510752840,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Abergorlech yn Sioe y Siroedd Unedig yng Nghaerfyrddin 1991",
+        "cy": "Merched y Wawr Cangen Abergorlech yn Sioe y Siroedd Unedig yng Nghaerfyrddin 1991"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Abergorlech",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Abergorlech",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117007b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117007b.jpg",
+            "type": "image",
+            "target_id": "608861"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,82 @@
+{
+    "id": 609216,
+    "title": {
+        "en": "Merched y Wawr Bro Elfed Branch Dance Party",
+        "cy": "Parti dawns Merched y Wawr Cangen Bro Elfed "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/609216",
+    "created": 1510752929,
+    "updated": 1510752929,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Parti dawns Merched y Wawr Cangen Bro Elfed yn ennill yr ail wobr yn Eisteddfod Merched y Wawr Pontyberem yn dawnsio Dawns Llanofer",
+        "cy": "Parti dawns Merched y Wawr Cangen Bro Elfed yn ennill yr ail wobr yn Eisteddfod Merched y Wawr Pontyberem yn dawnsio Dawns Llanofer"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Bro Elfed",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Bro Elfed",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.777778000000",
+            "lon": "-4.172242000000",
+            "description": {
+                "en": "Pontyberem",
+                "cy": "Pontyberem"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117017.jpg",
+            "type": "image",
+            "target_id": "609206"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

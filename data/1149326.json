@@ -1,0 +1,64 @@
+{
+    "id": 1149326,
+    "title": {
+        "en": "National Sports Day MyW Machynlleth 2009",
+        "cy": "Chwaraeon Cenedlaethol MyW Machynlleth 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1149326",
+    "created": 1562066236,
+    "updated": 1562066236,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Tippit \u2013 1st Henllan, Colwyn",
+        "cy": "Dewis Dau Ddwrn \u2013 1af Henllan, Colwyn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "national sports day",
+        "chwaraeon cenedlaethol",
+        "MYW"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_v2_132.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_v2_132.jpg",
+            "type": "image",
+            "target_id": "1149321"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

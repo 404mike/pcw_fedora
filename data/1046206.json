@@ -1,0 +1,78 @@
+{
+    "id": 1046206,
+    "title": {
+        "en": "Denbigh National Eisteddfod 2001",
+        "cy": "Eisteddfod Genedlaethol Dinbych a&#039;r Cylch 2001"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1046206",
+    "created": 1555590093,
+    "updated": 1555590093,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "3 photographs showing Merched y Wawr stand at the Eisteddfod field, Denbigh National Eisteddfod. First photograph showing Gwennan Emaniwel, Glyn Maelor president, and Llinos Kilfoil.",
+        "cy": "3 llun yn dangos pabell Merched y Wawr ar faes Eisteddfod Genedlaethol Dinbych 2001. Yn llun 1 gwelir Gwennan Emaniwel, Llywydd Glyn Maelor yn sgwrsio gyda Llinos Kilfoil."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr stand",
+        "denbigh national eisteddfod",
+        "2001",
+        "stondin merched y wawr",
+        "eisteddfod genedlaethol dinbych"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_017.jpg",
+            "type": "image",
+            "target_id": "1046191"
+        },
+        {
+            "originalFilename": "df_myw_017-001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_017-001.jpg",
+            "type": "image",
+            "target_id": "1046196"
+        },
+        {
+            "originalFilename": "df_myw_017-002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_017-002.jpg",
+            "type": "image",
+            "target_id": "1046201"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,85 @@
+{
+    "id": 612346,
+    "title": {
+        "en": "Swansea in Flames',fler arrangement by Merched y Wawr St Clears Branch",
+        "cy": "Merched y Wawr Cangen San Cler, Trefniant Blodau \u2018Abertawe\u2019n Fflam\u2019 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612346",
+    "created": 1510753685,
+    "updated": 1510753685,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelod o Ferched y Wawr Cangen San Cler, Lilwen Thomas, gyda\u2019i threfniant \u2018Abertawe\u2019n Fflam\u2019 a oedd yn fuddugol yn Sioe Llanelwedd 2009.  Dyma\u2019r ail waith iddi ennill y gystadleuaeth \u2013 mae wedi ennill 6 gwaith i gyd (hyd yma!).",
+        "cy": "Aelod o Ferched y Wawr Cangen San Cler, Lilwen Thomas, gyda\u2019i threfniant \u2018Abertawe\u2019n Fflam\u2019 a oedd yn fuddugol yn Sioe Llanelwedd 2009.  Dyma\u2019r ail waith iddi ennill y gystadleuaeth \u2013 mae wedi ennill 6 gwaith i gyd (hyd yma!)."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.157462000000",
+            "lon": "-3.407031000000",
+            "description": {
+                "en": "Sioe Llanelwedd",
+                "cy": "Sioe Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-027.jpg",
+            "type": "image",
+            "target_id": "612336"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,95 @@
+{
+    "id": 620101,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Llangwm, Colwyn.",
+        "cy": "Merched y Wawr Llangwm, Rhanbarth Colwyn. Rhaglen tymor 2016 - 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/620101",
+    "created": 1511278341,
+    "updated": 1511278341,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen tymor 2016 - 2017",
+        "cy": "Rhaglen tymor 2016 - 2017 (blaen)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llangwm",
+    "owner": "Cangen Llangwm",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Cangen Merched y Wawr Llangwm",
+                "cy": "Cangen Merched y Wawr Llangwm"
+            },
+            "year": "2017",
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "llangwm",
+        "colwyn",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangwm",
+        "Rhanbarth Colwyn",
+        "Rhaglenni Merched y Wawr"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.984821000000",
+            "lon": "-3.544486000000",
+            "description": {
+                "en": "Llangwm",
+                "cy": "Llangwm"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGWM_003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGWM_003.jpg",
+            "type": "image",
+            "target_id": "620086"
+        },
+        {
+            "originalFilename": "MYW_GOG_COLWYN_LLANGWM_004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_COLWYN_LLANGWM_004.jpg",
+            "type": "image",
+            "target_id": "620091"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

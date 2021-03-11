@@ -1,0 +1,82 @@
+{
+    "id": 611721,
+    "title": {
+        "en": "History of Merched y Wawr Peniel Branch ",
+        "cy": "Hanes dechrau Cangen Peniel o Ferched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611721",
+    "created": 1510753524,
+    "updated": 1510753524,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnod o hanes dechrau Cangen Peniel o Ferched y Wawr gan Menna Lenny a Beti Davies",
+        "cy": "Cofnod o hanes dechrau Cangen Peniel o Ferched y Wawr gan Menna Lenny a Beti Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Peniel",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Peniel",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.894199000000",
+            "lon": "-4.274741000000",
+            "description": {
+                "en": "Peniel",
+                "cy": "Peniel"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-148.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-148.jpg",
+            "type": "image",
+            "target_id": "611711"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

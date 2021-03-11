@@ -1,0 +1,657 @@
+{
+    "id": 815641,
+    "title": {
+        "en": "Scrapbook of the Llansannan Branch",
+        "cy": "Llyfr lloffion Cangen Llansannan"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/815641",
+    "created": 1523360340,
+    "updated": 1523360340,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llansannan",
+    "owner": "Cangen Llansannan",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Llansannan",
+        "Rhanbarth Colwyn"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Llansannan00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00001.jpg",
+            "type": "image",
+            "target_id": "815151"
+        },
+        {
+            "originalFilename": "Llansannan00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00002.jpg",
+            "type": "image",
+            "target_id": "815156"
+        },
+        {
+            "originalFilename": "Llansannan00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00003.jpg",
+            "type": "image",
+            "target_id": "815161"
+        },
+        {
+            "originalFilename": "Llansannan00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00004.jpg",
+            "type": "image",
+            "target_id": "815166"
+        },
+        {
+            "originalFilename": "Llansannan00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00005.jpg",
+            "type": "image",
+            "target_id": "815171"
+        },
+        {
+            "originalFilename": "Llansannan00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00006.jpg",
+            "type": "image",
+            "target_id": "815176"
+        },
+        {
+            "originalFilename": "Llansannan00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00007.jpg",
+            "type": "image",
+            "target_id": "815181"
+        },
+        {
+            "originalFilename": "Llansannan00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00008.jpg",
+            "type": "image",
+            "target_id": "815186"
+        },
+        {
+            "originalFilename": "Llansannan00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00009.jpg",
+            "type": "image",
+            "target_id": "815191"
+        },
+        {
+            "originalFilename": "Llansannan00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00010.jpg",
+            "type": "image",
+            "target_id": "815196"
+        },
+        {
+            "originalFilename": "Llansannan00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00011.jpg",
+            "type": "image",
+            "target_id": "815201"
+        },
+        {
+            "originalFilename": "Llansannan00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00012.jpg",
+            "type": "image",
+            "target_id": "815206"
+        },
+        {
+            "originalFilename": "Llansannan00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00013.jpg",
+            "type": "image",
+            "target_id": "815211"
+        },
+        {
+            "originalFilename": "Llansannan00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00014.jpg",
+            "type": "image",
+            "target_id": "815216"
+        },
+        {
+            "originalFilename": "Llansannan00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00015.jpg",
+            "type": "image",
+            "target_id": "815221"
+        },
+        {
+            "originalFilename": "Llansannan00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00016.jpg",
+            "type": "image",
+            "target_id": "815226"
+        },
+        {
+            "originalFilename": "Llansannan00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00017.jpg",
+            "type": "image",
+            "target_id": "815231"
+        },
+        {
+            "originalFilename": "Llansannan00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00018.jpg",
+            "type": "image",
+            "target_id": "815236"
+        },
+        {
+            "originalFilename": "Llansannan00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00019.jpg",
+            "type": "image",
+            "target_id": "815241"
+        },
+        {
+            "originalFilename": "Llansannan00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00020.jpg",
+            "type": "image",
+            "target_id": "815246"
+        },
+        {
+            "originalFilename": "Llansannan00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00021.jpg",
+            "type": "image",
+            "target_id": "815251"
+        },
+        {
+            "originalFilename": "Llansannan00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00022.jpg",
+            "type": "image",
+            "target_id": "815256"
+        },
+        {
+            "originalFilename": "Llansannan00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00023.jpg",
+            "type": "image",
+            "target_id": "815261"
+        },
+        {
+            "originalFilename": "Llansannan00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00024.jpg",
+            "type": "image",
+            "target_id": "815266"
+        },
+        {
+            "originalFilename": "Llansannan00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00025.jpg",
+            "type": "image",
+            "target_id": "815271"
+        },
+        {
+            "originalFilename": "Llansannan00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00026.jpg",
+            "type": "image",
+            "target_id": "815276"
+        },
+        {
+            "originalFilename": "Llansannan00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00027.jpg",
+            "type": "image",
+            "target_id": "815281"
+        },
+        {
+            "originalFilename": "Llansannan00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00028.jpg",
+            "type": "image",
+            "target_id": "815286"
+        },
+        {
+            "originalFilename": "Llansannan00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00029.jpg",
+            "type": "image",
+            "target_id": "815291"
+        },
+        {
+            "originalFilename": "Llansannan00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00030.jpg",
+            "type": "image",
+            "target_id": "815296"
+        },
+        {
+            "originalFilename": "Llansannan00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00031.jpg",
+            "type": "image",
+            "target_id": "815301"
+        },
+        {
+            "originalFilename": "Llansannan00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00032.jpg",
+            "type": "image",
+            "target_id": "815306"
+        },
+        {
+            "originalFilename": "Llansannan00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00033.jpg",
+            "type": "image",
+            "target_id": "815311"
+        },
+        {
+            "originalFilename": "Llansannan00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00034.jpg",
+            "type": "image",
+            "target_id": "815316"
+        },
+        {
+            "originalFilename": "Llansannan00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00035.jpg",
+            "type": "image",
+            "target_id": "815321"
+        },
+        {
+            "originalFilename": "Llansannan00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00036.jpg",
+            "type": "image",
+            "target_id": "815326"
+        },
+        {
+            "originalFilename": "Llansannan00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00037.jpg",
+            "type": "image",
+            "target_id": "815331"
+        },
+        {
+            "originalFilename": "Llansannan00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00038.jpg",
+            "type": "image",
+            "target_id": "815336"
+        },
+        {
+            "originalFilename": "Llansannan00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00039.jpg",
+            "type": "image",
+            "target_id": "815341"
+        },
+        {
+            "originalFilename": "Llansannan00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00040.jpg",
+            "type": "image",
+            "target_id": "815346"
+        },
+        {
+            "originalFilename": "Llansannan00041.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00041.jpg",
+            "type": "image",
+            "target_id": "815351"
+        },
+        {
+            "originalFilename": "Llansannan00042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00042.jpg",
+            "type": "image",
+            "target_id": "815356"
+        },
+        {
+            "originalFilename": "Llansannan00043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00043.jpg",
+            "type": "image",
+            "target_id": "815361"
+        },
+        {
+            "originalFilename": "Llansannan00044.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00044.jpg",
+            "type": "image",
+            "target_id": "815366"
+        },
+        {
+            "originalFilename": "Llansannan00045.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00045.jpg",
+            "type": "image",
+            "target_id": "815371"
+        },
+        {
+            "originalFilename": "Llansannan00046.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00046.jpg",
+            "type": "image",
+            "target_id": "815376"
+        },
+        {
+            "originalFilename": "Llansannan00047.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00047.jpg",
+            "type": "image",
+            "target_id": "815381"
+        },
+        {
+            "originalFilename": "Llansannan00048.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00048.jpg",
+            "type": "image",
+            "target_id": "815386"
+        },
+        {
+            "originalFilename": "Llansannan00049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00049.jpg",
+            "type": "image",
+            "target_id": "815391"
+        },
+        {
+            "originalFilename": "Llansannan00050.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00050.jpg",
+            "type": "image",
+            "target_id": "815396"
+        },
+        {
+            "originalFilename": "Llansannan00051.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00051.jpg",
+            "type": "image",
+            "target_id": "815401"
+        },
+        {
+            "originalFilename": "Llansannan00052.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00052.jpg",
+            "type": "image",
+            "target_id": "815406"
+        },
+        {
+            "originalFilename": "Llansannan00053.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00053.jpg",
+            "type": "image",
+            "target_id": "815411"
+        },
+        {
+            "originalFilename": "Llansannan00054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00054.jpg",
+            "type": "image",
+            "target_id": "815416"
+        },
+        {
+            "originalFilename": "Llansannan00055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00055.jpg",
+            "type": "image",
+            "target_id": "815421"
+        },
+        {
+            "originalFilename": "Llansannan00056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00056.jpg",
+            "type": "image",
+            "target_id": "815426"
+        },
+        {
+            "originalFilename": "Llansannan00057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00057.jpg",
+            "type": "image",
+            "target_id": "815431"
+        },
+        {
+            "originalFilename": "Llansannan00058.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00058.jpg",
+            "type": "image",
+            "target_id": "815436"
+        },
+        {
+            "originalFilename": "Llansannan00059.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00059.jpg",
+            "type": "image",
+            "target_id": "815441"
+        },
+        {
+            "originalFilename": "Llansannan00060.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00060.jpg",
+            "type": "image",
+            "target_id": "815446"
+        },
+        {
+            "originalFilename": "Llansannan00061.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00061.jpg",
+            "type": "image",
+            "target_id": "815451"
+        },
+        {
+            "originalFilename": "Llansannan00062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00062.jpg",
+            "type": "image",
+            "target_id": "815456"
+        },
+        {
+            "originalFilename": "Llansannan00063.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00063.jpg",
+            "type": "image",
+            "target_id": "815461"
+        },
+        {
+            "originalFilename": "Llansannan00064.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00064.jpg",
+            "type": "image",
+            "target_id": "815466"
+        },
+        {
+            "originalFilename": "Llansannan00065.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00065.jpg",
+            "type": "image",
+            "target_id": "815471"
+        },
+        {
+            "originalFilename": "Llansannan00066.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00066.jpg",
+            "type": "image",
+            "target_id": "815476"
+        },
+        {
+            "originalFilename": "Llansannan00067.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00067.jpg",
+            "type": "image",
+            "target_id": "815481"
+        },
+        {
+            "originalFilename": "Llansannan00068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00068.jpg",
+            "type": "image",
+            "target_id": "815486"
+        },
+        {
+            "originalFilename": "Llansannan00069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00069.jpg",
+            "type": "image",
+            "target_id": "815491"
+        },
+        {
+            "originalFilename": "Llansannan00070.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00070.jpg",
+            "type": "image",
+            "target_id": "815496"
+        },
+        {
+            "originalFilename": "Llansannan00071.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00071.jpg",
+            "type": "image",
+            "target_id": "815501"
+        },
+        {
+            "originalFilename": "Llansannan00072.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00072.jpg",
+            "type": "image",
+            "target_id": "815506"
+        },
+        {
+            "originalFilename": "Llansannan00073.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00073.jpg",
+            "type": "image",
+            "target_id": "815511"
+        },
+        {
+            "originalFilename": "Llansannan00074.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00074.jpg",
+            "type": "image",
+            "target_id": "815516"
+        },
+        {
+            "originalFilename": "Llansannan00075.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00075.jpg",
+            "type": "image",
+            "target_id": "815521"
+        },
+        {
+            "originalFilename": "Llansannan00076.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00076.jpg",
+            "type": "image",
+            "target_id": "815526"
+        },
+        {
+            "originalFilename": "Llansannan00077.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00077.jpg",
+            "type": "image",
+            "target_id": "815531"
+        },
+        {
+            "originalFilename": "Llansannan00078.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00078.jpg",
+            "type": "image",
+            "target_id": "815536"
+        },
+        {
+            "originalFilename": "Llansannan00079.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00079.jpg",
+            "type": "image",
+            "target_id": "815541"
+        },
+        {
+            "originalFilename": "Llansannan00080.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00080.jpg",
+            "type": "image",
+            "target_id": "815546"
+        },
+        {
+            "originalFilename": "Llansannan00081.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00081.jpg",
+            "type": "image",
+            "target_id": "815551"
+        },
+        {
+            "originalFilename": "Llansannan00082.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00082.jpg",
+            "type": "image",
+            "target_id": "815556"
+        },
+        {
+            "originalFilename": "Llansannan00083.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00083.jpg",
+            "type": "image",
+            "target_id": "815561"
+        },
+        {
+            "originalFilename": "Llansannan00084.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00084.jpg",
+            "type": "image",
+            "target_id": "815566"
+        },
+        {
+            "originalFilename": "Llansannan00085.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00085.jpg",
+            "type": "image",
+            "target_id": "815571"
+        },
+        {
+            "originalFilename": "Llansannan00086.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00086.jpg",
+            "type": "image",
+            "target_id": "815576"
+        },
+        {
+            "originalFilename": "Llansannan00087.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00087.jpg",
+            "type": "image",
+            "target_id": "815581"
+        },
+        {
+            "originalFilename": "Llansannan00088.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00088.jpg",
+            "type": "image",
+            "target_id": "815586"
+        },
+        {
+            "originalFilename": "Llansannan00089.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00089.jpg",
+            "type": "image",
+            "target_id": "815591"
+        },
+        {
+            "originalFilename": "Llansannan00090.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00090.jpg",
+            "type": "image",
+            "target_id": "815596"
+        },
+        {
+            "originalFilename": "Llansannan00091.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00091.jpg",
+            "type": "image",
+            "target_id": "815601"
+        },
+        {
+            "originalFilename": "Llansannan00092.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00092.jpg",
+            "type": "image",
+            "target_id": "815606"
+        },
+        {
+            "originalFilename": "Llansannan00093.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00093.jpg",
+            "type": "image",
+            "target_id": "815611"
+        },
+        {
+            "originalFilename": "Llansannan00094.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00094.jpg",
+            "type": "image",
+            "target_id": "815616"
+        },
+        {
+            "originalFilename": "Llansannan00095.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00095.jpg",
+            "type": "image",
+            "target_id": "815621"
+        },
+        {
+            "originalFilename": "Llansannan00096.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00096.jpg",
+            "type": "image",
+            "target_id": "815626"
+        },
+        {
+            "originalFilename": "Llansannan00101.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00101.jpg",
+            "type": "image",
+            "target_id": "815631"
+        },
+        {
+            "originalFilename": "Llansannan00102.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/Llansannan00102.jpg",
+            "type": "image",
+            "target_id": "815636"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

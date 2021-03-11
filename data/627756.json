@@ -1,0 +1,85 @@
+{
+    "id": 627756,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Valley, Anglesey.",
+        "cy": "Cangen Merched y Wawr y Fali, Rhanbarth M\u00f4n yn dathlu penblwydd 3 oed. Gorffennaf 2009"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627756",
+    "created": 1511280939,
+    "updated": 1511280939,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cangen y Fali yn dathlu penblwydd y gangen yn 30 oed - Gorffennaf 2009. (Cefn) Gwyneth Jones, Ann Jones, Owenna Jones, Claire Minty, Phillys Williams, Menna Swain Williams, Joan Knit, Gwyneth Hewitson, Lorna Owen, Mavis Swain Williams, Rhiannon Lewis (Canol) Elenor Stevens, Glenys Edwards, Ann Hilyer, Elspeth Pritchard, Betty Jones, Iona Reynolds, Annette Williams (Blaen) Barbara Jones, Ann Rhodes, Audrey Owen, Jean Roberts, Valmai Jones, Olwen Williams, Eleri Jones.",
+        "cy": "Cangen y Fali yn dathlu penblwydd y gangne yn 30 oed - Gorffennaf 2009. (Cefn) Gwyneth Jones, Ann Jones, Owenna Jones, Claire Minty, Phillys Williams, Menna Swain Williams, Joan Knit, Gwyneth Hewitson, Lorna Owen, Mavis Swain Williams, Rhiannon Lewis (Canol) Elenor Stevens, Glenys Edwards, Ann Hilyer, Elspeth Pritchard, Betty Jones, Iona Reynolds, Annette Williams (Blaen) Barbara Jones, Ann Rhodes, Audrey Owen, Jean Roberts, Valmai Jones, Olwen Williams, Eleri Jones."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen y Fali ",
+    "owner": "Cangen y Fali ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Valley Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen y Fali",
+        "Rhanbarth Mon",
+        "Mon"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.283363000000",
+            "lon": "-4.561051000000",
+            "description": {
+                "en": "Valley",
+                "cy": "y Fali "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_Y_FALI_021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_Y_FALI_021.jpg",
+            "type": "image",
+            "target_id": "627746"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

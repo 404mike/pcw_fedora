@@ -1,0 +1,82 @@
+{
+    "id": 611161,
+    "title": {
+        "en": "Merched y Wawr Llangadog Branch at the Urdd Camp in Llangrannog ",
+        "cy": "Merched y Wawr Cangen Llangadog yng Ngwersyll yr Urdd Llangrannog"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/611161",
+    "created": 1510753383,
+    "updated": 1510753383,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Cangen Llangadog o Ferched y Wawr, Janet Bowyer ac Aerona Williams, yn mwynhau\u2019r \u2018rollerskates\u2019 yng Ngwersyll yr Urdd yn Llangrannog",
+        "cy": "Aelodau Cangen Llangadog o Ferched y Wawr, Janet Bowyer ac Aerona Williams, yn mwynhau\u2019r \u2018rollerskates\u2019 yng Ngwersyll yr Urdd yn Llangrannog"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llangadog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llangadog",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.159779000000",
+            "lon": "-4.470334000000",
+            "description": {
+                "en": "Llangrannog",
+                "cy": "Llangrannog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDINB-280117-226b.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDINB-280117-226b.jpg",
+            "type": "image",
+            "target_id": "611151"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,87 @@
+{
+    "id": 748941,
+    "title": {
+        "en": "Merched y Wawr Tegryn Branch celebrates 40 Years",
+        "cy": "Dathlu 40 mlynedd Merched y Wawr Tegryn"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748941",
+    "created": 1516898775,
+    "updated": 1516898775,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Dathlu Deugain mlynedd Merched y Wawr Tegryn yng Nglwb Rygbi Castell Newydd Emlyn, Rhagfyr 1af 2016 gyda aelodau a chyn- aelodau.  \nY gwestai ar y noson oeddd y Cyafrwyddwr Cenedlaethol, Tegwen Morrs, y Llywydd Cenedlaethol, Sanra Morris Jones, Swyddog Datblygu\u2019r Rhanbarth, Elizabeth Evans, ac Angharad Booth Taylor, Ysgrifennydd y Rhanbarth.",
+        "cy": "Dathlu Deugain mlynedd Merched y Wawr Tegryn yng Nglwb Rygbi Castell Newydd Emlyn, Rhagfyr 1af 2016 gyda aelodau a chyn- aelodau.  \nY gwestai ar y noson oeddd y Cyafrwyddwr Cenedlaethol, Tegwen Morrs, y Llywydd Cenedlaethol, Sanra Morris Jones, Swyddog Datblygu\u2019r Rhanbarth, Elizabeth Evans, ac Angharad Booth Taylor, Ysgrifennydd y Rhanbarth."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Hefin Parry Roberts",
+    "owner": "Cangen Tegryn",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": {
+                "en": "Hefin Parry Roberts",
+                "cy": "Hefin Parry Roberts"
+            },
+            "year": "2016",
+            "type": "copyright"
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Tegryn",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.040962000000",
+            "lon": "-4.459387000000",
+            "description": {
+                "en": "Clwb Rygbi Castell Newydd",
+                "cy": "Clwb Rygbi Castell Newydd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-250217-062.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-PENFRO-250217-062.jpg",
+            "type": "image",
+            "target_id": "748931"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

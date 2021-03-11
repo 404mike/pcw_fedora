@@ -1,0 +1,67 @@
+{
+    "id": 1049121,
+    "title": {
+        "en": "Xmas Fair 2010",
+        "cy": "Ffair Aeaf 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049121",
+    "created": 1555591793,
+    "updated": 1555591793,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Competition \u2013 Xmas Pudding. Winner \u2013 Winnie James, Tegryn branch, Pembrokeshire.",
+        "cy": "Cystadleuaeth Pwdin Nadolig. Cyntaf \u2013 Winnie James, cangen Tegryn, Rhanbarth Penfro."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "xmas fair",
+        "Competition",
+        "Ffair Aeaf",
+        "Cystadleuaeth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_320.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_320.jpg",
+            "type": "image",
+            "target_id": "1049116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

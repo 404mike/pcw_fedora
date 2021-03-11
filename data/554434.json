@@ -1,0 +1,83 @@
+{
+    "id": 554434,
+    "title": {
+        "en": "Merched y Wawr Residential Weekend 1984",
+        "cy": "Ysgol Breswyl Benwythnos 1984 - Ni&#039;r Merched"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/554434",
+    "created": 1487591871,
+    "updated": 1487591871,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Ni\u2019r Merched.  Ysgol Breswyl Benwythnos 1984, Medi 21, 22, 23, Aberytswyth, Theatr y Werin, Neuadd Penbryn",
+        "cy": "Taflen Ni\u2019r Merched.  Ysgol Breswyl Benwythnos 1984, Medi 21, 22, 23, Aberytswyth, Theatr y Werin, Neuadd Penbryn"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Merched y Wawr",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Penwythnos Preswyl"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.417984000000",
+            "lon": "-4.064623000000",
+            "description": {
+                "en": "Theatr y Werin, Aberystwyth ",
+                "cy": "Theatr y Werin, Aberystwyth "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CENEDLAETHOL-300916-000016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/February\/MYW-DE-CENEDLAETHOL-300916-000016.jpg",
+            "type": "image",
+            "target_id": "554432"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

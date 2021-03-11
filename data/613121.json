@@ -1,0 +1,75 @@
+{
+    "id": 613121,
+    "title": {
+        "en": "Merched y Wawr Llannau'r Tywi Branch - An Evening with Hywel Griffiths, Catrin Dafydd and Iwan Rhys",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi - Noson gyda Hywel Griffiths, Catrin Dafydd ac Iwan Rhys\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/613121",
+    "created": 1510753876,
+    "updated": 1510753876,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Llannau\u2019r Tywi \nDros y blynyddoedd mae\u2019r gangen wedi treulio nosweithiau doniol a difyr yng nghwmni prifeirdd a phrif lenorion Cymru.  \nYn 2006 bu Hywel  Griffiths, Catrin Dafydd ac Iwan Rhys yn diddanu\u2019r gangen yng nghmwni aelodau Cangen San Cler.  Roedd yn fraint gwrando ar y criw ifanc yn rhannu eu doniau.",
+        "cy": "Merched y Wawr Cangen Llannau\u2019r Tywi \nDros y blynyddoedd mae\u2019r gangen wedi treulio nosweithiau doniol a difyr yng nghwmni prifeirdd a phrif lenorion Cymru.  \nYn 2006 bu Hywel  Griffiths, Catrin Dafydd ac Iwan Rhys yn diddanu\u2019r gangen yng nghmwni aelodau Cangen San Cler.  Roedd yn fraint gwrando ar y criw ifanc yn rhannu eu doniau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Llannau&#039;r Tywi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llannaur Tywi",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-A-280117_042.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-A-280117_042.jpg",
+            "type": "image",
+            "target_id": "613116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

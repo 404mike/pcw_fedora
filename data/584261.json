@@ -1,0 +1,87 @@
+{
+    "id": 584261,
+    "title": {
+        "en": "Merched y Wawr, Celebration Pageant, Celebrating 25 Years 1967 - 1992",
+        "cy": "Taflen Pasiant y Dathlu, Merched y Wawr yn Dathlu Chwarter Canrif 1967 - 1992"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584261",
+    "created": 1499870843,
+    "updated": 1499870843,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Taflen Pasiant y Dathlu, Merched y Wawr, Dathlu Chwarter Canrif 1967 - 1992. 15 \u2013 16 Mai, 1992, Tudalen Flaen",
+        "cy": "Taflen Pasiant y Dathlu, Merched y Wawr, Dathlu Chwarter Canrif 1967 - 1992. 15 \u2013 16 Mai, 1992, Tudalen Flaen"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cenedlaethol"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-055.jpg",
+            "type": "image",
+            "target_id": "584258"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-056.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-056.jpg",
+            "type": "image",
+            "target_id": "584259"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-057.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-057.jpg",
+            "type": "image",
+            "target_id": "584260"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

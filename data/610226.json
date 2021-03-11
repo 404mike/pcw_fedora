@@ -1,0 +1,90 @@
+{
+    "id": 610226,
+    "title": {
+        "en": "Merched y Wawr Geler Branch, Programme 2002 - 2003",
+        "cy": "Merched y Wawr Cangen Geler, Rhaglen Tymor 2002 \u2013 2003 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/610226",
+    "created": 1510753161,
+    "updated": 1510753161,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Geler, Rhaglen Tymor 2002 \u2013 2003 - Clawr y rhaglen yn dangos enwau\u2019r swyddogion",
+        "cy": "Merched y Wawr Cangen Geler, Rhaglen Tymor 2002 \u2013 2003 - Clawr y rhaglen yn dangos enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Geler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Geler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.017489000000",
+            "lon": "-4.370202000000",
+            "description": {
+                "en": "Saron\/Llangeler",
+                "cy": "Saron\/Llangeler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-011.jpg",
+            "type": "image",
+            "target_id": "610211"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-270217-012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-270217-012.jpg",
+            "type": "image",
+            "target_id": "610216"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

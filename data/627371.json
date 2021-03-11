@@ -1,0 +1,90 @@
+{
+    "id": 627371,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr, Menai Bridge, Anglesey.",
+        "cy": "Cangen Merched y Wawr Porthaethwy, Rhanbarth M\u00f4n. Creu gwaith celf i Sioe Llanelwy 2014 "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/627371",
+    "created": 1511280805,
+    "updated": 1511280805,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau o gangen Porthaethwy, Llanfair a Llandegfan yn cydweithio i greu gwaith celf i Sioe Llanelwy 2014 - \u201cCelf ar y Cyd\u201d\/ Melinau Gwynt Mon. Linda Owen, Luned jones, Ceinwen Davies, Ela Owens, Mair Jones, Marian Thomas.",
+        "cy": "Aelodau o gangen Porthaethwy, Llanfair a Llandegfan yn cydweithio i greu gwaith celf i Sioe Llanelwy 2014 - \u201cCelf ar y Cyd\u201d\/ Melinau Gwynt Mon. Linda Owen, Luned jones, Ceinwen Davies, Ela Owens, Mair Jones, Marian Thomas."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Llannerch-y-Medd",
+    "owner": "Cangen Llannerch-y-Medd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Menai Bridge",
+        "Anglesey",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Porthaethwy",
+        "Rhanbarth Mon",
+        "Mon",
+        "Cangen Llanfairpwll",
+        "Cangen Llandegfan",
+        "Melinau Mon",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "53.330448000000",
+            "lon": "-4.377493000000",
+            "description": {
+                "en": "Llannerch-y-Medd",
+                "cy": "Llannerch-y-Medd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_MON_PORTHAETHWY016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_MON_PORTHAETHWY016.jpg",
+            "type": "image",
+            "target_id": "627361"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

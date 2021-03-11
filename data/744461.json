@@ -1,0 +1,84 @@
+{
+    "id": 744461,
+    "title": {
+        "en": "Ceredigion Area at Merched y Wawr's Twenty-Fifth Anniversary Celebrations ",
+        "cy": "Rhanbarth Ceredigion yn Dathliadau Chwarter Canrif Merched y Wawr"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744461",
+    "created": 1516896306,
+    "updated": 1516896306,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Baner Merched y Wawr Rhanbarth Ceredigion  - a wnaed gan Mrs Megan James, Cangen Bronant \u2013 yn arwain gorymdaith Rhanbarth Ceredigin yn nathliad cenedlaethol chwarter canrif y mudiad yn y Parc, y Bala ym 1992. Yn y llun mae Eluned Jones a Owenna James yn dal y faner.",
+        "cy": "Baner Merched y Wawr Rhanbarth Ceredigion  - a wnaed gan Mrs Megan James, Cangen Bronant \u2013 yn arwain gorymdaith Rhanbarth Ceredigin yn nathliad cenedlaethol chwarter canrif y mudiad yn y Parc, y Bala ym 1992. Yn y llun mae Eluned Jones a Owenna James yn dal y faner."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Bronant",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Bronant"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.890702000000",
+            "lon": "-3.671821000000",
+            "description": {
+                "en": "Y Parc, Bala",
+                "cy": "Y Parc, Bala"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-110317-160.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-110317-160.jpg",
+            "type": "image",
+            "target_id": "744451"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

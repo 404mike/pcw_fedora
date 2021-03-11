@@ -1,0 +1,84 @@
+{
+    "id": 584000,
+    "title": {
+        "en": "Merched y Wawr Trefdraeth (Newport) Branch 2003",
+        "cy": "Merched y Wawr Cangen Trefdraeth, 2003"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584000",
+    "created": 1499870212,
+    "updated": 1499870212,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhai o aelodau  Merched y Wawr, Cangen Trefdraeth, Sir Benfro 2003\nRhes Gefn o\u2019r Chwith \u2013 Marian Rogers, Rhiannon Williams, Jean Griffiths (m), Doris Davies (m), Sal Williams, Rhiannon Thomas, Eileen Davies (m), Alice Evans, Dilys Davies, Jean Young\nRhes Flaen \u2013 May Davies (m), Beti James, Sian Owen, Kath Phillips, Aeres James, Jen Sajko (??)",
+        "cy": "Rhai o aelodau  Merched y Wawr, Cangen Trefdraeth, Sir Benfro 2003\nRhes Gefn o\u2019r Chwith \u2013 Marian Rogers, Rhiannon Williams, Jean Griffiths (m), Doris Davies (m), Sal Williams, Rhiannon Thomas, Eileen Davies (m), Alice Evans, Dilys Davies, Jean Young\nRhes Flaen \u2013 May Davies (m), Beti James, Sian Owen, Kath Phillips, Aeres James, Jen Sajko (??)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": " Cangen Trefdraeth",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Trefdraeth",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.015930000000",
+            "lon": "-4.834303000000",
+            "description": {
+                "en": "Trefdraeth, Penfro",
+                "cy": "Trefdraeth, Penfro"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-005.jpg",
+            "type": "image",
+            "target_id": "583998"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

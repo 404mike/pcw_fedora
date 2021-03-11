@@ -1,0 +1,75 @@
+{
+    "id": 745546,
+    "title": {
+        "en": "A 'Pippadee' Evening at the Gorseinon Branch of Merched y Wawr",
+        "cy": "Noson &#039;Pippadee&#039; yng Nghangen Merched y Wawr Gorseinon "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745546",
+    "created": 1516896860,
+    "updated": 1516896860,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodi noson Pippadee yng Nghangen Merched y Wawr Gorseinon yn Ebrill 1991.  Ysgrifenwyd y darn gan yr Ysgrifennydd, y diweddar Peggy Collins.  Roedd Pippadee yn gwneud part\u00efon gwerthu dillad yn y t\u0177.",
+        "cy": "Cofnodi noson Pippadee yng Nghangen Merched y Wawr Gorseinon yn Ebrill 1991.  Ysgrifenwyd y darn gan yr Ysgrifennydd, y diweddar Peggy Collins.  Roedd Pippadee yn gwneud part\u00efon gwerthu dillad yn y t\u0177."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Gorseinon",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Gorseinon",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-049.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-049.jpg",
+            "type": "image",
+            "target_id": "745541"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

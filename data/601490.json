@@ -1,0 +1,100 @@
+{
+    "id": 601490,
+    "title": {
+        "en": "Merched y Wawr Merthyr Branch visit historic places in Pontsticill",
+        "cy": "Merched y Wawr Cangen Merthyr Tudful yn ymweld a mannau hanesyddol ym Mhonsticill"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601490",
+    "created": 1502449450,
+    "updated": 1502449450,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Adroddiad yn s\u00f4n am ymweliad aelodau Cangen Merthyr Tudful o Ferched y Wawr \u00e2 chartref Jenny Heney, un o\u2019r aelodau, ym Mhontsticill. Mae\u2019r t\u0177 yn un hanesyddol a oedd ar un adeg yn dafarn adnabyddus \u2018The Church Tavern \/ Tafarn y Eglwys\u2019.  \nFuon nhw hefyd yn ymweld \u00e2 beth William Crawshay ym mynwent Eglwys Faenor drws nesaf i gartref Jenny.",
+        "cy": "Adroddiad yn s\u00f4n am ymweliad aelodau Cangen Merthyr Tudful o Ferched y Wawr \u00e2 chartref Jenny Heney, un o\u2019r aelodau, ym Mhontsticill. Mae\u2019r t\u0177 yn un hanesyddol a oedd ar un adeg yn dafarn adnabyddus \u2018The Church Tavern \/ Tafarn y Eglwys\u2019.  \nFuon nhw hefyd yn ymweld \u00e2 beth William Crawshay ym mynwent Eglwys Faenor drws nesaf i gartref Jenny."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Merthyr Tudful",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Merthyr Tudful",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.797715000000",
+            "lon": "-3.365667000000",
+            "description": {
+                "en": "Ponsticill, Merthyr",
+                "cy": "Ponsticill, Merthyr"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-018.jpg",
+            "type": "image",
+            "target_id": "601485"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-019.jpg",
+            "type": "image",
+            "target_id": "601486"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-020.jpg",
+            "type": "image",
+            "target_id": "601487"
+        },
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-DEDDWYRAIN-210117-021.jpg",
+            "type": "image",
+            "target_id": "601488"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

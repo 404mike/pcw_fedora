@@ -1,0 +1,309 @@
+{
+    "id": 808791,
+    "title": {
+        "en": "Scrapbook of Bro Alma Branch",
+        "cy": "Llyfr lloffion Cangen Bro Alma"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/808791",
+    "created": 1523359003,
+    "updated": 1523359003,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "In 2018 Merched y Wawr held a \"Celebrating the Gold\" competition and members were asked to create scrapbooks. There were 40 books in and three judges were Sian Lewis: Awdures, Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; National Library of Wales, choose the best. First, Bryncroes Branch, Dwyfor, in equal second Lampeter, Ceredigion and Golan, Dwyfor and equal third Ffynnongroes, Pembroke, Whitland, Carmarthen and Llanfair Dyffryn Clwyd, Glyn Maelor. Thanks to everyone who took part in collecting and summarizing the history.",
+        "cy": "Yn 2018 fe wnaeth Merched y Wawr gynnal cystadleuaeth i \"Ddathlu'r Aur\" a gofynnwyd i aelodau greu llyfrau lloffion.  Fe ddaeth 40 o lyfrau i mewn ac fe wnaeth tair beirniad sef Sian Lewis: Awdures,  Meleri Wyn James; Gwasg Y Lolfa, Lona Mason; Llyfrgell Genedlaethol Cymru,  ddewis y goreuon.  Yn gyntaf roedd Cangen Bryncroes, Dwyfor, yn gydradd ail Llanbedr Pont Steffan, Ceredigion a Golan, Dwyfor ac yn gydradd drydedd  Ffynnongroes, Penfro, Hendygwyn ar Daf, Caerfyrddin a Llanfair Dyffryn Clwyd, Glyn Maelor.   Diolch i bawb a wnaeth gymryd rhan yn casglu a chrynhoi yr hanes."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Cangen Bro Alma",
+    "owner": "Cangen Bro Alma",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithas a Chlybiau",
+        "llyfr lloffion",
+        "Cangen Bro Alma",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "BroAlma00001.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00001.jpg",
+            "type": "image",
+            "target_id": "808591"
+        },
+        {
+            "originalFilename": "BroAlma00002.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00002.jpg",
+            "type": "image",
+            "target_id": "808596"
+        },
+        {
+            "originalFilename": "BroAlma00003.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00003.jpg",
+            "type": "image",
+            "target_id": "808601"
+        },
+        {
+            "originalFilename": "BroAlma00004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00004.jpg",
+            "type": "image",
+            "target_id": "808606"
+        },
+        {
+            "originalFilename": "BroAlma00005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00005.jpg",
+            "type": "image",
+            "target_id": "808611"
+        },
+        {
+            "originalFilename": "BroAlma00006.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00006.jpg",
+            "type": "image",
+            "target_id": "808616"
+        },
+        {
+            "originalFilename": "BroAlma00007.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00007.jpg",
+            "type": "image",
+            "target_id": "808621"
+        },
+        {
+            "originalFilename": "BroAlma00008.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00008.jpg",
+            "type": "image",
+            "target_id": "808626"
+        },
+        {
+            "originalFilename": "BroAlma00009.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00009.jpg",
+            "type": "image",
+            "target_id": "808631"
+        },
+        {
+            "originalFilename": "BroAlma00010.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00010.jpg",
+            "type": "image",
+            "target_id": "808636"
+        },
+        {
+            "originalFilename": "BroAlma00011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00011.jpg",
+            "type": "image",
+            "target_id": "808641"
+        },
+        {
+            "originalFilename": "BroAlma00012.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00012.jpg",
+            "type": "image",
+            "target_id": "808646"
+        },
+        {
+            "originalFilename": "BroAlma00013.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00013.jpg",
+            "type": "image",
+            "target_id": "808651"
+        },
+        {
+            "originalFilename": "BroAlma00014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00014.jpg",
+            "type": "image",
+            "target_id": "808656"
+        },
+        {
+            "originalFilename": "BroAlma00015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00015.jpg",
+            "type": "image",
+            "target_id": "808661"
+        },
+        {
+            "originalFilename": "BroAlma00016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00016.jpg",
+            "type": "image",
+            "target_id": "808666"
+        },
+        {
+            "originalFilename": "BroAlma00017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00017.jpg",
+            "type": "image",
+            "target_id": "808671"
+        },
+        {
+            "originalFilename": "BroAlma00018.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00018.jpg",
+            "type": "image",
+            "target_id": "808676"
+        },
+        {
+            "originalFilename": "BroAlma00019.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00019.jpg",
+            "type": "image",
+            "target_id": "808681"
+        },
+        {
+            "originalFilename": "BroAlma00020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00020.jpg",
+            "type": "image",
+            "target_id": "808686"
+        },
+        {
+            "originalFilename": "BroAlma00021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00021.jpg",
+            "type": "image",
+            "target_id": "808691"
+        },
+        {
+            "originalFilename": "BroAlma00022.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00022.jpg",
+            "type": "image",
+            "target_id": "808696"
+        },
+        {
+            "originalFilename": "BroAlma00023.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00023.jpg",
+            "type": "image",
+            "target_id": "808701"
+        },
+        {
+            "originalFilename": "BroAlma00024.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00024.jpg",
+            "type": "image",
+            "target_id": "808706"
+        },
+        {
+            "originalFilename": "BroAlma00025.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00025.jpg",
+            "type": "image",
+            "target_id": "808711"
+        },
+        {
+            "originalFilename": "BroAlma00026.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00026.jpg",
+            "type": "image",
+            "target_id": "808716"
+        },
+        {
+            "originalFilename": "BroAlma00027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00027.jpg",
+            "type": "image",
+            "target_id": "808721"
+        },
+        {
+            "originalFilename": "BroAlma00028.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00028.jpg",
+            "type": "image",
+            "target_id": "808726"
+        },
+        {
+            "originalFilename": "BroAlma00029.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00029.jpg",
+            "type": "image",
+            "target_id": "808731"
+        },
+        {
+            "originalFilename": "BroAlma00030.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00030.jpg",
+            "type": "image",
+            "target_id": "808736"
+        },
+        {
+            "originalFilename": "BroAlma00031.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00031.jpg",
+            "type": "image",
+            "target_id": "808741"
+        },
+        {
+            "originalFilename": "BroAlma00032.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00032.jpg",
+            "type": "image",
+            "target_id": "808746"
+        },
+        {
+            "originalFilename": "BroAlma00033.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00033.jpg",
+            "type": "image",
+            "target_id": "808751"
+        },
+        {
+            "originalFilename": "BroAlma00034.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00034.jpg",
+            "type": "image",
+            "target_id": "808756"
+        },
+        {
+            "originalFilename": "BroAlma00035.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00035.jpg",
+            "type": "image",
+            "target_id": "808761"
+        },
+        {
+            "originalFilename": "BroAlma00036.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00036.jpg",
+            "type": "image",
+            "target_id": "808766"
+        },
+        {
+            "originalFilename": "BroAlma00037.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00037.jpg",
+            "type": "image",
+            "target_id": "808771"
+        },
+        {
+            "originalFilename": "BroAlma00038.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00038.jpg",
+            "type": "image",
+            "target_id": "808776"
+        },
+        {
+            "originalFilename": "BroAlma00039.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00039.jpg",
+            "type": "image",
+            "target_id": "808781"
+        },
+        {
+            "originalFilename": "BroAlma00040.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/April\/BroAlma00040.jpg",
+            "type": "image",
+            "target_id": "808786"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

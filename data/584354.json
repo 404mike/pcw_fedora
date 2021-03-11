@@ -1,0 +1,91 @@
+{
+    "id": 584354,
+    "title": {
+        "en": "Merched y Wawr Whitland Branch,1980-81 Programme",
+        "cy": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen 1980-81"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584354",
+    "created": 1499870943,
+    "updated": 1499870943,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen Tymor 1980-81 Tudalen flaen (swyddogion)",
+        "cy": "Merched y Wawr Cangen Hendygwyn a\u2019r Cylch, Rhaglen Tymor 1980-81 Tudalen flaen (swyddogion)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Merched y Wawr",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Hendygwyn",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs",
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.819657000000",
+            "lon": "-4.614903000000",
+            "description": {
+                "en": "Hendygwyn",
+                "cy": "Hendygwyn"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-109.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-109.jpg",
+            "type": "image",
+            "target_id": "584351"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-041116-110.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-CAERFYRDDIN-041116-110.jpg",
+            "type": "image",
+            "target_id": "584352"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,84 @@
+{
+    "id": 625041,
+    "title": {
+        "en": "A collection of photographs of Merched y Wawr Glyn Maelor",
+        "cy": "Casgliad o luniau o Ferched y Wawr Rhanbarth Glyn Maelor"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/625041",
+    "created": 1511280031,
+    "updated": 1511280031,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "1. Llun o aelodau\u2019r rhanbarth yn rhoi rodd o flancedi wedi\u2019u gweu yn y Rhanbarth i Martin yw ddosbarthu yn Romania, fel rhan o gynllun \u2018Operation Christmas Child\u2019. 23ain, Fehefin, 1993. 2. Llun o arddangosfa Sioe Dinbych a Fflint (1993) ym Mhabell Merched y Wawr, thema \u2018unrhyw lyfr Cymraeg.",
+        "cy": "1. Llun o aelodau\u2019r rhanbarth yn rhoi rodd o flancedi wedi\u2019u gweu yn y Rhanbarth i Martin yw ddosbarthu yn Romania, fel rhan o gynllun \u2018Operation Christmas Child\u2019. 23ain, Fehefin, 1993. 2. Llun o arddangosfa Sioe Dinbych a Fflint (1993) ym Mhabell Merched y Wawr, thema \u2018unrhyw lyfr Cymraeg."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Rhanbarth Glyn Maelor ",
+    "owner": "Rhanbarth Glyn Maelor ",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "Glyn Maelor",
+        "MYW",
+        "Dathlu 50",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Glyn Maelor",
+        "Celf a Chrefft"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.979887000000",
+            "lon": "-3.367571000000",
+            "description": {
+                "en": "Corwen",
+                "cy": "Corwen "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW_GOG_GLYNMAELOR_016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW_GOG_GLYNMAELOR_016.jpg",
+            "type": "image",
+            "target_id": "625031"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

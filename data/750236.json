@@ -1,0 +1,84 @@
+{
+    "id": 750236,
+    "title": {
+        "en": "Y Gwenoliaid Gwawr Club Wine Tasting Evening ",
+        "cy": "Noson Blasu Gwin Clwb Gwawr Y Gwenoliaid "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/750236",
+    "created": 1516899370,
+    "updated": 1516899370,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Clwb Gwawr Y Gwenoliaid yn mwynhau noson yng nghwmni gwin Celteg yn Henllan, Ceredigion, Hydref 2015.\nYmys y rhai yn y llun mae Bet Thomas, Wendy Davies, Eirian Lloys, Meinir Owens Jones, Rhian Rees, Meriel Williams, Neris Davies",
+        "cy": "Clwb Gwawr Y Gwenoliaid yn mwynhau noson yng nghwmni gwin Celteg yn Henllan, Ceredigion, Hydref 2015.\nYmys y rhai yn y llun mae Bet Thomas, Wendy Davies, Eirian Lloys, Meinir Owens Jones, Rhian Rees, Meriel Williams, Neris Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Clwb Gwawr Y Gwenoliaid",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau yng Ng\u0175yl Haf Merched y Wawr Chlybiau",
+        "Clwb Gwawr y Gwenoliaid",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.038761000000",
+            "lon": "-4.395631000000",
+            "description": {
+                "en": "Celtic Wine, Henllan, Ceredigion ",
+                "cy": "Celtic Wine, Henllan, Ceredigion "
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "Noson%20o%20Flasu%20Gwin%20gyda%20Celteg%20yn%20HenllanCGGwenoliaid.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/Noson%2520o%2520Flasu%2520Gwin%2520gyda%2520Celteg%2520yn%2520HenllanCGGwenoliaid.jpg",
+            "type": "image",
+            "target_id": "750226"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

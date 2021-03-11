@@ -1,0 +1,84 @@
+{
+    "id": 614931,
+    "title": {
+        "en": "Merched y Wawr Cangen Y Bontfaen yng Ngerddi Aberglasne",
+        "cy": "Merched y Wawr Cangen Y Bontfaen yng Ngerddi Aberglasne"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/614931",
+    "created": 1510755135,
+    "updated": 1510755135,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Ymweliad Cangen y Bontfaen \u00e2 Gerddi Aberglasne, 9 Gorffennaf, 1999.  Y Bontfaen oedd y grwp cyntaf i ymweld \u00e2\u2019r T\u0177 a\u2019r Gerddi ddiwrnod ar \u00f4l yr agoriad swyddogol.  \nErthygl am y wibdaith gan Mair James wedi ymddangos yn y Wawr , Rhifyn 125, Gaeaf 1999\nRhes flaen \u2013 Jean Crabbe, Mair James, Cath Thomas, Elizabeth Phillips, Kay Edwards,\nAil Res \u2013 Marian Lewis, Hannah Roberts, Margaret Carnduff, Sinah Watkin-Jones, Marjorie Stephens, Si\u00e2n Evans, Peggy Price, Janet Brown\nRhes gefn \u2013 Lyn Guy, Eira Rowley, Doreen Lewis, Eirwen Thomas, Lynne Clement, Delyth Davies",
+        "cy": "Ymweliad Cangen y Bontfaen \u00e2 Gerddi Aberglasne, 9 Gorffennaf, 1999.  Y Bontfaen oedd y grwp cyntaf i ymweld \u00e2\u2019r T\u0177 a\u2019r Gerddi ddiwrnod ar \u00f4l yr agoriad swyddogol.  \nErthygl am y wibdaith gan Mair James wedi ymddangos yn y Wawr , Rhifyn 125, Gaeaf 1999\nRhes flaen \u2013 Jean Crabbe, Mair James, Cath Thomas, Elizabeth Phillips, Kay Edwards,\nAil Res \u2013 Marian Lewis, Hannah Roberts, Margaret Carnduff, Sinah Watkin-Jones, Marjorie Stephens, Si\u00e2n Evans, Peggy Price, Janet Brown\nRhes gefn \u2013 Lyn Guy, Eira Rowley, Doreen Lewis, Eirwen Thomas, Lynne Clement, Delyth Davies"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Bontfaen",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Bontfaen",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.880097000000",
+            "lon": "-4.061974000000",
+            "description": {
+                "en": "Gerddi Aberglasne",
+                "cy": "Gerddi Aberglasne"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-050117-005.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-050117-005.jpg",
+            "type": "image",
+            "target_id": "614921"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

@@ -1,0 +1,82 @@
+{
+    "id": 583971,
+    "title": {
+        "en": "Merched y Wawr West Glamorgan Area Victorious at the Royal Welsh Agricultural Show 1989",
+        "cy": "Merched y Wawr Rhanbarth Gorllewin Morgannwg yn Ennill yn Sioe Frenhinol Cymru 1989"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/583971",
+    "created": 1499870174,
+    "updated": 1499870174,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhanbarth Gorllewin Morgannwg yn ennill yn y Sioe yn Llanelwedd, 1989 dan y thema 'Parti Bedydd' \nYn y llun \u2013 Jane Hughes, Delyth Jones, Iris Curtis, Malvina Ley, Wendy Richards, Gwen Harry (enwau ddim mewn trefn)",
+        "cy": "Rhanbarth Gorllewin Morgannwg yn ennill yn y Sioe yn Llanelwedd, 1989 dan y thema 'Parti Bedydd' \nYn y llun \u2013 Jane Hughes, Delyth Jones, Iris Curtis, Malvina Ley, Wendy Richards, Gwen Harry (enwau ddim mewn trefn)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Aelod Cangen Lon Las",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.156611000000",
+            "lon": "-3.406091000000",
+            "description": {
+                "en": "Sioe Frenhinol, Llanelwedd",
+                "cy": "Sioe Frenhinol, Llanelwedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-231116-004.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-GORLLMORGANNWG-231116-004.jpg",
+            "type": "image",
+            "target_id": "583969"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

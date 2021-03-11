@@ -1,0 +1,84 @@
+{
+    "id": 601283,
+    "title": {
+        "en": "Merched y Wawr Cylch Teifi Branch try Decoupage ",
+        "cy": "Merched y Wawr Cangen Cylch Teifi yn gwneud gwaith llaw "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601283",
+    "created": 1502449134,
+    "updated": 1502449134,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Cangen Cylch Teifi yn arddangos eu gwaith llaw \u2013 decoupage \u2013 ym 1996.  Yn y llun:-\nEiri Smith, Joyce Davies, Meinir Jerman, Hannah Griffiths, Vi Phillips, Ann Hughes, Dilys Selby, Milly Davies, Marian Jenkins, Mrs Gwyneth Phillips, Phylis Terry-Thomas, Myra Davies, Valmai Sambrook, Margaret Edwards, Nan Jones",
+        "cy": "Aelodau Merched y Wawr Cangen Cylch Teifi yn arddangos eu gwaith llaw \u2013 decoupage \u2013 ym 1996.  Yn y llun:-\nEiri Smith, Joyce Davies, Meinir Jerman, Hannah Griffiths, Vi Phillips, Ann Hughes, Dilys Selby, Milly Davies, Marian Jenkins, Mrs Gwyneth Phillips, Phylis Terry-Thomas, Myra Davies, Valmai Sambrook, Margaret Edwards, Nan Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Cylch Teifi",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Teifi",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1990s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "52.083909000000",
+            "lon": "-4.660560000000",
+            "description": {
+                "en": "Aberteifi",
+                "cy": "Aberteifi"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-100217-131.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/August\/MYW-DE-CEREDIGION-100217-131.jpg",
+            "type": "image",
+            "target_id": "601281"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

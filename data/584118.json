@@ -1,0 +1,84 @@
+{
+    "id": 584118,
+    "title": {
+        "en": "Merched y Wawr Maenclochog Branch Fashion Show 1984",
+        "cy": "Merched y Wawr Cangen Maenclochog, Sioe Ffasiynau 1984.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/584118",
+    "created": 1499870378,
+    "updated": 1499870378,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Maenclochog.  Tachwedd 1984.  Sioe Ffasiynau yn Neuadd yr Eglwys gan Melin Wl\u00e2n Tregwynt. O\u2019r chwith \u2013 Kitty Evans, Kathryn Livingstone, Arianwen Williams, Maureen George, Heather Jenkins ac Eirianwen Thomas",
+        "cy": "Merched y Wawr Maenclochog.  Tachwedd 1984.  Sioe Ffasiynau yn Neuadd yr Eglwys gan Melin Wl\u00e2n Tregwynt. O\u2019r chwith \u2013 Kitty Evans, Kathryn Livingstone, Arianwen Williams, Maureen George, Heather Jenkins ac Eirianwen Thomas"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Maureen George, Cangen Maenclochog",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Maenclochog",
+        "Rhanbarth Penfro"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Clubs and societies"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.911953000000",
+            "lon": "-4.788336000000",
+            "description": {
+                "en": "Neuadd yr Eglwys Maenclochog",
+                "cy": "Neuadd yr Eglwys Maenclochog"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-PENFRO-191016-055.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/July\/MYW-DE-PENFRO-191016-055.jpg",
+            "type": "image",
+            "target_id": "584116"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

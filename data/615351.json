@@ -1,0 +1,84 @@
+{
+    "id": 615351,
+    "title": {
+        "en": "Merched y Wawr Merthy Branch visits The Herb Garden in Cowbridge ",
+        "cy": "Merched y Wawr Cangen Merthyr Tudful yn ymweld \u00e2\u2018r Ardd Berlysiau yn y Bontfaen\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/615351",
+    "created": 1510755231,
+    "updated": 1510755231,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Merched y Wawr Cangen Merthyr Tudful yn ymweld \u00e2\u2018r Ardd Berlysiau yn y Bontfaen, Medi 13, 2007.  Croesawyd nhw yno gan aelod o\u2019r gangen leol, Catherine Watkin Thomas a Carys Whelan, sydd wedi bod ynghlwm \u00e2 sefydlu\u2019r ardd.\nCalon yr ardd yw\u2019r 12 gwely o blanhigion meddyginiaethol sydd wedi eu gosod fel olwyn o amgylch yn ffynnon. \nYn y llun mae Catherine Watkin Thomas, Bethan Jenkins,  Cleidi Correa, Chris Hourahan, Enid Jones, Hannah Lowe, Elisabeth Gethin",
+        "cy": "Merched y Wawr Cangen Merthyr Tudful yn ymweld \u00e2\u2018r Ardd Berlysiau yn y Bontfaen, Medi 13, 2007.  Croesawyd nhw yno gan aelod o\u2019r gangen leol, Catherine Watkin Thomas a Carys Whelan, sydd wedi bod ynghlwm \u00e2 sefydlu\u2019r ardd.\nCalon yr ardd yw\u2019r 12 gwely o blanhigion meddyginiaethol sydd wedi eu gosod fel olwyn o amgylch yn ffynnon. \nYn y llun mae Catherine Watkin Thomas, Bethan Jenkins,  Cleidi Correa, Chris Hourahan, Enid Jones, Hannah Lowe, Elisabeth Gethin"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Merthyr Tudful",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Merthyr Tudful",
+        "Rhanbarth y De-Ddwyrain"
+    ],
+    "when": [
+        "2000s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.461692000000",
+            "lon": "-3.447005000000",
+            "description": {
+                "en": "Y Bontfaen",
+                "cy": "Y Bontfaen"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-DEDDWYRAIN-210117-027.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-DEDDWYRAIN-210117-027.jpg",
+            "type": "image",
+            "target_id": "615341"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

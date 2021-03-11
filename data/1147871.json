@@ -1,0 +1,105 @@
+{
+    "id": 1147871,
+    "title": {
+        "en": "Anglesey National Eisteddfod 2017",
+        "cy": "Eisteddfod Genedlaethol Ynys M\u00f4n 2017"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1147871",
+    "created": 1562065531,
+    "updated": 1562065531,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "The cimax of the performance was a representation of the banners of every region.",
+        "cy": "Diweddglo y cyflwyniad gyda chynrychiolwyr o bob rhanbarth yn cario eu baneri ar hyd y llwyfan."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "anglesey national eisteddfod",
+        "eisteddfod genedlaethol ynys m\u00f4n 2017"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_960.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_960.jpg",
+            "type": "image",
+            "target_id": "1147831"
+        },
+        {
+            "originalFilename": "df_myw_961.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_961.jpg",
+            "type": "image",
+            "target_id": "1147836"
+        },
+        {
+            "originalFilename": "df_myw_962.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_962.jpg",
+            "type": "image",
+            "target_id": "1147841"
+        },
+        {
+            "originalFilename": "df_myw_963.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_963.jpg",
+            "type": "image",
+            "target_id": "1147846"
+        },
+        {
+            "originalFilename": "df_myw_964.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_964.jpg",
+            "type": "image",
+            "target_id": "1147851"
+        },
+        {
+            "originalFilename": "df_myw_965.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_965.jpg",
+            "type": "image",
+            "target_id": "1147856"
+        },
+        {
+            "originalFilename": "df_myw_966.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_966.jpg",
+            "type": "image",
+            "target_id": "1147861"
+        },
+        {
+            "originalFilename": "df_myw_967.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/July\/df_myw_967.jpg",
+            "type": "image",
+            "target_id": "1147866"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

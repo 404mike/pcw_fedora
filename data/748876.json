@@ -1,0 +1,75 @@
+{
+    "id": 748876,
+    "title": {
+        "en": "Merched y Wawr Tal-y-Bont Branch Trip 2010",
+        "cy": "Gwibdaith Merched y Wawr Tal-y-bont a\u2019r Cylch 2010"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748876",
+    "created": 1516898743,
+    "updated": 1516898743,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Gwibdaith Merched y Wawr Tal-y-bont a\u2019r Cylch ym Mai 2010 i Dy\u2019n y Braich, Dinas Mawddwy gan gerdded draw i Faesglasau.",
+        "cy": "Gwibdaith Merched y Wawr Tal-y-bont a\u2019r Cylch ym Mai 2010 i Dy\u2019n y Braich, Dinas Mawddwy gan gerdded draw i Faesglasau."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Tal-y-bont a\u2019r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Rhanbarth Ceredigion",
+        "Cangen Tal-y-bont ar Cylch"
+    ],
+    "when": [
+        "2010s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "8_Maesglasau0005-1-.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/8_Maesglasau0005-1-.jpg",
+            "type": "image",
+            "target_id": "748871"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

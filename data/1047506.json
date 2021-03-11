@@ -1,0 +1,65 @@
+{
+    "id": 1047506,
+    "title": {
+        "en": "President's Dinner in South Wales 2007",
+        "cy": "Cinio Llywydd yn y De 2007 \u2013 Gwesty&#039;r Strade, Llanelli"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047506",
+    "created": 1555590939,
+    "updated": 1555590939,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Guest Speaker, Dr Rosina Davies with the President Mary Price.",
+        "cy": "Gwraig Wadd, Dr Rosina Davies gyda'r Llywydd Mary Price."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "presidents dinner",
+        "Llanelli"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_140.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_140.jpg",
+            "type": "image",
+            "target_id": "1047501"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

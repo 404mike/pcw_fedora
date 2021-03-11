@@ -1,0 +1,90 @@
+{
+    "id": 745391,
+    "title": {
+        "en": "Merched y Wawr Cangen Glyn Nedd Programme 1970-1971\n\n",
+        "cy": "Rhaglen Merched y Wawr Cangen Glyn Nedd 1970-1971\n\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/745391",
+    "created": 1516896789,
+    "updated": 1516896789,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Merched y Wawr Cangen Glyn Nedd 1970-1971.  Cyfarfodydd i\u2019w cynnal yn Neuadd Ysgol Gymraeg Cwmnedd\nClawr gan gynnwys enwau\u2019r swyddogion",
+        "cy": "Rhaglen Merched y Wawr Cangen Glyn Nedd 1970-1971.  Cyfarfodydd i\u2019w cynnal yn Neuadd Ysgol Gymraeg Cwmnedd\nClawr gan gynnwys enwau\u2019r swyddogion"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Glyn Nedd",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Glyn Nedd",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.747413000000",
+            "lon": "-3.619701000000",
+            "description": {
+                "en": "Neuadd Ysgol Gymraeg Cwmnedd",
+                "cy": "Neuadd Ysgol Gymraeg Cwmnedd"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-020.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-020.jpg",
+            "type": "image",
+            "target_id": "745376"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-150217-021.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-150217-021.jpg",
+            "type": "image",
+            "target_id": "745381"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

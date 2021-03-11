@@ -1,0 +1,75 @@
+{
+    "id": 746901,
+    "title": {
+        "en": "Merched y Wawr Llanybyther Branch performing 'The Gypsies'",
+        "cy": "Aelodau Merched y Wawr Llanybydder yn canu \u2018Y Sipsiwn\u2019\n"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/746901",
+    "created": 1516897493,
+    "updated": 1516897493,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Aelodau Merched y Wawr Llanybydder yn cymryd rhan mewn cyngerdd yn canu \u2018Y Sipsiwn\u2019 ym 1985.  \nYn y llun:-\nHelen Davies, Elen Phillips, Betty Davies, Gwen Jones, Dulcie James, Gladys Evans, Nana Williams, Yvonne Davies, Bet Davies, Elonwy Davies, Jean Davies, Joan Evans, Megan Williams, Nel Jones",
+        "cy": "Aelodau Merched y Wawr Llanybydder yn cymryd rhan mewn cyngerdd yn canu \u2018Y Sipsiwn\u2019 ym 1985.  \nYn y llun:-\nHelen Davies, Elen Phillips, Betty Davies, Gwen Jones, Dulcie James, Gladys Evans, Nana Williams, Yvonne Davies, Bet Davies, Elonwy Davies, Jean Davies, Joan Evans, Megan Williams, Nel Jones"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Llanybydder",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Llanybydder",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [
+        "1980s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-054.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-054.jpg",
+            "type": "image",
+            "target_id": "746896"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

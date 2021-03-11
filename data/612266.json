@@ -1,0 +1,108 @@
+{
+    "id": 612266,
+    "title": {
+        "en": "Merched y Wawr St Clears Branch, First Book of Minutes, 1971",
+        "cy": "Cofnodion cyntaf Merched y Wawr, Cangen San Cler, 1971"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/612266",
+    "created": 1510753662,
+    "updated": 1510753662,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Cofnodion cyntaf Merched y Wawr, Cangen San Cler, 1971\nTudalen 1 \u2013 Cofnodion y cyfarfod i sefydlu\u2019r gangen yn Ysgol Gruffydd Jones, Mawrth 30 \/ Cofnodion cyfarfod pwyllgor y gangen ar Ebrill 27 , Ysgol Gruffydd Jones (fel y sillafwyd yn y cofnodion - Ysgol Griffith Jones)",
+        "cy": "Cofnodion cyntaf Merched y Wawr, Cangen San Cler, 1971\nTudalen 1 \u2013 Cofnodion y cyfarfod i sefydlu\u2019r gangen yn Ysgol Gruffydd Jones, Mawrth 30 \/ Cofnodion cyfarfod pwyllgor y gangen ar Ebrill 27 , Ysgol Gruffydd Jones (fel y sillafwyd yn y cofnodion - Ysgol Griffith Jones)"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen San Cler",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen San Cler",
+        "Rhanbarth Caerfyrddin"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [
+        {
+            "lat": "51.823822000000",
+            "lon": "-4.489772000000",
+            "description": {
+                "en": "Ysgol Griffith Jones, San Cler",
+                "cy": "Ysgol Griffith Jones, San Cler"
+            }
+        }
+    ],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-011.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-011.jpg",
+            "type": "image",
+            "target_id": "612236"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-014.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-014.jpg",
+            "type": "image",
+            "target_id": "612241"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-015.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-015.jpg",
+            "type": "image",
+            "target_id": "612246"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-016.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-016.jpg",
+            "type": "image",
+            "target_id": "612251"
+        },
+        {
+            "originalFilename": "MYW-DE-CAERFYRDDIN-130217-017.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/November\/MYW-DE-CAERFYRDDIN-130217-017.jpg",
+            "type": "image",
+            "target_id": "612256"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

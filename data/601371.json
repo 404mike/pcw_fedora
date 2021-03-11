@@ -1,0 +1,62 @@
+{
+    "id": 601371,
+    "title": {
+        "en": "Christmas Cake Decorations by a talented member of Merched y Wawr Garreg Wen Branch",
+        "cy": "Addurniadau Cacen Nadolig gan aelod o Ferched y Wawr Y Garreg Wen "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/601371",
+    "created": 1502449262,
+    "updated": 1505833097,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "<p>Gwaith arbennig Mrs Gwen Davies o Ferched y Wawr Cangen Y Garreg Wen yn creu Addurniadau Cacen Nadolig<\/p>\r\n<script>\r\n<\/script>",
+        "cy": "<p>Gwaith arbennig Mrs Gwen Davies o Ferched y Wawr Cangen Y Garreg Wen yn creu Addurniadau Cacen Nadolig<\/p>\r\n<script>\r\n<\/script>"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unknown",
+    "owner": "Cangen Y Garreg Wen",
+    "publisher": "",
+    "copyright": null,
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Y Garreg Wen",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "Garreg_Wen_Blodau_eisin_Gwen.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2017\/September\/Garreg_Wen_Blodau_eisin_Gwen.jpg",
+            "type": "image",
+            "target_id": "601370"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": null,
+    "publisher_ref": ""
+}

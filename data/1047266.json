@@ -1,0 +1,75 @@
+{
+    "id": 1047266,
+    "title": {
+        "en": "Swansea and District National Eisteddfod 2006",
+        "cy": "Eisteddfod Genedlaethol Abertawe a&#039;r Cylch 2006"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1047266",
+    "created": 1555590804,
+    "updated": 1555590804,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Glenys Thomas handing over the presidency to Mary Price. The first time the ceremony was conducted on the Eisteddfod stage.",
+        "cy": "Glenys Thomas yn trosglwyydo'r Llywyddiaeth i Mary Price. Y tro cyntaf i'r Seremoni gael ei chynnal ar lwyfan y Genedlaethol."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "SWANSEA",
+        "national eisteddfod",
+        "Ceremony",
+        "presidency",
+        "Eisteddfod Genedlaethol",
+        "abertawe",
+        "Seremoni",
+        "llywyddiaeth"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_113.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_113.jpg",
+            "type": "image",
+            "target_id": "1047256"
+        },
+        {
+            "originalFilename": "df_myw_114.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_114.jpg",
+            "type": "image",
+            "target_id": "1047261"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

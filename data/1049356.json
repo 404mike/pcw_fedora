@@ -1,0 +1,71 @@
+{
+    "id": 1049356,
+    "title": {
+        "en": "Urdd National Eisteddfod West Glamorgan 2011",
+        "cy": "Eisteddfod yr Urdd Gorllewin Morgannwg 2011"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/1049356",
+    "created": 1555591888,
+    "updated": 1555591888,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "MyW Stand",
+        "cy": "Stondin MyW"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "Delyth Fletcher",
+    "owner": "Delyth Fletcher",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "MYW",
+        "urdd national eisteddfod",
+        "eisteddfod yr urdd"
+    ],
+    "when": [],
+    "what": [],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "df_myw_345.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_345.jpg",
+            "type": "image",
+            "target_id": "1049346"
+        },
+        {
+            "originalFilename": "df_myw_346.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2019\/April\/df_myw_346.jpg",
+            "type": "image",
+            "target_id": "1049351"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

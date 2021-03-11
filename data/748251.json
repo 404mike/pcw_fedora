@@ -1,0 +1,81 @@
+{
+    "id": 748251,
+    "title": {
+        "en": "Merched y Wawr Pontarddulais Branch Programme 1975 - 1976",
+        "cy": "Rhaglen Cyntaf Merched y Wawr Cangen Pontarddulais a&#039;r Cylch 1975 \u2013 1976"
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/748251",
+    "created": 1516898467,
+    "updated": 1516898467,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Rhaglen Cyntaf Merched y Wawr Cangen Pontarddulais 1975 \u2013 1976\nClawr (Man cyfarfod, Institiwt, Pontarddulais). Gweithgareddau\u2019r tymor",
+        "cy": "Rhaglen Cyntaf Merched y Wawr Cangen Pontarddulais 1975 \u2013 1976\nClawr (Man cyfarfod, Institiwt, Pontarddulais). Gweithgareddau\u2019r tymor"
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Pontarddulais a&#039;r Cylch",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Pontarddulais ar Cylch",
+        "Rhanbarth Gorllewin Morgannwg"
+    ],
+    "when": [
+        "1970s"
+    ],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-068.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-068.jpg",
+            "type": "image",
+            "target_id": "748241"
+        },
+        {
+            "originalFilename": "MYW-DE-GORLLMORGANNWG-160217-069.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-GORLLMORGANNWG-160217-069.jpg",
+            "type": "image",
+            "target_id": "748246"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}

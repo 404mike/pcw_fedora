@@ -1,0 +1,73 @@
+{
+    "id": 744806,
+    "title": {
+        "en": "Merched y Wawr flower arranging competition ",
+        "cy": "Cystadleuaeth gosod blodau Merched y Wawr \u2018T\u00e2n ar y Comin\u2019.  "
+    },
+    "nodeType": "item",
+    "url": "http:\/\/drupalvm.local\/items\/744806",
+    "created": 1516896495,
+    "updated": 1516896495,
+    "status": "published",
+    "type": "item",
+    "description": {
+        "en": "Eiddwen Williams o Ferched y Wawr Cylch Aeron a ddaeth yn ail yn y Sioe Frenhinol yn Llanelwedd yn y gystadleuaeth gosod blodau dan y thema \u2018T\u00e2n ar y Comin\u2019.",
+        "cy": "Eiddwen Williams o Ferched y Wawr Cylch Aeron a ddaeth yn ail yn y Sioe Frenhinol yn Llanelwedd yn y gystadleuaeth gosod blodau dan y thema \u2018T\u00e2n ar y Comin\u2019."
+    },
+    "author": {
+        "id": 7859,
+        "name": "Merched y Wawr"
+    },
+    "creator": "unkown",
+    "owner": "Cangen Cylch Aeron",
+    "publisher": "",
+    "copyright": [
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        },
+        {
+            "holder": [],
+            "year": null,
+            "type": ""
+        }
+    ],
+    "license": {
+        "reproducedPermission": [],
+        "additionalText": [],
+        "type": null
+    },
+    "tags": [
+        "merched y wawr",
+        "Womens History",
+        "Clubs and Organisations",
+        "MYW",
+        "Dathlu 50",
+        "Y Wawr",
+        "Hanes Merched",
+        "Cymdeithasau a Chlybiau",
+        "Cangen Cylch Aeron",
+        "Rhanbarth Ceredigion"
+    ],
+    "when": [],
+    "what": [
+        "Societies and clubs"
+    ],
+    "learn": [],
+    "locations": [],
+    "files": [
+        {
+            "originalFilename": "MYW-DE-CEREDIGION-150317-043.jpg",
+            "url": "http:\/\/drupalvm.local\/sites\/default\/files\/images\/2018\/January\/MYW-DE-CEREDIGION-150317-043.jpg",
+            "type": "image",
+            "target_id": "744801"
+        }
+    ],
+    "original_item_url": {
+        "en": "",
+        "cy": ""
+    },
+    "guid": "",
+    "publisher_ref": ""
+}
