@@ -158,7 +158,7 @@ class RDF {
   
     // ********
   
-    $pcw_rdf_doc = $graph->resource("www.peoplescollection.wales/node/$nid.rdf", 'foaf:Document');
+    $pcw_rdf_doc = $graph->resource("htps://www.peoplescollection.wales/node/$nid.rdf", 'foaf:Document');
   
     // topic
     $topic = $graph->resource("https://www.peoplescollection.wales/items/$nid#this");
@@ -207,7 +207,7 @@ class RDF {
   
     # Finally output the graph
     $data = $graph->serialise('rdfxml');
-    
+
     return $data;
   }
 }
