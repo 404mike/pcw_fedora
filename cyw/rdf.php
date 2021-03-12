@@ -79,7 +79,7 @@ class RDF {
     }
   
     // rights date
-    if(isset($data['copyright'][0]['year'])) {
+    if(isset($data['copyright'][0]['year']) && !empty($data['copyright'][0]['year'])) {
       $pcw_rdf_desc->add('pcw:rightsDate', 
         array(
           'type' => 'literal',
