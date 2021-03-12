@@ -72,6 +72,7 @@ class Fedora {
         'fedoraAdmin'
       ],
       'headers' => [
+        'Slug' => $filname,
         'Content-Type' => 'image/jpeg',
         'Content-Disposition' => 'attachment',
         'filename' => $filname,
