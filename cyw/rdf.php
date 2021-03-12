@@ -186,7 +186,7 @@ class RDF {
     );  
   
     // created
-    $created = date('Y-m-d\TG:i:s+01:00',$data['created']);
+    $created = date('Y-m-d\TH:i:s+01:00',$data['created']);
     $pcw_rdf_doc->add('dct:created', 
       array(
         'type' => 'literal',
@@ -196,7 +196,7 @@ class RDF {
     );  
   
     // modified
-    $updated = date('Y-m-d\TG:i:s+01:00',$data['updated']);
+    $updated = date('Y-m-d\TH:i:s+01:00',$data['updated']);
     $pcw_rdf_doc->add('dct:modified', 
       array(
         'type' => 'literal',

@@ -13,16 +13,20 @@ class PCWIngest {
    */
   private function loopFiles()
   {
+    $loop = 0;
     $files = glob('data/*.{json}', GLOB_BRACE);
+    
     foreach($files as $file) {
+      // if($loop > 1000) die('Finished');
       $json = file_get_contents($file);
       $data = json_decode($json,true);
       $nid = $data['id'];
  
       echo "\n***************\n";
-      echo "Trying to create Fedora entry for nid: $nid\n";
+      echo "Loop $loop: Trying to create Fedora entry for nid: $nid\n";
 
       $this->ingestRdf($json, $data['files'], $nid);
+      $loop++;
     }
   }
 
