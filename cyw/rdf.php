@@ -73,7 +73,7 @@ class RDF {
     }
     
     // rights
-    if(isset($data['copyright'][0]['type'])) {
+    if(isset($data['copyright'][0]['type']) && !empty($data['copyright'][0]['type'])) {
       $rights = $graph->resource("https://www.peoplescollection.wales/ontologies/PCW#".$data['copyright'][0]['type']);
       $pcw_rdf_desc->add('dct:rights', $rights);
     }
@@ -150,7 +150,7 @@ class RDF {
     }
 
     // location
-    if(!isset($data['locations'][0])) {
+    if(isset($data['locations'][0])) {
       $latlon = $data['locations'][0]['lat'] . ',' . $data['locations'][0]['lon'];
       $pcw_rdf_desc->add('dct:coverage', $latlon);
     }
