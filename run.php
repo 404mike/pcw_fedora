@@ -1,17 +1,39 @@
 <?php
 require_once realpath(__DIR__.'./')."vendor/autoload.php";
 
+use monolog\Logger;
+
 class PCWIngest {
+
+  // set up the logger
+  private $logger;
+  private array $config;
   
   public function __construct()
   {
+    $this->logger = new Logger('PCWIngest');
+    $this->logger->pushHandler(new StreamHandler('logs/pcw.log', Logger::DEBUG));
+
     $this->loopFiles();
+  }
+
+  private function setConfig(): void
+  {
+    $this->config = [
+      'fedora' => [
+        'url' => 'http://localhost:8080/fcrepo/rest/',
+        'auth' => [
+          'fedoraAdmin',
+          'fedoraAdmin'
+        ]
+      ]
+    ];
   }
 
   /**
    * Loop all the JSON files in ./data
    */
-  private function loopFiles()
+  private function loopFiles(): void
   {
     $loop = 0;
     $files = glob('data/*.{json}', GLOB_BRACE);
@@ -23,7 +45,9 @@ class PCWIngest {
       $nid = $data['id'];
  
       echo "\n***************\n";
-      echo "Loop $loop: Trying to create Fedora entry for nid: $nid\n";
+      $info = "Loop $loop: Trying to create Fedora entry for nid: $nid";
+      echo "$info\n";
+      $this->logger->info($info);
 
       $this->ingestRdf($json, $data['files'], $nid);
       $loop++;
@@ -31,32 +55,40 @@ class PCWIngest {
   }
 
   /**
-   * 
+   * Ingest RDF document to Fedora
+   * @param string $json
+   * @param array $images
+   * @param string $nid
    */
-  private function ingestRdf($json, $images, $nid)
+  private function ingestRdf(string $json, array $images, string $nid): void
   {
-
     $rdf = \CyW\RDF::format($json);
     $response = \CyW\Fedora::ingestRdf("item_$nid", $rdf);
-    echo "Response for item creation: $response\n";
+    
     if($response == 201){
       $this->ingestImages($images, $nid);
     }else{
-      die('error');
+      $this->logger->error('Error creating item for nid: '.$nid);
     }
-
   }
 
-  private function ingestImages($files, $nid)
+  /**
+   * Ingest images to Fedora
+   * @param array $files
+   * @param string $nid
+   */
+  private function ingestImages(array $files, string $nid): void
   {
     foreach ($files as $key => $value) {
       $filename = $value['originalFilename'];
+      $this->logger->info('Creating image for nid: '.$nid.' with filename: '.$filename);
       $fedora = \CyW\Fedora::ingestImages("item_$nid", "images/$filename", $filename);
-      echo "Response for image $filename: $fedora\n";
+
+      if($fedora != 201){
+        $this->logger->error('Error creating image for nid: '.$nid);
+      }
     }
   }
 }
 
 (new PCWIngest());
-  
-  

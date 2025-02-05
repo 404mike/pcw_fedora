@@ -3,211 +3,124 @@ namespace cyw;
 
 class RDF {
 
-  private $domain = 'https://www.peoplescollection.wales';
+  private string $domain = 'https://www.peoplescollection.wales';
+  private array $graph;
 
-  /**
-   * 
-   */
-  public function format($json)
-  {
-    // decode JSON
-    $data = json_decode($json,true);
+  public function __construct() {
+    $this->graph = new \EasyRdf\Graph();
+    $this->setNamespaces();
+  }
 
-    // item node id
-    $nid = $data['id'];
-
-    // ontologies
-    \EasyRdf\RdfNamespace::set('pcw',  'https://www.peoplescollection.wales/ontologies/PCW#');
-    \EasyRdf\RdfNamespace::set('cc',   'http://creativecommons.org/ns#');
+  private function setNamespaces(): void {
+    // Set namespaces to commonly accepted ontologies
+    \EasyRdf\RdfNamespace::set('cc', 'http://creativecommons.org/ns#');
     \EasyRdf\RdfNamespace::set('foaf', 'http://xmlns.com/foaf/0.1/');
-    \EasyRdf\RdfNamespace::set('dct',  'http://purl.org/dc/terms/');
-  
-    $graph = new \EasyRdf\Graph();
-  
-    $pcw_rdf_desc = $graph->resource('https://www.peoplescollection.wales/' . $nid . '#this', 'foaf:Description');
-  
-    // type
-    $type = $graph->resource("https://www.peoplescollection.wales/ontologies/PCW#Image");
-    $pcw_rdf_desc->add('rdf:type', $type);
-  
-    // Title
-    if(isset($data['title']['en'])) {
-      $pcw_rdf_desc->addLiteral('dct:title', $data['title']['en'] , "en-GB");
-    }
+    \EasyRdf\RdfNamespace::set('dct', 'http://purl.org/dc/terms/');
+    \EasyRdf\RdfNamespace::set('schema', 'http://schema.org/');
+    \EasyRdf\RdfNamespace::set('prov', 'http://www.w3.org/ns/prov#');
+  }
 
-    if(isset($data['title']['cy'])) {
-      $pcw_rdf_desc->addLiteral('dct:title', $data['title']['cy'] , "cy-GB");
+  private function addLiteralWithLang(\EasyRdf\Resource $resource, string $property, array $values, array $langMap): void {
+    foreach ($langMap as $lang => $langTag) {
+      if (isset($values[$lang])) {
+        $resource->addLiteral($property, $values[$lang], $langTag);
+      }
     }
-  
-    // creator
-    $pcw_rdf_desc->add('dct:creator', 
-        array(
+  }
+
+  private function addLiteralProperty(\EasyRdf\Resource $resource, string $property, ?string $value, string $datatype): void {
+    if (!empty($value)) {
+      $resource->add($property, [
         'type' => 'literal',
-        'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-        'value' => $data['creator']
-      )
-    );
-  
-    // owner
-    $pcw_rdf_desc->add('dct:provenance', 
-        array(
-        'type' => 'literal',
-        'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-        'value' => $data['owner']
-      )
-    );
-  
-    // description
-    if(isset($data['description']['en'])) {
-      $pcw_rdf_desc->addLiteral('dct:description', $data['description']['en'] , "en-GB");
+        'datatype' => $datatype,
+        'value' => $value
+      ]);
+    }
+  }
+
+  private function addSubjects(\EasyRdf\Resource $resource, string $property, array $subjects): void {
+    foreach ($subjects as $subject) {
+      $this->addLiteralProperty($resource, $property, $subject, 'http://www.w3.org/2001/XMLSchema#string');
+    }
+  }
+
+  public function format(string $json): string {
+    $data = json_decode($json, true);
+
+    if (json_last_error() !== JSON_ERROR_NONE || empty($data['id'])) {
+      throw new \InvalidArgumentException("Invalid JSON input or missing required data");
     }
 
-    if(isset($data['description']['cy'])) {
-      $pcw_rdf_desc->addLiteral('dct:description', $data['description']['cy'] , "cy-GB");
-    }
-    
-    // license
-    if(isset($data['license']['type'])) {
-      $license = $graph->resource("https://www.peoplescollection.wales/ontologies/PCW#".$data['license']['type']);
-      $pcw_rdf_desc->add('dct:license', $license);
-    }
-    
-    // rights
-    if(isset($data['copyright'][0]['type']) && !empty($data['copyright'][0]['type'])) {
-      $rights = $graph->resource("https://www.peoplescollection.wales/ontologies/PCW#".$data['copyright'][0]['type']);
-      $pcw_rdf_desc->add('dct:rights', $rights);
-    }
-  
-    // rights date
-    if(isset($data['copyright'][0]['year']) && !empty($data['copyright'][0]['year'])) {
-      $pcw_rdf_desc->add('pcw:rightsDate', 
-        array(
-          'type' => 'literal',
-          'datatype' => 'http://www.w3.org/2001/XMLSchema#gYear',
-          'value' => $data['copyright'][0]['year']
-        )
-      );
-    }
-  
-    // rights holder
-    if(isset($data['copyright'][0]['holder']['en'])) {
-      $pcw_rdf_desc->add('dct:rightsHolder', 
-        array(
-          'type' => 'literal',
-          'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-          'value' => $data['copyright'][0]['holder']['en']
-        )
-      );
+    $nid = $data['id'];
+    $descResource = $this->graph->resource("{$this->domain}/$nid#this", 'foaf:Description');
+
+    // Updated: Use schema:ImageObject instead of pcw:Image
+    $descResource->add('rdf:type', $this->graph->resource('schema:ImageObject'));
+
+    // Add titles
+    $this->addLiteralWithLang($descResource, 'schema:name', $data['title'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
+
+    // Add descriptions
+    $this->addLiteralWithLang($descResource, 'schema:description', $data['description'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
+
+    // Add creator
+    $this->addLiteralProperty($descResource, 'dct:creator', $data['creator'], 'http://www.w3.org/2001/XMLSchema#string');
+
+    // Add owner (provenance)
+    $this->addLiteralProperty($descResource, 'dct:provenance', $data['owner'], 'http://www.w3.org/2001/XMLSchema#string');
+
+    // Add license
+    if (!empty($data['license']['type'])) {
+      $licenseResource = $this->graph->resource("schema:license");
+      $descResource->add('dct:license', $licenseResource);
     }
 
-    if(isset($data['copyright'][0]['holder']['cy'])) {
-      $pcw_rdf_desc->add('dct:rightsHolder', 
-        array(
-          'type' => 'literal',
-          'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-          'value' => $data['copyright'][0]['holder']['cy']
-        )
-      );
-    } 
-  
-    // subject
-    if(!empty($data['tags'])) {
-      foreach($data['tags'] as $subK => $subV) {
-        $pcw_rdf_desc->add('dct:subject', 
-          array(
-            'type' => 'literal',
-            'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-            'value' => $subV
-          )
-        );    
+    // Add rights and provenance
+    if (!empty($data['copyright'][0])) {
+      $copyright = $data['copyright'][0];
+      if (!empty($copyright['type'])) {
+        $rightsResource = $this->graph->resource("schema:license");
+        $descResource->add('dct:rights', $rightsResource);
+      }
+      if (!empty($copyright['year'])) {
+        // Updated: Use prov:generatedAtTime instead of pcw:rightsDate
+        $this->addLiteralProperty($descResource, 'prov:generatedAtTime', $copyright['year'], 'http://www.w3.org/2001/XMLSchema#gYear');
+      }
+      foreach (['en', 'cy'] as $lang) {
+        if (!empty($copyright['holder'][$lang])) {
+          $this->addLiteralProperty($descResource, 'dct:rightsHolder', $copyright['holder'][$lang], 'http://www.w3.org/2001/XMLSchema#string');
+        }
       }
     }
 
-    // what facet
-    if(!empty($data['what'])) {
-      foreach($data['what'] as $whatK => $whatV) {
-        $pcw_rdf_desc->add('dct:subject', 
-          array(
-            'type' => 'literal',
-            'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-            'value' => $whatV
-          )
-        );    
-      }
+    // Add subjects and tags
+    $this->addSubjects($descResource, 'dct:subject', $data['tags'] ?? []);
+    $this->addSubjects($descResource, 'dct:subject', $data['what'] ?? []);
+    $this->addSubjects($descResource, 'dct:subject', $data['when'] ?? []);
+
+    // Add location
+    if (!empty($data['locations'][0])) {
+      $location = "{$data['locations'][0]['lat']},{$data['locations'][0]['lon']}";
+      $descResource->add('schema:spatialCoverage', $location);
     }
 
-    // when facet
-    if(!empty($data['when'])) {
-      foreach($data['when'] as $whenK => $whenV) {
-        $pcw_rdf_desc->add('dct:subject', 
-          array(
-            'type' => 'literal',
-            'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-            'value' => $whenV
-          )
-        );    
-      }
+    // Build the RDF document resource
+    $docResource = $this->graph->resource("{$this->domain}/node/$nid.rdf", 'foaf:Document');
+
+    // Add topic and license
+    $docResource->add('foaf:primaryTopic', $descResource);
+    $docResource->add('cc:license', $this->graph->resource("http://creativecommons.org/licenses/by/4.0/"));
+    $docResource->add('cc:attributionURL', $this->graph->resource("{$this->domain}/items/$nid"));
+    $this->addLiteralProperty($docResource, 'cc:attributionName', "People's Collection Wales", 'http://www.w3.org/2001/XMLSchema#string');
+
+    // Add created and modified timestamps
+    if (!empty($data['created'])) {
+      $this->addLiteralProperty($docResource, 'dct:created', date('Y-m-d\TH:i:s+01:00', $data['created']), 'http://www.w3.org/2001/XMLSchema#dateTime');
+    }
+    if (!empty($data['updated'])) {
+      $this->addLiteralProperty($docResource, 'dct:modified', date('Y-m-d\TH:i:s+01:00', $data['updated']), 'http://www.w3.org/2001/XMLSchema#dateTime');
     }
 
-    // location
-    if(isset($data['locations'][0])) {
-      $latlon = $data['locations'][0]['lat'] . ',' . $data['locations'][0]['lon'];
-      $pcw_rdf_desc->add('dct:coverage', $latlon);
-    }
-    
-  
-    // ********
-  
-    $pcw_rdf_doc = $graph->resource("htps://www.peoplescollection.wales/node/$nid.rdf", 'foaf:Document');
-  
-    // topic
-    $topic = $graph->resource("https://www.peoplescollection.wales/items/$nid#this");
-    $pcw_rdf_doc->add('foaf:primaryTopic', $topic);
-  
-    // cc license
-    $cc_license = $graph->resource("http://creativecommons.org/licenses/by/4.0/");
-    $pcw_rdf_doc->add('cc:license', $cc_license);
-  
-    // cc attributionURL
-    $cc_attributionURL = $graph->resource("https://www.peoplescollection.wales/items/$nid");
-    $pcw_rdf_doc->add('cc:attributionURL', $cc_attributionURL);
-  
-    // cc attributionName
-    $cc_attributionName = $graph->resource("https://www.peoplescollection.wales/items/$nid");
-    $pcw_rdf_doc->add('cc:attributionURL', $cc_attributionURL);
-  
-    // cc attributionName
-    $pcw_rdf_doc->add('cc:attributionName', 
-      array(
-        'type' => 'literal',
-        'datatype' => 'http://www.w3.org/2001/XMLSchema#string',
-        'value' => 'People\'s Collection Wales'
-      )
-    );  
-  
-    // created
-    $created = date('Y-m-d\TH:i:s+01:00',$data['created']);
-    $pcw_rdf_doc->add('dct:created', 
-      array(
-        'type' => 'literal',
-        'datatype' => 'http://www.w3.org/2001/XMLSchema#dateTime',
-        'value' => $created
-      )
-    );  
-  
-    // modified
-    $updated = date('Y-m-d\TH:i:s+01:00',$data['updated']);
-    $pcw_rdf_doc->add('dct:modified', 
-      array(
-        'type' => 'literal',
-        'datatype' => 'http://www.w3.org/2001/XMLSchema#dateTime',
-        'value' => $updated
-      )
-    ); 
-  
-    # Finally output the graph
-    $data = $graph->serialise('rdfxml');
-
-    return $data;
+    return $this->graph->serialise('rdfxml');
   }
 }

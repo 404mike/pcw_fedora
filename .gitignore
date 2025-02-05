@@ -1,2 +1,5 @@
 vendor
 images/*
+.env
+data/*
+logs/*

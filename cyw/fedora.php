@@ -3,19 +3,26 @@ namespace cyw;
 
 class Fedora {
 
+  private array $config;
+
+  public function __construct(array $config)
+  {
+    $this->config = $config;
+  }
+
   /**
    * Create a new basic container within Fedora
    * @param string $slug
    * @return int
    */
-  public function createBasicContainer($slug)
+  public function createBasicContainer(string $slug): int
   {
-    $client = new \GuzzleHttp\Client(['base_uri' => 'http://localhost:8080/fcrepo/rest/']);
+    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
 
     $res = $client->request('POST', 'pcw', [
       'auth' => [
-        'fedoraAdmin',
-        'fedoraAdmin'
+        $this->config['fedora']['username'],
+        $this->config['fedora']['password']
       ],
       'headers' => [
           'Slug' => $slug
@@ -29,17 +36,17 @@ class Fedora {
   /**
    * Ingest RDF document to Fedora
    * @param string $slug
-   * @param object $rdf
+   * @param string $rdf
    * @return int
    */
-  public function ingestRdf($slug, $rdf)
+  public function ingestRdf(string $slug, string $rdf): int
   {
-    $client = new \GuzzleHttp\Client(['base_uri' => 'http://localhost:8080/fcrepo/rest/']);
+    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
 
     $res = $client->request('POST', 'pcw', [
       'auth' => [
-        'fedoraAdmin',
-        'fedoraAdmin'
+        $this->config['fedora']['username'],
+        $this->config['fedora']['password']
       ],
       'headers' => [
         'Slug' => $slug,
@@ -57,25 +64,25 @@ class Fedora {
    * Ingest image to item endpoint
    * @param string $slug
    * @param string $image
-   * @param string $filname
+   * @param string $filename
    * @return int
    */
-  public function ingestImages($slug, $image, $filname)
+  public function ingestImages(string $slug, string $image, string $filename): int
   {
     if(!file_exists($image)) die('No image at '. $image);
 
-    $client = new \GuzzleHttp\Client(['base_uri' => 'http://localhost:8080/fcrepo/rest/']);
+    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
 
     $res = $client->request('POST', 'pcw/'.$slug, [
       'auth' => [
-        'fedoraAdmin',
-        'fedoraAdmin'
+        $this->config['fedora']['username'],
+        $this->config['fedora']['password']
       ],
       'headers' => [
-        'Slug' => $filname,
+        'Slug' => $filename,
         'Content-Type' => 'image/jpeg',
         'Content-Disposition' => 'attachment',
-        'filename' => $filname,
+        'filename' => $filename,
       ],
       'body' => file_get_contents($image)
       
