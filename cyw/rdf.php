@@ -1,25 +1,48 @@
 <?php
 namespace cyw;
 
+/**
+ * Class RDF
+ * 
+ * This class handles the creation and manipulation of RDF data using the EasyRDF library.
+ */
 class RDF {
 
   private string $domain = 'https://www.peoplescollection.wales';
-  private array $graph;
+  private \EasyRDF\Graph $graph;
 
+  /**
+   * RDF constructor.
+   * 
+   * Initializes the RDF graph and sets the namespaces.
+   */
   public function __construct() {
     $this->graph = new \EasyRdf\Graph();
     $this->setNamespaces();
   }
 
+  /**
+   * Set commonly accepted namespaces for RDF.
+   * 
+   * @return void
+   */
   private function setNamespaces(): void {
-    // Set namespaces to commonly accepted ontologies
-    \EasyRdf\RdfNamespace::set('cc', 'http://creativecommons.org/ns#');
-    \EasyRdf\RdfNamespace::set('foaf', 'http://xmlns.com/foaf/0.1/');
-    \EasyRdf\RdfNamespace::set('dct', 'http://purl.org/dc/terms/');
     \EasyRdf\RdfNamespace::set('schema', 'http://schema.org/');
+    \EasyRdf\RdfNamespace::set('dct', 'http://purl.org/dc/terms/');
     \EasyRdf\RdfNamespace::set('prov', 'http://www.w3.org/ns/prov#');
+    \EasyRdf\RdfNamespace::set('foaf', 'http://xmlns.com/foaf/0.1/');
+    \EasyRdf\RdfNamespace::set('cc', 'http://creativecommons.org/ns#');
   }
 
+  /**
+   * Add a literal property with language tags to a resource.
+   * 
+   * @param \EasyRdf\Resource $resource The RDF resource to which the property will be added.
+   * @param string $property The property to be added.
+   * @param array $values The values to be added.
+   * @param array $langMap The language tags for the values.
+   * @return void
+   */
   private function addLiteralWithLang(\EasyRdf\Resource $resource, string $property, array $values, array $langMap): void {
     foreach ($langMap as $lang => $langTag) {
       if (isset($values[$lang])) {
@@ -28,6 +51,15 @@ class RDF {
     }
   }
 
+  /**
+   * Add a literal property to a resource.
+   * 
+   * @param \EasyRdf\Resource $resource The RDF resource to which the property will be added.
+   * @param string $property The property to be added.
+   * @param string|null $value The value of the property.
+   * @param string $datatype The datatype of the property.
+   * @return void
+   */
   private function addLiteralProperty(\EasyRdf\Resource $resource, string $property, ?string $value, string $datatype): void {
     if (!empty($value)) {
       $resource->add($property, [
@@ -38,12 +70,27 @@ class RDF {
     }
   }
 
+  /**
+   * Add multiple subjects to a resource.
+   * 
+   * @param \EasyRdf\Resource $resource The RDF resource to which the subjects will be added.
+   * @param string $property The property to be added.
+   * @param array $subjects The subjects to be added.
+   * @return void
+   */
   private function addSubjects(\EasyRdf\Resource $resource, string $property, array $subjects): void {
     foreach ($subjects as $subject) {
       $this->addLiteralProperty($resource, $property, $subject, 'http://www.w3.org/2001/XMLSchema#string');
     }
   }
 
+  /**
+   * Format JSON data into an RDF/XML string.
+   * 
+   * @param string $json The JSON string containing the data.
+   * @return string The formatted RDF/XML string.
+   * @throws \InvalidArgumentException If the JSON input is invalid or missing required data.
+   */
   public function format(string $json): string {
     $data = json_decode($json, true);
 
@@ -54,14 +101,15 @@ class RDF {
     $nid = $data['id'];
     $descResource = $this->graph->resource("{$this->domain}/$nid#this", 'foaf:Description');
 
+    // TODO: Add more properties to the RDF document
     // Updated: Use schema:ImageObject instead of pcw:Image
     $descResource->add('rdf:type', $this->graph->resource('schema:ImageObject'));
 
     // Add titles
-    $this->addLiteralWithLang($descResource, 'schema:name', $data['title'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
+    $this->addLiteralWithLang($descResource, 'dc:title', $data['title'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
 
     // Add descriptions
-    $this->addLiteralWithLang($descResource, 'schema:description', $data['description'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
+    $this->addLiteralWithLang($descResource, 'dc:description', $data['description'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
 
     // Add creator
     $this->addLiteralProperty($descResource, 'dct:creator', $data['creator'], 'http://www.w3.org/2001/XMLSchema#string');
@@ -83,7 +131,6 @@ class RDF {
         $descResource->add('dct:rights', $rightsResource);
       }
       if (!empty($copyright['year'])) {
-        // Updated: Use prov:generatedAtTime instead of pcw:rightsDate
         $this->addLiteralProperty($descResource, 'prov:generatedAtTime', $copyright['year'], 'http://www.w3.org/2001/XMLSchema#gYear');
       }
       foreach (['en', 'cy'] as $lang) {
@@ -122,5 +169,13 @@ class RDF {
     }
 
     return $this->graph->serialise('rdfxml');
+  }
+
+  private function getMediaType($file)
+  {
+    $finfo = finfo_open(FILEINFO_MIME_TYPE);
+    $mime = finfo_file($finfo, $file);
+    finfo_close($finfo);
+    return $mime;
   }
 }

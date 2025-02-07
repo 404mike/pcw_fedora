@@ -3,15 +3,29 @@ require_once realpath(__DIR__.'./')."vendor/autoload.php";
 
 use Dotenv\Dotenv;
 use Monolog\Logger;
+use cyw\HttpStatusCode;
 use Monolog\Handler\StreamHandler;
 
+/**
+ * Class PCWIngest
+ * 
+ * This class handles the ingestion of RDF documents and images into a Fedora repository.
+ * It reads configuration from a .env file, processes JSON files from a data directory,
+ * and logs the process using Monolog.
+ */
 class PCWIngest {
 
-  private Logger $logger;
   private array $config;
+  private Logger $logger;
   private \CyW\Fedora $fedora;
   private \CyW\RDF $rdf;
   
+  /**
+   * PCWIngest constructor.
+   * 
+   * Initializes the environment, logger, configuration, and dependencies.
+   * Starts the process of looping through JSON files for ingestion.
+   */
   public function __construct()
   {
     $dotenv = Dotenv::createImmutable(__DIR__);
@@ -25,9 +39,14 @@ class PCWIngest {
     $this->rdf = new \CyW\RDF();
     $this->fedora = new \CyW\Fedora($this->config);
 
-    $this->loopFiles();
+    $this->loopFilesToIngest();
   }
 
+  /**
+   * Set configuration from environment variables.
+   * 
+   * Loads Fedora configuration (URL, username, password) from the .env file.
+   */
   private function setConfig(): void
   {
     $this->config = [
@@ -40,9 +59,11 @@ class PCWIngest {
   }
 
   /**
-   * Loop all the JSON files in ./data
+   * Loop through all JSON files in the ./data directory.
+   * 
+   * Processes each JSON file, extracts the necessary data, and initiates the ingestion process.
    */
-  private function loopFiles(): void
+  private function loopFilesToIngest(): void
   {
     $loop = 0;
     $files = glob('data/*.{json}', GLOB_BRACE);
@@ -63,10 +84,11 @@ class PCWIngest {
   }
 
   /**
-   * Ingest RDF document to Fedora
-   * @param string $json
-   * @param array $images
-   * @param string $nid
+   * Ingest RDF document to Fedora.
+   * 
+   * @param string $json The JSON string containing the RDF data.
+   * @param array $images The array of images associated with the RDF data.
+   * @param string $nid The unique identifier for the RDF data.
    */
   private function ingestRdf(string $json, array $images, string $nid): void
   {
@@ -76,7 +98,7 @@ class PCWIngest {
     die();
     $response = $this->fedora->ingestRdf("item_$nid", $rdf);
     
-    if($response == 201){
+    if($response == HttpStatusCode::CREATED->value){
       $this->ingestImages($images, $nid);
     }else{
       $this->logger->error('Error creating item for nid: '.$nid);
@@ -84,19 +106,20 @@ class PCWIngest {
   }
 
   /**
-   * Ingest images to Fedora
-   * @param array $files
-   * @param string $nid
+   * Ingest images to Fedora.
+   * 
+   * @param array $files The array of image files to be ingested.
+   * @param string $nid The unique identifier for the RDF data.
    */
   private function ingestImages(array $files, string $nid): void
   {
     foreach ($files as $key => $value) {
       $filename = $value['originalFilename'];
-      $this->logger->info('Creating image for nid: '.$nid.' with filename: '.$filename);
+      $this->logger->info('Uploading media for nid: '.$nid.' with filename: '.$filename);
       $fedora = $this->fedora->ingestImages("item_$nid", "images/$filename", $filename);
 
-      if($fedora != 201){
-        $this->logger->error('Error creating image for nid: '.$nid);
+      if($fedora != HttpStatusCode::CREATED->value){
+        $this->logger->error('Error uploading media for nid: '.$nid);
       }
     }
   }
