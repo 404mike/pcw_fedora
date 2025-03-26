@@ -9,7 +9,7 @@ namespace cyw;
  */
 class Fedora {
 
-  private array $config;
+  private string $projectId;
 
   /**
    * Fedora constructor.
@@ -20,7 +20,7 @@ class Fedora {
    */
   public function __construct(array $config)
   {
-    $this->config = $config;
+    $this->projectId = $_ENV['FEDORA_PROJECT_ID'];
   }
 
   /**
@@ -31,12 +31,12 @@ class Fedora {
    */
   public function createBasicContainer(string $slug): int
   {
-    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
+    $client = new \GuzzleHttp\Client(['base_uri' => $_ENV['FEDORA_URL']]);
 
     $res = $client->request('POST', 'pcw', [
       'auth' => [
-        $this->config['fedora']['username'],
-        $this->config['fedora']['password']
+        $_ENV['FEDORA_USERNAME'],
+        $_ENV['FEDORA_PASSWORD']
       ],
       'headers' => [
           'Slug' => $slug
@@ -55,12 +55,12 @@ class Fedora {
    */
   public function ingestRdf(string $slug, string $rdf): int
   {
-    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
+    $client = new \GuzzleHttp\Client(['base_uri' => $_ENV['FEDORA_URL']]);
 
-    $res = $client->request('POST', 'pcw', [
+    $res = $client->request('POST', $this->projectId, [
       'auth' => [
-        $this->config['fedora']['username'],
-        $this->config['fedora']['password']
+        $_ENV['FEDORA_USERNAME'],
+        $_ENV['FEDORA_PASSWORD']
       ],
       'headers' => [
         'Slug' => $slug,
@@ -86,12 +86,12 @@ class Fedora {
         throw new \InvalidArgumentException('No image at ' . $image);
     }
 
-    $client = new \GuzzleHttp\Client(['base_uri' => $this->config['fedora']['url']]);
+    $client = new \GuzzleHttp\Client(['base_uri' => $_ENV['FEDORA_URL']]);
 
-    $res = $client->request('POST', 'pcw/'.$slug, [
+    $res = $client->request('POST', $this->projectId . '/' . $slug, [
       'auth' => [
-        $this->config['fedora']['username'],
-        $this->config['fedora']['password']
+        $_ENV['FEDORA_USERNAME'],
+        $_ENV['FEDORA_PASSWORD']
       ],
       'headers' => [
         'Slug' => $filename,

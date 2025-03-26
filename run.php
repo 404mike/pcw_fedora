@@ -15,7 +15,6 @@ use Monolog\Handler\StreamHandler;
  */
 class PCWIngest {
 
-  private array $config;
   private Logger $logger;
   private \CyW\Fedora $fedora;
   private \CyW\RDF $rdf;
@@ -34,29 +33,12 @@ class PCWIngest {
     $this->logger = new Logger('PCWIngest');
     $this->logger->pushHandler(new StreamHandler('logs/pcw.log', Logger::DEBUG));
 
-    $this->setConfig();
-
     $this->rdf = new \CyW\RDF();
-    $this->fedora = new \CyW\Fedora($this->config);
+    $this->fedora = new \CyW\Fedora();
 
     $this->loopFilesToIngest();
   }
 
-  /**
-   * Set configuration from environment variables.
-   * 
-   * Loads Fedora configuration (URL, username, password) from the .env file.
-   */
-  private function setConfig(): void
-  {
-    $this->config = [
-      'fedora' => [
-        'url' => $_ENV['FEDORA_URL'],
-        'username' => $_ENV['FEDORA_USERNAME'],
-        'password' => $_ENV['FEDORA_PASSWORD']
-      ]
-    ];
-  }
 
   /**
    * Loop through all JSON files in the ./data directory.
@@ -96,12 +78,12 @@ class PCWIngest {
 
     echo $rdf;
     die();
-    $response = $this->fedora->ingestRdf("item_$nid", $rdf);
+    $response = $this->fedora->ingestRdf("node_$nid", $rdf);
     
     if($response == HttpStatusCode::CREATED->value){
       $this->ingestImages($images, $nid);
     }else{
-      $this->logger->error('Error creating item for nid: '.$nid);
+      $this->logger->error('Error creating node for nid: '.$nid);
     }
   }
 
@@ -116,7 +98,7 @@ class PCWIngest {
     foreach ($files as $key => $value) {
       $filename = $value['originalFilename'];
       $this->logger->info('Uploading media for nid: '.$nid.' with filename: '.$filename);
-      $fedora = $this->fedora->ingestImages("item_$nid", "images/$filename", $filename);
+      $fedora = $this->fedora->ingestImages("node_$nid", "images/$filename", $filename);
 
       if($fedora != HttpStatusCode::CREATED->value){
         $this->logger->error('Error uploading media for nid: '.$nid);
