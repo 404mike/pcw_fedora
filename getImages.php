@@ -15,54 +15,58 @@ class GetImages {
 
   private function loopFiles()
   {
-    $loop = 0;
     $files = glob('data/*.{json}', GLOB_BRACE);
   
     foreach($files as $k => $file) {
       $json = file_get_contents($file);
       $data = json_decode($json, true);
       
-      $response = $this->downloadImage($data['files']);
-  
-      if ($response === "File already exists") {
-        continue;
-      }
-  
-      $loop++;
-  
-      if ($loop >= 30) {
-        echo "Sleeping for 5 seconds\n";
-        sleep(5);
-        $loop = 0;
-      }  
+      $this->downloadImage($data['files']);
     }
   }
-  
 
-  private function downloadImage($files)
+
+  private function downloadImage(array $files): void
   {
-    foreach($files as $k => $v) {
-      $url = str_replace('http://drupalvm.local/','https://www.peoplescollection.wales/',$v['url']);
-      $saveto = "images/$v[originalFilename]";
-
-      echo "Downloading $saveto\n";
-      if(file_exists("images/$v[originalFilename]")) return 'File already exists';
-
-      $ch = curl_init ($url);
-      curl_setopt($ch, CURLOPT_HEADER, 0);
-      curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-      curl_setopt($ch, CURLOPT_BINARYTRANSFER,1);
-      $raw=curl_exec($ch);
-      curl_close ($ch);
-      if(file_exists($saveto)){
-          unlink($saveto);
+      foreach ($files as $k => $v) {
+          $url = str_replace('http://drupalvm.local/', 'https://www.peoplescollection.wales/', $v['url']);
+          $saveto = "images/$v[originalFilename]";
+  
+          if (file_exists($saveto)) {
+              // echo "File already exists: $saveto\n";
+              continue; // Skip to the next file
+          }
+  
+          echo "Downloading $saveto\n";
+  
+          $ch = curl_init($url);
+          curl_setopt($ch, CURLOPT_HEADER, 0);
+          curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+          curl_setopt($ch, CURLOPT_BINARYTRANSFER, 1);
+          $raw = curl_exec($ch);
+          curl_close($ch);
+  
+          if ($raw === false) {
+              echo "Failed to download: $url\n";
+              die();
+          }
+  
+          if (file_exists($saveto)) {
+              unlink($saveto); // Remove any existing file with the same name
+          }
+  
+          $fp = fopen($saveto, 'x');
+          if ($fp === false) {
+              echo "Failed to save file: $saveto\n";
+              continue; // Skip to the next file
+          }
+  
+          fwrite($fp, $raw);
+          fclose($fp);
+  
+          echo "File downloaded: $saveto\n";
+          sleep(2);
       }
-      $fp = fopen($saveto,'x');
-      fwrite($fp, $raw);
-      fclose($fp);
-
-      return 'File downloaded';
-    }
   }
 }
 

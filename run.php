@@ -48,7 +48,7 @@ class PCWIngest {
   private function loopFilesToIngest(): void
   {
     $loop = 0;
-    $files = glob('data/*.{json}', GLOB_BRACE);
+    $files = glob('pcw-data/*.{json}', GLOB_BRACE);
     
     foreach($files as $file) {
       $json = file_get_contents($file);
@@ -74,7 +74,23 @@ class PCWIngest {
    */
   private function ingestRdf(array $data, array $images, string $nid): void
   {
-    $rdf = $this->rdf->format($data);   
+
+
+    $rdf = $this->rdf->format($data);  
+    if ($nid == '601405') {
+      file_put_contents('logs/rdf_debug_601405.xml', $rdf);
+    }
+    if($nid == '601402'){
+      file_put_contents('logs/rdf_debug_601402.xml', $rdf);
+    }
+
+    if($this->checkIfFedoraObjectExists($nid)){
+      $this->logger->info('Node already exists for nid: '.$nid);
+      return;
+    }
+
+
+     
 
     $response = $this->fedora->ingestRdf("node_$nid", $rdf);
 
@@ -83,6 +99,12 @@ class PCWIngest {
     }else{
       $this->logger->error('Error creating node for nid: '.$nid);
     }
+  }
+
+  private function checkIfFedoraObjectExists(string $nid): bool
+  {
+    $response = $this->fedora->checkIfFedoraObjectExists("node_$nid");
+    return $response == HttpStatusCode::OK->value;
   }
 
   /**

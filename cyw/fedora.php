@@ -103,4 +103,33 @@ class Fedora {
     return $res->getStatusCode();
   }
 
+  public static function checkIfFedoraObjectExists(string $nid): bool
+  {
+      $client = new \GuzzleHttp\Client(['base_uri' => $_ENV['FEDORA_URL']]);
+  
+      try {
+          $response = $client->request('HEAD', 'pcw/' . $nid, [
+              'auth' => [
+                  $_ENV['FEDORA_USERNAME'],
+                  $_ENV['FEDORA_PASSWORD']
+              ]
+          ]);
+  
+          return $response->getStatusCode() === 200;
+  
+      } catch (\GuzzleHttp\Exception\ClientException $e) {
+          // 404 means the resource doesn't exist — that's fine
+          if ($e->getResponse()->getStatusCode() === 404) {
+              return false;
+          }
+  
+          // Re-throw other client errors (e.g. 403)
+          throw $e;
+  
+      } catch (\GuzzleHttp\Exception\RequestException $e) {
+          // Network errors or unexpected issues
+          throw new \RuntimeException('Error checking Fedora object: ' . $e->getMessage(), 0, $e);
+      }
+  }
+
 }
