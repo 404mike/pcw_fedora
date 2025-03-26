@@ -74,23 +74,12 @@ class PCWIngest {
    */
   private function ingestRdf(array $data, array $images, string $nid): void
   {
-
-
-    $rdf = $this->rdf->format($data);  
-    if ($nid == '601405') {
-      file_put_contents('logs/rdf_debug_601405.xml', $rdf);
-    }
-    if($nid == '601402'){
-      file_put_contents('logs/rdf_debug_601402.xml', $rdf);
-    }
-
     if($this->checkIfFedoraObjectExists($nid)){
       $this->logger->info('Node already exists for nid: '.$nid);
       return;
     }
 
-
-     
+    $rdf = $this->rdf->format($data);  
 
     $response = $this->fedora->ingestRdf("node_$nid", $rdf);
 
@@ -101,6 +90,12 @@ class PCWIngest {
     }
   }
 
+  /**
+   * Check if a Fedora object already exists.
+   * 
+   * @param string $nid The unique identifier for the RDF data.
+   * @return bool True if the object exists, false otherwise.
+   */
   private function checkIfFedoraObjectExists(string $nid): bool
   {
     $response = $this->fedora->checkIfFedoraObjectExists("node_$nid");

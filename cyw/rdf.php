@@ -44,10 +44,6 @@ class RDF {
   private function addLiteralWithLang(\EasyRdf\Resource $resource, string $property, array $values, array $langMap): void {
     foreach ($langMap as $lang => $langTag) {
       if (isset($values[$lang])) {
-
-        // echo "Adding literal property: $property\n";
-        // echo "Value: $values[$lang]\n";
-        // echo "Language: $langTag\n";
         $resource->addLiteral($property, $values[$lang], $langTag);
       }
     }
