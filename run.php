@@ -3,7 +3,7 @@ require_once realpath(__DIR__.'./')."vendor/autoload.php";
 
 use Dotenv\Dotenv;
 use Monolog\Logger;
-use cyw\HttpStatusCode;
+use \CyW\HttpStatusCode;
 use Monolog\Handler\StreamHandler;
 
 /**
@@ -60,7 +60,7 @@ class PCWIngest {
       echo "$info\n";
       $this->logger->info($info);
 
-      $this->ingestRdf($json, $data['files'], $nid);
+      $this->ingestRdf($data, $data['files'], $nid);
       $loop++;
     }
   }
@@ -72,14 +72,12 @@ class PCWIngest {
    * @param array $images The array of images associated with the RDF data.
    * @param string $nid The unique identifier for the RDF data.
    */
-  private function ingestRdf(string $json, array $images, string $nid): void
+  private function ingestRdf(array $data, array $images, string $nid): void
   {
-    $rdf = $this->rdf->format($json);
+    $rdf = $this->rdf->format($data);   
 
-    echo $rdf;
-    die();
     $response = $this->fedora->ingestRdf("node_$nid", $rdf);
-    
+
     if($response == HttpStatusCode::CREATED->value){
       $this->ingestImages($images, $nid);
     }else{

@@ -22,3 +22,7 @@ Run ```run.php```
 This will loop through all the JSON files in ./data and convert the data to RDF before ingesting into Fedora. It will then ingest images to the new container.
 
 Images can be downloaded with getImages.php
+
+
+
+docker-compose up --build

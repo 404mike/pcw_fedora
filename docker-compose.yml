@@ -11,15 +11,17 @@ services:
     volumes:
       - fcrepo_data:/data
 
-  php:
-    image: php:8.0-cli
-    container_name: php
+  fedora-php:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fedora-php
     volumes:
-      - ./php-app:/usr/src/myapp
-    working_dir: /usr/src/myapp
-    command: php -S 0.0.0.0:8000
-    ports:
-      - "8000:8000"
+      - .:/usr/src/app
+    working_dir: /usr/src/app
+    command: tail -f /dev/null
+    depends_on:
+      - fcrepo
 
 volumes:
   fcrepo_data:

@@ -9,7 +9,6 @@ namespace cyw;
 class RDF {
 
   private string $domain = 'https://www.peoplescollection.wales';
-  private \EasyRDF\Graph $graph;
 
   /**
    * RDF constructor.
@@ -17,7 +16,6 @@ class RDF {
    * Initializes the RDF graph and sets the namespaces.
    */
   public function __construct() {
-    $this->graph = new \EasyRdf\Graph();
     $this->setNamespaces();
   }
 
@@ -91,19 +89,19 @@ class RDF {
    * @return string The formatted RDF/XML string.
    * @throws \InvalidArgumentException If the JSON input is invalid or missing required data.
    */
-  public function format(string $json): string {
-    $data = json_decode($json, true);
-
-    if (json_last_error() !== JSON_ERROR_NONE || empty($data['id'])) {
-      throw new \InvalidArgumentException("Invalid JSON input or missing required data");
+  public function format(array $data): string {
+    $graph = new \EasyRdf\Graph();
+    
+    if (empty($data['id'])) {
+      throw new \InvalidArgumentException('Missing required data: id');
     }
 
     $nid = $data['id'];
-    $descResource = $this->graph->resource("{$this->domain}/$nid#this", 'foaf:Description');
+    $descResource = $graph->resource("{$this->domain}/$nid#this", 'foaf:Description');
 
     // TODO: Add more properties to the RDF document
     // Updated: Use schema:ImageObject instead of pcw:Image
-    $descResource->add('rdf:type', $this->graph->resource('schema:ImageObject'));
+    $descResource->add('rdf:type', $graph->resource('schema:ImageObject'));
 
     // Add titles
     $this->addLiteralWithLang($descResource, 'dc:title', $data['title'], ['en' => 'en-GB', 'cy' => 'cy-GB']);
@@ -119,7 +117,7 @@ class RDF {
 
     // Add license
     if (!empty($data['license']['type'])) {
-      $licenseResource = $this->graph->resource("schema:license");
+      $licenseResource = $graph->resource("schema:license");
       $descResource->add('dct:license', $licenseResource);
     }
 
@@ -127,7 +125,7 @@ class RDF {
     if (!empty($data['copyright'][0])) {
       $copyright = $data['copyright'][0];
       if (!empty($copyright['type'])) {
-        $rightsResource = $this->graph->resource("schema:license");
+        $rightsResource = $graph->resource("schema:license");
         $descResource->add('dct:rights', $rightsResource);
       }
       if (!empty($copyright['year'])) {
@@ -152,12 +150,12 @@ class RDF {
     }
 
     // Build the RDF document resource
-    $docResource = $this->graph->resource("{$this->domain}/node/$nid.rdf", 'foaf:Document');
+    $docResource = $graph->resource("{$this->domain}/node/$nid.rdf", 'foaf:Document');
 
     // Add topic and license
     $docResource->add('foaf:primaryTopic', $descResource);
-    $docResource->add('cc:license', $this->graph->resource("http://creativecommons.org/licenses/by/4.0/"));
-    $docResource->add('cc:attributionURL', $this->graph->resource("{$this->domain}/items/$nid"));
+    $docResource->add('cc:license', $graph->resource("http://creativecommons.org/licenses/by/4.0/"));
+    $docResource->add('cc:attributionURL', $graph->resource("{$this->domain}/items/$nid"));
     $this->addLiteralProperty($docResource, 'cc:attributionName', "People's Collection Wales", 'http://www.w3.org/2001/XMLSchema#string');
 
     // Add created and modified timestamps
@@ -168,7 +166,7 @@ class RDF {
       $this->addLiteralProperty($docResource, 'dct:modified', date('Y-m-d\TH:i:s+01:00', $data['updated']), 'http://www.w3.org/2001/XMLSchema#dateTime');
     }
 
-    return $this->graph->serialise('rdfxml');
+    return $graph->serialise('rdfxml');
   }
 
   private function getMediaType($file)

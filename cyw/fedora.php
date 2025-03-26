@@ -15,10 +15,8 @@ class Fedora {
    * Fedora constructor.
    * 
    * Initializes the Fedora client configuration.
-   * 
-   * @param array $config The configuration array containing Fedora connection details.
    */
-  public function __construct(array $config)
+  public function __construct()
   {
     $this->projectId = $_ENV['FEDORA_PROJECT_ID'];
   }
