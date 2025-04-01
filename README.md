@@ -9,6 +9,7 @@ FEDORA_URL=http://fcrepo:8080/fcrepo/rest/
 FEDORA_USERNAME=fedoraAdmin
 FEDORA_PASSWORD=fedoraAdmin
 FEDORA_PROJECT_ID=pcw
+FEDORA_IMAGE_INGEST=true
 ```
 
 ## Ingest content
