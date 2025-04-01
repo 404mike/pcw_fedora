@@ -110,6 +110,13 @@ class PCWIngest {
    */
   private function ingestImages(array $files, string $nid): void
   {
+    $allowImageIngest = filter_var($_ENV['FEDORA_IMAGE_INGEST'], FILTER_VALIDATE_BOOLEAN);
+
+    if(!$allowImageIngest){
+      $this->logger->info('Image ingest is disabled. Skipping image upload for nid: '.$nid);
+      return;
+    }
+
     foreach ($files as $key => $value) {
       $filename = $value['originalFilename'];
       $this->logger->info('Uploading media for nid: '.$nid.' with filename: '.$filename);
